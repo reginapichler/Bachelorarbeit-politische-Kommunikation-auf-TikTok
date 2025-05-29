@@ -1,0 +1,66 @@
+import researchtikpy as rtk
+import os
+import config
+import pandas as pd
+import time
+
+from dotenv import load_dotenv
+from datetime import datetime, timedelta
+
+load_dotenv()
+
+client_key = os.getenv("CLIENT_KEY")
+client_secret = os.getenv("CLIENT_SECRET")
+
+token_data = rtk.get_access_token(client_key, client_secret)
+access_token = token_data['access_token']
+start_date = config.start_date
+end_date = config.end_date
+total_max_count = 10
+usernames = config.usernames
+
+# Hilfsfunktionen
+def str_to_date(d): return datetime.strptime(d, "%Y%m%d")
+def date_to_str(d): return d.strftime("%Y%m%d")
+
+for username in usernames:
+    try:
+        start_dt = str_to_date(start_date)
+        end_dt = str_to_date(end_date)
+        output_videos = os.path.join("data", "data_raw", "videos", f"{username}_video_data_{start_date}_{end_date}.csv")
+        output_videos_complete = output_videos.replace(".csv", "_complete.csv")
+        output_comments = os.path.join("data", "data_raw", "comments", f"{username}_comments_{start_date}_{end_date}.csv")
+        output_comments_complete = output_comments.replace(".csv", "_complete.csv")
+        # KOMMENTARE LADEN
+        print(f"Lade Kommentare für {username}...")
+        if os.path.exists(output_comments_complete):
+            print(f"Kommentare für {username} bereits komplett vorhanden. Überspringe Kommentar-Download.")
+        else:
+            if os.path.exists(output_videos_complete):
+                videos_df = pd.read_csv(output_videos_complete)
+                current_dt = str_to_date(start_date)
+                while current_dt < end_dt:
+                    batch_end_dt = min(current_dt + timedelta(days=9), end_dt)
+                    mask = (pd.to_datetime(videos_df['create_time'], unit='s') >= current_dt) & \
+                           (pd.to_datetime(videos_df['create_time'], unit='s') <= batch_end_dt)
+                    batch_videos = videos_df[mask]
+                    if not batch_videos.empty:
+                        comments_df = rtk.get_video_comments(batch_videos, access_token, max_count=10)
+                        time.sleep(3)
+                        if not comments_df.empty:
+                            if os.path.exists(output_comments):
+                                comments_df.to_csv(output_comments, mode='a', header=False, index=False)
+                            else:
+                                comments_df.to_csv(output_comments, index=False)
+                            print(f"Kommentare für {username} ({date_to_str(current_dt)}–{date_to_str(batch_end_dt)}) gespeichert.")
+                        else:
+                            print(f"Keine Kommentare für {username} im Zeitraum {date_to_str(current_dt)}–{date_to_str(batch_end_dt)}.")
+                    current_dt = batch_end_dt + timedelta(days=1)
+                if os.path.exists(output_comments):
+                    os.rename(output_comments, output_comments_complete)
+                    print(f"Kommentar-Datei für {username} komplett.")
+                    time.sleep(5)
+
+    except Exception as e:
+        print(f"Fehler beim Laden der Kommentare von {username}: {e}")
+        continue
