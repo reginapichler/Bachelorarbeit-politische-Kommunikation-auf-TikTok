@@ -19,9 +19,19 @@ end_date = config.end_date
 total_max_count = 100
 usernames = config.usernames
 
+# User aus no_data_file überspringen
+no_data_file = "data/data_raw/no_data_usernames.txt"
+if os.path.exists(no_data_file):
+    with open(no_data_file, "r") as f:
+        no_data_usernames = set(line.strip() for line in f if line.strip())
+    usernames = [u for u in usernames if u not in no_data_usernames]
+
 # Hilfsfunktionen
 def str_to_date(d): return datetime.strptime(d, "%Y%m%d")
 def date_to_str(d): return d.strftime("%Y%m%d")
+
+
+no_data_file = "data/data_raw/no_data_usernames.txt"
 
 for username in usernames:
     try:
@@ -46,6 +56,7 @@ for username in usernames:
             print(f"Videos für {username} bereits komplett vorhanden. Überspringe Video-Download.")
         else:
             current_dt = start_dt
+            found_any = False
             while current_dt < end_dt:
                 batch_end_dt = min(current_dt + timedelta(days=9), end_dt)
                 batch_start_str = date_to_str(current_dt)
@@ -60,7 +71,10 @@ for username in usernames:
                 )
 
                 if not videos_df.empty:
+                    found_any = True
                     if os.path.exists(output_videos):
+                        existing_cols = pd.read_csv(output_videos, nrows=1).columns.tolist()
+                        videos_df = videos_df.reindex(columns=existing_cols)
                         videos_df.to_csv(output_videos, mode='a', header=False, index=False)
                     else:
                         videos_df.to_csv(output_videos, index=False)
@@ -74,7 +88,22 @@ for username in usernames:
             if os.path.exists(output_videos):
                 os.rename(output_videos, output_videos_complete)
                 print(f"Video-Datei für {username} komplett.")
-    
+            # Wenn für keinen Zeitraum Daten gefunden wurden, Username speichern
+            if not found_any:
+                with open(no_data_file, "a") as f:
+                    f.write(username + "\n")
+                print(f"{username} zu {no_data_file} hinzugefügt.")
+            else:
+                # Optional: Username aus Datei entfernen, falls jetzt Daten vorhanden sind
+                if os.path.exists(no_data_file):
+                    with open(no_data_file, "r") as f:
+                        lines = f.readlines()
+                    with open(no_data_file, "w") as f:
+                        for line in lines:
+                            if line.strip() != username:
+                                f.write(line)
     except Exception as e:
         print(f"Fehler beim Laden der Videos von {username}: {e}")
+        with open(no_data_file, "a") as f:
+            f.write(username + "\n")
         continue

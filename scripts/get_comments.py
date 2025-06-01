@@ -44,22 +44,36 @@ for username in usernames:
                     mask = (pd.to_datetime(videos_df['create_time'], unit='s') >= current_dt) & \
                            (pd.to_datetime(videos_df['create_time'], unit='s') <= batch_end_dt)
                     batch_videos = videos_df[mask]
+
+                    # Prüfe, ob Kommentare schon vorhanden sind
+                    if os.path.exists(output_comments):
+                        existing_comments = pd.read_csv(output_comments)
+                        already_done_ids = set(existing_comments['parent_comment_id'].dropna().astype(str))
+                        batch_videos = batch_videos[~batch_videos['id'].astype(str).isin(already_done_ids)]
+
                     if not batch_videos.empty:
                         comments_df = rtk.get_video_comments(batch_videos, access_token, max_count=10)
                         time.sleep(3)
                         if not comments_df.empty:
                             if os.path.exists(output_comments):
+                                existing_cols = pd.read_csv(output_comments, nrows=1).columns.tolist()
+                                comments_df = comments_df.reindex(columns=existing_cols)
                                 comments_df.to_csv(output_comments, mode='a', header=False, index=False)
                             else:
                                 comments_df.to_csv(output_comments, index=False)
                             print(f"Kommentare für {username} ({date_to_str(current_dt)}–{date_to_str(batch_end_dt)}) gespeichert.")
                         else:
                             print(f"Keine Kommentare für {username} im Zeitraum {date_to_str(current_dt)}–{date_to_str(batch_end_dt)}.")
+                    else:
+                        print(f"Alle Kommentare für {username} im Zeitraum {date_to_str(current_dt)}–{date_to_str(batch_end_dt)} bereits vorhanden.")
+
                     current_dt = batch_end_dt + timedelta(days=1)
                 if os.path.exists(output_comments):
                     os.rename(output_comments, output_comments_complete)
                     print(f"Kommentar-Datei für {username} komplett.")
                     time.sleep(5)
+            else:
+                print(f"Keine Videos für {username} vorhanden. Überspringe Kommentar-Download.")
 
     except Exception as e:
         print(f"Fehler beim Laden der Kommentare von {username}: {e}")
