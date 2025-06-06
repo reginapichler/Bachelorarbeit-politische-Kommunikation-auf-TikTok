@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-import config
+import scripts.data_processing.config_processing as config_processing
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
 from nltk.corpus import stopwords
@@ -10,14 +10,14 @@ results_dir = os.path.join("results", "topic_modelling", "bert")
 os.makedirs(results_dir, exist_ok=True)
 
 parteien = {
-    "Linke": config.linke_usernames,
-    "Grüne": config.gruene_usernames,
-    "CDUCSU": config.cdu_csu_usernames,
-    "AfD": config.afd_usernames,
-    "SPD": config.spd_usernames
+    "Linke": config_processing.linke_usernames,
+    "Grüne": config_processing.gruene_usernames,
+    "CDUCSU": config_processing.cdu_csu_usernames,
+    "AfD": config_processing.afd_usernames,
+    "SPD": config_processing.spd_usernames
 }
-start_date = config.start_date
-end_date = config.end_date
+start_date = config_processing.start_date
+end_date = config_processing.end_date
 
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 

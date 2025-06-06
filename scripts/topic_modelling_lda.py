@@ -3,21 +3,21 @@ import os
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 import nltk
-import config
+import scripts.data_processing.config_processing as config_processing
 from nltk.corpus import stopwords
 
 video_dir = os.path.join("data", "data_preprocessed", "videos")
 results_dir = os.path.join("results", "topic_modelling", "lda")
 
 parteien = {
-    "Linke": config.linke_usernames,
-    "Grüne": config.gruene_usernames,
-    "CDUCSU": config.cdu_csu_usernames,
-    "AfD": config.afd_usernames,
-    "SPD": config.spd_usernames
+    "Linke": config_processing.linke_usernames,
+    "Grüne": config_processing.gruene_usernames,
+    "CDUCSU": config_processing.cdu_csu_usernames,
+    "AfD": config_processing.afd_usernames,
+    "SPD": config_processing.spd_usernames
 }
-start_date = config.start_date
-end_date = config.end_date
+start_date = config_processing.start_date
+end_date = config_processing.end_date
 
 # TODO: hashtags aus Text entfernen
 stop_words = list(stopwords.words('german'))
