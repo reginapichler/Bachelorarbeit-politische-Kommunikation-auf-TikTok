@@ -16,12 +16,31 @@ token_data = rtk.get_access_token(client_key, client_secret)
 access_token = token_data['access_token']
 start_date = config.start_date
 end_date = config.end_date
-total_max_count = 10
+total_max_count = 100
 usernames = config.usernames
 
 # Hilfsfunktionen
 def str_to_date(d): return datetime.strptime(d, "%Y%m%d")
 def date_to_str(d): return d.strftime("%Y%m%d")
+
+def wait_with_exponential_backoff(retries, base_wait=10, max_wait=600):
+    wait_time = min(base_wait * (2 ** retries), max_wait)
+    print(f"Warte {wait_time} Sekunden wegen Rate Limit (Versuch {retries+1})...")
+    time.sleep(wait_time)
+
+def get_comments_with_retry(batch_videos, access_token, max_count, max_retries=5):
+    retries = 0
+    while retries <= max_retries:
+        try:
+            return rtk.get_video_comments(batch_videos, access_token, max_count=max_count)
+        except Exception as e:
+            if "rate limit" in str(e).lower() or "429" in str(e):
+                wait_with_exponential_backoff(retries)
+                retries += 1
+            else:
+                raise e
+    print("Maximale Anzahl an Retries erreicht, überspringe diesen Batch.")
+    return pd.DataFrame()
 
 for username in usernames:
     try:
@@ -52,7 +71,7 @@ for username in usernames:
                         batch_videos = batch_videos[~batch_videos['id'].astype(str).isin(already_done_ids)]
 
                     if not batch_videos.empty:
-                        comments_df = rtk.get_video_comments(batch_videos, access_token, max_count=10)
+                        comments_df = get_comments_with_retry(batch_videos, access_token, max_count=total_max_count)
                         time.sleep(3)
                         if not comments_df.empty:
                             if os.path.exists(output_comments):
