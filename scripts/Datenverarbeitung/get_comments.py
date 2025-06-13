@@ -43,7 +43,43 @@ def get_comments_with_retry(batch_videos, access_token, max_count, max_retries=5
     print("Maximale Anzahl an Retries erreicht, überspringe diesen Batch.")
     return pd.DataFrame()
 
+def get_no_comments_path(start_date, end_date):
+    return os.path.join("data", "data_raw", "comments", f"no_comments_{start_date}_{end_date}.txt")
+
+def load_no_comments_list(start_date, end_date):
+    path = get_no_comments_path(start_date, end_date)
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def add_to_no_comments(username, start_date, end_date):
+    path = get_no_comments_path(start_date, end_date)
+    with open(path, "a") as f:
+        f.write(username + "\n")
+
+def get_no_comments_batch_path(batch_start, batch_end):
+    return os.path.join("data", "data_raw", "comments", f"no_comments_{batch_start}_{batch_end}.txt")
+
+def load_no_comments_batch_list(batch_start, batch_end):
+    path = get_no_comments_batch_path(batch_start, batch_end)
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def add_to_no_comments_batch(username, batch_start, batch_end):
+    path = get_no_comments_batch_path(batch_start, batch_end)
+    with open(path, "a") as f:
+        f.write(username + "\n")
+
+
+no_comments_users = load_no_comments_list(start_date, end_date)
+
 for username in usernames:
+    if username in no_comments_users:
+        print(f"{username} steht in no_comments.txt für diesen Zeitraum. Überspringe.")
+        continue
     try:
         start_dt = str_to_date(start_date)
         end_dt = str_to_date(end_date)
@@ -60,7 +96,17 @@ for username in usernames:
                 videos_df = pd.read_csv(output_videos_complete)
                 current_dt = str_to_date(start_date)
                 while current_dt < end_dt:
+                    batch_start_str = date_to_str(current_dt)
                     batch_end_dt = min(current_dt + timedelta(days=9), end_dt)
+                    batch_end_str = date_to_str(batch_end_dt)
+
+                    # Prüfe, ob User für diesen Batch schon als "leer" bekannt ist
+                    no_comments_batch_users = load_no_comments_batch_list(batch_start_str, batch_end_str)
+                    if username in no_comments_batch_users:
+                        print(f"{username} steht in no_comments_{batch_start_str}_{batch_end_str}.txt. Überspringe Batch.")
+                        current_dt = batch_end_dt + timedelta(days=1)
+                        continue
+
                     mask = (pd.to_datetime(videos_df['create_time'], unit='s') >= current_dt) & \
                            (pd.to_datetime(videos_df['create_time'], unit='s') <= batch_end_dt)
                     batch_videos = videos_df[mask]
@@ -81,11 +127,12 @@ for username in usernames:
                                 comments_df.to_csv(output_comments, mode='a', header=False, index=False)
                             else:
                                 comments_df.to_csv(output_comments, index=False)
-                            print(f"Kommentare für {username} ({date_to_str(current_dt)}–{date_to_str(batch_end_dt)}) gespeichert.")
+                            print(f"Kommentare für {username} ({batch_start_str}–{batch_end_str}) gespeichert.")
                         else:
-                            print(f"Keine Kommentare für {username} im Zeitraum {date_to_str(current_dt)}–{date_to_str(batch_end_dt)}.")
+                            print(f"Keine Kommentare für {username} im Zeitraum {batch_start_str}–{batch_end_str}.")
+                            add_to_no_comments_batch(username, batch_start_str, batch_end_str)
                     else:
-                        print(f"Alle Kommentare für {username} im Zeitraum {date_to_str(current_dt)}–{date_to_str(batch_end_dt)} bereits vorhanden.")
+                        print(f"Alle Kommentare für {username} im Zeitraum {batch_start_str}–{batch_end_str} bereits vorhanden.")
 
                     current_dt = batch_end_dt + timedelta(days=1)
                 if os.path.exists(output_comments):
@@ -94,6 +141,8 @@ for username in usernames:
                     time.sleep(5)
             else:
                 print(f"Keine Videos für {username} vorhanden. Überspringe Kommentar-Download.")
+                add_to_no_comments(username, start_date, end_date)
+                print(f"{username} zu no_comments.txt hinzugefügt (keine Kommentare im Zeitraum).")
 
     except Exception as e:
         print(f"Fehler beim Laden der Kommentare von {username}: {e}")
