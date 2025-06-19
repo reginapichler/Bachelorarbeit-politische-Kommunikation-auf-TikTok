@@ -34,7 +34,7 @@ def clean_text(text):
     # Satzzeichen entfernen (alles außer Buchstaben, Zahlen und Leerzeichen)
     text = re.sub(r'[^\w\s]', '', text)
     # In Kleinbuchstaben umwandeln
-    return text.lower()
+    return text
 
 def preprocess_comments(user, start_date, end_date, comment_cols):
     input_dir = "data/data_raw/comments"

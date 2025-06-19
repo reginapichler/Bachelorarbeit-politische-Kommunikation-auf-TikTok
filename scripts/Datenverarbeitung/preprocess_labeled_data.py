@@ -4,12 +4,26 @@ import pandas as pd
 import csv
 import json
 import random
+import config_processing as config
 
 folder = "data/data_raw/videos/labeled"
 output_folder = "data/data_preprocessed/videos/labeled"
 os.makedirs(output_folder, exist_ok=True)
 pattern = os.path.join(folder, "*.csv")
 files = glob.glob(pattern)
+
+def get_party(account):
+        # Passe die Zuordnung an deine config_preprocessing-Struktur an!
+        if account in config.cdu_csu_usernames:
+            return "CDU/CSU"
+        elif account in config.afd_usernames:
+            return "AfD"
+        elif account in config.gruene_usernames:
+            return "Bündnis 90/Die Grünen"
+        elif account in config.spd_usernames:
+            return "SPD"
+        elif account in config.linke_usernames:
+            return "Die Linke"
 
 dfs = []
 for file in files:
@@ -21,6 +35,10 @@ for file in files:
         engine="python",
         on_bad_lines="warn"
     )
+    # Accountname aus Dateiname extrahieren
+    basename = os.path.basename(file)
+    account = basename.split("_video_data")[0]
+    df["partei"] = get_party(account)
     # Leere Strings und leere Listen als NA setzen
     for col in df.columns:
         df[col] = df[col].replace('', pd.NA)
@@ -32,14 +50,9 @@ for file in files:
     dfs.append(df)
 
 if dfs:
-
-    for i, df in enumerate(dfs):
-        print(f"Datei {i} Spalten: {df.columns.tolist()}")
-
     # Alle DataFrames auf die gleiche Spaltenreihenfolge bringen
 
     desired_columns = ["id", "voice_to_text", "video_description", "Topic"]
-
     all_data = pd.concat(dfs, ignore_index=True)
 
     # Alles zu String machen, fehlende Werte als "None" setzen
@@ -58,12 +71,9 @@ if dfs:
 
     # --- JSONL-Export für 20 zufällige Beispiele pro Topic ---
     jsonl_path = "data/data_raw/videos/labeled/topic_examples.jsonl"
-    topics = ['W', 'W&F', 'S&O', 'M', 'U&E', 'I', 'P']
+    topics = ['S&A', 'W', 'W&F', 'S&O', 'M', 'U&E', 'I', 'P']
     system_prompt = (
-        "Du bist ein Politikwissenschaftler, der TikTok Videobeschreibungen und -transkripte in folgende Kategorien einordnet: "
-        "Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, "
-        "Persönliches, Wahlkampf. Wenn mehrere Themen angesprochen werden, gebe die zwei dominantesten Bereiche aus. "
-        "Deine Antwort besteht nur aus dem/den gewählten Themenbereich(en) für die jeweiligen Texte."
+       "Du bist ein Politikwissenschaftler, der Inhalte von TikTok Videos deutscher Parteien in folgende Themenbereiche einordnet: Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf. Wenn mehrere Themen angesprochen werden, gebe die zwei dominantesten Bereiche aus. Deine Antwort besteht nur aus dem/den gewählten Themenbereich(en) für den vorliegenden Text. Dir sind die Videobeschreibung, das Transkript des gesprochenen Inhaltes und die Partei der Aussage gegeben."
     )
 
     # Mapping der Topics auf ausgeschriebene Begriffe
@@ -79,19 +89,33 @@ if dfs:
 
     with open(jsonl_path, "w", encoding="utf-8") as f:
         for topic in topics:
-            if topic == "None":
-                continue
             df_topic = all_data[all_data["Topic"] == topic]
-            if len(df_topic) > 20:
-                df_topic = df_topic.sample(20, random_state=42)
-            for _, row in df_topic.iterrows():
-                user_content = f"Beschreibung: {row['video_description']}; Transkript: {row['voice_to_text']}"
-                # Mapping anwenden:
+
+            # bist zu 4 zufällige Beispiele pro Partei auswählen
+            df_list = []
+            for partei, group in df_topic.groupby("partei"):
+                n = min(len(group), 4)
+                df_list.append(group.sample(n, random_state=42))
+                print(f"Anzahl Beispiele für {partei} im Topic {topic}: {n}")
+            df_topic_sampled = pd.concat(df_list)
+
+            # falls weniger als 20 Beispiele: auffüllen
+            if len(df_topic_sampled) < 20:
+                rest = df_topic.drop(df_topic_sampled.index)
+                n_rest = 20 - len(df_topic_sampled)
+                print(f"Topic {topic} hat weniger als 20 Beispiele, füge {n_rest} weitere zufällige hinzu.")
+                if len(rest) > 0:
+                    df_topic_sampled = pd.concat([df_topic_sampled, rest.sample(min(n_rest, len(rest)), random_state=42)])
+
+            print(f"Anzahl Beispiele für Topic {topic}: {len(df_topic_sampled)}")
+            
+            for _, row in df_topic_sampled.iterrows():
+                user_prompt = f"Beschreibung: {row['video_description']}; Transkript: {row['voice_to_text']}; Partei: {row['partei']}"
                 assistant_content = topic_mapping.get(row["Topic"], row["Topic"])
                 entry = {
                     "messages": [
                         {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": user_content},
+                        {"role": "user", "content": user_prompt},
                         {"role": "assistant", "content": assistant_content}
                     ]
                 }
