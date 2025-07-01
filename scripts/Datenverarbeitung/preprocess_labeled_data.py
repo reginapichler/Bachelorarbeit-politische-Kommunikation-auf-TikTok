@@ -78,6 +78,7 @@ if dfs:
 
     # Mapping der Topics auf ausgeschriebene Begriffe
     topic_mapping = {
+        'S%A': 'Soziales & Arbeit',
         'W': 'Wahlkampf',
         'W&F': 'Wirtschaft & Finanzen',
         'S&O': 'Sicherheit & Ordnung',

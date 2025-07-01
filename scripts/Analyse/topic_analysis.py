@@ -2,20 +2,11 @@ import pandas as pd
 import os
 import requests
 import config_analysis as config
+from openai import OpenAI
 
-# Lade API-Key und Endpoint
-with open("key.txt", "r") as f:
-    API_KEY = f.read().strip()
-with open("endpoint.txt", "r") as f:
-    ENDPOINT = f.read().strip()
-
-system_prompt = (
-    "Du bist ein Politikwissenschaftler, der Inhalte von TikTok Videos deutscher Parteien in folgende Themenbereiche einordnet: "
-    "Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf. "
-    "Wenn mehrere Themen angesprochen werden, gebe die zwei dominantesten Bereiche aus. "
-    "Deine Antwort besteht nur aus dem/den gewählten Themenbereich(en) für den vorliegenden Text. "
-    "Dir sind die Videobeschreibung, das Transkript des gesprochenen Inhaltes und die Partei der Aussage gegeben."
-)
+API_KEY = config.API_KEY
+ENDPOINT = config.ENDPOINT
+client = OpenAI(api_key=API_KEY, base_url=ENDPOINT)
 
 def get_party(username):
     if username in config.afd_usernames:
@@ -23,42 +14,35 @@ def get_party(username):
     elif username in config.spd_usernames:
         return "SPD"
     elif username in config.cdu_csu_usernames:
-        return "CDU/CSU"
+        return "CDU_CSU"
     elif username in config.gruene_usernames:
         return "Grüne"
     elif username in config.linke_usernames:
         return "Linke"
 
 def gpt_topic_classification(description, transcript, party):
-    user_prompt = f"Beschreibung: {description}; Transkript: {transcript}; Partei: {party}"
-    payload = {
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ],
-        "temperature": 0.0,
-        "max_tokens": 100,
-        "top_p": 0.95
-    }
-    headers = {
-        "Content-Type": "application/json",
-        "api-key": API_KEY
-    }
+    prompt = (
+        f"Beschreibung: {description}\n"
+        f"Transkript: {transcript}\n"
+        f"Partei: {party}\n"
+    )
     try:
-        response = requests.post(ENDPOINT, headers=headers, json=payload)
-        response.raise_for_status()
-        return response.json()['choices'][0]['message']['content']
+        response = client.completions.create(
+            model="ft:gpt-4.1-nano-2025-04-14:caro-haensch:reginav2:BoWObdmF",
+            prompt=prompt,
+            max_tokens=20,
+            temperature=0.0
+        )
+        return response.choices[0].text
     except Exception as e:
         print(f"Fehler bei Anfrage: {e}")
-        return "ERROR"
-
 
 def main():
-    folder = "data/data_raw/videos"
+    folder = "data/data_preprocessed/videos"
     all_files = [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".csv")]
     dfs = []
     for file in all_files:
-        df = pd.read_csv(file)
+        df = pd.read_csv(file, engine='python', on_bad_lines='warn')
         basename = os.path.basename(file)
         username = basename.split("_video_data")[0]
         df["username"] = username

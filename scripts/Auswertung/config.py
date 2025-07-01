@@ -87,7 +87,7 @@ usernames=["csuauftiktok", "connectcdu", "afd.offiziell", "spd_pwp", "spdlingen"
   "pboehringer", "tino.chrupalla.afd", "gottfriedcurio", "thomas.ehrhorn", "kaygottschalk",
   "dr_espendiller", "markusfrohnmaier", "matthias_helferich", "kaufmannm",
   "joernkoenig_mdb", "muenzenmaier", "gerold_otten", "haraldweyel", "dr.rainer.rothfuss",
-  "carolin_bachmann_mdb", "gereonbollmann"
+  "carolin_bachmann_mdb", "gereonbollmann", "die.linke..siwi"
   ]
 
 afd_usernames = ["afd.offiziell", "afd.nrw", "afdhessen", "afd.bayern", "afd_brandenburg", 
@@ -181,7 +181,7 @@ linke_usernames = ["die.linke", "linkeessen", "dielinkelsa", "linke.sh", "dielin
   "pellmann", "heidireichinnek", "gesineloetzsch1", "janine_wissler",
   "bundestagsperli", "martinarennermdb", "clara_buenger", "dietmarbartsch",
   "atesguerpinar", "dielinkekathrin", "susanne_ferschl", "goekayakbulut",
-  "gregorgysi48", "caren.lay.mdb", "susanneferschl"]
+  "gregorgysi48", "caren.lay.mdb", "susanneferschl", "die.linke..siwi"]
 
 start_date = "20250101"
 end_date = "20250223"

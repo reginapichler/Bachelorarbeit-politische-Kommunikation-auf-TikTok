@@ -77,6 +77,9 @@ def save_overall_distribution(all_df, results_dir):
 def plot_videos_per_party(all_df, plot_dir):
     # 1. Anzahl Videos pro Partei
     videos_per_party = all_df["partei"].value_counts().sort_index()
+    print("Anzahl Videos pro Partei:")
+    for partei, anzahl in videos_per_party.items():
+        print(f"{partei}: {anzahl}")
     plt.figure(figsize=(8,5))
     videos_per_party.plot(kind="bar", color="#1f77b4")
     plt.title("Anzahl Videos pro Partei")
@@ -154,24 +157,58 @@ def plot_videos_per_account(all_df, plot_dir):
     plt.savefig(os.path.join(plot_dir, "anzahl_videos_pro_account.png"))
     plt.close()
 
-def print_account_stats(all_df):
-    # Durchschnittliche Anzahl Videos pro Account (gesamt und pro Partei)
-    # Gesamt
-    videos_per_account = all_df.groupby("username").size()
-    avg_videos_per_account = videos_per_account.mean()
-    print(f"Durchschnittliche Anzahl Videos pro Account (gesamt): {avg_videos_per_account:.2f}")
+def save_account_stats(all_df, results_dir):
+    # Account-Listen aus config
+    partei_userlists = {
+        "linke": set(config.linke_usernames),
+        "gruene": set(config.gruene_usernames),
+        "cdu_csu": set(config.cdu_csu_usernames),
+        "afd": set(config.afd_usernames),
+        "spd": set(config.spd_usernames)
+    }
 
-    # Pro Partei
-    avg_videos_per_account_party = all_df.groupby("partei")["username"].value_counts().groupby("partei").mean()
-    print("\nDurchschnittliche Anzahl Videos pro Account pro Partei:")
-    print(avg_videos_per_account_party)
+    # DataFrame für alle Parteien
+    parteien = list(partei_userlists.keys())
+    rows = []
+    for partei in parteien:
+        userlist = partei_userlists[partei]
+        partei_df = all_df[(all_df["partei"] == partei) & (all_df["username"].isin(userlist))]
+        # Durchschnittliche Anzahl Videos pro Account (nur Accounts aus config, die auch Videos haben)
+        if not partei_df.empty:
+            videos_per_account = partei_df.groupby("username").size()
+            avg_videos_per_account = videos_per_account.mean()
+            active_accounts = videos_per_account.count()
+        else:
+            avg_videos_per_account = 0
+            active_accounts = 0
+        accounts_in_config = len(userlist)
+        rows.append({
+            "partei": partei,
+            "avg_videos_per_account": avg_videos_per_account,
+            "active_accounts": active_accounts,
+            "accounts_in_config": accounts_in_config
+        })
+        total_videos = len(partei_df)
+        rechnerisch = avg_videos_per_account * active_accounts
+        print(f"{partei}: Gesamtzahl Videos={total_videos}, Durchschnitt*Aktive={rechnerisch}")
 
-    # Anzahl Accounts pro Partei und Anzahl gepostete Videos insgesamt
-    active_per_party = all_df.groupby("partei")["username"].nunique()
-    total_videos = len(all_df)
-    print("\nAnzahl Accounts pro Partei:")
-    print(active_per_party)
-    print(f"\nAnzahl gepostete Videos insgesamt: {total_videos}")
+    # Gesamtwerte
+    all_usernames = set().union(*partei_userlists.values())
+    all_df_config = all_df[all_df["username"].isin(all_usernames)]
+    videos_per_account_all = all_df_config.groupby("username").size()
+    avg_videos_per_account_all = videos_per_account_all.mean()
+    active_accounts_all = videos_per_account_all.count()
+    accounts_in_config_all = len(all_usernames)
+
+    rows.append({
+        "partei": "gesamt",
+        "avg_videos_per_account": avg_videos_per_account_all,
+        "active_accounts": active_accounts_all,
+        "accounts_in_config": accounts_in_config_all
+    })
+
+    stats_df = pd.DataFrame(rows)
+    stats_df.to_csv(os.path.join(results_dir, "account_stats_alle_parteien.csv"), index=False)
 
 def main():
     start_date = config.start_date
@@ -216,7 +253,16 @@ def main():
         plot_time_development(all_df, plot_dir)
         plot_videos_per_account(all_df, plot_dir)
 
-        print_account_stats(all_df)
+        save_account_stats(all_df, results_dir)
+
+    # Nach dem Erstellen von all_df (nach dem concat von all_dfs) einfügen:
+    all_usernames_in_config = set(sum(parteien.values(), []))
+    usernames_in_data = set(all_df["username"].unique())
+    usernames_not_in_config = usernames_in_data - all_usernames_in_config
+
+    print("Usernames mit Videos, aber nicht im config:")
+    for username in sorted(usernames_not_in_config):
+        print(username)
 
     # --- Kommentar-Analyse ---
     # Alle Kommentar-CSV-Dateien laden
@@ -261,6 +307,17 @@ def main():
     plt.tight_layout()
     plt.savefig(os.path.join(plot_dir, "zeitlicher_verlauf_kommentare_pro_partei.png"))
     plt.close()
+
+    # Kommentar-Statistiken speichern
+    stats_df = pd.DataFrame({
+        "partei": comments_per_video_party.index,
+        "avg_comments_per_video": comments_per_video_party.values,
+        "avg_likes_per_comment": like_rate_per_party.reindex(comments_per_video_party.index).values,
+        "avg_replies_per_comment": reply_rate_per_party.reindex(comments_per_video_party.index).values
+    })
+
+    # Kommentar-Statistiken für alle Parteien in eine Datei speichern
+    stats_df.to_csv(os.path.join(results_dir, "kommentar_stats_alle_parteien.csv"), index=False)
 
 if __name__ == "__main__":
     main()
