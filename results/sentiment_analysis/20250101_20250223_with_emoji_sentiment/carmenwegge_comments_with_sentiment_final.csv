@@ -1,0 +1,21 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7457806764660310806,2025-01-09 06:59:53,ich fordere eine haftstrafe für den allianzchef ,5,0,7457801552540142871,7457801552540142871,neutral,,['🤷🏻\u200d♂️']
+7457871759146271510,2025-01-09 11:11:56,stell dir vor ja die gibts die leute die blau machen und die betrügen die sozialgemeinschaft und schaden der verteilungsgerechtigkeit,1,0,7457801552540142871,7457801552540142871,neutral,,[]
+7457812902615991062,2025-01-09 07:23:22,perfekt endlich wieder krank zur arbeit und alle anderen anstecken,1,0,7457801552540142871,7457801552540142871,positive,,[]
+7457810088662352662,2025-01-09 07:12:35,menschen die krank sind sind nicht drei mal im monat einen tag krank und vor allem nicht freitags vor den ferien,1,0,7457801552540142871,7457801552540142871,neutral,,[]
+7465840749792232194,2025-01-30 22:35:49,das ist ja auch richtig so,0,0,7457801552540142871,7457801552540142871,neutral,,[]
+7458057175242670850,2025-01-09 23:11:28,,0,0,7457801552540142871,7457801552540142871,negative,1.0,"['😍', '😍', '😍']"
+7457812805791679234,2025-01-09 07:23:10,dann werde ich halt gleich für zwei wochen krankschreiben lassen und nicht nur für drei tage,0,0,7457801552540142871,7457801552540142871,neutral,,[]
+7457807233000686358,2025-01-09 07:01:40,als die telefonische krankschreibung eingeführt wurde hat keiner gemeckert liebe frau wegge ich glaube man könnte solche stellschrauben durchaus wieder zurück drehen,0,1,7457801552540142871,7457801552540142871,neutral,,[]
+7457805087588893462,2025-01-09 06:53:23,das sozialistische schweden macht es auch so,0,0,7457801552540142871,7457801552540142871,neutral,,[]
+7462741791839863574,2025-01-22 14:10:44,wegen des bürgergeldes aber da sieht man mal wieder die fähigkeiten der spd angeordneten,9,0,7462740697938955543,7462740697938955543,negative,,[]
+7462764176206299926,2025-01-22 15:37:14,schön wie grammatik korrigiert wird aber niemand auf den inhalt eingeht das zeigt die intelligenz der generellen wählerschaft,7,5,7462740697938955543,7462740697938955543,negative,0.0,['👀']
+7466225270278898454,2025-01-31 23:28:16,"
+dielinke 2025
+",1,0,7462740697938955543,7462740697938955543,neutral,-1.0,"['❤️', '🚩', '❤️', '🖤', '🖤', '❤️', '🚩', '❤️']"
+7462320202953278230,2025-01-21 10:54:38,macht mal was für die deutschen bürger wen interessiert ukraine russland ist weder eu noch nato,3,0,7462277659968441622,7462277659968441622,negative,,[]
+7462296388452680471,2025-01-21 09:23:12,alles lüge,1,0,7462277659968441622,7462277659968441622,negative,,[]
+7474316814807417618,2025-02-22 18:46:59,,0,0,7462277659968441622,7462277659968441622,negative,,['❤️']
+7465749999172993814,2025-01-30 16:43:51,mei a7 fahren und bürgergeld kassieren ,0,0,7462277659968441622,7462277659968441622,neutral,1.0,['👍']
+7462409529969689366,2025-01-21 16:41:15,,0,0,7462277659968441622,7462277659968441622,negative,1.0,"['😂', '😂', '😂']"
+7462323834302415638,2025-01-21 11:08:51,,0,0,7462277659968441622,7462277659968441622,negative,,"['🤣', '🤣', '🤣', '🤣']"

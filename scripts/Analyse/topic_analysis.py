@@ -1,12 +1,9 @@
 import pandas as pd
 import os
-import requests
 import config_analysis as config
-from openai import OpenAI
+import openai
 
-API_KEY = config.API_KEY
-ENDPOINT = config.ENDPOINT
-client = OpenAI(api_key=API_KEY, base_url=ENDPOINT)
+openai.api_key = API_KEY
 
 def get_party(username):
     if username in config.afd_usernames:
@@ -27,7 +24,7 @@ def gpt_topic_classification(description, transcript, party):
         f"Partei: {party}\n"
     )
     try:
-        response = client.completions.create(
+        response = openai.Completion.create(
             model="ft:gpt-4.1-nano-2025-04-14:caro-haensch:reginav2:BoWObdmF",
             prompt=prompt,
             max_tokens=20,
@@ -36,6 +33,7 @@ def gpt_topic_classification(description, transcript, party):
         return response.choices[0].text
     except Exception as e:
         print(f"Fehler bei Anfrage: {e}")
+        return("ERROR")
 
 def main():
     folder = "data/data_preprocessed/videos"

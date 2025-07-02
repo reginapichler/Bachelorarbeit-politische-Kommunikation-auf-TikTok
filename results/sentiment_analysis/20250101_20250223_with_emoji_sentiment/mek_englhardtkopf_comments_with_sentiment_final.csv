@@ -1,0 +1,74 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7459684607547474694,2025-01-14 08:27:13,wunderschön gute arbeit dir tust grüße aus berlin,0,0,7455655227950222614,7455655227950222614,positive,,[]
+7454928303878144791,2025-01-01 12:49:38,,0,0,7454905460290882838,7454905460290882838,negative,1.0,"['💙', '💪', '🇩🇪']"
+7454908966654657286,2025-01-01 11:34:44,frohes neues jahr 2025,0,0,7454905460290882838,7454905460290882838,neutral,,[]
+7473712871861469957,2025-02-21 03:43:46,,0,0,7461170206459694358,7461170206459694358,negative,1.0,['😍']
+7461795110813598469,2025-01-20 00:56:35,schöne leistung grüße aus berlin,0,0,7461170206459694358,7461170206459694358,positive,,[]
+7465411182367769366,2025-01-29 18:48:36,genau deswegen wähle ich afd für deutschland          ,2,0,7465371259518405910,7465371259518405910,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7465448280836162326,2025-01-29 21:12:46,,1,0,7465371259518405910,7465371259518405910,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7465441440627229462,2025-01-29 20:46:19,23 ,1,0,7465371259518405910,7465371259518405910,positive,1.0,['💙']
+7465429345483768598,2025-01-29 19:59:26,merz kanns nichtnur noch afd,1,0,7465371259518405910,7465371259518405910,negative,,[]
+7465424573510337302,2025-01-29 19:40:46,das habt ihr aber auch verbockt ich sag nur wir schaffen das,1,0,7465371259518405910,7465371259518405910,negative,,[]
+7479436886311355141,2025-03-08 13:55:38,,0,0,7465371259518405910,7465371259518405910,negative,1.0,"['❤️', '🥰', '💐']"
+7473712894631772934,2025-02-21 03:43:42,,0,0,7465371259518405910,7465371259518405910,negative,,['❤️']
+7465060295674741526,2025-01-28 20:07:14,das vertrauen zu den altpartein ist dahin,16,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465079860633830166,2025-01-28 21:22:53,ich gebe nur noch den blauen meine stimme ,13,1,7465046803361041686,7465046803361041686,negative,1.0,['💙']
+7465054899358581526,2025-01-28 19:46:14,nur blau ,11,0,7465046803361041686,7465046803361041686,negative,1.0,"['🙏', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7465299109869159190,2025-01-29 11:34:16,"der cdu haben wir das elend zuverdanken
+wer soll euch noch glauben
+beide stimmen für blau",8,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465292896700039958,2025-01-29 11:10:18,wie lange hat die cdu nichts gemacht und wann hat merkel die grenzen geöffnet warum sollte man euch jetzt glauben,5,0,7465046803361041686,7465046803361041686,negative,,[]
+7465247555900883734,2025-01-29 08:14:58,"die cducsu hat doch die grenzen weit geöffnet 
+und jetzt vor der wahl von innerer sicherheit sprechen  unwählbar",5,0,7465046803361041686,7465046803361041686,neutral,,['🤨']
+7465064573726917398,2025-01-28 20:23:54,metzi und klare strukturen kann man vergessen,5,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465087083369988886,2025-01-28 21:51:29,die gedanken schönen gut aber leider viel zu spät,3,0,7465046803361041686,7465046803361041686,negative,,[]
+7465058652874392342,2025-01-28 20:00:41,nur noch ,3,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '🇩🇪', '💙', '🇩🇪', '💙']"
+7465061861227971350,2025-01-28 20:13:15,nur noch afd und alice weidel als kanzlerin ,2,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '👍', '💙', '👍', '💙', '👍', '💙', '👍', '💙', '👍', '💙', '👍', '💙', '💙', '👍', '💙', '👍', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7467803654394168086,2025-02-05 05:34:10,vielen dank für ihr engagement ich hätte mir ähnlich klare worte ihrer kollegen gewünscht bitte kämpfen sie weiter für unsere anliegen und die sicherheit dieses landes,1,0,7465046803361041686,7465046803361041686,positive,,[]
+7465305280563069718,2025-01-29 11:57:52,bis das gesetz durch ist wenn es überhaupt durchkommt werden noch viele sterben,1,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465243907677373206,2025-01-29 08:00:15,,1,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💯', '🙏']"
+7465227172066001686,2025-01-29 06:55:55,herzlichen dank für ihre stellungnahme ,1,0,7465046803361041686,7465046803361041686,neutral,0.0,"['✨', '✨', '✨']"
+7465225261593002774,2025-01-29 06:47:54,,1,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7465062660435575574,2025-01-28 20:16:19,so viel vertrauen zerstört meine kinder haben eine andere zukunft verdient eine brandmauer ist unsinn konstruktive zusammenarbeitauch mit der afd ist mehr als eine alternative,1,0,7465046803361041686,7465046803361041686,negative,,[]
+7465062341533614870,2025-01-28 20:14:56,die cdu frau merkel hat uns das doch alles eingebrockt  sie hat den eid geschworen schaden vom deutschen volk abzuwenden wir trauen herrn merz nicht,1,0,7465046803361041686,7465046803361041686,negative,-1.0,['😡']
+7475270939765818134,2025-02-25 08:30:06,genau darum koalition mit der afd desaster wurde ja von der cdu ausgelöst,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7467901011546718998,2025-02-05 11:50:44,,0,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '💙', '💙', '💙']"
+7466994506861118230,2025-02-03 01:14:34,"wer merz wählt wählt rotgrün und ein weiter so
+es wird kein politik wechsel stattfinden das hat die letzte woche bewiesen
+die cdu ist unwählbar",0,0,7465046803361041686,7465046803361041686,negative,,[]
+7466767003702215446,2025-02-02 10:30:05,nur das original ,0,0,7465046803361041686,7465046803361041686,neutral,1.0,['💙']
+7465448886578463510,2025-01-29 21:15:22,23 ,0,0,7465046803361041686,7465046803361041686,positive,1.0,['💙']
+7465444795390444310,2025-01-29 20:59:11,,0,0,7465046803361041686,7465046803361041686,negative,1.0,"['💙', '💙', '💙', '💙']"
+7465329006285505302,2025-01-29 13:30:16,cdu 2015 wir schafen daswas  chaos im europa  das ist meine antwort,0,0,7465046803361041686,7465046803361041686,neutral,1.0,"['💙', '💙', '💙']"
+7465325031007011606,2025-01-29 13:14:27,nur a f d,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7465321938580570902,2025-01-29 13:02:35,wenn das so ist  cducsu verlassen und afd eintretensonst nur flossken die keiner seit 2015 braucht,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7465320483748971286,2025-01-29 12:57:09,brandmauer weg bitte für die bürger,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7465317818286031638,2025-01-29 12:47:03,nur blau bekommt die stimme,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465316719650161430,2025-01-29 12:42:25,ja frau merkel hat die grenzen geöffnet aber jetzt ist wieder zeit die grenzen wieder zu machen das kann nicht so weitergehen,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465313577588491030,2025-01-29 12:30:23,es wird zeit und sollten die roten und grünen nicht mitmachen sollten sie alle verklagt werden,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465308694935864086,2025-01-29 12:11:26, wer hat eigentlich diese furchtbaren zustände in  seit 2015 verursacht  ach ja die merkel cducsu die jetzt versucht den retter zu spielen ,0,0,7465046803361041686,7465046803361041686,negative,-1.0,"['🤔', '🇩🇪', '😡']"
+7465304643363652374,2025-01-29 11:55:31,was für eine heuchelei die cdu mit ihrer deutschlandhasserin merkel an der spitze hat uns ja dieses desaster eingebrockt mit merz wird es keine verbesserung geben im gegenteil er wird mit den ökofaschisten zusammen die situation in deutschland noch verschärfen,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7465255058093064982,2025-01-29 08:43:53,merkel ist verantwortlich für den ganzen mist und nennen wir das kind beim namen  die meisten täter kommen aus islamischen staaten die unsere kultur verachten aber unser geld lieben,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465246948340335383,2025-01-29 08:12:27,es ist trotzdem noch zu wenigsie haben den auftrag die bevölkerung zu schützenjeder durch asylanten getötete bürger geht auch auf ihre kappedas scheint einigen im bundestag nicht bewusst ,0,0,7465046803361041686,7465046803361041686,neutral,,[]
+7465233819232486166,2025-01-29 07:21:43,es wird sich nix ändern mit euch null und die steuern steigen weiter u der wasserkopf wächst u wächst 90 v euch sind überflüssig total,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7465087051957535510,2025-01-28 21:51:11,"die altparteien gaben uns eingebrockt
+nur noch afd ",0,0,7465046803361041686,7465046803361041686,neutral,1.0,"['💙', '💙', '💙', '💙']"
+7465122524016198422,2025-01-29 00:09:37,liebe mek leider hast du meine stimme nicht bitte melde dich,0,0,7465046803361041686,7465046803361041686,negative,,[]
+7469749205407335190,2025-02-10 11:23:11,,0,0,7463499444718144790,7463499444718144790,negative,-1.0,"['👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎', '👎']"
+7464701190539805462,2025-01-27 20:53:41,das geht nur mit einer koalition mit der afd,0,0,7463499444718144790,7463499444718144790,negative,,[]
+7463869817201230614,2025-01-25 15:07:45,,0,0,7463499444718144790,7463499444718144790,negative,1.0,"['💙', '💙', '💙', '👏', '👏', '👏', '💙', '💙', '💙']"
+7463736422199034646,2025-01-25 06:31:48,deshalb nur noch ,0,0,7463499444718144790,7463499444718144790,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7463518719668978454,2025-01-24 16:25:17,das sagt die afd schon von anfang an deshalb nur,0,0,7463499444718144790,7463499444718144790,negative,1.0,"['💙', '💙', '💙']"
+7463503529057436438,2025-01-24 15:26:40,deshalb h4k ,0,0,7463499444718144790,7463499444718144790,positive,1.0,"['😎', '💚', '💚', '💚', '💚']"
+7479436829340222213,2025-03-08 13:55:21,,0,0,7470809094396349718,7470809094396349718,negative,,"['🥰', '❤️']"
+7479436630446965510,2025-03-08 13:54:49,,0,0,7473912391680560386,7473912391680560386,negative,1.0,"['🥰', '💐', '❤️']"
+7473996222149362465,2025-02-21 22:03:23,"
+csu 2025
+ csu beide stimme 
+",0,0,7473912391680560386,7473912391680560386,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🗳', '🦅']"
+7473656210576016150,2025-02-21 00:04:16,,2,0,7473600456623754518,7473600456623754518,negative,0.14285714285714285,"['😩', '😩', '😩', '😩', '😩', '😩', '💙', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7473640463271412502,2025-02-20 23:02:46,beide stimmen für die afd für einen politikwechsel ,2,0,7473600456623754518,7473600456623754518,neutral,0.0,['😏']
+7475205937033167638,2025-02-25 04:19:19,machtgeile selbstdarsteller die am laufenden band versagen,0,0,7473600456623754518,7473600456623754518,positive,,[]
+7473852779326800662,2025-02-21 12:46:52,nie wieder cdu und freunde die haben sowieso es schon geschafft und zwar 20 jahren lang mit katastrophale wirkungen für deutschland nur blau,0,0,7473600456623754518,7473600456623754518,negative,,[]
+7473637095254459158,2025-02-20 22:49:54,seht genau hin so viele stimmen bekommt die cdu geschenkt um mit der spd und grünen zu koalieren  ,0,1,7473600456623754518,7473600456623754518,negative,1.0,"['👍', '🖤', '❤️', '💚']"
+7473614101944533782,2025-02-20 21:20:06,söder ,0,0,7473600456623754518,7473600456623754518,negative,1.0,"['🖤', '🖤', '🖤', '💪', '💪', '💪']"

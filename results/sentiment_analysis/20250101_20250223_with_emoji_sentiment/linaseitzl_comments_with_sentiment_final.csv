@@ -1,0 +1,37 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7457523134422795030,2025-01-08 12:38:50,niemals mehr spd,1,0,7456806499067759904,7456806499067759904,negative,,[]
+7457434984178107158,2025-01-08 06:56:54, hab ich im verkauf auch täglich,1,0,7456806499067759904,7456806499067759904,positive,0.0,['😏']
+7470477480068367126,2025-02-12 10:28:56,,0,0,7456806499067759904,7456806499067759904,negative,1.0,['💓']
+7457559659864556310,2025-01-08 15:00:29,in einem job macht man seine arbeit meine wahrnehmung ist viel hat diese nicht gearbeitet und wenn was gemacht wurde war viel ausschuss dabei was in der neuen legislatur repariert werden muss,0,0,7456806499067759904,7456806499067759904,negative,0.0,['🚦']
+7457498552437736214,2025-01-08 11:03:34,bald geschichte,0,0,7456806499067759904,7456806499067759904,neutral,,[]
+7457431172786782978,2025-01-08 06:42:20,mach döner wieder 5,0,0,7456806499067759904,7456806499067759904,positive,,[]
+7457472494565802774,2025-01-08 09:22:50,bla das  auf dem konto jeden monat und das man nur rum pimmelt ,0,0,7456806499067759904,7456806499067759904,negative,,[]
+7456846745105679126,2025-01-06 16:54:05,einfach nein lina vieles davon ist sehr schwach umgesetzt worden und man muss auch öffentlich wirksam als staat arbeiten das habt ihr leider verfehlt  ihr habt gutes getan schlecht kommuniziert,2,0,7456806103305981207,7456806103305981207,negative,,[]
+7456900156951003927,2025-01-06 20:21:20,könnte auch von der linken kommen  die sagen aber genauso wenig wie sie es finanzieren oder umsetzen wollen  weil se einfach keine ahnung haben,0,0,7456806103305981207,7456806103305981207,negative,1.0,"['🤔', '😂']"
+7456683830768026390,2025-01-06 06:22:27,,0,0,7455660133192879382,7455660133192879382,negative,1.0,"['🌹', '🌹']"
+7470477462682911510,2025-02-12 10:28:54,,1,0,7459403976828652832,7459403976828652832,negative,,['🥰']
+7468625577462399766,2025-02-07 10:42:50,zeit für veränderungpolitik für die bürger in deutschland ohne hassfür frieden u gerechtigkeit sahra wagenknecht an die spitze bswmacht bsw zur no1 am 230225 ,2,3,7468621730517404960,7468621730517404960,neutral,1.0,"['💜', '🧡', '💜', '💯', '💜', '🧡', '💜', '💜', '🧡', '💜']"
+7468179650239382294,2025-02-06 05:53:21,gut so richtige entscheidung ,1,1,7467204855547940129,7467204855547940129,positive,1.0,"['👍', '🤗', '🥰', '🥰', '👏', '👏', '👏', '👏', '👏', '🥰']"
+7468306720280822550,2025-02-06 14:04:57,,0,0,7467204855547940129,7467204855547940129,negative,1.0,"['💯', '💯']"
+7467211646110106390,2025-02-03 15:15:44," die_linke 
+ich habe angst was noch kommt ",6,0,7467203014550457632,7467203014550457632,negative,0.75,"['🪴', '💟', '💖', '💖', '💗', '💗', '💖', '💟', '🪴', '🥺', '😞']"
+7472709860700095254,2025-02-18 10:51:59,definitiv am 23ten spd und olaf scholz wählen,1,1,7472701207023324438,7472701207023324438,neutral,,[]
+7471557012532314902,2025-02-15 08:18:09,die spd ist wie viele jahre in der regierung nur blabla,2,0,7470893933875219734,7470893933875219734,negative,,[]
+7471554401775682327,2025-02-15 08:07:55,das hört sich gut an aber wohin fließt unser aller geld in waffen um kriege zu verlängern stoppt die waffenlieferungen,1,0,7470893933875219734,7470893933875219734,neutral,,[]
+7502412426463658807,2025-05-09 11:52:47,"hallo guten tag lina noory  
+ich hoffe du hast eine schöne zeit
+ich habe einen freund der fußballer ist würdest du ihn gerne sponsern",0,0,7470893933875219734,7470893933875219734,positive,,['🤝']
+7471552154785202966,2025-02-15 07:59:09,ganz klare ansage ,0,0,7470893933875219734,7470893933875219734,positive,,[]
+7471324421488706327,2025-02-14 17:15:03,prinzipienfestigkeit der grünen  spd geht zulasten der problemlösung wählerwillen wird durch beide ignoriert keine stimme für die grünen und ihren juniorpartner spd,0,0,7470883327466147094,7470883327466147094,negative,,[]
+7470970145398653718,2025-02-13 18:20:20,,0,1,7470883327466147094,7470883327466147094,negative,,"['🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑', '🤑']"
+7470195204751213334,2025-02-11 16:13:17,unbekannt,2,0,7470194267663732000,7470194267663732000,negative,,[]
+7472222527777030934,2025-02-17 03:24:51,glückwunsch aber keine sorge wegen kinderbetreung muss der staat ja für sorgen andere haben probleme dafür werbung zu machen,1,0,7470194267663732000,7470194267663732000,negative,,[]
+7470198395187184406,2025-02-11 16:25:57,glückwunsch in welcher partei ,1,1,7470194267663732000,7470194267663732000,neutral,,[]
+7470197027768763158,2025-02-11 16:20:43,pov mit vollversorgung,0,0,7470194267663732000,7470194267663732000,negative,,[]
+7473429855729517334,2025-02-20 09:25:44,mit der linken 2026 schon 16 ,3,0,7473423643859586326,7473423643859586326,neutral,,"['\U0001fa77', '\U0001fa77', '\U0001fa77']"
+7473439979277943575,2025-02-20 10:04:52,"
+linke2025
+heidis mäuse für de 
+",1,0,7473423643859586326,7473423643859586326,neutral,0.0,"['\U0001fa77', '🚩', '🌾', '\U0001fa77', '\U0001fa77', '\U0001fa77', '\U0001fa77', '🌾', '🚩', '\U0001fa77', '🇩🇪', '🕊️', '🕊️', '🇩🇪', '\U0001fa77', '\U0001fa77']"
+7473434729422553878,2025-02-20 09:44:40,ne lieber beide stimmen für die linke ,0,0,7473423643859586326,7473423643859586326,negative,,"['🙂', '\U0001fa77']"
+7473434797898056470,2025-02-20 09:44:39,die spd wird mit merz koalieren und dann die mindestlohnerhöhung sowieso nicht alleine durchsetzen daher solltet ihr die linken wählen um dafür zu sorgen dass die spd unter druck gesetzt wird,1,0,7473423643859586326,7473423643859586326,negative,,[]

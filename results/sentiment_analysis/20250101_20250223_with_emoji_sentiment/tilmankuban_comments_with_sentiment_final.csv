@@ -1,0 +1,953 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7465372901433312022,2025-01-29 16:20:08,ich bin auch empört,2,1,7465370421492288790,7465370421492288790,negative,,[]
+7465372307084641046,2025-01-29 16:18:13,er hat es vergessen,2,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465474946221032214,2025-01-29 22:57:09,ich habe alles vergessen  ich weiß gar nichts mehr ,1,0,7465370421492288790,7465370421492288790,negative,1.0,"['🤔', '🤔', '🤔', '🤔', '😂', '😂', '😂', '🤣', '🤣', '🤣', '🤣', '👍', '👍', '👍', '😎', '😎', '😎', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '👍']"
+7465470127917826838,2025-01-29 22:38:16,die frage ist ob er weiß wovon er spricht oder hat er das auch vergessen grins,1,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465431201684144918,2025-01-29 20:06:16,,1,0,7465370421492288790,7465370421492288790,negative,,"['🤔', '🤔', '🤔', '🤔']"
+7465413089262355222,2025-01-29 18:56:07,,1,0,7465370421492288790,7465370421492288790,negative,1.0,"['😂', '😂', '🙈', '🙈', '🙈']"
+7465403272738079510,2025-01-29 18:18:20,seine zeit ist vorbei wenn interessiert es noch ob er empört ist geh nach hause olaf,1,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465372609338524438,2025-01-29 16:19:18,ja unsere kanzlei sie genau so recht sie mussen tun ,1,0,7465370421492288790,7465370421492288790,neutral,,"['❤️', '❤️', '❤️']"
+7465371749422711574,2025-01-29 16:16:04,das weiß er selbst nicht,1,0,7465370421492288790,7465370421492288790,neutral,,[]
+7467599794576507670,2025-02-04 16:21:43,nie ampel,0,0,7465370421492288790,7465370421492288790,negative,,[]
+7465493645845807894,2025-01-30 00:10:57,sowas nennt sich bundeskanzler lächerlich,0,0,7465370421492288790,7465370421492288790,negative,,[]
+7465428266879828758,2025-01-29 19:54:57,ich zähle die tage bis man den nicht mehr als kanzler sehen und hören muss,0,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465374365476602646,2025-01-29 16:26:02,ich bin empört von scholz,0,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465373628092187414,2025-01-29 16:22:59,dumm schwätzer,0,0,7465370421492288790,7465370421492288790,negative,,[]
+7465372346246513430,2025-01-29 16:18:07,"was der scholz beruflich macht 
+beruflich ist er krimineller",0,0,7465370421492288790,7465370421492288790,neutral,,[]
+7465372564379878166,2025-01-29 16:19:09,cumex ,0,0,7465370421492288790,7465370421492288790,negative,0.0,"['🔥', '🔥', '🔥', '🔥', '👀']"
+7464944119527523094,2025-01-28 12:36:59,kommt nur der rottweiler wartet schon soll ich für eine bekannte ausrichten,4,0,7464928099617099030,7464928099617099030,negative,,[]
+7465074038529983254,2025-01-28 21:00:37,meine cdu,1,0,7464928099617099030,7464928099617099030,positive,,[]
+7465033403634156310,2025-01-28 18:22:49,  ,1,0,7464928099617099030,7464928099617099030,negative,0.8,"['🖤', '🖤', '🖤', '👍', '💪', '🔥', '🙏', '💯', '🖤', '🖤', '🖤']"
+7465262815293948677,2025-01-29 09:13:17,innerhalb von 12 tagen habe ich 2500 in forex investiert und unglaubliche 45000 gewinn gemacht mehr infos bei samuel erzieher samuel,0,0,7464928099617099030,7464928099617099030,neutral,,[]
+7464967780326294294,2025-01-28 14:08:39,ist ja auch so 172_aviation,0,11,7464928099617099030,7464928099617099030,negative,,[]
+7464962128303735574,2025-01-28 13:46:26,161 o7,0,0,7464928099617099030,7464928099617099030,positive,,[]
+7464972826707395350,2025-01-28 14:28:15,꯱ᝯhꫀꪱß ꪀɑzꪱś,0,1,7464928099617099030,7464928099617099030,negative,-1.0,['💩']
+7464643549352198934,2025-01-27 17:10:08,abstieg haben wir ja jetzt genug gesehen ,7,0,7464642344420199702,7464642344420199702,negative,1.0,"['🤭', '😂']"
+7464643887778562838,2025-01-27 17:11:31,wirtschaftskompetenz das sagt ein cdu abgeordneter ,5,1,7464642344420199702,7464642344420199702,neutral,1.0,['😂']
+7464648743658537750,2025-01-27 17:30:23,jetzt können die auf einmal in die zukunft blicken dann war der jetzige absturz von deutschland also bekannt,3,0,7464642344420199702,7464642344420199702,neutral,,[]
+7464666917024138006,2025-01-27 18:40:49,welche exporte die meisten großen firmen haben deutschland längst verlassen oder haben zugesperrt,2,0,7464642344420199702,7464642344420199702,neutral,1.0,"['😂', '😂', '💙', '💙', '💙', '💙']"
+7464648488720401174,2025-01-27 17:29:21,wir sind schon auf den absteigenden ast,2,0,7464642344420199702,7464642344420199702,negative,,[]
+7464648475104527126,2025-01-27 17:28:59,"afd bsw zusammen sind wir stark
+dmark soll kommen eu raus",2,0,7464642344420199702,7464642344420199702,negative,,[]
+7464647734286058262,2025-01-27 17:26:15,"weiter absteigen kann deutschland schon garnicht mehr  dafür habt ihr altparteien gesorgt  wir brauchen aber einen aufstieg in deutschland und das geht nur noch mit der afd 
+",2,0,7464642344420199702,7464642344420199702,negative,1.0,"['👍', '👍', '👍', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464644013100974870,2025-01-27 17:12:02,oh auf wachen ,2,0,7464642344420199702,7464642344420199702,negative,,"['🤣', '🤣']"
+7464646227326468866,2025-01-27 17:20:15,,1,0,7464642344420199702,7464642344420199702,negative,,['🤦🏼\u200d♀️']
+7464644500284490518,2025-01-27 17:13:43,,1,0,7464642344420199702,7464642344420199702,negative,1.0,"['😂', '😂', '😂']"
+7465439675436663574,2025-01-29 20:39:11,und wenn amerika und china die zölle für deutschland erhöht was dann,0,0,7464642344420199702,7464642344420199702,neutral,,[]
+7464819402241819414,2025-01-28 04:36:34,dieser mann wollte eine app zur kontaktverfolgung während covid die automatisch auf smartphones installiert werden sollte solange der nutzer nicht widerspricht absolut krank,0,1,7464642344420199702,7464642344420199702,negative,,[]
+7464796212652196630,2025-01-28 03:09:35,,0,0,7464642344420199702,7464642344420199702,negative,1.0,"['💙', '💙', '💙', '💙', '👍', '👍', '👍', '💙', '💙', '💙', '💙']"
+7464654611343033110,2025-01-27 17:53:05,eure kompetenz haben wir lang genug gehabt darum sind wir da wo wir heute stehen,0,0,7464642344420199702,7464642344420199702,negative,,[]
+7464651314066539286,2025-01-27 17:40:17,wer cdu wählt wählt krieg,0,0,7464642344420199702,7464642344420199702,negative,,[]
+7464647972610048790,2025-01-27 17:27:00,"muss man erklären warum diese existenzen ein schwarzes partei  herz haben das sind so kerzen auf der torte die man vergessen hat anzuzünden
+also gaaaanz dunkel
+",0,0,7464642344420199702,7464642344420199702,neutral,1.0,"['💙', '💙', '🤩']"
+7464647798652420886,2025-01-27 17:26:41,,0,0,7464642344420199702,7464642344420199702,negative,1.0,"['💙', '💙', '💙']"
+7464646496722584342,2025-01-27 17:21:21,  ,0,0,7464642344420199702,7464642344420199702,negative,1.0,"['🖤', '🖤', '🖤', '👍', '💪', '👏', '🙏', '💯', '🖤', '🖤', '🖤']"
+7464649778317181718,2025-01-27 17:34:12,die sind einfach zu dumm und verstehen nicht wie europa umgebaut werden muss exporte bleiben aber ohne den eu diktatorischen wasserkopf,0,0,7464642344420199702,7464642344420199702,negative,,[]
+7474927296434357014,2025-02-24 10:16:57,dann fangt mal bei menschen aus der ukraine an,1174,42,7464341167350484246,7464341167350484246,neutral,,[]
+7474949531588772630,2025-02-24 11:42:50,damit ihr mehr geld für kriege habt,270,3,7464341167350484246,7464341167350484246,neutral,,[]
+7474914893266682647,2025-02-24 09:28:49,ihr werdet gar nix  da es verfassungswiedrig ist,222,28,7464341167350484246,7464341167350484246,negative,,[]
+7474977945208390422,2025-02-24 13:32:45,geld für krieg habt ihr,211,9,7464341167350484246,7464341167350484246,negative,,[]
+7475005360811033366,2025-02-24 15:19:06,geht mit gutem beispiel voran und schafft euch selbst ab,182,2,7464341167350484246,7464341167350484246,neutral,,[]
+7475061206584574742,2025-02-24 18:55:39,hört lieber auf erst mal das geld nach ukraine zu schicken dann ist genug da,174,0,7464341167350484246,7464341167350484246,negative,,[]
+7474945611751359254,2025-02-24 11:27:35,neue wahl ihr betrüger,77,0,7464341167350484246,7464341167350484246,negative,,[]
+7464955633772725014,2025-01-28 13:21:28,niemals cdu,70,1,7464341167350484246,7464341167350484246,negative,,[]
+7476322934781559574,2025-02-28 04:32:26,die cdu muss weg ,69,0,7464341167350484246,7464341167350484246,negative,,[]
+7474951412381008662,2025-02-24 11:49:54,du hast soviel lack gesoffen,55,0,7464341167350484246,7464341167350484246,negative,,[]
+7474945030789759766,2025-02-24 11:25:14,ich habe 25 jahre gearbeitetbin seit 3 jahren wegen depressionen und traumatas krankich habe mich geschämt bürgergelt zu beziehenschafe es aber leider nicht mehr al 3 stunden zu arbeiten,45,33,7464341167350484246,7464341167350484246,negative,,[]
+7475396094547231510,2025-02-25 16:35:28,schlimm wie auf die schwächsten in unserer gesellschaft eingeprügelt wird,43,1,7464341167350484246,7464341167350484246,negative,,[]
+7464344544189809430,2025-01-26 21:49:54,ah wieder abgeguckt  bu,43,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '👍', '👍', '👍']"
+7474914910334894870,2025-02-24 09:28:29,der sanktionsmechanismus war niemals wegbilligster populismuswie man es von der cdu gewohnt ist,42,1,7464341167350484246,7464341167350484246,neutral,1.0,['😅']
+7477903016844542742,2025-03-04 10:43:23,geld für krieg ist aber da ,38,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡']"
+7474924755964035862,2025-02-24 10:06:24,ist leider mit der spd nicht zu machen und daß wisst ihr,38,2,7464341167350484246,7464341167350484246,negative,,[]
+7475005183526683414,2025-02-24 15:18:34,fang bei leuten mit mehreren identitäten an,37,0,7464341167350484246,7464341167350484246,negative,,[]
+7474994883585901314,2025-02-24 14:38:23,ich finde jemand der jahrelang in die sozialkasse eingezahlt hat darf auch mal in schwierigen zeiten soziale hilfe bekommen,33,2,7464341167350484246,7464341167350484246,neutral,,[]
+7477433951075435286,2025-03-03 04:23:58,das bürgergeld gehört erhöht ,30,7,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '👍', '👍', '👍']"
+7475075979271783190,2025-02-24 19:52:59,natürlich tretet man wieder auf die schwachen typische cdu,27,3,7464341167350484246,7464341167350484246,neutral,,[]
+7472836033978680086,2025-02-18 19:00:55,einfach blau blau blau blau,27,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475264880158835478,2025-02-25 08:06:44,dann fangt mal bei unseren tollen fachkräften und den ukrainern etc pp an  dann können wir weiterreden ,26,1,7464341167350484246,7464341167350484246,neutral,0.0,['😏']
+7474982001805558551,2025-02-24 13:48:28,niemals cdu ,25,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡']"
+7475086570085827350,2025-02-24 20:33:58,dann ist bürgerkrieg,24,2,7464341167350484246,7464341167350484246,neutral,,[]
+7464350296163058434,2025-01-26 22:12:23,wahlprogramm und nix anderes gar nix machen die ,24,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7474987869985129238,2025-02-24 14:11:26,auch für menschen die an depressionen psychischeprobleme leiden ,23,31,7464341167350484246,7464341167350484246,neutral,,[]
+7474837068542804738,2025-02-24 04:29:54,was bekommen denn die asylbewerber,22,4,7464341167350484246,7464341167350484246,negative,,"['🤔', '🤔', '🤔']"
+7474924022503490326,2025-02-24 10:03:56,ahadamit mehr geld übrig ist für die ukraine,21,0,7464341167350484246,7464341167350484246,negative,,"['🤔', '🤔', '🤔']"
+7464348022391816982,2025-01-26 22:03:25,die sagen viel vor den wahlen und nach den wahlen  wers glaubt wird seelig alles lüge ,21,0,7464341167350484246,7464341167350484246,neutral,0.8571428571428571,"['🥺', '😏', '😅', '😅', '😅', '😅', '😂', '😂']"
+7475066643983647510,2025-02-24 19:16:41,unwählbar,20,0,7464341167350484246,7464341167350484246,negative,,[]
+7464558819679453974,2025-01-27 11:41:18,"zu wenig  zu spät 
+unwählbar",18,0,7464341167350484246,7464341167350484246,negative,,"['🤔', '🤔']"
+7476072731039253270,2025-02-27 12:20:51,bitte auch die diäterhöhung der politik auch abschaffen ,17,0,7464341167350484246,7464341167350484246,neutral,1.0,['😉']
+7476221910843376406,2025-02-27 21:59:35,bin 63j habe 7 krankheiten knochen kaputtist das euer ernsthabe 42j einhezahlt,14,5,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡']"
+7464535181500728086,2025-01-27 10:09:48,der sozialstaat ist am ende  punkt,14,0,7464341167350484246,7464341167350484246,neutral,0.0,['😏']
+7464397071723578134,2025-01-27 01:16:34,wers glaubt das heisst dann nur anders,14,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464387863721116438,2025-01-27 00:40:40,die ganzen facharbeiter können doch nicht,13,0,7464341167350484246,7464341167350484246,neutral,,[]
+7473121423192605462,2025-02-19 13:28:43,bin mal gespannt wie das verfassungsrechtlich möglich ist komplett das bürgergeld zu streichen,12,1,7464341167350484246,7464341167350484246,negative,,[]
+7474924451302916886,2025-02-24 10:05:30,und nennen es hartz 5,10,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464603408684368662,2025-01-27 14:34:26,"sehr gut 
+ich freue mich sehr auf einen bundeskanzler friedrich merz ",10,13,7464341167350484246,7464341167350484246,positive,1.0,"['💯', '💯']"
+7474929813909029654,2025-02-24 10:26:10,dann hoffen wir mal das die wo noch nie einbezahlt haben als erstes nichts mehr bekommen,9,0,7464341167350484246,7464341167350484246,neutral,,[]
+7472415523390030614,2025-02-17 15:49:06,sehr gut gesprochen,9,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍', '👍', '🙏', '💙', '💙', '💙', '💙', '🙏']"
+7479763756521947926,2025-03-09 11:03:49,hauptsache die diäten werden erhöht muss auch von uns erarbeitet werden ,8,0,7464341167350484246,7464341167350484246,neutral,-1.0,['😡']
+7475108954763297558,2025-02-24 22:00:54,dann erstmal bei den ganzen besuchern beginnen,8,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477384237331972886,2025-03-03 01:10:28, wie wärs dann auch mal unser geld im land zu lassen anstatt es zu verschenken,7,0,7464341167350484246,7464341167350484246,neutral,1.0,['😌']
+7475000638917755670,2025-02-24 15:00:39,wenn die das machen haben die sich ein eigentor geschossen nach 4 jahren ist die cdu geschichte und wird niemals mehr wiedergewählt,7,4,7464341167350484246,7464341167350484246,negative,,[]
+7474975580976153366,2025-02-24 13:23:44,unmöglich,7,0,7464341167350484246,7464341167350484246,negative,,[]
+7474962700873253654,2025-02-24 12:34:03,deswegen wurde cdu gewählt um das bürgergeld abzuschaffen ,7,1,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '👍']"
+7474887417348408086,2025-02-24 07:42:16,und tschüss,7,0,7464341167350484246,7464341167350484246,negative,,[]
+7464344839129629442,2025-01-26 21:50:57,,7,1,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7479727368462959382,2025-03-09 08:42:29,ändert erst mal das gesetz dass kindergeld ins ausland fließt für kinder die d nie gesehen haben ,6,1,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '🙏']"
+7475100647600947990,2025-02-24 21:28:49,tja vorbei mit ausschlafen,6,2,7464341167350484246,7464341167350484246,negative,1.0,['💪']
+7464567801791382294,2025-01-27 12:16:48,es ist doch egal welchen namen das kind es wird immer menschen geben die hilfe brauchen die politiker verzichten ja auch nicht auf ihre zu hohen gehälter ,6,2,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡']"
+7476088584266482454,2025-02-27 13:22:16,klar und für alle facharbeiter die nach deutschland kommen alles klar,5,0,7464341167350484246,7464341167350484246,positive,,[]
+7475486136123884310,2025-02-25 22:24:43,dann bitte kein geld in die ukrainedanke ,5,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍']"
+7474939380509377302,2025-02-24 11:03:42,bürgergeld wahnsinn stoppen,5,0,7464341167350484246,7464341167350484246,negative,,[]
+7464573370064388886,2025-01-27 12:37:50, wer es glaubt,5,2,7464341167350484246,7464341167350484246,negative,1.0,"['🤔', '😳']"
+7476087540584334102,2025-02-27 13:18:06,was ist mit euch politiker die 10 mille im monat bekommen für welche leistung leute die eingezahlt haben haben selbstverständlich auch anrecht darauf punkt fertig aus,4,0,7464341167350484246,7464341167350484246,negative,,[]
+7475128138272703254,2025-02-24 23:15:47,was ist für die alleinerziehende  mama die kleine kinder habe die 1 jahr alt sind ich würde niemals mein kinder so klein in eine kita schicken,4,58,7464341167350484246,7464341167350484246,negative,,[]
+7474988482609529622,2025-02-24 14:13:56,habe seit ich 14 bin immer gearbeitet nun seit 5 jahren kann ich aus gesundheitlichen gründen nicht mehr arbeiten mal sehen was auf uns zukommt,4,1,7464341167350484246,7464341167350484246,negative,,[]
+7475678757187535638,2025-02-26 10:52:54,erzählen die leute die noch nie in ihrem leben gearbeitet haben hahahahaha genau mein humor,3,0,7464341167350484246,7464341167350484246,positive,,[]
+7475239264163283734,2025-02-25 06:27:03,diebe werden sicherlich viel mehr sein und das ist selbstverständlich ihr redet über bürgergeld als ob das so viel ausreicht  bitte zeigt auf die richtige problem in diesem land,3,0,7464341167350484246,7464341167350484246,negative,,[]
+7475169346332492566,2025-02-25 01:58:12,warum wollen die das umbenennen außerdem gibt es schon geld was grundsicherung heißt und das gibt es vom sozialamt für menschen die krankheitsbedingt nicht arbeiten können,3,2,7464341167350484246,7464341167350484246,neutral,,[]
+7474997221240750870,2025-02-24 14:47:48,die haben noch nie gearbeitet was ist mit denn die suchen aber nur absagen bekommen soweit im lebenslauf kinder drin stehen keine chance,3,0,7464341167350484246,7464341167350484246,negative,,[]
+7474972505088197399,2025-02-24 13:11:45,also ich bin psychisch seit meiner jugend krank ne ausbildung konnte ich machen einem job bekomme ich auch nicht ganz so einfach ist das alles nicht nicht desto trotz es geht zuviel raus an alle,3,2,7464341167350484246,7464341167350484246,negative,,[]
+7474956180583940886,2025-02-24 12:08:33,wir sind 2025 so oder so alle tod dank cdu,3,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479719851629953814,2025-03-09 08:13:33,bitte auch unterhalt anschaffen denn es ist nicht rechtens wir zahlen für kinder due hier nicht leben und für kinder ei die eltern noch nie hier eingezahlt haben,2,1,7464341167350484246,7464341167350484246,negative,,[]
+7479656161371489026,2025-03-09 04:07:21,wer bezieht den prozentual am meisten bürgergeld dann gleiches recht für alle auch die hier herkamen und was ist mit alleinerziehenden mit kindern,2,3,7464341167350484246,7464341167350484246,neutral,,[]
+7475716550054396694,2025-02-26 13:18:44,wurde doch kassiert weil verfassungswidrig,2,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475040742513230614,2025-02-24 17:36:27,wer soll denn meine miete bezahlen,2,47,7464341167350484246,7464341167350484246,negative,,[]
+7475029985624965910,2025-02-24 16:54:42,seht mal lieber zu das rentner von rente leben könnten,2,0,7464341167350484246,7464341167350484246,negative,,[]
+7474994006092595990,2025-02-24 14:35:18,nur für deutsche bürger,2,1,7464341167350484246,7464341167350484246,negative,,[]
+7474978681455248130,2025-02-24 13:35:27,endlich wird mal aufgeräumt das schlimmste ist dass die bezieher über die arbeitende bevölkerung lacht,2,1,7464341167350484246,7464341167350484246,neutral,,[]
+7487614016753517334,2025-03-30 14:46:42,kott sei dank,1,0,7464341167350484246,7464341167350484246,negative,0.0,"['😏', '🥰', '🥰', '🥰']"
+7480032780575834902,2025-03-10 04:28:14,ich das du vor mir steht und genau das so sagen,1,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479935694409761558,2025-03-09 22:11:01,das ist populistisch ist gelaber da ist nichts dran war einfach nichts überhaupt nichts das ist einfach nur gelaber,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7479935144910095126,2025-03-09 22:08:52,"arbeiter spalten es geht hier beim bürgergeld um 4bis5 milliarden aber die wollen 800 milliarden in rüstung reinstecken und das ist doch wohl nicht richtig
+lasst euch doch nicht täuschen",1,0,7464341167350484246,7464341167350484246,negative,,[]
+7479852377762104086,2025-03-09 16:47:40,die afd wähler haben angefangen das land zu verlassen ,1,0,7464341167350484246,7464341167350484246,neutral,1.0,"['✈️', '😁', '😁', '😁']"
+7479846038212625174,2025-03-09 16:22:59,viel spaß mit eimem rasanten kriminalitätsanstieg und sozialen unruhen auf den str,1,0,7464341167350484246,7464341167350484246,positive,,[]
+7479845419851219734,2025-03-09 16:20:40,da haben die mal wieder das urteil des verfassungsgericht nicht berücksichtigt es sind nur geringfügige sanktionen gegen existenzminimum möglich ,1,0,7464341167350484246,7464341167350484246,neutral,1.0,['😎']
+7479828127863276290,2025-03-09 15:13:28,natürlich für rüstung und ukraine brauchen sie geld die leute die bürgergeld bekommen sowieso das geld in wirtschaft ausgeben was machen ihre mit geld verstopfte kapitalisten mit geld,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7479804936483324694,2025-03-09 13:43:32,ist auch nicht mehr zu finanzieren und auch raus aus der gesetzlichen versicherung kann doch nicht sein das ich die mit versichern muss außer natürlich kranke und alte,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7479792333889012502,2025-03-09 12:54:40,ja israel und ukraine müssen ja finanziert werden ,1,0,7464341167350484246,7464341167350484246,neutral,,"['🥺', '🥺', '🥺']"
+7479764441631441686,2025-03-09 11:06:23,ihr müsst die empfänger von bürgergeld die zwischen 20  40 sind  die nur foul sind  zur arbeit schicken,1,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479720912163242774,2025-03-09 08:17:32,und vor allem nicht mehr physisch krank sein wegen druck von der ex die ihn betrogen hat und der druck von staat,1,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479710403041444630,2025-03-09 07:36:58,ihr linken nicht die afd will es abschaffen sondern cdu,1,1,7464341167350484246,7464341167350484246,negative,1.0,"['😁', '😁', '😁', '😁']"
+7479679496757592854,2025-03-09 05:37:17,melli habs ja gesagtheißt nix anderes alswer nicht arbeiten will wird nix bekommen weil man davon ausgeht das man dann ja geld hat,1,3,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7476786697968419606,2025-03-01 10:31:14,erstmal kindergeld nicht ins ausland überweisen,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7476362731454890774,2025-02-28 07:06:20,bürgergeld wird jetzt genommen um die wahren probleme zu kaschieren,1,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7476361976345576214,2025-02-28 07:03:20,armes deutschland,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7476213749972566806,2025-02-27 21:27:49,aber auch bei den deutschen die alle faul zuhause sitzen bei den rumänen bulgarien die fahren alle dicke fette autos ukraine usw,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7475460821425783554,2025-02-25 20:46:31,sind ja wiedr genug eingeflogen da könnt ihr an die verteilendas macht ihr ja sehr gerne,1,0,7464341167350484246,7464341167350484246,positive,,[]
+7475130469509202710,2025-02-24 23:25:05,wieder was neues wo alle unter einem tisch gekehrt werden weil es einigen nicht passt das es nun mal auch solche menschen gibt,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7475101807426175766,2025-02-24 21:33:13,aber sozialleistungen wird es weiterhin in höhe des existenzminimums geben egal wie es dann genannt wird und solange wir ein sozialstaat sind,1,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475090447417934614,2025-02-24 20:49:02,wieso mach ihr nicht erstmal die grenzen zu ach ja merz hat gesagt er macht die grenzen nicht zu stimmt,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7475082474772579094,2025-02-24 20:18:17,millionen von menschen sind dann betroffen auch menschen die gearbeitet haben und eingezahlt haben das wird ein straßen und bürgerkrieg geben,1,2,7464341167350484246,7464341167350484246,neutral,,[]
+7475048547247833878,2025-02-24 18:06:25,cdu grundsicherung wird so aussehen das alle in mindestlohn jobs geschickt werden ob sie wollen oder nicht ,1,0,7464341167350484246,7464341167350484246,neutral,1.0,['😆']
+7475016305478468374,2025-02-24 16:01:33,also hat das kind nur ein anderen namen ,1,1,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '🤦']"
+7474991272367784726,2025-02-24 14:24:41,es geht doch nicht ,1,0,7464341167350484246,7464341167350484246,negative,0.0,['😏']
+7474970404282270486,2025-02-24 13:03:40,wie jetzt  und wer soll dann meine miete usw zahlen ,1,14,7464341167350484246,7464341167350484246,negative,,"['🤨', '🤨', '🤨', '🧐', '🧐', '🧐', '🧐', '🧐', '🧐']"
+7474964152386618134,2025-02-24 12:39:17,klingt gut,1,0,7464341167350484246,7464341167350484246,positive,,[]
+7474958317165609750,2025-02-24 12:16:32,jetzt gehts steil nach unten und zwar nicht nur für die bürgergeld empfänger sondern für uns alle,1,0,7464341167350484246,7464341167350484246,negative,,[]
+7474948991952782102,2025-02-24 11:40:26,ist genau das selbe heißt nur anders ,1,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7505848252609856278,2025-05-18 18:04:45,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😈', '😈', '😈']"
+7496186925297910550,2025-04-22 17:13:54,am geld ändert sich nicht nur der name stat hans wird es peter heißen also mir egal ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7495851756912886550,2025-04-21 19:33:15,nur afd ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍']"
+7495851643322974998,2025-04-21 19:32:48,altepartei sekte weg ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😝', '😝', '😝']"
+7495734326400041750,2025-04-21 11:57:34,dan wu fertig euch nicht wen es massen auswanderung gibt und die leute klauen gehen weil sie nix haben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7492134650480247574,2025-04-11 19:09:02,wer bleibt zu hause oder wer zu hause will bleiben ist faul und hat mir depressionen arbeit macht frei keine depression ich garantiere das,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7490421189505729302,2025-04-07 04:20:21,man muss bei eurem diäten anfangen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7489582887369671446,2025-04-04 22:06:54,wir müssen diese superstars abschaffen sowas darf nie wieder kommen das ende der welt ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['💀', '💀', '💀']"
+7489515611543323414,2025-04-04 17:45:47,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💪']
+7489388676288955158,2025-04-04 09:33:22,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7487974511671264022,2025-03-31 14:05:38,genau  da werden wieder millionen rausgehauen wegen der entwicklung des neuen briekopfes ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7487286068048954134,2025-03-29 17:34:02,es gut wenn wir euch die cdu und csu abschaffen ,0,0,7464341167350484246,7464341167350484246,positive,-1.0,"['😡', '😡']"
+7486949156986602262,2025-03-28 19:46:42,was ist mit der rente,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7486630321069736726,2025-03-27 23:09:31,wann wird den endlich bei den politikern gelder zuschüsse rentenansprüche abgeschafftstattdessen wird immer bei voll was abgezogen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7485857151476433686,2025-03-25 21:09:08,die reichen cdu bonzen sollen gefälligst die drecksjobs machen ein staat welcher sich nicht um die ärmsten kümmert hat keine daseinsberechtigung auf zum klassenkampf,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7483791892388627222,2025-03-20 07:35:11,"alter
+ich schreib nicht was ich wirklich schreiben will sonst kommt es nur zu beleidigungen",0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7483623535530296086,2025-03-19 20:41:36,hoffentlich wird auch mal was für korrupte politiker eingeführt ,0,0,7464341167350484246,7464341167350484246,neutral,0.0,['😏']
+7482676802307392278,2025-03-17 07:28:11,bürger geld abschaffen was machen die kranke menschen die nicht arbeiten können aber auch kleine geld schicken das könnt ihr ne,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7482332969157575446,2025-03-16 09:13:42,fängt mit afgane syrier und ukraine an ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡']"
+7482150786974712598,2025-03-15 21:26:36,sehr gut mehr geld für ukraine,0,0,7464341167350484246,7464341167350484246,positive,,"['🤣', '🤣', '🤣', '🤣']"
+7481591840144818966,2025-03-14 09:17:53,mir egal ich habe 80 euro stundenlohn,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7481569419366335254,2025-03-14 07:50:43,denk mal an die rentner,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7481293270762963734,2025-03-13 13:59:14,richtig so etwas muss ja passieren um arbeitsunwillige menschen in arbeit zu bringen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7481019894289728278,2025-03-12 20:18:05,und beamte auch abschaffen und diäten abschaffen ihr dürft nur 15 euro verdienen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7480974605915652886,2025-03-12 17:22:27,gibt doch schon aghszahlt vernünftige löhne ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['🌹']
+7480862952720073494,2025-03-12 10:09:18,afd alice weidel für deutschland ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7480862732980601622,2025-03-12 10:08:28,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7480812792723866390,2025-03-12 06:54:34,richti so,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480456261964727062,2025-03-11 07:51:03,wenn fritze cdu schön gehorsam ist darf er klingbeil spd banaszak grüne wasser ans rednerpult im bundestag bringen,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😜']
+7480242378396042006,2025-03-10 18:01:01,so sollte es sein,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7480215434504143638,2025-03-10 16:16:24,deswegen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💚']
+7480213970441290518,2025-03-10 16:10:48, ja ja,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂']"
+7480212747252237078,2025-03-10 16:06:07,unter das urteil des bundesverfassungsgericht könnt auch ihr nicht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7480198954841178902,2025-03-10 15:12:33,"alle sollen arbeiten egal ob deutscher oder ausländer  sehr gute entscheidung 
+wer nicht arbeitet soll auch nichts kriegen ganz einfach",0,0,7464341167350484246,7464341167350484246,positive,,['\U0001fae1']
+7480191072250135318,2025-03-10 14:41:56,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
+7480187213293601558,2025-03-10 14:26:58,diäten müssen weg das geht auch auf unsere kosten ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480172646559384342,2025-03-10 13:30:26,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡']"
+7480157637310382870,2025-03-10 12:32:23,jaja bürgergeld bürgergeld hört auf geld an israel und die ukraine zu schicken dann gehts der deutschen wirtschaft besser ich bekomme kein bürgergeld aber das problem ist die auslandsgelder,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480152896542278422,2025-03-10 12:13:47,herrlich,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7480088666183123734,2025-03-10 08:04:41, yessss,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['🙏', '🙏', '🙏', '🙏', '🙏']"
+7480080385256735510,2025-03-10 07:32:47,blablabla ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['😂']
+7480078863222276886,2025-03-10 07:26:37,bundestag gehälter sind zu hoch,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480073343379686166,2025-03-10 07:05:13,aber dann bitte auch für alle migrantenaber ihr macht das wieder nur bei deutschen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7480068298563961622,2025-03-10 06:45:47,deutschland wird komplett versklavt ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7480064269436142358,2025-03-10 06:30:08, klar aber für unsere fachkräfte für unsere goldstücke ist dann immer alles da unfassbar,0,0,7464341167350484246,7464341167350484246,neutral,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7480060778784785174,2025-03-10 06:16:33,weniger geld für politiker wäre doch mal der erste schritt die arbeiten doxh am wenigsten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7480060055750443799,2025-03-10 06:13:48,ihr habt eure geld in ukraine geschickt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480059299688907542,2025-03-10 06:10:55,sehr gut ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍', '👍', '👍']"
+7480035847313523479,2025-03-10 04:40:21,endlich,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7480017216332006166,2025-03-10 03:28:27,ja an die reichen trauen sich die nicht ran dan gehts an die armen ohman was eine tolle cdu,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7480008106441704214,2025-03-10 02:52:47,der staat ist pleite weil ihr alles geld ins ausland verteilt und das mit absicht hauptsache der deutsche bekommt es nicht ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡']"
+7479997710649852694,2025-03-10 02:12:28,sämtliche staatsausgaben und subventionen sollten auf den prüfstand dann ist auch genug geld da um die arbeitende bevölkerung steuerlich zu entlasten arbeit soll sich wieder lohnen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479990196483818262,2025-03-10 01:43:29,verbrecher,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479973618907398934,2025-03-10 00:38:28,aber wen zb sprachkenntnisse von einer arbeitsaufnahme abhalten dem soll die hilfe nicht gestrichen werden ergo es trifft wieder nur die einheimischen aber nicht die 50 ausländischen transfere,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479968298362274582,2025-03-10 00:17:53,mal wieder kommen die sanktionen nur für deutsche  lach nummer eins,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7479959864920507158,2025-03-09 23:44:51,jeden tag demos vor dem bundestag ist das sozial zahlen kaum in die sozialkassen ein und nehmen sich jeden monat 45stellig  6stellig übergangs gelder die arbeitnehmer und rentner etc verarmen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479953802948264726,2025-03-09 23:21:29,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍']"
+7479951085034488598,2025-03-09 23:10:46,jazwar ein schritt in die richtige richtungaber was meint ihr wohlwas dann los ist die deutschendie nicht wollenwerden dann nun die neuen fachkräfte öfters angehendie nicht arbeiten wollen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479949873153901334,2025-03-09 23:06:09,abschaffen die cdu aber sofort und die spd ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7479942811314651927,2025-03-09 22:38:39,menschen abschaffen euch auch am ende ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😄']
+7479938695845643030,2025-03-09 22:22:39,eas sagt der da  ja ja,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479930156749865750,2025-03-09 21:49:28,endlich,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479930168157471510,2025-03-09 21:49:25,mal schauen für wen das gilt solange es für alle gilt ist es natürlich okay,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479924705413595926,2025-03-09 21:28:20,was dann wirklich wirdist die kriminalität höher usw,0,0,7464341167350484246,7464341167350484246,neutral,0.0,['😏']
+7479921178405339926,2025-03-09 21:14:33,super  sollen die faulen endlich mal arbeiten ,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479914048676217622,2025-03-09 20:46:54,ich glaube bei euch haben sowas eingeführt ja ja,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479908310754984726,2025-03-09 20:24:37,da werden sich die linken aber freuen ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '😂']"
+7479901577534178070,2025-03-09 19:58:30,wird wie immer nach unten getreten,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479899339185029910,2025-03-09 19:49:49,gut so,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479897528768938774,2025-03-09 19:42:51,"ich finde das respektlos das die das weg machen wollen
+in einer weststadt wo leutemit handykap
+arbeiten bekommt man nur 150 euro und das ist respektlos und dann wollen die das weg machen bürger ",0,0,7464341167350484246,7464341167350484246,negative,0.0,['💰']
+7479889985804256022,2025-03-09 19:13:34,komisch über ukraine reden sie überhaupt nicht,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479889890869789462,2025-03-09 19:13:07,super ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['🙏']
+7479888276305052438,2025-03-09 19:06:50,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍']"
+7479886966852322070,2025-03-09 19:01:48,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡']"
+7479886502878544662,2025-03-09 19:00:02,dann haben alle psychische probleme das geht immer,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7479884423053607702,2025-03-09 18:51:59,auch für die ukrainer oder nur für deutsche staatsbürger,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479882694089163542,2025-03-09 18:45:11,das sozialamt deutschland gibt es nicht mehr asylanten bleibt zu hause,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479882264667538198,2025-03-09 18:43:29,ich wäre erstmal für diäten erhöhung abschaffen zuwanderung abschaffen die ganze welt finanzieren abschaffen usw,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479876549896405782,2025-03-09 18:21:25,halleluja,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479876419397927702,2025-03-09 18:20:52,die endern nur den namen ,0,0,7464341167350484246,7464341167350484246,neutral,,"['🤣', '🤣', '🤣']"
+7479874890113188630,2025-03-09 18:14:59,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡']"
+7479873671337706262,2025-03-09 18:10:16,aber vorher noch schön die diäten erhöhtwer arbeiten kann soll wieder arbeiten bzw muss wieder arbeiten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479872696479089430,2025-03-09 18:06:25,der soll selber arbeiten für 10 euro die std dann weiß die ratte was er von sich gibt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479872486676906774,2025-03-09 18:05:41,gilt dann nur für die deutschen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479871852389057302,2025-03-09 18:03:13,sehr sehr gutaber braucht viel neues personalwer will da durchsetztenkontrollierenwer soll faulheit beurteilenam besten lebensmittelgutscheine wo auch keine zigaretten oder alkohol gekauft werden,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479868372529365782,2025-03-09 17:49:39,ich arbeite seite 9 jahre im januar ich war arbeitelos bekommen keine geld ich frage mich warum wir zahlen stuer am besten nur schwarz arbeiten,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479868036846715670,2025-03-09 17:48:22,hört euch das mal an so eine lügen partei ich hoffe ihr cdu wähler fühlt euch gut,0,0,7464341167350484246,7464341167350484246,negative,,"['🤮', '🤮', '🤮']"
+7479866916254368534,2025-03-09 17:44:00,alles lügen und betrügen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479865745411113750,2025-03-09 17:39:32,endlich ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['👍']
+7479863995994948374,2025-03-09 17:32:38,ist nicht rechtlich,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479862090162127638,2025-03-09 17:25:14,fangt mit ukraine aber an bitte,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479862057195176706,2025-03-09 17:25:06,richtig so we nicht will der will nicht also keine kohle für die schmarotzer,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479861601307476758,2025-03-09 17:23:22,eine sehr gute nachricht obwohl ich es noch nicht glaube abwahrten ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['👍']
+7479859900824290070,2025-03-09 17:16:50,das mit dem bürgergeld ist immer wieder ablenkung egal wer gewählt wird fängt mit bürgergeld an,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479858695376454422,2025-03-09 17:12:06,oh ja da werden sich viele umschauen ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣']"
+7479858088498447126,2025-03-09 17:09:44,die ändern nur name sonst bleibt alles wie es war ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤦\u200d♂️', '🤦\u200d♂️', '🤦\u200d♂️', '🤦\u200d♂️']"
+7479855312540566294,2025-03-09 16:59:00,alle müssen arbeiten gehen richtig so,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479855190784623382,2025-03-09 16:58:35,die gerade nicht können,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂']"
+7479854787240968982,2025-03-09 16:56:54,dann müsst ihr aber oft in die ukraine fahren um das zu prüfen ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😅']
+7479854300845785878,2025-03-09 16:55:10,all die illegalen invasoren die seit 2015 hergekommen sind und bürgergeld bekommen ist der spaß des abzockens vorbei ,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479853393508221718,2025-03-09 16:51:34,richtig da hängen nicht mehr so viele in der sozialen hängematte  die arbeiten gehen könnten  ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍']"
+7479852858997932822,2025-03-09 16:49:26,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7479852043629462294,2025-03-09 16:46:17,ja hauptsache auch für alle angeblichen flüchtlinge die hier nich nie eingezahlt haben und auch für die antifa,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479851818350101270,2025-03-09 16:45:30,leute bitte lasst euch nicht reinlegen das ist ablenkung von echten problemen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479851700545176342,2025-03-09 16:45:04,kein wunder wenn jeder der hier her kommt die volle sozialleistungen bekommen ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7479849378918122262,2025-03-09 16:36:03,scheidungen werden so gestoppt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479848872081785622,2025-03-09 16:34:01,du musst auch nur sagen dass das leider gottes nur für die deutschen gilt für die ausländischen mitbürger gilt das natürlich nicht die dürfen noch weiterhin geld bekriegen oder sehe ich das anders,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479848410972635926,2025-03-09 16:32:14,die menschen welche nicht wollen werden euch schon erklären das sie geld haben möchten ,0,0,7464341167350484246,7464341167350484246,negative,,"['👳🏽\u200d♂️', '👩🏿\u200d🦱', '👨🏽']"
+7479848266382525206,2025-03-09 16:31:41,genau der meinung bin ich auch so muss das,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7479847766567437078,2025-03-09 16:29:38,der sozial staat ist nur für andere da nicht für die eigenen  zur hölle mit diesen politikern die nie was geleistet haben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479847679838864150,2025-03-09 16:29:23,arbeiten durch erpressung  was ist mit alleinerziehenden  absolut kinderfeindlich ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479846349456261910,2025-03-09 16:24:17,also dagegen habe ich absolut nichts allerdings wäre es mir lieber die partei afd auf seriöse art und weise zu erleben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479843660919243542,2025-03-09 16:13:47,lügen betrügen wir haben kein vertrauen niemals cdu spd grüne linke ihr seid alle schuldig nur noch afd ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7479843028862927638,2025-03-09 16:11:20,so muss es sein es wurde zeit das hätte schon viel früher passieren müssen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍']"
+7479842214818972438,2025-03-09 16:08:07,nichts wird sich ändern ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7479841589965275926,2025-03-09 16:05:49,richtig so ,0,0,7464341167350484246,7464341167350484246,positive,,['🥳']
+7479841366425355030,2025-03-09 16:04:49,ekelhaft nach unten treten ist einfacher als nach oben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479840571176780566,2025-03-09 16:01:50,,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7479840338893210390,2025-03-09 16:00:57,altes systemneuer name,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🙏', '🙏', '🙏']"
+7479839714020836118,2025-03-09 15:58:30,weg muß ihr sonst nichts,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479835048453489430,2025-03-09 15:40:29,was hat der sanktionsmechanismus gebracht die wenigsten wollen nicht sondern können nicht und wer entscheidet das ein sachbearbeiter der knapp über bürgergeld verdient tax the rich,0,2,7464341167350484246,7464341167350484246,neutral,,[]
+7479833515459855126,2025-03-09 15:34:26,zwangsarbeit,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👌', '😁']"
+7479831934140465942,2025-03-09 15:28:20,sozialhilfe und bürgergeld sollte man beides komplett abschaffen da haben wir in der ersten woche wahrscheinlich 100000 bürgergeldempfänger weniger im land,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479831705332269846,2025-03-09 15:27:22,und es gibt diejenigen die sich jeden monat bei anderen ärzten krankschreiben lassen und ab und zu mal wieder also geld kassieren nur weil  kein bock,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479831581163750166,2025-03-09 15:26:53,digitale währung sklaven ohne kettendie nächsten sind dann die rentner äußerst du deine meinung zack geld weg,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479831462046352150,2025-03-09 15:26:30,das wird nicht passieren  ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '😂']"
+7479831219896697622,2025-03-09 15:25:35,jawoll es gibt viel zu viele nassauer,0,0,7464341167350484246,7464341167350484246,negative,,['👍🏼']
+7479830440271446806,2025-03-09 15:22:30,typisch cdu die können nur nach unten treten und nach oben das geld verteilen diese cdu ist ein unmenschlicher burschenschaftsverein ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479829931691311894,2025-03-09 15:20:33,ich finde es klasse aber man muss bedenken dass es auch ältere menschen gibt und kranke aber jeder hat ja heutzutage burnout die sollte man bissel schützen die ganzen schmarotzer,0,1,7464341167350484246,7464341167350484246,positive,,"['🥳', '🥳', '🥳', '🥳', '🥳', '🤣', '🤣', '🤣', '🤣']"
+7479828860269249302,2025-03-09 15:16:24,liber nicht mehr zahlen für krieg milliarden dort ist geld genug,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479827885215007510,2025-03-09 15:12:37,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡']"
+7479827737511887638,2025-03-09 15:11:57,und wie wollt ihr bis auf 0 kürzen wenn es verfassungswidrig ist mal darüber nachgedacht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479826857174893334,2025-03-09 15:08:40,bla bla heißt dann wieder anders kommt aber trotzdem aufs gleiche raus,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479826097339056918,2025-03-09 15:05:44,na ja weniger milliarden für die ukraine waren toll die nicht wollen stehen ja unter mutterschutz,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479822785553089302,2025-03-09 14:52:44,was man wählt haltgut gemacht wo demos ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['🤣', '🤣', '🤣', '👌', '🤣', '🤣', '🤣', '🤣']"
+7479822653958685463,2025-03-09 14:52:19,und die sogenannten gäste die tingeln den ganzen tag rum hier  ich sehe das täglich hier  das ärgert mich schon,0,0,7464341167350484246,7464341167350484246,negative,-1.0,['😡']
+7479821783253271318,2025-03-09 14:48:56, sehr gut,0,0,7464341167350484246,7464341167350484246,positive,1.0,['👍']
+7479821584997679874,2025-03-09 14:48:09,dann ist das halt für mich da ich nicht mehr fähig bin arbeiten zu gehen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479821368282088214,2025-03-09 14:47:23,iwie bekomm ich brechreiz ,0,0,7464341167350484246,7464341167350484246,negative,,['🤑']
+7479821309321495318,2025-03-09 14:46:59,wers glaubt ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂']"
+7479820276772209430,2025-03-09 14:43:02,  für heil einst als die lösung angepriesen   der hat sich gelobt,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '😈', '😈', '😈']"
+7479819891756352278,2025-03-09 14:41:33,finde ich mega,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479819288003674902,2025-03-09 14:39:18,das wird zu 100 nur deutsche betreffen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479818447741829910,2025-03-09 14:36:01,auch die diäten abschaffen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479811637106180886,2025-03-09 14:09:35,sie nehmen es wieder von den armen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479811502338474774,2025-03-09 14:08:57,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7479810440442020630,2025-03-09 14:04:55,die cdu csu spd gehört abgeschafft,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479809776043311894,2025-03-09 14:02:19,und dan ukraine helfen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479809065301181206,2025-03-09 13:59:30,endlich arbeit für alle ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['😁', '😁', '😁', '😁']"
+7479807057471177494,2025-03-09 13:51:45,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💯', '👍']"
+7479806715392639766,2025-03-09 13:50:28,es heißt immer anders ist aber das gleiche sozialhilfe hart4 bürgergeld grundsicherung bla bla,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479806690549580566,2025-03-09 13:50:21,ja immer schön nach unten treten widerlich,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479806126546404118,2025-03-09 13:48:12,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '😎']"
+7479800490328720150,2025-03-09 13:26:21,die wollen das alle arbeiten das bringt steuern ein um was anderes geht es denn verbrechern nicht da haben sie schneller bürgerkrieg wie sie schauen können sind die ersten die das volk stürzt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479799802558464790,2025-03-09 13:23:36,aber sinnlos geld ins ausland ballern,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479799122528092950,2025-03-09 13:20:59,dann vergesst mal eure fachkräfte nicht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479798807388062486,2025-03-09 13:19:42,ich bin für steuern abschaffen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479797708726305559,2025-03-09 13:15:32,die arbeitsämterjobcenter waren doch für die vermittlung zuständig warum gibt es personaldienstleister die deren arbeit machen und richtig geld damit machen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479797140425999126,2025-03-09 13:13:21,was ist mit denen die nie in deutschland gearbeitet haben und bürgergeld bekommen  das wird ja richtig spannend was es da wieder für ausreden gibt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479795525494997762,2025-03-09 13:07:03,fürcfremde noch genug geldcda,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479795355485586198,2025-03-09 13:06:25,es bleibt alles beim alten nur ein anderer name,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479795104775455510,2025-03-09 13:05:28,aber für krieg können wir immer da sein,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479794071763387158,2025-03-09 13:01:21,ist das jetzt nur für die deutschen oder auch für unsere goldstücke,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479793971511886614,2025-03-09 13:01:01,bitte weg mit bürgergeld ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7479793550587118358,2025-03-09 12:59:16,perfekt und sehr gute idee jeder muss jetzt arbeiten gehen ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍']"
+7479793187508339478,2025-03-09 12:58:00,zählt das wieder nur für deutsche oder auch für die gäste  fragt ein freund ,0,0,7464341167350484246,7464341167350484246,neutral,0.0,['😏']
+7479791932668805910,2025-03-09 12:53:05,"schweiz 
+deutsche firmen in der schweiz produzieren für euländerwobei jährlich über 300 milliarden franken gewinn in der schweiz verbleiben
+politik politiker haben keine intresse daran",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479791878976766742,2025-03-09 12:52:46,"rentelohn 
+grundrente  betriebsrente für alle
+nach muster schweiz
+grundrente 45 von arbeitgeber arbeitnehmer von bruttolohn
+mindesten lohn 3500 euro pro monat  13
+3500 174  2012 euro",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479791418903970582,2025-03-09 12:51:03,aber 50 milliarden könnt ihr so rausschmeißen neben bei,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479790685697688342,2025-03-09 12:48:13,"für
+a l l e
+oder werden nur bestimmte sanktioniert",0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😜', '😜', '😜', '😜']"
+7479790415291974423,2025-03-09 12:47:10,geillllllllllll sehr guttttttt ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['😂', '😂', '👌', '👌', '👌']"
+7479789745515348758,2025-03-09 12:44:36,haha ukreiner was hat gemacht deuche leite ist am ende,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479788719701050134,2025-03-09 12:40:31,ihr habt doch alles mitgetragen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479785563772764950,2025-03-09 12:28:19,ich hoffe es betrifft alle die nicht wollen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479782255524905750,2025-03-09 12:15:30,man sollte euch erstmal die gelder streichen  keine vernünftige arbeit kein geld so einfach und nicht anders ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤔', '🤔', '🤔']"
+7479782107578893078,2025-03-09 12:14:58,kurrupte bande ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7479781410468315926,2025-03-09 12:12:12,wer das nicht versteht weil in de muss man wirklich für alle das erklären das widerspricht dem gg aber die werden einfach das gg ändern also was ist das gg schon wert,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂']"
+7479778630353093398,2025-03-09 12:01:23,dann krachts,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479777862435799830,2025-03-09 11:58:30,na denn mal raus mit unseren neuen mitbürgern,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479777765866423062,2025-03-09 11:58:09,mal was gutes,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479777034195108630,2025-03-09 11:55:18,vergesst die asylanten nicht ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479776759480714006,2025-03-09 11:54:12,sehr gut,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7479776696439653142,2025-03-09 11:53:55,dann steigen ja die obdachlosenzahlen  bin ja mal gespannt,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😉', '😉']"
+7479775781968266006,2025-03-09 11:50:24,lustig mal schauen wer diesbezüglich was davon hat die einheimischen arbeiten lassen und die neubürger dürfen zuhause bleiben da sie immer gegen den staat klagen mit das geld von den steuerzahlern,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😜']
+7479775406851572502,2025-03-09 11:49:01,dann viel glück und erfolg damit,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479774041667748630,2025-03-09 11:43:38,so sehen die aus,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479771605012038422,2025-03-09 11:34:11,wird das auch unsere gäste betreffen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479771190954607382,2025-03-09 11:32:36,es ist auch nicht für menschen dadie hier gerade herkommen und so ins system fallen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479770639193260822,2025-03-09 11:30:21,dann sollten alle politiker auch grundsicherung bekommen die können und wollen auch nichtsaußer sich schön die taschen voll machen und 2x im jahr die diäten erhöhen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479768559775007510,2025-03-09 11:22:21,wenn jemand aus bestimmten gründen nachweislich nicht arbeiten kann soll er unterstützt werden für alle anderen gilt sich selbst zu unterhalten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479767231860376322,2025-03-09 11:17:16,wir führen bald was ganz anderes ein,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479767083975377686,2025-03-09 11:16:34,ich hoffe ihr genießt eure wahlich schon ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7479766331983823638,2025-03-09 11:13:46,herzlichen glückwunsch an die leute die cdu gewählt haben ihr nichts richtig gemacht ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🤦', '💙', '🦅', '🇩🇪']"
+7479764657197155094,2025-03-09 11:07:12,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😅', '😅', '😅']"
+7479764545710752514,2025-03-09 11:06:52,für diedie nicht wollen voll ok und dann für die hergekommenen nur wertmarken und kein bares,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479763627323949846,2025-03-09 11:03:12,was ist mit leuten die überhaupt nicht arbeiten dürfen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479762999659184918,2025-03-09 11:00:51,es gibt viele die gesund sind und keine lust zum arbeiten haben und da bin ich auch dafür jeder der gesund ist und arbeiten kann soll auch arbeiten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479762703113782038,2025-03-09 10:59:41,politik zahlen so viel geld für krieg ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡']"
+7479760710904234774,2025-03-09 10:51:57,vollständiger leistungsentzug ist nicht rechtens da lügt der merz schon wieder ,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7479760529725309718,2025-03-09 10:51:09,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '💙', '💙', '💙', '💙', '😂', '😂', '😂', '😂']"
+7479760451657155350,2025-03-09 10:50:52,hauptsache du lebst wie die made im speck wardas ist wichtig,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479760281356370710,2025-03-09 10:50:18,,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣']"
+7479760176527672086,2025-03-09 10:49:49,wir werden millionäre gerecht besteuern und notfalls den sanktionsmechanismus wieder einführen,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😎', '😎', '😎', '😎']"
+7479760068352017175,2025-03-09 10:49:23,aber die afd will es  es ist absurd,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😁', '😁', '😁']"
+7479759832510235414,2025-03-09 10:48:26, können jetzt alle faulen arbeiten gehen,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👏']
+7479759717793006358,2025-03-09 10:48:06,jetzt werden die arbeitsämter wie militärstützpunkte aussehen ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😝', '😂']"
+7479759203759817494,2025-03-09 10:46:05,komisch aber für zelensky die krieg will gibt geld ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479758890805773078,2025-03-09 10:44:52,das kommt dabei raus toll,0,0,7464341167350484246,7464341167350484246,positive,0.0,"['💀', '😳']"
+7479758640825025302,2025-03-09 10:43:52,zählt übrigens nur für deutsche,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479758619669152534,2025-03-09 10:43:48,euch muss man das geld auch kürzen verdient für nichts geld,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479758176256410390,2025-03-09 10:42:10,es wäre genug geld da wenn ihr nicht nachts ihre gäste heimlich einfliegen lasst leider bekommen sie das größte stück vom kuchen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479758110460085014,2025-03-09 10:41:52,sollen die lieber runter mit der steuer würde mir mehr bringen das würde dann auch die menschen dazu bringen zu arbeiten wenn mehr netto von brutto übrig bleibt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479756619757634326,2025-03-09 10:36:00,dann hört erstmal auf kriege zu finanzieren dafür seltsamerweise immer geld da,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479756016348873494,2025-03-09 10:33:45,am ende leiden die falschen darunter wie immer,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479755874011841302,2025-03-09 10:33:11,ich habe diese partei nicht gewählt nur durch den druck der afd wird das überhaupt gemacht das sollte jedem klar sein ich hoffe das die cdu es sich macht wie versprochen aber nun ja mal sehen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479755343327331074,2025-03-09 10:31:06,das bürgergeld muß noch erhöht werden solange lohnarbeit nur ein frohndienst zum wohle des anbieters ist,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479754472462549782,2025-03-09 10:27:43,erst sozialhilfe dann hartz iv dann bürgergeld neuer name gleiches system wie immer,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479754188545999638,2025-03-09 10:26:35,es wird nur umbenannt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479754080383189782,2025-03-09 10:26:08," vernünftig
+no work  no money ",0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7479753494582526742,2025-03-09 10:23:58,bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479752448745407254,2025-03-09 10:19:53,das hört sich überhaupt nicht gut an,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479752392067089174,2025-03-09 10:19:36,oh dann steigt die beschaffungskriminalität,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479751763839992598,2025-03-09 10:17:12," die cdu dass war schon immer der letzte dreck ich freue mich auf die klageflut
+die schlimmen nazis sind schuld ",0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7479751036204155670,2025-03-09 10:14:23,ich finde es ganz schlimm dass die ärmsten wieder schikaniert werden nur 6 der deutschen bekommen bürgergeld das ist ja nichts im vergleich zu den 94  wo fast keiner davon eingezahlt hat,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479749330892145430,2025-03-09 10:07:44,bürgergeld,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479749258980721430,2025-03-09 10:07:27,jetzt wo die kassen eh schon leer sind dieses bargeld hätte es nie geben dürfen war ein einladung für die ganze welt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479749019716731670,2025-03-09 10:06:34,und was ist mit den menschen die arbeiten gehen wollen aber nicht können wegen krankheits bedingt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479748984212669206,2025-03-09 10:06:28,bravo ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['🙏']
+7479748485245485846,2025-03-09 10:04:33,oooooo da werden viele viele sehr viele durchdrehen und noch mehr menschen werden sterben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479748206689354518,2025-03-09 10:03:29,für alle eingeflogen traumatisierte wie kriegsflüchtlinge aus der ukraine die dann immer wieder im heimat urlaub sindfür alle die es wirklich benötigen sind aus dem system raus,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍', '👍', '🤮', '🤬', '🤮', '🤬', '🤮']"
+7479747576267473686,2025-03-09 10:00:54,gerade die nicht können  eingeflogenen traumatisierte fachkräfte und ukraine kriegsflüchtlinge die dann immer wieder im heimat urlaub sindalle anderen gehören dann nicht mehr dazu,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍']"
+7479746582875833110,2025-03-09 09:57:02,cdu jagt deutschland in den abgrund,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479746142574592790,2025-03-09 09:55:19,es wird ja weiter grundsicherung geben aber auf arbeitsverweigerer kommen schlechte zeiten zu ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😉']
+7479744705330725654,2025-03-09 09:49:55,richtig dass ganze arbeitsscheue linksgrüne pack so mal endlich auf den boden der tatsachen zurück kommen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479744570500514582,2025-03-09 09:49:22,so ist es richtig  wer faul ist braucht keine kohle,0,0,7464341167350484246,7464341167350484246,positive,1.0,['👍']
+7479743793147675414,2025-03-09 09:46:12,in holland gehen zu 70 der urgarine arbeitenund in deutschland,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479740745888400151,2025-03-09 09:34:33,und ihr werdet nur noch nach leistung bezahlt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479740367627862806,2025-03-09 09:32:58,er sagt für die die nicht können  nicht meckern sondern zuhören ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7479740264594768662,2025-03-09 09:32:36,so ist es ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💪']
+7479739866490979094,2025-03-09 09:31:01,cdu abschaffen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479739625746613014,2025-03-09 09:30:05,betrifft sicherlich nur die deutschen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479737573457675030,2025-03-09 09:22:14,ich höre nur bla bla bla nichts neues ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😁']
+7479731782205342486,2025-03-09 08:59:43,zählt nur für deutsche ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7479731716052943618,2025-03-09 08:59:23,und was ist mit denen die nie eingezahlt haben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479731050051830550,2025-03-09 08:56:54,auch für die ukraine leute oder bekommen sie weiter alles nur das volk nicht ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7479726162688901910,2025-03-09 08:37:48,cdu lach haft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479726114681094934,2025-03-09 08:37:41,ach so aber ins ausland geld schicken das könnt ihr ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7479725585369137942,2025-03-09 08:35:45,"na dann so lange multi weitet alles bekommt und der faule ossi dann
+perfekt",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479725259559109398,2025-03-09 08:34:25,nein aber für flüschtlinge ist alles da,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479724749171082006,2025-03-09 08:32:26,die menschen die arbeiten könnten brauchen kein bürgergeld,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479723869395272470,2025-03-09 08:29:02,kümmert euch mal um die zu hohen steuern  um die hilfe für ukraine  zu hohe mieten  irgendwelche unnötigen kosten im ausland,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479723420583494422,2025-03-09 08:27:18,aha,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479723266842886935,2025-03-09 08:26:44,jawoll  wir müssen auch arbeiten ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '‼️', '‼️', '‼️']"
+7479721129679373078,2025-03-09 08:18:20,aber auch für alle von denen ihr nicht spricht,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,['😡']
+7479721068372165398,2025-03-09 08:18:08,da wird doch nur der name geändert mehr nicht,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479720598467756822,2025-03-09 08:16:27,und vor allem können die männer wieder richtig arbeiten um ein menschenwürdiges leben zu leben wie zb eine haftpflicht versicherung oder rechtschutz versicherung mal urlaub und mal ein eis essen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479718740310852374,2025-03-09 08:09:09,und warum ist das so weil gelder für leute gezahlt werden die mit deutschland garnichts zutun haben und wieder mal müssen die deutschen für büßen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479713401938739990,2025-03-09 07:48:27,"mindestlohn neu anpassen zb 18 euro
+energiekosten runter mindestens 50 prozent
+mieten runter mindestens 50 prozent
+benzinkosten runter mindestenz 50 prozent
+wohn eigentum verbilligen nicht unmögl",0,1,7464341167350484246,7464341167350484246,negative,,[]
+7479711101799629590,2025-03-09 07:39:34,ja gibt unsere steuern lieber andere länder,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479706711294280450,2025-03-09 07:22:31,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7479706380552798998,2025-03-09 07:21:12,willkommen in der modern sklaverei hauptsache die politiker verdienen dann noch mehr ,0,0,7464341167350484246,7464341167350484246,neutral,,['👍🏽']
+7479706326068626198,2025-03-09 07:21:04,zält das nur für deutsche wieder oder auch für die flüchtlinge,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479705961541845782,2025-03-09 07:19:32,wer nicht arbeiten will muss zum bund,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479705491910329110,2025-03-09 07:17:50,dann sollen aber auch die firmen solche leute einstellen und das machen die nicht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479703724853445398,2025-03-09 07:11:02,dann schaffen sie erstmal arbeit mein sohn abschluss 1und 2 schreibt sich die finger wund jobcenter hat auch nix jetzt versucht er auf 20 stunden wozu hat er gelernt für nix,0,1,7464341167350484246,7464341167350484246,negative,,[]
+7479703052393939735,2025-03-09 07:08:24,was ist mit denen die keine arbeitserlaubnis haben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479699114637476630,2025-03-09 06:53:05,richtigggg,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479698493641884438,2025-03-09 06:50:37,es wird mehr kriminalität und mehr obdachlosigkeit kommen ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😁']
+7479697790555013910,2025-03-09 06:47:51,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7479697481187050262,2025-03-09 06:46:51,was habt ihr immer mit den bürger geld empfängerglaubt wirklich das ihr mehr geld habt wenn die arbeiten gehen die einzigen die da von profitieren sind die politiker ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂']"
+7479690067188286230,2025-03-09 06:18:05, vernünftig  ,0,0,7464341167350484246,7464341167350484246,positive,1.0,['👍']
+7479687570172592918,2025-03-09 06:08:35,hauptsache spenden gehen weiter ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙']"
+7479682350232060694,2025-03-09 05:48:43,nu klar den schwächsten wegnehmen schande ,0,0,7464341167350484246,7464341167350484246,negative,,['🤔']
+7479661696170607382,2025-03-09 04:29:00,na hoffentlich,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479648442877854486,2025-03-09 03:37:14,okay wo sind die anderen arbeitsplätze komisch,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7479639955082543874,2025-03-09 03:03:57,vor allem ist das bürgergeld nicht für ukraine die damit beschenkt werden ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😎']
+7479628310655746838,2025-03-09 02:19:14,immer wieder kosten ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🙄', '😉', '😂']"
+7479597614073021186,2025-03-09 00:19:20,alles für eure tasche,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7479597505229128470,2025-03-09 00:18:53,ihr seid ein gefahr für die welt ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['🙏']
+7479589288290157334,2025-03-08 23:46:52,bürgergeld abschaffen und nach ukraine schicken,0,0,7464341167350484246,7464341167350484246,neutral,0.0,"['😏', '😏', '😏', '😏', '😏', '😏']"
+7479552867210347286,2025-03-08 21:25:23,wie wäre es denn mit min 1 brutto jahreslohn an strafe für arbeitgeber die arbeitswillige wegen gdbscheinen nicht einstellen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7479548871091061526,2025-03-08 21:09:51,wie immer neuer name mehr geld ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣']"
+7479117067506451222,2025-03-07 17:14:13,richtig so,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7478762552308499222,2025-03-06 18:18:35,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡']"
+7478732455689847574,2025-03-06 16:21:51,genau kürzt das geld der bürger in deutschland damit ihr noch mehr an die ukraine schenken könnt aber bedenkt das ihr bei koalition regierung nicht alles in tat umsetzen könnt,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂']"
+7478723910868599574,2025-03-06 15:48:39,genau richtig  aber nur für die  die nicht wollen ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍']"
+7478590885099766550,2025-03-06 07:12:44,ihr vergebt nur nen neuen namen es bleibt sowieso das gleiche,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7478282332342272790,2025-03-05 11:15:14,ihr könnt mich mal,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7478268491876385558,2025-03-05 10:21:31,das kind bekommt doch nur einen neuen namen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7478214921892102914,2025-03-05 06:53:46,schande hört auf das geld für die ukraine raus zu schmeißen dann habt ihr geld,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7477681052773991190,2025-03-03 20:21:39,für erkrankte und mit überprüfung finde ich gut,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7477578978410513174,2025-03-03 13:45:48,immer an die ärmsten ran gehen  furchtbarso ein hanswurst,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7477551964387181334,2025-03-03 12:00:59,für ausländer ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '🙏', '🙏']"
+7477499651454370582,2025-03-03 08:38:04,und das geld verschwenden in die ukraine,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477494813820371734,2025-03-03 08:19:22,5 minuten nachdem satz wusste plötzlich keiner was davon mehr,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477468827878425366,2025-03-03 06:38:20,unser geld muss in de bleiben hier in bildung straßen und besonders für die rentner ausgegeben werden alles andere ist betr am volk,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7477364705942717206,2025-03-02 23:54:21,aber sich selber ab juni oder juli die diäten um 600 euro zu erhöhen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477289293372064534,2025-03-02 19:01:29,so wieder ein neuer name für die selbe sache,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7477273690906018582,2025-03-02 18:00:58,was ist mit fachkräfte aus dem ausland ,0,0,7464341167350484246,7464341167350484246,neutral,0.0,"['❓', '❓', '❓', '❓']"
+7477272151469458198,2025-03-02 17:54:58,das heißt dann nur anders,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['🤣', '😂', '😅']"
+7477198741856125718,2025-03-02 13:10:14,durch euch am ende,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7477195637759787798,2025-03-02 12:58:05,ja das heißt der deutsche der muss arbeiten gehen und die flüchtlinge werden von unseren steuern geldern bürgergeld empfangen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477169562988331798,2025-03-02 11:16:54,habt ihr langeweile ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7477163774249059094,2025-03-02 10:54:27,wie wäre es mal die die diäten abzuschaffenach stimmt an die eigene tasche wollen die nicht dran,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😉']
+7477140999140311810,2025-03-02 09:26:03,es war schon zeit aber eine nueu system auch für wenig geld ausgeben in andere ländern und mehr geld investieren in u sere land,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7477110624553927446,2025-03-02 07:28:34,mal gucken wie die sas durch den bgh bekommen ,0,0,7464341167350484246,7464341167350484246,neutral,,"['🤣', '🤣', '🤣']"
+7476984296105886486,2025-03-01 23:18:08,du heuchler du musst abgeschafft werden und des amtes nicht würdig und die diäten abschaffung diese korrupten politiker und bastarde,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476900563445269270,2025-03-01 17:53:09,wer ist das,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476872392090927894,2025-03-01 16:03:43,,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7476818910278107926,2025-03-01 12:36:13,wieso zählt ihr jetzt eure krankheiten auf er sagt doch die nicht wollen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476737669467144962,2025-03-01 07:21:13,na da bin ich gespannt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476712068634460950,2025-03-01 05:42:29,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💪', '💪', '💪']"
+7476696727191454486,2025-03-01 04:43:16,cdu sein motto ist die reichen werden reicher auf den nacken der mittelstufigen bis niedrig eingestuften traurig und sich vor der welt hinstellen ein land zu verteidigen das weder in der nato ist,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476593501977101078,2025-02-28 22:01:38,hab ihr davon  aber eure taschen packt ihr voll ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡']"
+7476567849872622358,2025-02-28 20:21:55,ich kenne nicht jedes wahlprogramm der parteien bis ins kleinste detail aber hat die afd nicht auch sowas schon gefordert ,0,0,7464341167350484246,7464341167350484246,negative,,['🤔']
+7476558485036401430,2025-02-28 19:45:37,manche kommentare erschließen mir absolut nicht man muss euch immer noch alles vorkauen,0,0,7464341167350484246,7464341167350484246,negative,,['🤦🏻\u200d♂️']
+7476509964761940758,2025-02-28 16:37:16,das geht euch nicht darum abschaffen heißt mehr geld und mehr geld für urkraine,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7476472652761154326,2025-02-28 14:12:32,cdu csu alles deutschland hasser und kriegstreiber,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476470310622823191,2025-02-28 14:03:35,gib dem kind einen anderen namen und du hast ein anderes kind unglaublich,0,0,7464341167350484246,7464341167350484246,neutral,,"['🤭', '🤭']"
+7476457312317227798,2025-02-28 13:13:05,nix außer lügen lügen lügen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476452958634541846,2025-02-28 12:56:16,schmarotzer müssen arbeiten ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7476451077916951318,2025-02-28 12:48:55,"ab juli 25 gibt es eine neue diäten erhöhung um 55 
+diese maßlosigkeit sollte auch abgeschafft werden",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476416135707132694,2025-02-28 10:33:28,ist gerade winter bitte nicht van da sie,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476394112917422870,2025-02-28 09:07:52,nicht reden machen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476352352430572310,2025-02-28 06:25:56,super ,0,0,7464341167350484246,7464341167350484246,positive,,"['🥰', '🥰', '🥰']"
+7476348648692876054,2025-02-28 06:11:43,jap aber gleichzeitig milliarden in die ukraine bezahlen  was eine clowns show in berlin,0,0,7464341167350484246,7464341167350484246,neutral,,['🤣']
+7476341146932249367,2025-02-28 05:42:37,und daaaannnnn,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7476236040439300866,2025-02-27 22:54:33,besser für die menschen die in deutschland leben als irgendwelche kriege finanzieren oder menschen die im ausland leben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476235750969066262,2025-02-27 22:53:34,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '🙂', '🙂', '🙂', '🙂', '🙂']"
+7476234886778159895,2025-02-27 22:49:58, is klar aber geld für bomben sind da,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7476227924881343255,2025-02-27 22:23:00,was mit mir bin arbeitsunfähig habe keine papiere für erwerbsminderungsrente kämpfe noch hab antrag gestellt abwarten,0,1,7464341167350484246,7464341167350484246,neutral,-1.0,['😭']
+7476227925512864534,2025-02-27 22:22:57,ukrainer syrien afrika,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476223594461840150,2025-02-27 22:06:07,nicht nur für die die nicht wollen auch für die die denken in deutschland fließt milch und honig,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476219844859675414,2025-02-27 21:51:37,mittlerweile müssen auch schwerbehinderte gez bezahlen ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
+7476212558174814998,2025-02-27 21:23:16,das einzig sinnvolle was die leleks vorhaben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476208666280182550,2025-02-27 21:08:11,richtig soo,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['💪', '💪']"
+7476190623223268118,2025-02-27 19:58:09,richtig so  dann macht das bezahl system auch wieder sinn,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476188436841644822,2025-02-27 19:49:40,bravo,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7476185707389485846,2025-02-27 19:39:02,erstmal ein paar neue einfliegen ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7476174033102750486,2025-02-27 18:53:48,welche arbeit  ki übernimmt doch alle jobs ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7476170323621921558,2025-02-27 18:39:21,von der afd abgeschrieben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476157264962994966,2025-02-27 17:48:43,"und dein geld sperren
+dumm labern das ist die cdu",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476150576251257622,2025-02-27 17:22:43,ihr habt erst alle eingeladen die nicht eingezahlt haben und deshalb sind die kassen leer jetzt werden die ärmsten bestraft für eure misslungene politik l,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😬']
+7476148561412752150,2025-02-27 17:14:56,ich bin sowieso befreit von der arbeitsvermittlung,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476145816614339350,2025-02-27 17:04:20,richtig,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7476138076885992214,2025-02-27 16:34:17,ihr müsst richtig zuhören es trifft die die nich wollen und nicht die nicht können und genau so muss das sein ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476130250453582614,2025-02-27 16:03:58,dann bei den flüchtlingen anfangen oder bei den die noch nie in deutschen kassen eingezahlt haben oder tun ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡']"
+7476130250453582614,2025-02-27 16:03:58,dann bei den flüchtlingen anfangen oder bei den die noch nie in deutschen kassen eingezahlt haben oder tun ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡']"
+7476122386259510038,2025-02-27 15:33:23,"hört richtig hin die nicht wollen
+nicht die die nicht können zb krank",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476117186207367958,2025-02-27 15:13:17,wählt alle linke cdu sind betrüger,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476115883341923094,2025-02-27 15:08:02,ui das schmeckt aber den linksgrünen nicht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476112130472264470,2025-02-27 14:53:37,das c bei der union steht für capital deswegen auch die hetze gegen die schwächsten denn nur so kann die union von ihrer klientelpolitik der reichsten ablenken,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476108907938415382,2025-02-27 14:41:07,ich bin chronisch krank und schaffe es nicht zu arbeiten ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,['😭']
+7476106524420260630,2025-02-27 14:31:53,der ist gar nicht abgeschafft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476101140595245856,2025-02-27 14:12:05,fällt weg  heißt nur anders,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476099510047097622,2025-02-27 14:04:43,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '✌️', '😉', '😝', '🤪', '😂', '😁']"
+7476094533203460886,2025-02-27 13:45:25,dann macht einfach die grenzen endlich zu ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😉']
+7476090571141333782,2025-02-27 13:29:54,zu dem zweck will die cdu die richter am bvg austauschen damit sie die sanktionen wieder einführen können ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😈']
+7476083827586417430,2025-02-27 13:03:53,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7476081700646503190,2025-02-27 12:55:38,haben die getingverdiener dasurch mehr lohn  oder rentner mehr rente  ich glaube nicht aber das ist typisch deutsche politik sündenbock finden um von problemen abzulenken,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476077169174643478,2025-02-27 12:37:58,bis es vom gericht wieder einkassiert wird ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😂']
+7476075929611027222,2025-02-27 12:33:11,richtig,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7476062106909344534,2025-02-27 11:39:39,für gebursturkunden die im ausland im kiosk gekauft werden können für angebliche kinder die angeblich im ausland leben bezahlen dönerläden etc finanzieren keine vermögensfeststellung bei ukrainer,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476023730452415254,2025-02-27 09:10:35,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['❤️', '❤️', '❤️', '👍']"
+7476017350861390614,2025-02-27 08:45:46,die ukraine muss aufgebaut werden daher müssen auch rentner in container zusammengelegt werden um die lebenshaltungskosten so zusammen zu legen das beste für das deutsche volk sein wille,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475995581967303446,2025-02-27 07:21:33,von oben anfangen zu sparen es reicht immer noch zu hohe kosten für unternehmen und noch mehr insolvenzen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475963464889516822,2025-02-27 05:17:18,das was dort gespart wird geht richtung,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👉🏼', '🚀']"
+7475868997402821398,2025-02-26 23:10:52,ich will nicht arbeitenweil ich geh doch nicht für euch asozialen arbeiten,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7475862528371737366,2025-02-26 22:45:16,cpd abschaffen  dannach krieg abschaffen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂']"
+7475858309556405014,2025-02-26 22:28:56,richtig so auch die kranken mit behinderungen haben auch alles abschaffen selber schuld ihr habt die falschen gewählt jetzt lebt so ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7475853405464216342,2025-02-26 22:10:12,das werden die sozialgerichte nicht mitmachen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475823682623914774,2025-02-26 20:14:19,alle faulen leute müssen arbeiten warum sollen wir steuerzahler für euch bezahlen  ausnahme rentner kranke  alleinerziehende ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475822492344206102,2025-02-26 20:09:54,alle die faul sind müssen arbeiten fertig  warum sollen wir steuerzahler euch den luxus ermöglichen der arbeitnehmer wird abgezockt ohne ende und die faulen müssen nichts machen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475822509536461590,2025-02-26 20:09:54,kombilohn war auch eine idee von heiner geißler cdu wäre eine gute idee,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475813705771549462,2025-02-26 19:35:37,endlich,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475804606510547734,2025-02-26 19:00:26,nochmal die sanktionen sind nicht für die leute die krank sind auch psychische krankheiten zählen dazu wenn ihr ein gutachten habt dann ändert sich für euch kaum was,0,1,7464341167350484246,7464341167350484246,neutral,,[]
+7475770547377799958,2025-02-26 16:48:19,jawohl da werden blauzis wieder jammern weil es sie betrifft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475769434768442134,2025-02-26 16:44:16,die nicht wollen die kommen nach deutschland da liegt euer problem und nicht an die bürger die bürgergeld bekommen behebt das problem mit den ukrainer und den zulauf von nicht flüchtlinge ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💙']
+7475757136367633174,2025-02-26 15:56:20,die hier hereinkommen per flieger ,0,0,7464341167350484246,7464341167350484246,neutral,0.5,"['😳', '😏']"
+7475756906025337622,2025-02-26 15:55:34,und unsere ausländer ,0,0,7464341167350484246,7464341167350484246,negative,0.5,"['😳', '😏', '😳', '😏']"
+7475734364837479190,2025-02-26 14:28:12,genau dann fangen wir aber erst mal bei unseren goldstücken an oder,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475694219505517334,2025-02-26 11:52:34,und so was habt ihr gewählt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475689281920172822,2025-02-26 11:33:22,was ist wenn menschen aufgrund erkrankung nicht mehr gehen können schafft die asylanten ab,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475685123372352278,2025-02-26 11:17:09,dann soll sie politiker arbeiten gehen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475659098975257366,2025-02-26 09:36:42,abschaffenden für die emigranten fremde ,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475645135121498902,2025-02-26 08:42:13,"er will deutsche runtersetzen
+migranten bekommen dann das doppelte",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475622150545408790,2025-02-26 07:13:04,und gab es damals sanktionen trotz möglichkeit nö,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475603714029601558,2025-02-26 06:02:10,ja aber 200 milliarden für die ukraine wollen lol,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475603608362074902,2025-02-26 06:01:31,situation kommen und es hängt nicht zum wollen oder können was ist das für mechanismus,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475535042930033430,2025-02-26 01:37:55,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7475505514610721558,2025-02-25 23:41:08,es wird nicht passiert,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475499448157455126,2025-02-25 23:16:57,ja cdu scu hat gute idee immer die dummer hallo kuck eure schulden was fur ukraine gibt mit mrd dass sind alls unsre steuergelder dafür sag keine,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475487398044025622,2025-02-25 22:29:58,bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475485524107526914,2025-02-25 22:22:16,für krieg geht es und für flüchtlinge klasse ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['🙄', '👍']"
+7475448399711732502,2025-02-25 19:58:17,glaubt denen kein wortes sind allesamt nichts als lügner und betrüger,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475435729619944214,2025-02-25 19:08:55,schande für die menschen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475435247799714582,2025-02-25 19:07:08,fangt bei den asylbewerber an statt neue reinzukommen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475428758200599318,2025-02-25 18:41:57,es gibt geld für die ukraine sie schicken geld dorthin es gibt kein problem aber sie wollen den leuten in deutschland kein geld geben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474958621379183382,2025-02-24 12:17:56,wo gibt arbeit in deutschland für behinderung mit 80   ich schreibe ständig bewerbungen ,0,0,7464341167350484246,7464341167350484246,negative,-0.3333333333333333,"['😩', '😩', '😩', '😏', '😏', '😏', '😏', '😏', '😏']"
+7474960369352147734,2025-02-24 12:24:46,erst musst du schwören dann glaube ich dir das ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😎', '😂']"
+7474961578820010774,2025-02-24 12:29:12,wer hat die bloß gewähltjunge das könnt ihr alles nicht im alleingang machenvier jahre durchhalten dann seit ihr geschichte weil dann der letzte wach geworden ist,0,2,7464341167350484246,7464341167350484246,neutral,,['🤨']
+7474963299416802050,2025-02-24 12:36:00,bleibt also alles bei alten nur der name ändert sich mal wieder ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7475027327656035094,2025-02-24 16:44:14,dann sollen sie mal unsere fachkräfte nicht vergessen ,0,0,7464341167350484246,7464341167350484246,neutral,,['🙄']
+7475017476020110112,2025-02-24 16:06:05,achja und was ist kranken menschen die nicht arbeiten gehen können,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475020089998574358,2025-02-24 16:16:10,gibst menschen dass sie krank sind und nicht arbeiten können und gibst menchen dass sie faul sind,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475020913583440662,2025-02-24 16:19:13,hahaha wie hat denn märz sein bruder gelebt der ms hatte so wie ich,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475021309667017474,2025-02-24 16:21:06,minister und institutoren der landes bundes grund gesetze von internationale tradionele culturele volker verstosen oder ignoriren verhaftenschare,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475022203055637270,2025-02-24 16:24:26,ja herzlichen glückwunsch an die ganzen cdu wähler wartet mal auf die co2 steuer da wird der liter 250 kommenapplaus,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475022684264268546,2025-02-24 16:26:13,der staat ist am ende weil politiker zu viel verdienen und ihr das geld verschenkt ,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475022675447726870,2025-02-24 16:26:16,"alle linke nun so 
+weil sie arbeiten sollen ",0,0,7464341167350484246,7464341167350484246,neutral,0.3333333333333333,"['😱', '😭', '😂']"
+7475024367216378646,2025-02-24 16:32:56,ja ich freue mich das ist das was die deutschen wollten cdu dass die arme noch ärmer werden bravo deutschland ihr seid so schlau im kopf,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475026258817155862,2025-02-24 16:40:02,,0,1,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '🙏', '🙏', '🙏', '🙏', '🙏', '🙏', '🙏']"
+7475026984797700886,2025-02-24 16:43:05,deutsche müssen dann arbeiten und die anderen dürfen weiter beziehen,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '🙋🏽\u200d♂️']"
+7475015664765469462,2025-02-24 15:59:11,bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475030273924547350,2025-02-24 16:55:46,hatten wir doch schon mal das hat nichts gebracht statt sanktionen sollte man anreize schaffen denn mit den sanktionen geht nach hinten los,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475031971728868118,2025-02-24 17:02:31,cdu mal wieder nach unten am treten,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475035240812610327,2025-02-24 17:15:06,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👏', '👏', '👏']"
+7475036734784619286,2025-02-24 17:20:52,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7475036730590135062,2025-02-24 17:20:52,gut so ,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475037803237131030,2025-02-24 17:25:00,dann das geld erst garnicht annehmen durch sozialabgaben  dann perfekt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475039928637948694,2025-02-24 17:33:17,immer auf die ärmsten der armen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475039995553628950,2025-02-24 17:33:30,wau das ist super,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475043082418881302,2025-02-24 17:45:30,dann wird noch schlimmer dann leute fangen klauen und wird mehr kriminellitet,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474998134081487638,2025-02-24 14:51:18,ihr werdet garnichts außer krieg machen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474987421814489878,2025-02-24 14:09:30,ja gut dann heißt es anders aber der stand bleib doch,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474990301662511894,2025-02-24 14:20:59,dan schaffen wir euch ab ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😌']
+7474992445287236374,2025-02-24 14:29:15,ja hetzt die armen gegen die noch ärmeren und gib das geld den banken und der ukraine,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474993218913551126,2025-02-24 14:32:07,armenverfolgung,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474993659315716886,2025-02-24 14:33:55,,0,0,7464341167350484246,7464341167350484246,negative,,"['🥰', '🥰', '🥰']"
+7474994293255488278,2025-02-24 14:36:17,nur abschaffen für deutsche oder für alle,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474995058984747798,2025-02-24 14:39:10,komisch immer an die gehen die schon wenig haben für leute die nicht wollen finde ich es ja nicht verkehrt und hoffentlich gehen die politiker mal an ihre gelder,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474995912642773782,2025-02-24 14:42:38,wie früherwird wieder sozialamt heißen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474997268236567318,2025-02-24 14:47:30,ich kann nicht weil ihr korrupt seit,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474997330770232086,2025-02-24 14:48:06,spd wird nicht zustimmen und bundesgerichtshof wird es ablehnen ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['💯', '👈']"
+7474940747100341014,2025-02-24 11:08:29,bürgergeld nur für deutsche,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474998434384134934,2025-02-24 14:52:23,deutschland hat es gewählt sie mögen dies alles ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['💪', '👌']"
+7475000128774390550,2025-02-24 14:59:07,ich hoffe für alle flüchtlinge,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475006649456919319,2025-02-24 15:24:05,und millionen wieder nach ukraine schicken,0,0,7464341167350484246,7464341167350484246,neutral,,['🥺']
+7475006708676543254,2025-02-24 15:24:30,ja man braucht halt mehr geld für selensky,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475007173871125270,2025-02-24 15:26:21,da werden ja viele cdu wähler die bürgergeld beziehen oder antifas ja ganz dumm aus der wäsche schauenbis 70zig wackeln 40h aufwärts wie herr merz es wünscht,0,1,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7475008229840732950,2025-02-24 15:30:13,spd mit in der regierungnix wird abgeschafft,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7475010742519202582,2025-02-24 15:40:10,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂']"
+7475011724300469014,2025-02-24 15:43:49,"es ist nur showdie haben eine regierung mit der spd zu bildenund es bleibt alles genausowie vorher
+
+alles nur show",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475012856838062870,2025-02-24 15:48:14,rip an alle menschen mit behinderungen sozialamt sagt tschau,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464872879299363606,2025-01-28 08:01:03,niemals cdu untergang deutschland niemals,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464610903159194390,2025-01-27 15:03:35,,0,0,7464341167350484246,7464341167350484246,negative,0.0,"['😏', '😏', '😏', '😏', '🤣']"
+7464613755838677782,2025-01-27 15:14:21,zdu nicht mehr wählbar ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,['😡']
+7464620598808478486,2025-01-27 15:41:04,er holt sich die macht egal was es kostet so ein machtgeiler heuchler merkel wußte schon warum sie diesen typ merz auf abstand gehalten hat  kriegstreiber,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡', '😡']"
+7464620881158374146,2025-01-27 15:42:22,er holt sich die macht egal was es kostet so ein machtgeiler heuchler merkel wußte schon warum sie diesen typ merz auf abstand gehalten hat  kriegstreiber,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡', '😡']"
+7464624237753303830,2025-01-27 15:55:17,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7464626448625959702,2025-01-27 16:03:58,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7464637143413326594,2025-01-27 16:45:14,wir sollten politiker sanktionieren,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464664199257096982,2025-01-27 18:30:09,wir schaffen geld für bundestag ab,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '😂', '😂']"
+7464719419051688726,2025-01-27 22:04:29,da gehen unsere steuergelder hinwarum noch für die nix könner der politik arbeitenab morgen bei ich zu hausedeshalb ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464775542140060422,2025-01-28 01:42:10,la dedizione dellinvestitrice claudia al successo dei propri clienti è davvero encomiabileclaudia mancini ,0,0,7464341167350484246,7464341167350484246,negative,,['🇮🇹']
+7464610902886646550,2025-01-27 15:03:34,ist der herr ein afd politiker oder ein papagei von die afd,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7465004706557952790,2025-01-28 16:31:27,bis daher habt ihr geschlafen nur geld kassieren und weiter geschlafen nur afd kann deutschland helfen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💙']
+7465275220551631639,2025-01-29 10:01:31,afd worte ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7465598743184163606,2025-01-30 06:57:48,bevor ihr euch im die sozialhilfe gedanken macht sorgt erstmal dafür das wir nicht mehr welt sozialamt sind deutschland ist seit vielen jahrzehnten dafür bekannt das sozialamt der welt zu sein,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7466874250667246358,2025-02-02 17:26:13,also das land erneut gegen die wand fahren wo ist denn nur das ganze geld in den eigenen taschen so siehts aus,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7467397641698083606,2025-02-04 03:21:45,grundsicherung für migranten  die deutschen arbeiten bis 70 und dann in die holzkiste  cdu ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😭', '😭', '😭']"
+7467596610592752406,2025-02-04 16:09:31,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7467624167954629398,2025-02-04 17:56:23,na dann fangt mal bei der ukraine und den syrern an,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7467835430453642006,2025-02-05 07:36:37,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7468220149251965718,2025-02-06 08:30:09,das hat die afd schon lange gefordert  afd wählen,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464517956987306774,2025-01-27 09:03:01,bla bla bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464345610318594838,2025-01-26 21:53:54,,0,0,7464341167350484246,7464341167350484246,negative,,"['🖤', '🖤', '🖤', '🖤']"
+7464363099169522434,2025-01-26 23:02:02,deshalb spd,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464402263453238038,2025-01-27 01:36:13,nicht wählbar diese schwätzer lügner heuchler,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464466973855564566,2025-01-27 05:46:01,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464467350634595094,2025-01-27 05:48:05,wir wollen und brauchen die afd ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7464469078714352386,2025-01-27 05:54:39,nur noch blau ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '💙', '💙', '💙', '💙']"
+7464471036999385878,2025-01-27 06:01:37,cdu hat 2015 versprochen dass sie es schaffen cducsu ist in den ländern an der macht kein wille etwas zu ändern jetzt wahlkampf mit selbst verschuldeten problemen ganz mein humor ,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7464493402965672726,2025-01-27 07:27:51,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍']"
+7464503679467766550,2025-01-27 08:07:46, ,0,0,7464341167350484246,7464341167350484246,negative,0.8333333333333334,"['🖤', '🖤', '🖤', '👍', '💪', '🔥', '🙏', '👏', '💯', '🖤', '🖤', '🖤']"
+7464509773133792022,2025-01-27 08:32:12,stimmt,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7469029396549927702,2025-02-08 12:49:34,bla bla wie immer die alteparteien sind nicht mehr wählbar jetzt nur afd für für unsere kinder und enkelkinder für sicherheit und frieden ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🇩🇪', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464531160064852758,2025-01-27 09:54:07,cdu man nennt sie auch die scheinheiligen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464558728789738272,2025-01-27 11:41:03,das ist ja eine tolle aussage mit sehr viel verstand gesagt alle achtung,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464564064003212054,2025-01-27 12:01:56,ihr redet niemals über die rentner,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7464566812539323158,2025-01-27 12:12:52,"bürgergeld für ukrainer streichen nur für deutsche steuerzahler in not gedacht
+mietenbk und bürgergeld nur für erwachsene für kinder gibts nur das kindergeld bürgergeld deckeln fertig",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464581360024879894,2025-01-27 13:08:52,la bla bla,0,0,7464341167350484246,7464341167350484246,negative,,"['🤮', '🤮', '🤮']"
+7464584922302300950,2025-01-27 13:22:56,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7464585152800670496,2025-01-27 13:24:07,ekelhaftden bundestag über die hälfte raus schmeißen und schon sind millionen da ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7464590149806342934,2025-01-27 13:43:14,da hättet ihr schon lange was machen müssen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7464591649576026902,2025-01-27 13:49:05,schick die ukrainer und fachkräfte zu arbeit,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474928234439197462,2025-02-24 10:20:07,"es wollen soooo viele nicht
+bürger geld kürzen und hoffe das alle die gesund sind endlich mal arbeiten gehen",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474917158339855126,2025-02-24 09:37:26,eure diäten müssen weg so wäre es rz,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474918146399666966,2025-02-24 09:40:58,ja und die deppen glauben es ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['🙈']
+7474918292286980886,2025-02-24 09:41:55,dann soll das buergergeld auch für ukrainer und alle anderen abgeschafft werden,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474919049605202710,2025-02-24 09:44:26,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7474921288819524374,2025-02-24 09:53:42,ich sag nur raus aus diesem land große kette drum mit einem dicken schloss und dann den schlüssel wegwerfen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474921479122699030,2025-02-24 09:54:06,hoffentlich nicht wieder alle über einem kamm scheren da brauch es fingerspitzengefühl ich habe das gefühl die es wirklich brauchen werden von dem jobcenter wieder behandelt wie der letzte dreck,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474922137847366422,2025-02-24 09:56:58,die sanktionen gibts doch schon,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474922396303688470,2025-02-24 09:57:35,heißt das dann die wollen nur grundsicherung einführen die behindert sind oder krank sind ,0,0,7464341167350484246,7464341167350484246,neutral,,['🧐']
+7474925134278279958,2025-02-24 10:08:14,ja klar das kind bekommt mal wieder einen anderen namen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474925730938880790,2025-02-24 10:10:23, ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😜', '😂', '😂', '😂', '😂']"
+7474915862328525590,2025-02-24 09:32:00,erhöht das mal schön damit ich weiter reisen kann,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474930084999086870,2025-02-24 10:27:04,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7474930326126445334,2025-02-24 10:28:24, toll gib dem kind einen anderen namen das wars,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7474930916210361110,2025-02-24 10:30:42,ja ihr nennt einfach nur den namen um sonst bleibt alles gleich toll wow ändert sich ja auch so viel,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7474936163348235030,2025-02-24 10:51:16,wer ist das dennden hatte ich noch nie auf dem schirmdiese leute haben ja auch genug mehr als genug,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474936224693863190,2025-02-24 10:51:24,klar die wirtschaft zerstören keine arbeitsplätze vorhanden und dann das bürgergeld streichen eine richtig geile politik haben wir,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474938474647814934,2025-02-24 10:59:48,dann schickt alle aus anderen ländern aber auch nach hauseviele ja nge männer wollen nicht arbeiten,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474940118738928406,2025-02-24 11:06:01,a,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7474940433529963286,2025-02-24 11:07:12,die meisten probleme kamen durch zu hohe mieten teuren strom niederige löhne,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474940653035684631,2025-02-24 11:08:16,alle die das befürwortetverstehen nicht dass sie näher am bürgergeld sind statt jemals finanzielle freiheit zu erlangenins eigene fleisch schneiden ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😅', '😜']"
+7473023617216152342,2025-02-19 07:09:23,die cdu wird sich noch umschauen wenn sie mit grün und spd zusammen gehen bei abstimmung haben die beiden mehr als cdu,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7469190196401537814,2025-02-08 23:14:00,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7469190524235449110,2025-02-08 23:14:46,gilt nur für deutsche oder,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7469195023746646806,2025-02-08 23:32:28,dies wollen aber kein job beckom,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7469195099034321686,2025-02-08 23:32:40,was ist mit dem,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7469461643048911638,2025-02-09 16:46:56,so ist es ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7469710636412109590,2025-02-10 08:53:40,kann das auch ganz gefährlich werden wenn das gemacht würde für die mitarbeiter des arbeitsamtes,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7471994424374018838,2025-02-16 12:35:00,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7472428421457822486,2025-02-17 16:39:10, afd  ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '🙏🏻', '🙏🏻']"
+7472531691110728470,2025-02-17 23:20:11,bürgergeld ich bin fachkraft und musste als ungelernte kraft industrie reinigungskraft tätig sein,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7472531728802202390,2025-02-17 23:21:00,seit 2016 ist der arbeitsunfall mit industrie reinigungsmittel und baustoffe chemie nicht abgeschlossen  bürgergeld,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475044273080599318,2025-02-24 17:49:58,gut so es kann nicht sein dass die die nicht wollen einfach uns auf der tasche liegen,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7473178962178867990,2025-02-19 17:11:52,nur noch afd ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🇩🇪', '💙', '💙']"
+7474844739890070294,2025-02-24 04:58:02,der arbeiter und der kleinemann  werden von merz und seinen leuten so richtig leiden  er kümmert sich wie trumpf nur um die leute die geld haben und jetzt noch mehr belommen und kommt seines wege,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474847942396101398,2025-02-24 05:10:45,das ist sehr gut    ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍', '👍', '👍']"
+7474864348385542934,2025-02-24 06:12:19,gut mit arbeitspflicht sinkt einkommen da bürgergeld leute dann fast gratis oder gratis für arbeitgeber,0,2,7464341167350484246,7464341167350484246,neutral,,[]
+7474869844962591510,2025-02-24 06:33:43,für asylanten auchoder nur für deutsche bürger,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7474883688581939990,2025-02-24 07:27:25,und sowas nennt sich volk,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474895525301748502,2025-02-24 08:13:06,richtig,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7474910294033859350,2025-02-24 09:10:39,aber auch für die die hier eingewandert sind,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7474913275491402518,2025-02-24 09:22:03,bla bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475963464889516822,2025-02-27 05:17:18,das was dort gespart wird geht richtung,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👉🏼', '🚀']"
+7475770547377799958,2025-02-26 16:48:19,jawohl da werden blauzis wieder jammern weil es sie betrifft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475804606510547734,2025-02-26 19:00:26,nochmal die sanktionen sind nicht für die leute die krank sind auch psychische krankheiten zählen dazu wenn ihr ein gutachten habt dann ändert sich für euch kaum was,0,1,7464341167350484246,7464341167350484246,neutral,,[]
+7475813705771549462,2025-02-26 19:35:37,endlich,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475822509536461590,2025-02-26 20:09:54,kombilohn war auch eine idee von heiner geißler cdu wäre eine gute idee,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475822492344206102,2025-02-26 20:09:54,alle die faul sind müssen arbeiten fertig  warum sollen wir steuerzahler euch den luxus ermöglichen der arbeitnehmer wird abgezockt ohne ende und die faulen müssen nichts machen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475823682623914774,2025-02-26 20:14:19,alle faulen leute müssen arbeiten warum sollen wir steuerzahler für euch bezahlen  ausnahme rentner kranke  alleinerziehende ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475853405464216342,2025-02-26 22:10:12,das werden die sozialgerichte nicht mitmachen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475858309556405014,2025-02-26 22:28:56,richtig so auch die kranken mit behinderungen haben auch alles abschaffen selber schuld ihr habt die falschen gewählt jetzt lebt so ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['👍']
+7475862528371737366,2025-02-26 22:45:16,cpd abschaffen  dannach krieg abschaffen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂']"
+7475868997402821398,2025-02-26 23:10:52,ich will nicht arbeitenweil ich geh doch nicht für euch asozialen arbeiten,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7475769434768442134,2025-02-26 16:44:16,die nicht wollen die kommen nach deutschland da liegt euer problem und nicht an die bürger die bürgergeld bekommen behebt das problem mit den ukrainer und den zulauf von nicht flüchtlinge ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💙']
+7475995581967303446,2025-02-27 07:21:33,von oben anfangen zu sparen es reicht immer noch zu hohe kosten für unternehmen und noch mehr insolvenzen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476017350861390614,2025-02-27 08:45:46,die ukraine muss aufgebaut werden daher müssen auch rentner in container zusammengelegt werden um die lebenshaltungskosten so zusammen zu legen das beste für das deutsche volk sein wille,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476023730452415254,2025-02-27 09:10:35,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['❤️', '❤️', '❤️', '👍']"
+7476062106909344534,2025-02-27 11:39:39,für gebursturkunden die im ausland im kiosk gekauft werden können für angebliche kinder die angeblich im ausland leben bezahlen dönerläden etc finanzieren keine vermögensfeststellung bei ukrainer,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476075929611027222,2025-02-27 12:33:11,richtig,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7476077169174643478,2025-02-27 12:37:58,bis es vom gericht wieder einkassiert wird ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😂']
+7476081700646503190,2025-02-27 12:55:38,haben die getingverdiener dasurch mehr lohn  oder rentner mehr rente  ich glaube nicht aber das ist typisch deutsche politik sündenbock finden um von problemen abzulenken,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476083827586417430,2025-02-27 13:03:53,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7476090571141333782,2025-02-27 13:29:54,zu dem zweck will die cdu die richter am bvg austauschen damit sie die sanktionen wieder einführen können ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😈']
+7476094533203460886,2025-02-27 13:45:25,dann macht einfach die grenzen endlich zu ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😉']
+7475603714029601558,2025-02-26 06:02:10,ja aber 200 milliarden für die ukraine wollen lol,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475428758200599318,2025-02-25 18:41:57,es gibt geld für die ukraine sie schicken geld dorthin es gibt kein problem aber sie wollen den leuten in deutschland kein geld geben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475435247799714582,2025-02-25 19:07:08,fangt bei den asylbewerber an statt neue reinzukommen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475435729619944214,2025-02-25 19:08:55,schande für die menschen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475448399711732502,2025-02-25 19:58:17,glaubt denen kein wortes sind allesamt nichts als lügner und betrüger,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475485524107526914,2025-02-25 22:22:16,für krieg geht es und für flüchtlinge klasse ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['🙄', '👍']"
+7475487398044025622,2025-02-25 22:29:58,bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475499448157455126,2025-02-25 23:16:57,ja cdu scu hat gute idee immer die dummer hallo kuck eure schulden was fur ukraine gibt mit mrd dass sind alls unsre steuergelder dafür sag keine,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475505514610721558,2025-02-25 23:41:08,es wird nicht passiert,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475535042930033430,2025-02-26 01:37:55,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7475603608362074902,2025-02-26 06:01:31,situation kommen und es hängt nicht zum wollen oder können was ist das für mechanismus,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476099510047097622,2025-02-27 14:04:43,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '✌️', '😉', '😝', '🤪', '😂', '😁']"
+7475622150545408790,2025-02-26 07:13:04,und gab es damals sanktionen trotz möglichkeit nö,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475645135121498902,2025-02-26 08:42:13,"er will deutsche runtersetzen
+migranten bekommen dann das doppelte",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475659098975257366,2025-02-26 09:36:42,abschaffenden für die emigranten fremde ,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475685123372352278,2025-02-26 11:17:09,dann soll sie politiker arbeiten gehen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475689281920172822,2025-02-26 11:33:22,was ist wenn menschen aufgrund erkrankung nicht mehr gehen können schafft die asylanten ab,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475694219505517334,2025-02-26 11:52:34,und so was habt ihr gewählt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475734364837479190,2025-02-26 14:28:12,genau dann fangen wir aber erst mal bei unseren goldstücken an oder,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475756906025337622,2025-02-26 15:55:34,und unsere ausländer ,0,0,7464341167350484246,7464341167350484246,negative,0.5,"['😳', '😏', '😳', '😏']"
+7475757136367633174,2025-02-26 15:56:20,die hier hereinkommen per flieger ,0,0,7464341167350484246,7464341167350484246,neutral,0.5,"['😳', '😏']"
+7476416135707132694,2025-02-28 10:33:28,ist gerade winter bitte nicht van da sie,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476223594461840150,2025-02-27 22:06:07,nicht nur für die die nicht wollen auch für die die denken in deutschland fließt milch und honig,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476227925512864534,2025-02-27 22:22:57,ukrainer syrien afrika,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476227924881343255,2025-02-27 22:23:00,was mit mir bin arbeitsunfähig habe keine papiere für erwerbsminderungsrente kämpfe noch hab antrag gestellt abwarten,0,1,7464341167350484246,7464341167350484246,neutral,-1.0,['😭']
+7476234886778159895,2025-02-27 22:49:58, is klar aber geld für bomben sind da,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7476235750969066262,2025-02-27 22:53:34,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙', '💙', '💙', '🙂', '🙂', '🙂', '🙂', '🙂']"
+7476236040439300866,2025-02-27 22:54:33,besser für die menschen die in deutschland leben als irgendwelche kriege finanzieren oder menschen die im ausland leben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476341146932249367,2025-02-28 05:42:37,und daaaannnnn,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7476348648692876054,2025-02-28 06:11:43,jap aber gleichzeitig milliarden in die ukraine bezahlen  was eine clowns show in berlin,0,0,7464341167350484246,7464341167350484246,neutral,,['🤣']
+7476352352430572310,2025-02-28 06:25:56,super ,0,0,7464341167350484246,7464341167350484246,positive,,"['🥰', '🥰', '🥰']"
+7476394112917422870,2025-02-28 09:07:52,nicht reden machen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476219844859675414,2025-02-27 21:51:37,mittlerweile müssen auch schwerbehinderte gez bezahlen ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
+7476451077916951318,2025-02-28 12:48:55,"ab juli 25 gibt es eine neue diäten erhöhung um 55 
+diese maßlosigkeit sollte auch abgeschafft werden",0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476452958634541846,2025-02-28 12:56:16,schmarotzer müssen arbeiten ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7476457312317227798,2025-02-28 13:13:05,nix außer lügen lügen lügen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476470310622823191,2025-02-28 14:03:35,gib dem kind einen anderen namen und du hast ein anderes kind unglaublich,0,0,7464341167350484246,7464341167350484246,neutral,,"['🤭', '🤭']"
+7476472652761154326,2025-02-28 14:12:32,cdu csu alles deutschland hasser und kriegstreiber,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476509964761940758,2025-02-28 16:37:16,das geht euch nicht darum abschaffen heißt mehr geld und mehr geld für urkraine,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7476558485036401430,2025-02-28 19:45:37,manche kommentare erschließen mir absolut nicht man muss euch immer noch alles vorkauen,0,0,7464341167350484246,7464341167350484246,negative,,['🤦🏻\u200d♂️']
+7476567849872622358,2025-02-28 20:21:55,ich kenne nicht jedes wahlprogramm der parteien bis ins kleinste detail aber hat die afd nicht auch sowas schon gefordert ,0,0,7464341167350484246,7464341167350484246,negative,,['🤔']
+7476593501977101078,2025-02-28 22:01:38,hab ihr davon  aber eure taschen packt ihr voll ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡']"
+7476148561412752150,2025-02-27 17:14:56,ich bin sowieso befreit von der arbeitsvermittlung,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476101140595245856,2025-02-27 14:12:05,fällt weg  heißt nur anders,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476106524420260630,2025-02-27 14:31:53,der ist gar nicht abgeschafft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476108907938415382,2025-02-27 14:41:07,ich bin chronisch krank und schaffe es nicht zu arbeiten ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,['😭']
+7476112130472264470,2025-02-27 14:53:37,das c bei der union steht für capital deswegen auch die hetze gegen die schwächsten denn nur so kann die union von ihrer klientelpolitik der reichsten ablenken,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476115883341923094,2025-02-27 15:08:02,ui das schmeckt aber den linksgrünen nicht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476117186207367958,2025-02-27 15:13:17,wählt alle linke cdu sind betrüger,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476122386259510038,2025-02-27 15:33:23,"hört richtig hin die nicht wollen
+nicht die die nicht können zb krank",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476130250453582614,2025-02-27 16:03:58,dann bei den flüchtlingen anfangen oder bei den die noch nie in deutschen kassen eingezahlt haben oder tun ,0,0,7464341167350484246,7464341167350484246,neutral,-1.0,"['😡', '😡']"
+7476138076885992214,2025-02-27 16:34:17,ihr müsst richtig zuhören es trifft die die nich wollen und nicht die nicht können und genau so muss das sein ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476145816614339350,2025-02-27 17:04:20,richtig,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475416625442259734,2025-02-25 17:54:55,in deutschland leiden viele menschen unter armut besondere kinder und die wollen dass diese arme menschen noch schlechter geht die wollten doch die grenze schließen nein dafür bürgergeld abschaff,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476150576251257622,2025-02-27 17:22:43,ihr habt erst alle eingeladen die nicht eingezahlt haben und deshalb sind die kassen leer jetzt werden die ärmsten bestraft für eure misslungene politik l,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😬']
+7476157264962994966,2025-02-27 17:48:43,"und dein geld sperren
+dumm labern das ist die cdu",0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476170323621921558,2025-02-27 18:39:21,von der afd abgeschrieben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476174033102750486,2025-02-27 18:53:48,welche arbeit  ki übernimmt doch alle jobs ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7476185707389485846,2025-02-27 19:39:02,erstmal ein paar neue einfliegen ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7476188436841644822,2025-02-27 19:49:40,bravo,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7476190623223268118,2025-02-27 19:58:09,richtig so  dann macht das bezahl system auch wieder sinn,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7476208666280182550,2025-02-27 21:08:11,richtig soo,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['💪', '💪']"
+7476212558174814998,2025-02-27 21:23:16,das einzig sinnvolle was die leleks vorhaben,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475082099339379478,2025-02-24 20:16:36,es gibt immer lücken,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475066454358885142,2025-02-24 19:15:53,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7475071931731247894,2025-02-24 19:37:26,,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7475072298917069590,2025-02-24 19:38:49,nix daa,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475074021428708118,2025-02-24 19:45:14,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍']"
+7475075357898654486,2025-02-24 19:50:40,dann macht mal ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7475076739791667990,2025-02-24 19:56:00,bin gespannt,0,0,7464341167350484246,7464341167350484246,positive,1.0,['😂']
+7475078759088128790,2025-02-24 20:03:38,weniger geld für ausländer oder migranten wer angebrachter,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475079739985707798,2025-02-24 20:07:41,bin weiter obdachlos in münchen deutschland geht weiter bergab mit csu cdu schlimmste partei welcome germany,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475081825784103702,2025-02-24 20:15:50,mir egal hauptsache es gibt kohle ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7475081827222782742,2025-02-24 20:15:50,schon wieder das selbe,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475064512060834582,2025-02-24 19:08:24,es gibt nicht genug jobs oder es sind viele nicht zu vermitteln also so einfach ist das alles nicht und alkohol oder drogen oder depression ist eine krankheit ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475082197331985174,2025-02-24 20:17:12,das bekommt keiner hin nie,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475082380462670614,2025-02-24 20:17:43,wiederlich cdu ist die kriegs partei,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475087530599531286,2025-02-24 20:37:58,irgendwie hat er recht,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475088672750551830,2025-02-24 20:42:25,ich will und kann nicht,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475092419235742486,2025-02-24 20:56:42,1 millionen ukrainer beziehen bürgergeld und werden wie privatpatienten behandelt spart ihr da auchglaub nicht,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475093183362925334,2025-02-24 20:59:48,neuer name mehr geld alles wie zuvor  sanktionen werden dann wieder gekippt ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475096672794034966,2025-02-24 21:13:33,das gleiche geschah in italien mit rechter propaganda für wenig geld zu sparen was zu einem enormen anstieg der kriminalität und einem starken rückgang der kaufkraft führte,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475097094311871254,2025-02-24 21:14:54,der mann ist ein idiot die sanktionen haben sich kaum geändert totale streichungen sind verfassungswidrig das was dieser mensch will ist sogar der spd nicht gelungen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475097849617744662,2025-02-24 21:17:48,ich finde man sollte 10 von lohn an isreal und ukraine spenden weil wir sind es schuldig was hitler gemacht hah,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475056094097621782,2025-02-24 18:35:55,ich glaube das ghet ganicht ven vier uberlegen die meisten burgergeld empfänger sind ausländer das kommt krieg ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['😅', '😅', '😅', '😅', '😂', '😂', '😂', '👍', '👍']"
+7475044642053866262,2025-02-24 17:51:28,dann fangen wir von eusch mal an ihr kassier von arme steuer zahle nur zum rum stehen tausender euros,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475045807382004502,2025-02-24 17:55:54,afd will das auch verstehe ehrlich gesagt die ganzen bürgergeld empfänger nicht die die afd gewählt haben,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475048454840320790,2025-02-24 18:06:23,wo ist der den her noch nie gesehen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475050461377528598,2025-02-24 18:13:56,ihr sollt ukraine abschaffen anstatt bürgergeld,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475051107657777942,2025-02-24 18:16:37,wo sitzt der unterschied der andere name des geldes was gezahlt wird,0,1,7464341167350484246,7464341167350484246,neutral,1.0,['💙']
+7475051749788566294,2025-02-24 18:19:03,wir brauchen ja geld für die ukraine ,0,0,7464341167350484246,7464341167350484246,negative,-1.0,['😡']
+7475051790120698646,2025-02-24 18:19:08,,0,0,7464341167350484246,7464341167350484246,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7475052515130835734,2025-02-24 18:21:54,warum läuft sowas noch frei herrum,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475052705401242390,2025-02-24 18:22:35,afd und cdu nazis raus verfolgen der bürger geld empfänger pfui teufel so was,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475055510090154774,2025-02-24 18:33:25,damit der herr jobcenter hier nicht mehr herum prahlen kann auf tiktok das muss ein ende haben diese ausnutzerei,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475100106816946966,2025-02-24 21:26:33,uber 1 million sind ukrainer,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475056389149442838,2025-02-24 18:36:54,geht gar nicht denn sitzen die menschen auf der straße,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475056575604228886,2025-02-24 18:37:54,sanktionen gab es sowieso schon längst früher wie heute so eine aussage,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475056773017240342,2025-02-24 18:38:33,bin mal gespannt ob die das durchziehen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475059119695856406,2025-02-24 18:47:30,ihr habt keine mehrheit  spd wird euch schon die zähne zeigen hätte gerne was anderes geschrieben ,0,0,7464341167350484246,7464341167350484246,negative,,"['🤑', '🤑', '🤑', '🥾']"
+7475059998939202326,2025-02-24 18:50:51,und das von leuten die für wenig arbeit viel zu viel geld bekommen und nie geldsorgen haben müssen das ist an absurdität nicht zu überbieten streicht endlich den sozialtourismus das wäre richtig,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475062182015992598,2025-02-24 18:59:23,ja klar ihr müsst überall sparen damit ihr an israel und ukraine waffen liefert,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😁']
+7475062905547080470,2025-02-24 19:02:14,,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['💙', '💙']"
+7475063454715757334,2025-02-24 19:04:34,ja milliarden nach ausland schicken das könnt ihr,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475064089380766486,2025-02-24 19:06:56,richtig so,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475320098485371670,2025-02-25 11:40:45,wer hat die gewählt,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475231836988244759,2025-02-25 05:58:59,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
+7475237152311821078,2025-02-25 06:19:13,ganz einfach ale die gesund und arbeitsfähig sind arbeiten gehen oder obdachlos werden zu faul zum leben wie kann es sein das junge gesunde menschen leistungen beziehen krank,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475247258540933910,2025-02-25 06:58:16,hoffe das gilt auch für die zuwandereroh sorry für unsere fachkräfte meinte ich,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['😂']
+7475261366762898199,2025-02-25 07:53:03,richtig so zwanzig jährige kein bock auf arbeit,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475266782921851670,2025-02-25 08:14:14,dieses geld wird dann an die ukraine geschickt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475268957595845398,2025-02-25 08:22:07,wieder mal warme luft,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475274314368369430,2025-02-25 08:43:04,bla bla bla ,0,0,7464341167350484246,7464341167350484246,negative,,['🤣']
+7475275086346601238,2025-02-25 08:46:01,man sollte nicht äpfel mit birnen vergleichen die die krank sind werden wahrscheinlich weiterhin sozialleistungen bekommen es geht um die die nicht wollen aber könnten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475298951613645590,2025-02-25 10:18:47,,0,0,7464341167350484246,7464341167350484246,negative,-1.0,['😡']
+7475305123180069654,2025-02-25 10:42:48,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['💙']
+7475231889511482134,2025-02-25 05:58:33,klar,0,0,7464341167350484246,7464341167350484246,positive,1.0,['😉']
+7475363878353617686,2025-02-25 14:30:32,sehr schön ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['👍', '👍', '👍', '👍', '👍', '👍']"
+7475374357675016993,2025-02-25 15:11:38,richtig so ,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475388283007370006,2025-02-25 16:04:57,hey was bringen sanktionen bei hartz iv hat man doch schon gesehen dass es absolut wirkungslos war so wie es aufgelegt war,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475389219603989270,2025-02-25 16:08:38,schicken sie bitte alle die geld von stadt bekommen für dass geld jeden tag arbeiten gehen strassen sauber machen und alle möbel von die straßen weg bringen ,0,0,7464341167350484246,7464341167350484246,negative,1.0,"['🙏', '🙏', '🙏', '🙏']"
+7475389639445070614,2025-02-25 16:10:06,dann verschleudert nicht unser geld überall hindas gehört uns,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475389706412573462,2025-02-25 16:10:44,arbeit hilft gut gegen depressionen mein bruder hat diese krankheit schon 20 jahre lang und verteilt post dass tut im gut,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475394387821658902,2025-02-25 16:28:43,der sozialstaat ist am ende weil ihr milliarden steuergelder nutzt um kriege im ausland zu finanzieren warum muss das volk euer versagen ausbaden,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475400521925608214,2025-02-25 16:52:42,mal abwarten,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475404777695626006,2025-02-25 17:09:01,od druck und sanktionen helfen das menschen in langfristige arbeitsverhältnisse gehen scheint mir eine utopie die meisten wollen arbeiten ein geringer prozentsatz schlägt immer über die strenge,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475121192409891606,2025-02-24 22:49:07,ja aber nur für deutsche wird das abgeschafft werdet ihr sehen,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475100905425519382,2025-02-24 21:29:57,,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7475104122313523990,2025-02-24 21:42:22,und was mache ich wenn ich als opfer von unseren sogenannten einzelfällen arbeitsunfähig bin ,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475104591156167446,2025-02-24 21:43:58,na hoffentlich denkt ihr auch an die flüchtlinge die können au auch arbeiten gehen,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475106438706545430,2025-02-24 21:51:28,abgeschafft sollte es für jeden der arbeiten kann und nicht will ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,['👍']
+7475109312646759190,2025-02-24 22:02:25,richtig so die sollen arbeiten gehen wer das nicht will 0 euro nur essen gutscheine,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475109870896972566,2025-02-24 22:04:49,immer dieses bla bla nichts wird passieren,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475111068533441302,2025-02-24 22:09:18,gut,0,0,7464341167350484246,7464341167350484246,positive,,[]
+7475111140517069590,2025-02-24 22:09:47,bla bla bla,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475116934577636118,2025-02-24 22:32:00,hin und her es wird nur umbenannt,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475117095749370646,2025-02-24 22:32:49,die ganzen afd anhänger zittern grade die müssen arbeiten sonst pfand sammeln,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7476696727191454486,2025-03-01 04:43:16,cdu sein motto ist die reichen werden reicher auf den nacken der mittelstufigen bis niedrig eingestuften traurig und sich vor der welt hinstellen ein land zu verteidigen das weder in der nato ist,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475123477268677398,2025-02-24 22:57:37,bla bla bla ,0,0,7464341167350484246,7464341167350484246,negative,1.0,['😂']
+7475123782635602710,2025-02-24 22:59:06,aber hauptsache an die ukraine alles geben was mann in der tasche hat respekt ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['👏', '👏', '👏']"
+7475128267306140438,2025-02-24 23:16:15,wie trump unser geld von israel  und ukraine zurück fordern ,0,0,7464341167350484246,7464341167350484246,neutral,1.0,"['🇮🇱', '😂']"
+7475130178759377686,2025-02-24 23:23:37,zwangsarbeit ist gesetzlich verboten,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475143679943869206,2025-02-25 00:17:09,in österreich kriegt man fast doppelt so viel in der mindestsicherung und deutschland muss sich wieder zurück entwickeln damit das geld wieder anderen außer für deutsche gegeben wird für mehr unruhe,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475144586451256066,2025-02-25 00:20:45,da wird mehr für ukraine gebraucht,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7475158746063962902,2025-02-25 01:16:32,endlich ,0,0,7464341167350484246,7464341167350484246,positive,1.0,"['🙏', '🙏', '🙏']"
+7475164010092430102,2025-02-25 01:38:27,dadurch haben wir auch nicht mehr geld,0,0,7464341167350484246,7464341167350484246,neutral,,[]
+7475184661465367318,2025-02-25 03:00:06,unser größtes problem bürgergeld logo kriege finanzieren mit vielen miliarden vom steuergeld und so ist dagegen natürlich lächerlich während hier straßen brücken schulen usw verkommen ,0,0,7464341167350484246,7464341167350484246,negative,,[]
+7468785697957151511,2025-02-07 21:03:29,mich würde hierzu mal eine ehrliche antwort interessieren wie oft wurdet ihr abgewiesen,1,0,7468731254976908566,7468731254976908566,negative,,[]
+7490977571530638102,2025-04-08 16:18:55,hallo können wir uns kennenlernen,0,0,7468731254976908566,7468731254976908566,positive,,[]
+7468768864684753686,2025-02-07 19:58:18,da hat sich wohl wer was bei den zeugen jehovas abgeschaut ,0,0,7468731254976908566,7468731254976908566,neutral,,['🤫']
+7467847198324130582,2025-02-05 08:22:01,mit diesen worten wär man besser bei der afd aufgehoben statt mit der cdu solch leeren versprechungen zu machen ,1,0,7467813291990060310,7467813291990060310,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7484259525324489477,2025-03-21 13:49:57,,0,0,7467813291990060310,7467813291990060310,negative,,"['🥰', '🥰', '🥰']"
+7468043944031568662,2025-02-05 21:05:35,,0,0,7467813291990060310,7467813291990060310,negative,,"['🖤', '🖤', '🖤']"
+7466412233368978198,2025-02-01 11:33:49,das ist nichts anderes was die afd seit jahren erzählt,11,2,7466404358062738710,7466404358062738710,negative,,[]
+7466417192348369686,2025-02-01 11:52:45,,4,0,7466404358062738710,7466404358062738710,negative,1.0,"['💙', '💙', '💙']"
+7476561185480065814,2025-02-28 19:56:03,afd originalton seit vielen jahren,1,0,7466404358062738710,7466404358062738710,neutral,,[]
+7466406054546211606,2025-02-01 11:09:39,,1,0,7466404358062738710,7466404358062738710,negative,,"['🖤', '🖤', '🖤']"
+7475898903072097046,2025-02-27 01:09:21,,0,0,7466404358062738710,7466404358062738710,negative,1.0,['😍']
+7473828276877083414,2025-02-21 11:11:33, alice für deutschland  ,0,0,7466404358062738710,7466404358062738710,positive,1.0,"['💙', '💙', '💙', '❤️', '❤️', '❤️', '❤️', '❤️', '🇩🇪', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7466771559983465238,2025-02-02 10:47:54,"
+nur merz und cducsu",0,0,7466404358062738710,7466404358062738710,negative,0.8333333333333334,"['🖤', '🖤', '🖤', '👍', '💪', '👏', '🙏', '🔥', '💯', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤']"
+7466410088559952662,2025-02-01 11:25:05,,0,0,7466404358062738710,7466404358062738710,negative,,"['🖤', '🖤', '🖤']"
+7466404551693976342,2025-02-01 11:03:54,,0,0,7466404358062738710,7466404358062738710,negative,,"['🖤', '🖤', '🖤']"
+7472521340428452630,2025-02-17 22:39:52,überzeugt,5,0,7472515448618208534,7472515448618208534,positive,,['🖤']
+7472517225284109078,2025-02-17 22:24:04,zu cool für linke politik,5,0,7472515448618208534,7472515448618208534,positive,,"['🖤', '🖤', '🖤']"
+7472654488525243169,2025-02-18 07:20:15,"csucdu
+merz 2025
+merz",4,0,7472515448618208534,7472515448618208534,neutral,,"['🇩🇪', '🇩🇪', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤', '🇩🇪', '🖤', '🇩🇪', '🇩🇪']"
+7472522114093384470,2025-02-17 22:43:00,und damit den lobbyverband wirtschaftsrat  nein danke,2,0,7472515448618208534,7472515448618208534,neutral,,[]
+7473744554387194646,2025-02-21 05:47:10,merz rettet deutschland,1,0,7472515448618208534,7472515448618208534,neutral,,[]
+7473509944165434134,2025-02-20 14:36:23,ihren namen kenne ich aus keinem besonders lobenswerten kontext,1,0,7472515448618208534,7472515448618208534,neutral,,[]
+7473045366180250390,2025-02-19 08:33:51,conservative rizz ,1,0,7472515448618208534,7472515448618208534,negative,1.0,"['😁', '🖤']"
+7472886473508225814,2025-02-18 22:16:45,,1,0,7472515448618208534,7472515448618208534,negative,,"['🖤', '🖤']"
+7472862576456909590,2025-02-18 20:43:48,klar wie kloßbrühe,1,0,7472515448618208534,7472515448618208534,negative,,[]
+7472526589302440726,2025-02-17 23:00:26,nie,1,0,7472515448618208534,7472515448618208534,negative,,[]
+7482774150210962198,2025-03-17 13:45:38,"nicht mein ecocide
+httpswwwdeutschlandfunkkulturdekirchennationalsozialismuskaumprotestspaeteaufarbeitung100html",0,0,7472515448618208534,7472515448618208534,negative,,[]
+7473161665853358870,2025-02-19 16:04:31,,0,0,7472515448618208534,7472515448618208534,negative,1.0,"['🖤', '🖤', '🖤', '😬']"
+7473025704952038166,2025-02-19 07:17:27,,0,0,7472515448618208534,7472515448618208534,negative,1.0,['👍']
+7471715802963641110,2025-02-15 18:34:00,"also ich wähle demokratischnur die afd
+also frau dr alice weidel wird kanzlerin 
+und nazis seid ihrdie andere immer so betitelnund von euch faschisten und nazis abzulenken",1,1,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙']"
+7471524602885112598,2025-02-15 06:13:33,diese fülle an differenzierten argumenten ist echt wahnsinn,1,0,7469754162968792342,7469754162968792342,positive,,[]
+7469756076423693078,2025-02-10 11:49:36,was zur,1,0,7469754162968792342,7469754162968792342,negative,-1.0,['😲']
+7472090960283321110,2025-02-16 18:49:48,,0,0,7469754162968792342,7469754162968792342,negative,-1.0,['😭']
+7471981202199724822,2025-02-16 11:43:40,ekelhafd,0,0,7469754162968792342,7469754162968792342,negative,,[]
+7471925774989443862,2025-02-16 08:09:23,afd und ich sehe es ganz genauso keine afd ,0,0,7469754162968792342,7469754162968792342,negative,1.0,['👍']
+7470891779643867926,2025-02-13 13:16:34,,0,0,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '😂', '😂', '😂', '😂', '😂', '😂']"
+7470819306944758550,2025-02-13 08:35:53,"
+𝗞𝗔𝗡𝗭𝗟𝗘𝗥𝗜𝗡2025
+",0,0,7469754162968792342,7469754162968792342,positive,1.0,"['🦅', '💙', '🇩🇪', '💙', '💙', '🇩🇪', '💙', '🇩🇪']"
+7470794059889181462,2025-02-13 06:57:41,"
+nur f merz und cducsu",0,0,7469754162968792342,7469754162968792342,negative,0.8333333333333334,"['🖤', '🖤', '🖤', '👍', '💪', '👏', '🙏', '🔥', '💯', '🖤', '🖤', '🖤', '🖤', '🖤', '🖤']"
+7470642382682309398,2025-02-12 21:08:18,,0,0,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙', '💙']"
+7470602430836474626,2025-02-12 18:33:35,,0,0,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7470590723487236886,2025-02-12 17:47:56,eben noch mit edding ein paar striche gemailt vermutlich von grünen wahlplakat inspiriert worden  ich sehe hier etliche auf den robi einen balken hat,0,0,7469754162968792342,7469754162968792342,neutral,,[]
+7470209430925624086,2025-02-11 17:08:48,,0,0,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7469758199550214934,2025-02-10 11:57:30,,0,0,7469754162968792342,7469754162968792342,negative,1.0,"['💙', '💙', '💙', '💙', '💙']"
+7469755594997121814,2025-02-10 11:47:40,seit wann junge union based,0,3,7469754162968792342,7469754162968792342,negative,,[]
+7471526163811926839,2025-02-15 06:18:21,mit krypto und forexinvestitionen können sie von zu hause aus regelmäßig bis zu 20000  verdienen bitten sie erzieher samuel um anleitung um ihnen den einstieg zu erleichtern erzieher samuel,0,0,7469754162968792342,7469754162968792342,neutral,,[]
+7473792079991898902,2025-02-21 08:51:18,cdu hat nen schönen scherbenhaufen hinterlassen den der rest wieder aufsammeln muss,2,1,7473790059603381526,7473790059603381526,negative,,[]
+7473791949654377238,2025-02-21 08:50:58,wie willst du das finanzieren,2,1,7473790059603381526,7473790059603381526,neutral,,[]
+7474199674225509142,2025-02-22 11:12:44," mit weidel höcke und co untragbar
+ möchten ein weiterso wie bisher unmöglich
+noch weiter links geht gar nicht 
+für einen wirklichen politikwechsel morgen beide stimmen ",1,0,7473790059603381526,7473790059603381526,negative,0.3333333333333333,"['💙', '❤️', '💚', '👎', '🖤', '🖤']"
+7473869752387158806,2025-02-21 13:52:36,wo ist die zumutung,1,0,7473790059603381526,7473790059603381526,negative,,[]
+7473793561223316246,2025-02-21 08:57:14,,1,1,7473790059603381526,7473790059603381526,negative,1.0,"['💙', '💙', '💙']"
+7473857076054901537,2025-02-21 13:03:36,"
+cdu2025
+cdu beide stimme
+",0,0,7473790059603381526,7473790059603381526,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🗳', '🦅']"
+7473798845605036833,2025-02-21 09:17:45,"
+ cdu 2025
+cdu beide stimme 
+",0,0,7473789963377642774,7473789963377642774,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🗳', '🦅']"
+7473794610322981654,2025-02-21 09:01:01,ich kann mich erinnern dass wir diese elend von ampel nur gewählt haben weil davor die merkel beziehungsweise cdu csu nur mst gebaut haben deswegen keine altparteien mehr,1,0,7473789963377642774,7473789963377642774,negative,,[]

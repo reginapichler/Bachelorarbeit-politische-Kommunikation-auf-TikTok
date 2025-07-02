@@ -1,0 +1,318 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7457575296557679382,2025-01-08 16:01:14,ganz bestimmt nicht,42,2,7457573613047188758,7457573613047188758,negative,,[]
+7457584483332784918,2025-01-08 16:36:50,niemals ,19,1,7457573613047188758,7457573613047188758,negative,-1.0,"['👎', '👎', '👎']"
+7457593580572574486,2025-01-08 17:12:06,mit sicherheit nicht ,11,1,7457573613047188758,7457573613047188758,negative,1.0,"['😈', '😈', '😈']"
+7457596000930415382,2025-01-08 17:21:36,oooch nöooo,10,1,7457573613047188758,7457573613047188758,negative,,[]
+7457648443990967062,2025-01-08 20:45:06,niemals merz,8,2,7457573613047188758,7457573613047188758,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7457588102329680662,2025-01-08 16:50:55,nö ,8,2,7457573613047188758,7457573613047188758,negative,1.0,['😂']
+7457584576828277526,2025-01-08 16:37:11,nein,7,0,7457573613047188758,7457573613047188758,negative,,[]
+7457578561060717334,2025-01-08 16:13:58,kurswechsel zu populismus  back to the 80s,7,1,7457573613047188758,7457573613047188758,neutral,,[]
+7457639330216952598,2025-01-08 20:09:42,die cdu csu darf nicht über 30  bei der nächsten bundestagswahl bekommen,5,1,7457573613047188758,7457573613047188758,neutral,,[]
+7457593841908106017,2025-01-08 17:13:14,niemals ,5,1,7457573613047188758,7457573613047188758,negative,-1.0,"['‼️', '😡', '😡', '😡']"
+7457590688731349782,2025-01-08 17:01:04,der war gut  vorbild landesregierung im osten  von was träumt man,4,0,7457573613047188758,7457573613047188758,positive,1.0,['👍']
+7457576504836195095,2025-01-08 16:05:56,gesindel niemals,4,0,7457573613047188758,7457573613047188758,negative,,[]
+7457575898083230486,2025-01-08 16:03:31,schmieriger typ dieser merzauf keinen fall wählen,4,1,7457573613047188758,7457573613047188758,negative,1.0,['😳']
+7457626972984017686,2025-01-08 19:21:45,niemals,3,2,7457573613047188758,7457573613047188758,negative,,[]
+7457593170046583574,2025-01-08 17:10:30,nö auf keinen fall,3,2,7457573613047188758,7457573613047188758,negative,,[]
+7460817824341295894,2025-01-17 09:45:00,unwählbar,2,3,7457573613047188758,7457573613047188758,negative,,[]
+7457618552171479830,2025-01-08 18:49:01,nein,2,1,7457573613047188758,7457573613047188758,negative,,[]
+7457582938363298583,2025-01-08 16:30:57,ja er wurde schon in seinem ehemaligen verein als kanzlei für deutschland 2025 gewählt  die atlantik  brücke  aber dann  deutschland,2,0,7457573613047188758,7457573613047188758,neutral,0.0,"['🔥', '🔥', '🔥']"
+7457575942011257622,2025-01-08 16:03:44,nein nein nein nein nein nein nein,2,1,7457573613047188758,7457573613047188758,negative,,[]
+7461282887242023682,2025-01-18 15:48:56,niemals kanzler,1,1,7457573613047188758,7457573613047188758,negative,,[]
+7461166199918297878,2025-01-18 08:16:37,sicher nicht,1,1,7457573613047188758,7457573613047188758,negative,,[]
+7460191578822837014,2025-01-15 17:14:33,auf gar keinen fall,1,1,7457573613047188758,7457573613047188758,negative,,[]
+7460105735163282199,2025-01-15 11:41:14,wer ist da so anmaßend,1,0,7457573613047188758,7457573613047188758,negative,,[]
+7457664849057923862,2025-01-08 21:48:42,das befürchten viele,1,0,7457573613047188758,7457573613047188758,negative,,[]
+7457649137745511190,2025-01-08 20:47:45,,1,0,7457573613047188758,7457573613047188758,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7457638621144351510,2025-01-08 20:06:53, der war gut,1,0,7457573613047188758,7457573613047188758,positive,1.0,"['😂', '😂', '😂']"
+7457631724262064929,2025-01-08 19:40:15,nein,1,1,7457573613047188758,7457573613047188758,negative,,[]
+7457603646571037472,2025-01-08 17:51:09,bitte nicht dieser ,1,0,7457573613047188758,7457573613047188758,negative,,['🤡']
+7457589868673008406,2025-01-08 16:57:46,die cdu ist der letzte haufen in deutschland kurz vor den grünen ,1,0,7457573613047188758,7457573613047188758,negative,-1.0,"['😡', '😡']"
+7457581939386991382,2025-01-08 16:26:58,gott bewahre uns vor dem ,1,0,7457573613047188758,7457573613047188758,neutral,1.0,['😱']
+7457576700676899606,2025-01-08 16:06:45,,1,0,7457573613047188758,7457573613047188758,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7457575926512337696,2025-01-08 16:03:40,,1,0,7457573613047188758,7457573613047188758,negative,1.0,"['😂', '😂', '😂', '😂']"
+7462782084098212630,2025-01-22 16:46:53,unwählbar,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7462112084643742486,2025-01-20 21:27:05,er ist für mich nicht glaubwürdigdurch seine aussagen der letzten wochen ,0,0,7457573613047188758,7457573613047188758,neutral,,['🤔']
+7462069746318508822,2025-01-20 18:42:13,3 x neine,0,2,7457573613047188758,7457573613047188758,negative,,['🤡']
+7461007189521859350,2025-01-17 21:59:39,omgdiese ganze union braucht dringend professionelle hilfe ,0,0,7457573613047188758,7457573613047188758,negative,-1.0,['😪']
+7460890246805881602,2025-01-17 14:25:27,,0,0,7457573613047188758,7457573613047188758,negative,1.0,"['🙈', '🙈', '🙈']"
+7460829738110862102,2025-01-17 10:31:03,jetzt warte doch mal erst trump ab  warum wird afd eingeladen und kein merz scholz habeck nächste regierung heisst afd und ihr wandert ins gefängnis aber militär gefängnis wegen corona,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7460618424617845526,2025-01-16 20:50:50,,0,0,7457573613047188758,7457573613047188758,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7460504312344838935,2025-01-16 13:28:06,und jetz mit merz an der cdu spitze mit kommunisten koalieren thüringen ,0,0,7457573613047188758,7457573613047188758,neutral,-1.0,['😡']
+7460503967639847702,2025-01-16 13:26:58,nicht mit merz an der spitze was hat frau merkel nur aus der cdu gemacht  mir läuft es jetz noch eiskalt den rücken runter wie merkel bei einer veranstaltung die deutsche flagge wegschmiss,0,0,7457573613047188758,7457573613047188758,negative,1.0,['😳']
+7459532850803671830,2025-01-13 22:37:47,die toilette ist jetzt frei ,0,0,7457573613047188758,7457573613047188758,neutral,1.0,"['🤣', '😂', '🤣']"
+7458008332231525142,2025-01-09 20:01:37,nur die linke und keine kapitalisten,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7457891458072544022,2025-01-09 12:28:18,ihr habt dieses land erst unsicher gemacht,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457672856126817046,2025-01-08 22:19:47,nein muss nicht sein ,0,1,7457573613047188758,7457573613047188758,negative,,['🤔']
+7457653453814334230,2025-01-08 21:04:30,niemals merz sowas ist untragbar für deutschland,0,1,7457573613047188758,7457573613047188758,negative,,[]
+7457638990594851606,2025-01-08 20:08:17,friedrich merz will nichts fürs volk nur für sein eigenes ego er ist machtbessesen,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457638248656569110,2025-01-08 20:05:27,gott bewahre,0,0,7457573613047188758,7457573613047188758,neutral,-1.0,['😡']
+7457637208772051734,2025-01-08 20:01:32,gott bewahre uns,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457633666475361046,2025-01-08 19:47:37,,0,0,7457573613047188758,7457573613047188758,negative,,['🤣']
+7457609329442947862,2025-01-08 18:13:20,warum sollte er das werden erst merkel jetzt der dackel,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457607838597514006,2025-01-08 18:07:26,unwählbar ,0,0,7457573613047188758,7457573613047188758,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '👎', '👎', '👎', '👎', '👎']"
+7457604003083092758,2025-01-08 17:52:32,wir wollen aber kein krieg herr merz wir sind der souverän nit sie,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457603718415319830,2025-01-08 17:51:25,man kann nur hoffen das er es nit wird nur weil er jetzt die narative der afd übernimmt kann man nur sagen niemals,0,2,7457573613047188758,7457573613047188758,negative,,[]
+7457601861579735830,2025-01-08 17:44:13,,0,0,7457573613047188758,7457573613047188758,negative,,['🤣']
+7457601744563684118,2025-01-08 17:43:51,das plakat sieht nicht gut aus,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7457601264676307735,2025-01-08 17:41:59,setz die brille wieder auf,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457598797989593878,2025-01-08 17:32:24,erdt mal lernen wie man videos aufnimmt ist nämlich viel zu laut im hintergrund,0,0,7457573613047188758,7457573613047188758,negative,0.6666666666666666,"['😂', '😂', '😏']"
+7457595553434632982,2025-01-08 17:19:45,katastrophe,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7457594573788381974,2025-01-08 17:16:00,gott wenn es dich gibt bitte bewahre uns davor,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457593572348314390,2025-01-08 17:12:10,kurswecksel nur mit afd möglich sonst bleibt alles beim alten,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7457592562321343254,2025-01-08 17:08:09,der kerl ist untragbar,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457591263954338582,2025-01-08 17:03:11,deutschland wir untergehen,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457591019841700630,2025-01-08 17:02:15,nein danke ,0,0,7457573613047188758,7457573613047188758,negative,-1.0,['😡']
+7457590621604217622,2025-01-08 17:00:35,team die grünen   ,0,0,7457573613047188758,7457573613047188758,negative,1.0,"['🌻', '🌻', '🌻']"
+7457588129651671830,2025-01-08 16:51:01,der heuchler bestimmt nicht der kann nach hause gehen ,0,0,7457573613047188758,7457573613047188758,neutral,1.0,"['😳', '😳', '😳', '😳', '😳', '😳']"
+7457584764616721174,2025-01-08 16:38:04,bla bla bla von wegen kurswechsel,0,0,7457573613047188758,7457573613047188758,negative,,[]
+7457584533740765974,2025-01-08 16:37:04,will die cdu eigentlich auch verurteilten steuersündern die deutsche staatsbürgerschaft anerkennen ,0,0,7457573613047188758,7457573613047188758,neutral,,[]
+7457584517273387798,2025-01-08 16:37:00,,0,0,7457573613047188758,7457573613047188758,negative,0.5,"['🙈', '🙈', '🙈', '🙈', '🙈', '🙈', '🙈', '🙈', '🙈', '😡', '😡', '😡']"
+7457582107914322710,2025-01-08 16:27:40,,0,0,7457573613047188758,7457573613047188758,negative,,['🤢']
+7457577799172604694,2025-01-08 16:10:57,,0,0,7457573613047188758,7457573613047188758,negative,1.0,"['😂', '😂', '😂', '😂', '🤡']"
+7457576068389864225,2025-01-08 16:04:17,viel zu laute stark störende hintergrundgeräusche laienhaft,0,0,7457573613047188758,7457573613047188758,negative,-1.0,"['😕', '😕', '😕', '😕', '😕', '😕', '😕']"
+7457615451235205910,2025-01-08 18:37:05,,0,0,7457573613047188758,7457573613047188758,negative,,"['🥵', '🥵', '🥵', '🥵', '🥵', '🥵', '🥵', '🥵']"
+7460618416719790870,2025-01-16 20:50:44,das geht nur mit der afd ,1,2,7460608406248770838,7460608406248770838,negative,1.0,['💙']
+7460086622425842454,2025-01-15 10:28:13,wie bitte cdu damit gings doch los ,9,1,7460072164167929110,7460072164167929110,negative,1.0,"['😂', '🙈']"
+7460102047494832918,2025-01-15 11:27:54,weder cdu noch csukeine von beiden ist wählbar,1,1,7460072164167929110,7460072164167929110,negative,,[]
+7460077441429275414,2025-01-15 09:52:13,genau richtig ,1,0,7460072164167929110,7460072164167929110,positive,,"['👌🏽', '👌🏽', '🖤', '🖤', '🖤', '🖤']"
+7460200732559737622,2025-01-15 17:49:56,nicht mit euch,0,1,7460072164167929110,7460072164167929110,negative,,[]
+7460106838660236054,2025-01-15 11:45:50,das die sich dumm vorkommen die denken wirklich wir sind alle blöd ,0,0,7460072164167929110,7460072164167929110,negative,-1.0,['😡']
+7460106731474273056,2025-01-15 11:44:52,erst das ding vor die wand fahren und sich jetzt als retter der nation aufspielen genau mein humor ,0,1,7460072164167929110,7460072164167929110,neutral,,['🤣']
+7460104862719410966,2025-01-15 11:38:23,wenn man die brandmauer nicht einreißen will werden wieder die linksgrünen mit in der regierung sitzen und nichts wird sich ändern und bei der nächsten wahl werden noch weniger die cducsu wählen,0,0,7460072164167929110,7460072164167929110,neutral,,[]
+7460096001765589782,2025-01-15 11:04:09,,0,0,7460072164167929110,7460072164167929110,negative,,"['👎🏻', '👎🏻', '👎🏻']"
+7460085423354200854,2025-01-15 10:23:42,fake news und schlechte präsentationen so stell ich mir die csu vor alles genau so wie vor 10 jahren,0,0,7460072164167929110,7460072164167929110,negative,1.0,"['😂', '😂', '😂']"
+7460073776301310722,2025-01-15 09:38:24,protest ist wichtig  aber nicht um jeden preis die ad bringt viel chaos aber keine echte lösungen wähle veränderung mit vernunft für fortschritt umwelt sicherheit und eine lebenswerte zukunft,0,0,7460072164167929110,7460072164167929110,neutral,-1.0,['💩']
+7459309706432348950,2025-01-13 08:12:09,,1,0,7459150098728045846,7459150098728045846,negative,,['🖤']
+7464474813706453782,2025-01-27 06:16:18,niemals merz auf keinen fall,5,3,7464468277968768278,7464468277968768278,negative,,[]
+7464471489401553686,2025-01-27 06:03:33,und das wird nur mit der afd zu schaffen sein ,3,5,7464468277968768278,7464468277968768278,neutral,1.0,['👍']
+7464473952674726678,2025-01-27 06:13:11,"geben wir doch denen eine chance die noch nie in regierungsverantwortung waren
+warum setzt sich die cducsu nicht mit der afd zusammen
+oder geht es ihnen nur um die macht ",2,4,7464468277968768278,7464468277968768278,negative,0.0,['😏']
+7464479968342770454,2025-01-27 06:36:22,die werden auf jeden fall mit der afd gehen niemals cdu csu,1,3,7464468277968768278,7464468277968768278,negative,,[]
+7464476307347686166,2025-01-27 06:21:47,,1,0,7464468277968768278,7464468277968768278,negative,1.0,"['😂', '😂', '😂']"
+7464473092041114390,2025-01-27 06:09:44,tut das ohne die afd von dieser wird nur der hass gesät,1,4,7464468277968768278,7464468277968768278,negative,,[]
+7464719427193176854,2025-01-27 22:04:44,,0,0,7464468277968768278,7464468277968768278,negative,1.0,"['🖤', '🙏', '🖤']"
+7464524107625087766,2025-01-27 09:27:30,unbedingt,0,0,7464468277968768278,7464468277968768278,negative,,[]
+7464494504436155158,2025-01-27 07:32:14,was ist in magdeburg genau geschehen und was genau ist die lehre daraus und leute ihres schlages machen daraus einen putzigen videobeitrag es wäre so einfach sich ernsthaft mit ernsthaften pr,0,3,7464468277968768278,7464468277968768278,neutral,,[]
+7464473057010696982,2025-01-27 06:09:52,"welch tolle erkenntnis 
+sorry aber da fühle ich mich echt verarscht
+es ist doch seit 10 jahren kein problem ohne pass nach d zu kommen
+keine partei hat bis jetzt etwas unternommen",0,0,7464468277968768278,7464468277968768278,negative,0.0,['😏']
+7462301407748997910,2025-01-21 09:42:00,er wird auch schluss machen mit diesem klima warnsinn die grösste geld vernichtenden maschine die nur der lobbyistin und reichen dient nach meiner meinung ,1,0,7462279334984731926,7462279334984731926,neutral,,['🤔']
+7469090963237864194,2025-02-08 16:48:25,mit wem wollt ihr einen richtungswechsel machen grün oder rot nein danke  merz will tauras liefern wir wollen keinen krieg  energie muss bezahlbar bleiben und das wird auch nichts mit ihrer reg,2,0,7469050379750198550,7469050379750198550,neutral,,[]
+7469054508242125590,2025-02-08 14:26:43,alerta alerta antifascista ,1,0,7469050379750198550,7469050379750198550,negative,1.0,['✊']
+7469293507103605537,2025-02-09 05:55:28,nein sorry ihr hattet mehr als eine chance jetzt kommt die afd,0,1,7469050379750198550,7469050379750198550,negative,,[]
+7469127924479836950,2025-02-08 19:11:46,nein zu merz,0,0,7469050379750198550,7469050379750198550,negative,1.0,"['🙏', '🙏', '🙏', '🙏', '🙏', '🙏', '🙏']"
+7469114931474039574,2025-02-08 18:21:27,wohlstand erhalten wenn alles den bach untergegangen ist was soll da erhalten bleiben es muss einen neuanfang geben,0,0,7469050379750198550,7469050379750198550,neutral,,[]
+7469111823687648022,2025-02-08 18:09:24,mit friedrich merz gibt es keinen richtungswechsel denn er wird mit rotgrün korrelieren und damit bekommen wir täglich neue attentate und es wird alles teurer ,0,0,7469050379750198550,7469050379750198550,neutral,-1.0,"['👎', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮']"
+7469083920440492822,2025-02-08 16:21:15,nein es bedarf keines richtungswechselses bedarf der konsequenten umsetzung von klimazielen netzausbau infrastrukturmaßnahmen bahn radwege emobiliät energienutzung aus der natur sonnewind,0,1,7469050379750198550,7469050379750198550,neutral,,[]
+7469079217273029398,2025-02-08 16:02:55,,0,0,7469050379750198550,7469050379750198550,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😳', '😳', '😳', '😳', '😳', '😳']"
+7469071848023442198,2025-02-08 15:34:17,aber nur wenn wir auch alle atomkraftwerke wieder bekommen versprochen  h4k ,0,0,7469050379750198550,7469050379750198550,neutral,1.0,"['😂', '😂', '😎', '💚', '💚', '💚']"
+7469061151193760534,2025-02-08 14:52:50,bla bla bla einmal den karren in den dreck fahren reicht ,0,2,7469050379750198550,7469050379750198550,negative,-0.2,"['🙈', '🙈', '😡', '😡', '😡']"
+7469054722269037334,2025-02-08 14:27:48,,0,0,7469050379750198550,7469050379750198550,negative,1.0,"['❤️', '\U0001fa77', '💚']"
+7469054141101409046,2025-02-08 14:25:15,ihr habt die weichen zum wirtschaftlichen kollaps gestellt und eure rot grünen freunde haben euer werk nur vollendet laut fr bärbock gehörte das land ja verendet schwarz ist der letzte stoß für d,0,0,7469050379750198550,7469050379750198550,neutral,,[]
+7469100648937472790,2025-02-08 17:25:54,mit dem streichen von berichtspflichten müssen auch posten entfallen die suchen sich sonst neue aufgaben und es entsteht der gleiche unsinn erneut 50 raus und der laden läuft unverändert weiter,0,0,7469011131496008982,7469011131496008982,neutral,,[]
+7468883482128990998,2025-02-08 03:29:52,ihr wollt ja nur für diese parasiten bauen nicht fürs volk,0,0,7468775911085608214,7468775911085608214,neutral,,[]
+7468803784640561942,2025-02-07 22:14:18,wohnung für wen,0,0,7468775911085608214,7468775911085608214,neutral,,[]
+7468798981415306006,2025-02-07 21:55:19,wenn nicht so wiele menschen kommen dann hat man schon was bewegt ,0,0,7468775911085608214,7468775911085608214,neutral,,[]
+7468794425311118102,2025-02-07 21:37:48,wir sollten die natur verunstalten und ganz viele grosse häuser für möglichst wenig reiche menschen bauen ,0,0,7468775911085608214,7468775911085608214,neutral,,['🤙🏻']
+7468791092914602774,2025-02-07 21:24:32,es müssen mostplazes beschlagnahbtvwwrden rbnb muss verboten werden für was gibt es hotels und nix fördern allgemein steuern für alle senken,0,0,7468775911085608214,7468775911085608214,negative,,[]
+7468790998052881174,2025-02-07 21:24:21,haaa ihr habt echt humor satire mag ich eigentlich,0,0,7468775911085608214,7468775911085608214,positive,,[]
+7468778891685446422,2025-02-07 20:37:31,csu klar ,0,0,7468775911085608214,7468775911085608214,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂']"
+7467648978198201110,2025-02-04 19:32:36,csu wer war für die abschaltung der akws ,13,1,7467642051346173206,7467642051346173206,neutral,1.0,"['😂', '😂', '😂', '🤔', '🤔', '🤔', '🤔']"
+7467654067108610818,2025-02-04 19:52:08,bei spd und grünen geht das nicht,8,2,7467642051346173206,7467642051346173206,negative,,[]
+7467672252197225238,2025-02-04 21:02:46,dann sollte man die afd wählen ansonsten ist deutschland bürger und wirtschaft nicht am  sondern im abgrund,3,1,7467642051346173206,7467642051346173206,neutral,,[]
+7467691897766118167,2025-02-04 22:19:41,das wegen hilft nur afd,1,1,7467642051346173206,7467642051346173206,negative,,[]
+7467695406131036950,2025-02-04 22:32:48,waren 3 jahre regierung nicht gut genug,0,0,7467642051346173206,7467642051346173206,negative,,[]
+7467650132442383106,2025-02-04 19:37:04,geh mal lieber weiter,0,0,7467642051346173206,7467642051346173206,negative,,[]
+7466164261418205974,2025-01-31 19:31:10,also einer für weiter morde der andere gegen mordejeder bürger hat das recht auf leben wir brauchen welt richter,1,0,7466155741381135618,7466155741381135618,neutral,,[]
+7466392303205958422,2025-02-01 10:16:12,glaubt der mann was er da sagt ernsthaft dir haben ja sogar die eigenen leute mit einem halbwegs intakten rechtsstaatlichen gewissen und einem gewissen überhaupt gewürgt schamlos,0,0,7466155741381135618,7466155741381135618,negative,,[]
+7466160302367982358,2025-01-31 19:15:40,mein gott ist das so schwer einfach zu sagen glänze zu und fertig,0,0,7466155741381135618,7466155741381135618,neutral,-1.0,"['😡', '😡', '😡', '😡']"
+7471292966680085270,2025-02-14 15:13:26,das ist einfach amerikanische behörde ,1,0,7471258044265942294,7471258044265942294,neutral,,[]
+7471282501398102786,2025-02-14 14:32:52,glaubt der das wirklich,1,0,7471258044265942294,7471258044265942294,negative,,[]
+7471282510555644694,2025-02-14 14:32:30,der respekt fehlt leider den ordnungshuetern gegenueber,1,0,7471258044265942294,7471258044265942294,negative,,[]
+7471282288870507286,2025-02-14 14:31:47,ach ja und deeskalition,1,0,7471258044265942294,7471258044265942294,negative,,[]
+7471302859540677398,2025-02-14 15:51:29,hoffentlich finden sich noch junge menschen fuer diese aufgabe,0,0,7471258044265942294,7471258044265942294,neutral,,[]
+7471291500850397974,2025-02-14 15:07:43,für uns das sollten sie aber dürfen oder können es gar nicht leider die befehle kommen nicht vom volk,0,0,7471258044265942294,7471258044265942294,neutral,,[]
+7471282196750861078,2025-02-14 14:31:24,ja mit wattebaeuschchen,0,0,7471258044265942294,7471258044265942294,negative,,[]
+7471272623269151510,2025-02-14 13:54:25,,0,0,7471258044265942294,7471258044265942294,negative,1.0,"['👍', '👍', '👍']"
+7471271486943314710,2025-02-14 13:49:42,"der cdu verdanken wir das deutschland nicht mehr sicher ist 
+niemals die cdu ",0,0,7471258044265942294,7471258044265942294,negative,-1.0,"['😡', '🤑']"
+7471268317312959254,2025-02-14 13:37:42,die firma polizei hat keine hoheitsrechte ,0,0,7471258044265942294,7471258044265942294,neutral,0.0,"['☠️', '🧨', '🔥']"
+7470502257998627606,2025-02-12 12:04:50,danke für die aufklärung da ihre partei den ausstieg aus der atomkraft beschlossen hat sind sie damit wohl für alle befürworter der atomkraft unwählbar das nennt man dann wohl eigentor,86,26,7470496674767506690,7470496674767506690,neutral,1.0,['😅']
+7470524015108473622,2025-02-12 13:29:26,cdu csu nein danke übrigens fr merkel hat abschaltung atomkraftwerken zum rollen gebraucht und keiner andere,63,4,7470496674767506690,7470496674767506690,negative,,[]
+7470503767529308950,2025-02-12 12:10:54,was für ein wahnsinn,34,6,7470496674767506690,7470496674767506690,positive,,[]
+7470703514986709762,2025-02-13 01:07:35,nie wieder ein ministeramt ohne qualifikation ,17,0,7470496674767506690,7470496674767506690,negative,1.0,['😱']
+7470508081060234006,2025-02-12 12:27:30,wir haben 03 unseres energiebedarfs durch importiert atomstrom gedeckt,17,6,7470496674767506690,7470496674767506690,neutral,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7470671571640877846,2025-02-12 23:02:03,das einzige was nachhaltig klima naturschutz und wohlstand sicherstellt ist kernkraft ,16,2,7470496674767506690,7470496674767506690,neutral,1.0,"['👍', '🤔']"
+7470642410558292758,2025-02-12 21:08:35,oh gott kernenergie ist weltweit auf dem rückzug aber die cdsu will wieder auf ein sinkendes schiff aufspringen selbst die betreiber wollen das nicht mehr wer behauptet eigentlich die hätten ahnung,14,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470865782865593110,2025-02-13 11:35:37,grüne nein danke,9,0,7470496674767506690,7470496674767506690,negative,,[]
+7470654360398103318,2025-02-12 21:54:50,"man importiert den günstigsten strom
+überraschung
+aber wir können akw bauen kostet unmengen an geld und dauert ewig
+oder wir bauen regenerative energie mit speicher aus geht schneller kostet",8,2,7470496674767506690,7470496674767506690,negative,,[]
+7470655673484133142,2025-02-12 22:00:05,17 twh sind 33 des bruttostromverbrauchs von 512 twh auch diesen strom hätten wir selbst produzieren können aber er war in frankreich halt billiger und das ist schlecht,6,11,7470496674767506690,7470496674767506690,negative,,[]
+7470613102267007766,2025-02-12 19:14:39,was soll das immer mit grundlast wir benötigen immer 100 haben wir zuwenig müssen wir die kraftwerke hochfahren oder etwas zukaufen und die 6 atomstrom hätten was geändert,6,2,7470496674767506690,7470496674767506690,negative,,[]
+7470517661068821250,2025-02-12 13:04:38,darum sollte man die afd wählen die von anfang an dagegen war die kernkraftwerke abzuschalten ihre merkel hat es ja erst ins gespräch gebracht mit wem wollen sie das denn beschließen mit der spd,6,4,7470496674767506690,7470496674767506690,neutral,,[]
+7470515758184350486,2025-02-12 12:57:12,deswegen afd,6,7,7470496674767506690,7470496674767506690,negative,,[]
+7470775937052033814,2025-02-13 05:47:51,wer hat uns das denn eingebrockt das war doch merkel ihr seid 16 jahre in regierungsverantwortung gewesen und habt alles dafür getan dass die akws abgeschaltet werden,5,5,7470496674767506690,7470496674767506690,negative,,[]
+7470646316387287830,2025-02-12 21:23:56,unfassbar bei uns alles abschalten und teuer einkaufen,5,0,7470496674767506690,7470496674767506690,negative,,[]
+7470616607199560470,2025-02-12 19:28:15,und das stimmt überhaupt nicht,4,4,7470496674767506690,7470496674767506690,negative,,[]
+7470681072909796118,2025-02-12 23:39:17,das ist leider alles falsch unkorrekt dargestellt oder schlicht gelogen,3,2,7470496674767506690,7470496674767506690,negative,,[]
+7470648190070702870,2025-02-12 21:31:12,deutschland verbraucht pro tag ca 129 terra watstunden  eine terawattstunde entspricht einer milliarde kilowattstunden kwh und dann kommen sie mit 17 millionen mwh importierten atomstrom im jahr ,3,1,7470496674767506690,7470496674767506690,neutral,1.0,['😂']
+7470536141526074135,2025-02-12 14:16:28,was für ein schwachsinniger beitrag  am schnellsten geht es mit den erneuerbaren und billiger sind sie auch noch,3,0,7470496674767506690,7470496674767506690,negative,1.0,['🙈']
+7470515551816254230,2025-02-12 12:56:31,weg mit der grünen sekte,3,0,7470496674767506690,7470496674767506690,neutral,,[]
+7473024962887402262,2025-02-19 07:14:40,unglaublich was hier passiert,2,0,7470496674767506690,7470496674767506690,negative,-1.0,['😡']
+7472681174675997462,2025-02-18 09:00:35,lügner cdu hat doch schuld merkel hat doch abgeschaltet,2,0,7470496674767506690,7470496674767506690,negative,,[]
+7470954265449235222,2025-02-13 17:18:46,wahrheit über wahrheit,2,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470861781666284310,2025-02-13 11:20:01, und ihr habt dafür gestimmt,2,0,7470496674767506690,7470496674767506690,neutral,-1.0,"['👎', '👎', '👎']"
+7470790693964743446,2025-02-13 06:44:49,wer hat abgeschaltet,2,0,7470496674767506690,7470496674767506690,negative,,[]
+7470654272686785302,2025-02-12 21:54:32,sind ziemlich genau 4  die nicht teuer war  sondern günstiger als dort wo wir es gekauft haben,2,0,7470496674767506690,7470496674767506690,positive,,[]
+7470643819990663958,2025-02-12 21:13:54,mein bauch hat irgendwie das gefühl das ich manipuliert werden soll ,2,0,7470496674767506690,7470496674767506690,negative,,['🥺']
+7470640800562529046,2025-02-12 21:02:22,na dann sind es immer noch maximal 5 prozent des stromverbrauches des jahres,2,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470599561862857494,2025-02-12 18:22:14,und die cdu csu haben mit spd den ausstieg beschlossen der zuständige wirtschaftsminister h altmeier hat die alternativen unterdrückt habeck hat in der kurzen zeit 200 mehr geschafft,2,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470595612288451350,2025-02-12 18:06:55,strom wird europäisch gehandeltwir importieren wenn  nicht genug ee produziert und strom aus anderen staaten günstiger als durch kohle od gaskraftwerke angeboten wirdnettoimport 4 ,2,1,7470496674767506690,7470496674767506690,neutral,1.0,"['🙄', '🤔', '🇩🇪', '🇩🇪', '🤷', '😉']"
+7470534094100988694,2025-02-12 14:08:21,herr silberhorn woher wären denn neue brennstäbe gekommen der anteil der 3 akw lag bei 6 die anderen hatte ihre partei vorher abgeschaltet unglaubwürdig ohne ende,2,2,7470496674767506690,7470496674767506690,negative,,[]
+7470525802984964887,2025-02-12 13:36:10,bald kommt die quittung  brownouts  oder sogar blackouts  merkel und die cdu haben die energiewende und die große massenumsiedlung in die wege geleitet,2,2,7470496674767506690,7470496674767506690,neutral,,[]
+7470510110148166422,2025-02-12 12:35:45,die zuverlässige und strem günstige pipeline der welt die unsere konkurrenzfähigkeit immer verstärkt hat zu zerstören ,2,0,7470496674767506690,7470496674767506690,neutral,-1.0,['😞']
+7472633460688044822,2025-02-18 05:55:35,wie soll das mit den grünen umgesetzt werden,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7471421102851343126,2025-02-14 23:30:54,bla bla bla und nach denn wahlen wird cducsu mit spd und grüne regieren also ändert sich nicht,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7471244098725987094,2025-02-14 12:03:45,und dann erzählt uns habeck es ist billiger geworden ,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7471174138574144278,2025-02-14 07:32:28,2011 hat man 10 kkws mit vollen tank abgeschaltet und so rückbaukosten von 80 jahren geschaffen,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7471020732659761942,2025-02-13 21:36:34,so zieht mann die armen leute die letzten taler sus die tasche,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470849357925843735,2025-02-13 10:32:18,,1,0,7470496674767506690,7470496674767506690,negative,-0.21739130434782608,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7470828221212263190,2025-02-13 09:10:26,dann sollen die grünen auch von ihren konten das ausgleichen,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470709333970436886,2025-02-13 01:29:56,natürlich brauchen wir akw das weiß auch die cdu pu239 erbrütet sich nicht mit hilfe von wka,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470686908387443478,2025-02-13 00:03:00,so ein quatsch wer hat dir das gesagt,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470665676599558914,2025-02-12 22:39:25,stimmt,1,0,7470496674767506690,7470496674767506690,positive,,[]
+7470654483022906134,2025-02-12 21:55:19,rhetorisch gut geframt dann erzählen sie uns mal von den exporten und den preisen an der strombörse weil man akws nicht schwankend fahren kann kauft man atomstrom unter produktionswert,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470642235894760214,2025-02-12 21:07:51,arbeitet ihr erstmal 16 jahre merkel auf macht euch mal gedanken über den wendehals merz und arbeitet nicht mit einer abrandmauer gegen 13 der befölkerung demokratie ist anders,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470633929973547798,2025-02-12 20:35:40,co2steuer,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470620181270659862,2025-02-12 19:42:07,"der anteil vom französischen atomstrom am gesamtverbrauch in deutschland ist verschwinden gering
+selbst wenn die verbindung gekappt wird wird sich in de nichts ändern",1,1,7470496674767506690,7470496674767506690,neutral,,[]
+7470615505922130710,2025-02-12 19:24:00,danke da wähle ich lieber afd die cdu hat den ausstieg angefangen lächerlich,1,2,7470496674767506690,7470496674767506690,negative,1.0,['😁']
+7470607678765859607,2025-02-12 18:53:56,nur die halbe wahrheit uniper akw in schweden wem das wohl gehört und von wegen teuer 278 milliarden gewinn,1,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470587782411993878,2025-02-12 17:36:36,das ist das rechengenie habeck,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470560292281139990,2025-02-12 15:50:04,niemals afd,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470553002777182998,2025-02-12 15:21:36,wie will cducsu das machen wieder viele phrasen und nichts greifbares cducsu nein danke,1,0,7470496674767506690,7470496674767506690,negative,,[]
+7470529835174363926,2025-02-12 13:51:46,das müssen vollidioten entschieden haben ,1,0,7470496674767506690,7470496674767506690,neutral,,['🤔']
+7494683531211277078,2025-04-18 16:00:00,absolut richtig,0,0,7470496674767506690,7470496674767506690,positive,,[]
+7482125522165039894,2025-03-15 19:48:31,das war doch klar wird auch nicht günstiger das wird alles noch teurer das volk wird noch ärmer ,0,0,7470496674767506690,7470496674767506690,negative,0.3333333333333333,"['😂', '😂', '😡']"
+7481287204030153474,2025-03-13 13:35:36,,0,0,7470496674767506690,7470496674767506690,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7481287185703846678,2025-03-13 13:35:33,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😢', '😢', '😢', '😢', '😢', '😢', '😢']"
+7479700375331914518,2025-03-09 06:57:58,danke ihr grünen versager wer hat den die bande wieder geahlt,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7478031398816285442,2025-03-04 19:01:18,da stimme ich euch zu aber was ist jetzt mit zuwanderung kontrollieren und die schuldenbremse steht wirklich noch kaum gewählt schon alles vergessen man liest nur noch welche kosten noch kommen,0,0,7470496674767506690,7470496674767506690,negative,,['🤬']
+7477920468474725142,2025-03-04 11:50:56,"die grünen kosten nur geld
+die sind so überflüssig wie ein kropf",0,0,7470496674767506690,7470496674767506690,negative,,[]
+7477200888215831318,2025-03-02 13:18:35,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😂', '😂', '😂']"
+7476404792887051030,2025-02-28 09:49:26,man haut eine große zahl raus ohne zu sagen daß das nicht mal 1 prozent des stroms entspricht aktuell haben wir 2 gwh an speichern 200 gwh im bau das ist die lösung nicht die akw,0,1,7470496674767506690,7470496674767506690,negative,,[]
+7474913967489827639,2025-02-24 09:24:45,,0,0,7470496674767506690,7470496674767506690,negative,,['🥰']
+7473499074600321814,2025-02-20 13:53:50,wir wir wir haben den ausstieg aus der kernenergie  richtig merkel cdu hat beschlossen oder war das afd oder der russe ,0,0,7470496674767506690,7470496674767506690,negative,-1.0,"['😡', '😡', '😡', '😡', '😡']"
+7473039690204693270,2025-02-19 08:11:46,kennt den jemand,0,0,7470496674767506690,7470496674767506690,positive,,[]
+7472665887158616854,2025-02-18 08:01:04,warum ist der atomstrom so billig,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7472392383355880214,2025-02-17 14:19:19,guter spruch aber wer hat es verschuldet die cdu hat unter merkel damit angefangen die ampel hat es fortgesetzt man kann doch keinen wählen der schuld daran trägt zumal blut an euren händen kleb,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7472317888943325974,2025-02-17 09:30:32,die zahlen sind interessant die zustimmung und zusammenarbeit mit den grünen in der vergangenheit und in der zukunft werden zeigen wofür die cdu steht,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7472252650935812886,2025-02-17 05:18:14,ihr wart dabei ,0,1,7470496674767506690,7470496674767506690,negative,,[]
+7471987041342915350,2025-02-16 12:06:34,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['👌', '👌', '👌']"
+7471700536506958614,2025-02-15 17:34:54,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['👍', '👍', '👍']"
+7471696640191775510,2025-02-15 17:19:40,der demagogische dummschwätzer kann selbst sein grinsen nicht verbergen 17 millionen megawattstunden toll das sind weniger als 35  des stromverbrauches und wer hat kkw abgeschaltet ,0,1,7470496674767506690,7470496674767506690,negative,,"['🤓', '🤔']"
+7471534662205178646,2025-02-15 06:51:27,bla bla bla und ohne zahlen und 17 mille sind ein witz,0,1,7470496674767506690,7470496674767506690,negative,,[]
+7471475284576191254,2025-02-15 03:03:22,"sage bitte auch dazu das dieser dazu gekauft strom nur 4 vom gesamten stromverbrauch sind
+dann passt es im verhältnis zu deinen 50",0,1,7470496674767506690,7470496674767506690,negative,1.0,['😉']
+7471229333329117974,2025-02-14 11:06:42,,0,0,7470496674767506690,7470496674767506690,negative,-1.0,"['😡', '😡', '😡']"
+7471114203354137366,2025-02-14 03:43:29,danke grün ,0,0,7470496674767506690,7470496674767506690,positive,-1.0,['😡']
+7471093068575605526,2025-02-14 02:22:09,wer will denn heute noch ein akw vor seiner haustür haben abgesehen von den zigmilliarden baukosten brokdorf lässt grüßen ich war dabei,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470982590172529431,2025-02-13 19:08:41,beifall,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470962966897476374,2025-02-13 17:52:24,glaube euch kein wort,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470873812700873494,2025-02-13 12:06:58,ihr habt doch auch zugestimmt das die abgeschaltet wurden und jetzt kommt ihr kurz vor der wahl und denkt wir machen mal die afd nach wow,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470870811743830806,2025-02-13 11:55:26, das ist doch voll rechts  oder war das afd ,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😱', '🤔', '🤷\u200d♂️']"
+7470859750662931223,2025-02-13 11:12:09,super dann mal eben die co2 abgabe massiv erhöht gemeinsam mit spd u grünen ich trau euch nicht ,0,0,7470496674767506690,7470496674767506690,positive,,"['🙄', '‼️']"
+7470848810030285590,2025-02-13 10:29:46,,0,0,7470496674767506690,7470496674767506690,negative,-1.0,"['😡', '😡', '😡']"
+7470826593418527510,2025-02-13 09:03:34,man begreift es endlich es ist so gewollt die wollen deutschland vernichten,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470810106940343062,2025-02-13 08:00:15,aber ihr müsst nach der wahl mit den grünen regierenwas nun das funktioniert nicht eine grüne brandmauer muß her,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['🙏', '🇩🇪', '🇩🇪', '🇩🇪']"
+7470794991603794710,2025-02-13 07:01:32,nicht mal 4 vom gesamtverbrauch ist importierter atomstrom geht man davon aus daß bei uns die akws ersatzlos abgeschaltet wurden ist das erstaunlich wenig,0,4,7470496674767506690,7470496674767506690,negative,,[]
+7470780313087968022,2025-02-13 06:05:07,was für ein schwindler eben haben gemeinsam mit den grünen für eine dradtische erhöhung der co2 steuer gestimmt und sie werden mit den grünen regieren wollen,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470777853160899350,2025-02-13 05:54:57,wer hat den ausstieg eingefädelt schon vergessen ,0,0,7470496674767506690,7470496674767506690,negative,,['🤔']
+7470774515364250390,2025-02-13 05:42:59,zum kotzen,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470767351882777366,2025-02-13 05:15:45,hat die cdu csu nicht ursprünglich den ausstieg aus der kernenergie beschlossen klar dass die grüninnen das dann auch durchziehen mit aller gewalt,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470763983907193622,2025-02-13 05:02:15,co 2 steuer vergessenhabt ihr auch zugestimmt,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470753842650956566,2025-02-13 04:25:39,hat cducsu nicht unter merkel den atomausstieg beschlossen ,0,0,7470496674767506690,7470496674767506690,neutral,,['🤔']
+7470735534408647446,2025-02-13 03:14:47,eigene fehler zugeben wäre mal was aber das passiert ja nicht ihr seit unglaubwürdig,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470709520161178390,2025-02-13 01:32:48,die veralteten netze sind notwendig zu modernisieren die grundlastfähigkeit mit  grünem strom ist möglich und kostengünstig nur grüne energie ist zukunftsfähig,0,2,7470496674767506690,7470496674767506690,neutral,,[]
+7470709504867533590,2025-02-13 01:31:20,vier prozent des deutschen stromverbrauchs waren 2024 ausländischer atomstrom als in deutschland noch atomkraftwerke betrieben wurden lag der kernenergieanteil mitunter bei fast einem drittel,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470704597809398550,2025-02-13 01:12:45,hätte ihre partei nicht nur den ausstieg beschlossen sondern auch die netze ausgebaut hätten wir das problem nicht zum glück hat die ampel in der richtung mehr erreicht als ihr in 16jahren,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470703898291553046,2025-02-13 01:09:41,wollte frau merkel nicht erst eine verlängerung der akwlaufzeiten dann passierte fukushima und schwupps,0,1,7470496674767506690,7470496674767506690,neutral,,[]
+7470699479004758806,2025-02-13 00:51:38,das ist afd programmalter,0,1,7470496674767506690,7470496674767506690,negative,,[]
+7470696830012867350,2025-02-13 00:41:58,atomstrom ist teuer alles andere ist eine lüge cdu ist unwählbar,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470696169393292054,2025-02-13 00:39:07,"eure idee mit eigenen kernkraftwerken macht das ja viel günstiger  oder was willst du uns erzählen 
+ach ja der austieg aus atom hat cdufdp beschlossen",0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470683607453877014,2025-02-12 23:49:10,"was für ein blödsinn
+super beispiel für framing
+keine ahnung vom stommarkt keine kenntnis dass die netzentgelte feduziert wurden keine ahnung dass der stromhanel fast reiflicher ausgeglichen is",0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470680766487134998,2025-02-12 23:38:26,kann denn hier jeder mit falschen zahlen hantieren wie er lust und laune hat,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470679426565833494,2025-02-12 23:32:50,warum wurde denn noch die laufzeit bis zum ende der brennstäbe verlängert gibt es brennstäbe jederzeit bei netto wer hat ausstieg 2015 beschlossen,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470674637741081366,2025-02-12 23:14:23,33 importe zu einem problem aufzubauschen ich frag mich was das soll oder ob das lobbyismus in reinform ist,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470673185664287510,2025-02-12 23:08:38,alles richtig was gesagt wurde aber warum werden die koaltiinsverhandlungen mit den grünen schon vorbereitet werden selbst die räume sind schon ausgesucht worden ihr betrügt uns alle,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470671099636155158,2025-02-12 23:00:38,"kann mir bitte mal jemand erklären warum die stärkste kraft werden
+das einzige argument grüne sind unwählbar weil sie den von der cdu beschlossen atomausstieg durchgezogen haben 
+da ist nix",0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470669649641833239,2025-02-12 22:55:05,glauben sie das was sie sagen wohl nicht auf dem neuesten stand,0,1,7470496674767506690,7470496674767506690,negative,,[]
+7470663325102801686,2025-02-12 22:29:56,"purer populismus natürlich würden wichtige informationen nicht erwähnt
+welch die kennt der erzähler wohl selber sehr gut stimmungsmache",0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470661689039930134,2025-02-12 22:23:53,17 mio von ca 470tw ganz ganz viel,0,2,7470496674767506690,7470496674767506690,negative,,[]
+7470660106942726934,2025-02-12 22:17:11,,0,0,7470496674767506690,7470496674767506690,negative,-1.0,"['😡', '😡', '😡']"
+7470657725304931094,2025-02-12 22:08:17,wir haben den atomstrom dich importiert weil er billig war ,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470655148269699862,2025-02-12 21:58:12,die haben atomstrom importiert weil er billiger war wie der eigene erzeugte,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470651177958753046,2025-02-12 21:42:51,mensch wo seid ihr alle gewesen bevor das alles passiert ist war es den vorher nicht voraus zu sehen sorry aber uns kann nur eine retten,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470649095716733718,2025-02-12 21:34:34,,0,0,7470496674767506690,7470496674767506690,negative,-1.0,"['😡', '😡', '😡']"
+7470645288009663254,2025-02-12 21:19:36,die cdu hat das dilemma eingefädelt unwählbar,0,2,7470496674767506690,7470496674767506690,negative,,[]
+7470644470581691158,2025-02-12 21:16:27,laber rhabarber,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470643230511235862,2025-02-12 21:11:48,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😳', '😳', '😳']"
+7470640669053649666,2025-02-12 21:01:40, das ist einfach nicht richtig,0,1,7470496674767506690,7470496674767506690,negative,1.0,['😂']
+7470639968987136790,2025-02-12 20:59:10,was für lösungen hat cdu keine die sie mit der migration umsetzen könnenwenn es so bleibt wird die cdu mit spd und grüne eine regierung bilden müssen was das für bürger heißt 2026 neuwahlen afd,0,2,7470496674767506690,7470496674767506690,negative,1.0,['😂']
+7470639335601537814,2025-02-12 20:56:46,läuft rh ,0,0,7470496674767506690,7470496674767506690,positive,1.0,['😂']
+7470637950411129622,2025-02-12 20:51:16,es war fukushima das die gepriesene kanzlerin von cdu csu veranlasste das noch druckfrische gesetz zur laufzeitverlängerung der akw wieder zu kippen und schon damit 40 milliarden in den sand setzte,0,1,7470496674767506690,7470496674767506690,neutral,,[]
+7470637825123074838,2025-02-12 20:50:48,nie wieder faschismus nie wieder spd nie wieder grüne nie wieder cdu,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470631967684887318,2025-02-12 20:27:58,und wieviel öl und kohle importiert,0,1,7470496674767506690,7470496674767506690,neutral,,[]
+7470620399643296534,2025-02-12 19:43:03,wie blond bist du denn,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470617904992797462,2025-02-12 19:33:20,"nur 60 davon ist atomstrom also nur 10 twh
+de hat ca 30 twh günstigen erneuerbaren strom aus skandinavien importiert warum erwähnt ihr das nie ",0,2,7470496674767506690,7470496674767506690,negative,,['🤔']
+7470616834896675606,2025-02-12 19:29:22,cducsu hat den atomausstieg mitgetragen somit unglaubwürdig und nicht mehr wählbar,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470616581397578518,2025-02-12 19:28:27,das dürfen alles blaue fachleute organisieren die alte polit kaste hat jahrzehnte lang nur gelogen und betrogen,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470613174685860630,2025-02-12 19:14:56,bei uns war in diesem jahr betreits 3x stromausfall,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470613142062924566,2025-02-12 19:14:54,läuft doch in de bin gespannt ob herr merz die grünen als partner mit in die koalition nimmt,0,0,7470496674767506690,7470496674767506690,positive,,[]
+7470611566163215126,2025-02-12 19:08:58,ist halt unfug importe in dieser größenordnung sind nicht relevant,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470611042688254742,2025-02-12 19:06:48,alles geplant ,0,0,7470496674767506690,7470496674767506690,positive,-1.0,['😡']
+7470601375039144726,2025-02-12 18:29:09,merkels politik die in den letzten drei jahren ampel von der cdu gerne unterstützt wurde ihr seid nicht wählbar,0,0,7470496674767506690,7470496674767506690,neutral,-1.0,"['👎', '👎', '👎', '👎', '👎', '👎']"
+7470599558806127382,2025-02-12 18:22:22,grüne  saboteure deutschen wohlstands ,0,0,7470496674767506690,7470496674767506690,neutral,,[]
+7470595538104238870,2025-02-12 18:06:48,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😂', '😂', '😂', '😂']"
+7470595526892192534,2025-02-12 18:06:33,was ist das denn für ein vogel  ,0,0,7470496674767506690,7470496674767506690,negative,0.5,"['🐦', '😳']"
+7470575877014373142,2025-02-12 16:50:25,ist ja kein wunder atomkraft aus und alles soll über strom betrieben werden wärmepumpen eautos usw der energiebedarf strom wird daher weiterhin stark steigen und wir werden weiterhin zukaufen mü,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470563507572228886,2025-02-12 16:02:43,warum erzählen sie das als ob es schlecht wäre  das sind immer noch weniger als 5 des gesamtverbrauchs und wurde auch importiert da die eigenproduktion teurer war die energiepolitik auch durch 1,0,1,7470496674767506690,7470496674767506690,neutral,,[]
+7470545653874230038,2025-02-12 14:53:05,neue akws nur in bayern den müll gibts dazu,0,0,7470496674767506690,7470496674767506690,negative,,[]
+7470529488288498454,2025-02-12 13:50:24,gutes geschäft für edf,0,0,7470496674767506690,7470496674767506690,positive,,[]
+7470520134223512342,2025-02-12 13:14:19,,0,0,7470496674767506690,7470496674767506690,negative,1.0,"['😎', '😎', '😎']"
+7473911292165096214,2025-02-21 16:33:31,ja klar,5,0,7473908534594358550,7473908534594358550,negative,1.0,"['😂', '😂', '😂']"
+7473911365499241238,2025-02-21 16:34:06,haha sehr lustig,1,0,7473908534594358550,7473908534594358550,positive,,[]
+7484794242385134341,2025-03-23 00:24:44,super cool,0,0,7473908534594358550,7473908534594358550,positive,,[]
+7474192861224534786,2025-02-22 10:46:08,merz  bringt die wende,0,0,7473908534594358550,7473908534594358550,neutral,,['🖤']
+7473993412950590240,2025-02-21 21:52:13,"
+csu2025
+ csu beide stimme
+",0,0,7473908534594358550,7473908534594358550,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🗳', '🦅']"
+7473986287298315040,2025-02-21 21:25:20,"
+csu2025
+ csu beide stimme
+",0,0,7473908534594358550,7473908534594358550,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🦅']"
+7473957987859825410,2025-02-21 19:34:39, die farbe der flagge passt jetzt mit phantasie sieht man wie es nestand hat orange und cducsu,0,0,7473908534594358550,7473908534594358550,neutral,1.0,"['♥️', '👍', '♥️', '♥️', '♥️', '🇩🇪']"
+7473604689972937505,2025-02-20 20:44:01,"
+ csu 2025
+team csu beide stimme 
+",0,0,7473544338732043542,7473544338732043542,neutral,,"['🦅', '🖤', '🇩🇪', '🇩🇪', '🖤', '🗳', '🦅']"
+7473554503359628054,2025-02-20 17:28:53,"
+
+
+
+
+",0,0,7473544338732043542,7473544338732043542,negative,1.0,"['💙', '💙', '💙', '💙', '💙']"

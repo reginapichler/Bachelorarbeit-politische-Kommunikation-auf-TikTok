@@ -1,0 +1,76 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7460546921292956438,2025-01-16 16:13:12,richtig ,32,0,7460541760763186465,7460541760763186465,positive,1.0,"['💙', '💙', '💙', '😉', '👍']"
+7461141003165057814,2025-01-18 06:39:23,dem ist nichts hinzuzufügen   ,24,0,7460541760763186465,7460541760763186465,neutral,1.0,"['💙', '💙', '💙']"
+7461175038205625110,2025-01-18 08:50:36, wer hat eigentlich das problem ab 2015 verursacht   ach ja die merkel cdu mit wir schaffen das,19,0,7460541760763186465,7460541760763186465,negative,1.0,"['😉', '🤔', '🤬']"
+7461185296001123094,2025-01-18 09:30:23,alice für deutschland  ,14,0,7460541760763186465,7460541760763186465,positive,1.0,"['👍', '💙', '💕']"
+7460782966193914646,2025-01-17 07:29:47,genauso ist es,14,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461239953025401622,2025-01-18 13:02:30,weg mit den alt parteien,12,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461236037014192918,2025-01-18 12:47:35,ohjeohje nur noch ,10,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙']"
+7461310366474797846,2025-01-18 17:35:47,es reicht weg mit diesen alt parteien,9,0,7460541760763186465,7460541760763186465,neutral,,[]
+7460748578504868630,2025-01-17 05:17:39,,9,0,7460541760763186465,7460541760763186465,negative,1.0,"['💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍']"
+7460851470306083606,2025-01-17 11:55:18,so ist es,7,0,7460541760763186465,7460541760763186465,negative,,['‼️']
+7460549184463373078,2025-01-16 16:21:46,,6,0,7460541760763186465,7460541760763186465,negative,1.0,"['👍', '👏', '💙', '💪']"
+7460545264341517078,2025-01-16 16:06:46,,6,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙', '💙']"
+7461206485243052822,2025-01-18 10:52:30,die cdu hat uns in diese situation gebracht bundesländer regieren mit den grünen wir sind als arbeitendes volk zum freiwild im eigenen land erklärt ,5,0,7460541760763186465,7460541760763186465,positive,,"['☝️', '☝️', '☝️', '☝️', '☝️', '☝️', '\U0001fae3', '\U0001fae3', '\U0001fae3', '\U0001fae3', '\U0001fae3', '\U0001fae3', '\U0001fae3']"
+7460789731184345858,2025-01-17 07:56:24,,5,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '💙', '💙', '💙', '💙', '💙', '💙']"
+7460763491914613526,2025-01-17 06:14:10,,5,0,7460541760763186465,7460541760763186465,negative,1.0,"['🙏', '💙', '💙', '💙', '💙', '💙', '😇', '🥰']"
+7460750804590478102,2025-01-17 05:26:45,die altparteien gehören allesamt wegen hochverrat vor gericht gestellt,5,1,7460541760763186465,7460541760763186465,neutral,,[]
+7461578468779262742,2025-01-19 10:56:07,haben sprunghafte kriminalität und enorme kosten nichts mit dem alltag der bürger zu tun,4,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461287558699057942,2025-01-18 16:07:19,jawoll jawoll jawoll,4,0,7460541760763186465,7460541760763186465,negative,,[]
+7461270809986794262,2025-01-18 15:02:04, wahre worte ,4,0,7460541760763186465,7460541760763186465,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7462970526510088982,2025-01-23 05:02:04,da hat sie vollkommen recht das hat mit dem leben der menschen absolut nichts zu tun fragt mal die bürger in aschaffenburg wie die das sehen,3,0,7460541760763186465,7460541760763186465,neutral,,[]
+7462084044589007638,2025-01-20 19:38:03,alice für deutschland ,3,0,7460541760763186465,7460541760763186465,positive,1.0,"['💙', '💙', '💙', '💙']"
+7460642675518472962,2025-01-16 22:25:26,und das ist noch sehr höflich gesagt kge ist halt eine frau ohne abschluss und ohne reale lebenserfahrung,3,0,7460541760763186465,7460541760763186465,neutral,,[]
+7469114450626626326,2025-02-08 18:19:40,blau  ist schlau ,2,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙', '👍', '😁']"
+7461983418600817430,2025-01-20 13:07:51,sie ist und bleibt eine frau ohne jegliche abschlüsse sowas hat im bundestag nichts zu suchen und schon garnicht in einer führungsposition,2,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461931028102595350,2025-01-20 09:44:51,du hast so recht nie wieder grün ,2,0,7460541760763186465,7460541760763186465,negative,1.0,"['😁', '😁', '😁', '😁', '😁', '😁', '😁', '😁', '😁', '😁']"
+7461595307957814039,2025-01-19 12:01:25,ganz zu schweigen von den steuergeldernfür diese bürgergeld empfänger,2,0,7460541760763186465,7460541760763186465,negative,,[]
+7461178983880098582,2025-01-18 09:06:05,da merkt man dass politiker nicht dort leben wo ihre schützlinge untergebracht sind,2,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461158483388646166,2025-01-18 07:46:38,die weiß doch garnicht was die da sabbelt das ist endlich am 2302 vorbei dann ist die endlich weg und hoffentlich für alle zeiten ,2,0,7460541760763186465,7460541760763186465,negative,,[]
+7460802647491707670,2025-01-17 08:46:14,ich kann die alte nicht mehr ertragendas gilt für alle grünen schwetzer,2,0,7460541760763186465,7460541760763186465,negative,,[]
+7464861138569102102,2025-01-28 07:14:58,wie kann man so eine aussage machen wir die bürger haben angst um unseren familien warum verstehen das viele nicht,1,0,7460541760763186465,7460541760763186465,neutral,,[]
+7462000664974525206,2025-01-20 14:14:37,genau so ist esaber geist doch realitätsfremd,1,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461239479635657494,2025-01-18 13:00:50,,1,0,7460541760763186465,7460541760763186465,negative,1.0,"['👏', '👏', '👏']"
+7461222966622962454,2025-01-18 11:56:44,die sind doch krank,1,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461199804343010070,2025-01-18 10:27:08,,1,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7461195718675923734,2025-01-18 10:11:21,die braucht auch keiner grüne unwählbar,1,0,7460541760763186465,7460541760763186465,negative,,[]
+7461191355155546902,2025-01-18 09:53:54,diese frau ist bald geschichte,1,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461184841447588630,2025-01-18 09:28:38,,1,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '🇩🇪', '💙']"
+7460993918218912534,2025-01-17 21:07:40,,1,0,7460541760763186465,7460541760763186465,negative,1.0,"['👍', '👍', '👍', '👍', '👍']"
+7460903170659943170,2025-01-17 15:15:32,genau deswegen werde ich in zukunft die afd wählen ,1,0,7460541760763186465,7460541760763186465,neutral,1.0,['💙']
+7460871213460931350,2025-01-17 13:11:40,,1,0,7460541760763186465,7460541760763186465,negative,1.0,['💙']
+7485486714544587542,2025-03-24 21:11:39,die grünen leiden nicht 7nter realitätsverlust die wollen das die deutschen immer weniger in deutschland werden das würde schon so oft von der sekte öffentlich gesagt,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7467946151697253122,2025-02-05 14:46:03,alte ist krank,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7463955460971414294,2025-01-25 20:39:54,diese dame ist nicht die hellste kerze auf der torte  nehme ich an ihre antworten sind peinlich,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7463785803563434754,2025-01-25 09:41:30,wieso ist diese frau immer eingeladen u,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7463734937470157590,2025-01-25 06:26:32,die soll kartoffeln schälen das einzige was die kann,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7462977654128722710,2025-01-23 05:27:02,die wollen das so,0,0,7460541760763186465,7460541760763186465,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7462592645127455510,2025-01-22 04:34:34,ge ist eh unterkomplex,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7462250420766147330,2025-01-21 06:24:09,grün  schwachsinn,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7462060423937065750,2025-01-20 18:06:10,ich wünsche mirdas im februar die grünen die 5 hürde nicht schaffen,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7462040676797137686,2025-01-20 16:49:32,messerstecher und massen vergewaltigung nicht vergessen,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7461649650358190870,2025-01-19 15:32:10,fair,0,0,7460541760763186465,7460541760763186465,positive,,[]
+7461418337920467734,2025-01-19 00:36:21,realitätsfremd taub und blind fanatisch,2,0,7460541760763186465,7460541760763186465,negative,-1.0,"['😡', '😡', '😡', '😡']"
+7461380526378730262,2025-01-18 22:08:13,und sie verlogener versager warum machen sie nicht gegen die migration sie hätten jetzt die möglichkeit dafür,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461327436933071648,2025-01-18 18:41:30,noch können wir den wahnsinn stoppen was muss denn noch alles passieren wenn ihr wirklich was ändern wollt redet mit euren freunden seid schlau wählt blau,0,0,7460541760763186465,7460541760763186465,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7461309423392457494,2025-01-18 17:32:21,und deshalb ist die einzig wahre partei die afd,0,0,7460541760763186465,7460541760763186465,neutral,1.0,['💙']
+7461301547433280278,2025-01-18 17:01:45,die altparteien leben alle in einer traumwelt und haben eine andere realität ,0,0,7460541760763186465,7460541760763186465,neutral,1.0,"['💙', '💙', '💙', '💙', '💙']"
+7461298318259274518,2025-01-18 16:49:08,total verpeilt die dame,0,0,7460541760763186465,7460541760763186465,negative,-1.0,"['\U0001fae3', '👎', '👎', '👎']"
+7461287536301359894,2025-01-18 16:07:13,,0,0,7460541760763186465,7460541760763186465,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7461258960194372374,2025-01-18 14:16:41,,0,0,7460541760763186465,7460541760763186465,negative,1.0,"['💯', '💙']"
+7461252619567416086,2025-01-18 13:51:34,trulla hat wahrscheinlich in ihrer blase nichts damit zu tun,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461249512221180694,2025-01-18 13:39:24,,0,0,7460541760763186465,7460541760763186465,negative,1.0,"['😂', '😂', '😂']"
+7461248742415467286,2025-01-18 13:36:25,,0,0,7460541760763186465,7460541760763186465,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7461192677120361238,2025-01-18 09:59:00,es wird höchste zeit dass die afd in regierungsverantwortung kommt endlich wieder aufrichtigkeit wahrheit freiheit und frieden sowie souveränität gegenüber unseren bürgern ,0,0,7460541760763186465,7460541760763186465,neutral,1.0,"['💙', '💙']"
+7461185022223500054,2025-01-18 09:29:51,rentner sind aufgrund der medienkompetenz u nichtakzeptanz des eigenen unvermögens die möglichkeiten der nachwendezeit zu nutzen bereit die zukunft der kinder aufs spiel zu setzen,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461161468640379670,2025-01-18 07:58:48,das ist die wahrheit über die grüne sekte,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7461124379189363478,2025-01-18 05:38:28,des wegen kann man nicht grün wählen  waren sie früher schon haben im bundestag und haben gestrickt ,0,0,7460541760763186465,7460541760763186465,negative,-1.0,['😞']
+7461106285631521558,2025-01-18 04:27:10,"trump schütze unsere kinder und familien
+last uns die brandmauer anzünden
+
+wir sind das volk
+",0,0,7460541760763186465,7460541760763186465,neutral,1.0,"['🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '🧱', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7460951167062606614,2025-01-17 18:21:52,die dame ist die letzte die von irgendwas eine ahnung hätte ,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7460871494270567190,2025-01-17 13:13:06,kgöe ist unheimlich großzügig grün mehr beleidigung geht an die normalität nicht,0,0,7460541760763186465,7460541760763186465,negative,,[]
+7460544435057492759,2025-01-16 16:03:41,wie viele migranten kennst du denn,0,0,7460541760763186465,7460541760763186465,neutral,,[]
+7479424014597079830,2025-03-08 13:05:28,die hat was an der klaache,0,0,7460541760763186465,7460541760763186465,negative,,[]

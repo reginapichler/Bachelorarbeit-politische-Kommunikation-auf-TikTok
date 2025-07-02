@@ -1,0 +1,353 @@
+id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
+7457197218983428886,2025-01-07 15:34:05,sind sie der vater von heiko castcrafter,1,0,7457193996956224790,7457193996956224790,neutral,,[]
+7472500540073706263,2025-02-17 21:18:52,,0,0,7457193996956224790,7457193996956224790,negative,1.0,"['😂', '😂']"
+7465823329796145942,2025-01-30 21:28:24,,0,0,7457193996956224790,7457193996956224790,negative,1.0,"['😁', '😁', '😁']"
+7457261738326508310,2025-01-07 19:44:27,,0,0,7457193996956224790,7457193996956224790,negative,1.0,"['🌻', '💚']"
+7457197270967763734,2025-01-07 15:34:19,cast,0,0,7457193996956224790,7457193996956224790,negative,,[]
+7457195439792702230,2025-01-07 15:27:08,na ja aber bald wieder ,0,0,7457193996956224790,7457193996956224790,negative,0.0,['😏']
+7460874765739918102,2025-01-17 13:25:36,sehr demokratisch eine partei verbieten zu wollen die demokratisch gewählt worden ist ,5,4,7460870474038316310,7460870474038316310,neutral,1.0,['😅']
+7460919516357821206,2025-01-17 16:19:04,"real
+nur noch ",3,4,7460870474038316310,7460870474038316310,negative,1.0,['💙']
+7460879313676862230,2025-01-17 13:43:01,eure demokratie ich würde eher sagen das wort demokratie kann man bei den altparteien einfach durch macht ersetzen,1,4,7460870474038316310,7460870474038316310,neutral,,[]
+7499403301873222422,2025-05-01 09:15:06,,0,0,7460870474038316310,7460870474038316310,negative,1.0,"['🤣', '🤣', '😂']"
+7466823686885950230,2025-02-02 14:10:12,sehr stark,0,0,7460870474038316310,7460870474038316310,positive,,[]
+7465966751697847062,2025-01-31 06:45:40,das wird nichts mehr bringen leider,0,0,7460870474038316310,7460870474038316310,negative,,[]
+7465795078201000726,2025-01-30 19:38:23,heute noch viel wichtiger ,0,0,7460870474038316310,7460870474038316310,neutral,1.0,['👍']
+7465165140929807126,2025-01-29 02:57:13,ostfriesland vielleicht mal nachts nach leer fahren innenstadt fragen die dich nach geld und du gibst denen migranten nichts sch7agen die dich zusammeneinfach verschieden kulturen,0,1,7460870474038316310,7460870474038316310,neutral,1.0,['💙']
+7460529220235182870,2025-01-16 15:04:38,das spahn überhaupt noch in der bundespolitik mitmischt ist unglaublich,2423,18,7460478603512286486,7460478603512286486,negative,,[]
+7460507062825599776,2025-01-16 13:38:10,jetzt kommt da wieder einer mit fakten als wenn herr spahn etwas damit anfangen könnte,1977,6,7460478603512286486,7460478603512286486,neutral,,[]
+7460483776071303958,2025-01-16 12:08:36,deswegen nicht blau und nicht union ,1683,13,7460478603512286486,7460478603512286486,negative,1.0,['😁']
+7460510015372247830,2025-01-16 13:49:54,spahn so höö hää was worte und argumente,728,7,7460478603512286486,7460478603512286486,negative,,[]
+7460544359806616342,2025-01-16 16:03:28,hat der spahn den herrn inhaltlich überhaupt verstanden,548,9,7460478603512286486,7460478603512286486,neutral,,[]
+7460542528392839958,2025-01-16 15:56:14,vernichtender kann man nicht argumentieren chapeau ich freue mich wie unsere sprache hier skalpellartig zum einsatz gekommen ist ,463,2,7460478603512286486,7460478603512286486,neutral,1.0,['👍']
+7460509875262931734,2025-01-16 13:49:57,gut argumentiert leider etwas zu differenziert für den beißreflex der union,271,0,7460478603512286486,7460478603512286486,positive,,[]
+7460522605675692822,2025-01-16 14:39:10,dass spahn noch mal minister werden soll ist sowieso unfassbar skandalös der hat eine halbe milliarde steuergelder veruntreut,211,30,7460478603512286486,7460478603512286486,negative,,[]
+7460521099583882006,2025-01-16 14:32:55,spahn geht wirklich gar nicht,200,2,7460478603512286486,7460478603512286486,negative,,[]
+7460645005149881110,2025-01-16 22:33:50,spahn guckt als würde er nix verstehen tut er auch nicht,137,1,7460478603512286486,7460478603512286486,negative,,[]
+7460552684212667158,2025-01-16 16:35:50,der kann deutsch ist richter und hat fakten im gepäck puhhh darf sowas überhaupt sein ich meine da ist doch die union und die meisten anderen populisten total unfair überfordert ,124,0,7460478603512286486,7460478603512286486,negative,1.0,"['😆', '🥳']"
+7460517919438996246,2025-01-16 14:20:29,gesundheit und spahn hat über 4 mrd euro gekostet jetzt möchte der herr auch wissen wie migration funktioniert i doubt it sus,100,1,7460478603512286486,7460478603512286486,neutral,,[]
+7460511633295966998,2025-01-16 13:56:19,mit gutenachtkuss schlafen gelegt ,93,0,7460478603512286486,7460478603512286486,neutral,0.0,['🔥']
+7460519914232038166,2025-01-16 14:28:28,spahn hat ja gar nicht die absicht irgendetwas richtig zu stellen oder auf fragen wirklich zu antworten er will ja dass nur ein teil der leute klatscht spalten aus politischem kalkül ist die devise,92,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460626123197186839,2025-01-16 21:20:46,schlafen gelegt,86,0,7460478603512286486,7460478603512286486,negative,,[]
+7460522055059391254,2025-01-16 14:36:48,sehr klug und argumentativ auseinander genommen,66,0,7460478603512286486,7460478603512286486,negative,,[]
+7460521642956604182,2025-01-16 14:35:17,deshalb ,62,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚', '💪']"
+7460481436169044758,2025-01-16 11:59:13,die cducsu ist so lost,46,2,7460478603512286486,7460478603512286486,negative,,[]
+7460778468930831126,2025-01-17 07:12:02,das schlimme darüber hinaus normale bundesbürger haben mehr wissen wie politiker die uns in diese vertreten das führt unweigerlich zudem wo wir uns im frust zur politik befinden,40,7,7460478603512286486,7460478603512286486,negative,,[]
+7460502228815790870,2025-01-16 13:20:13,einen so hochgebildeten mann mit migrationshintergrund im fernsehen zu sehen ist in diesen zeiten absolut essenziell um den höhlenmensch ausländer narrativ entgegenzuwirken,40,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460580688930194198,2025-01-16 18:24:19,dass siee spahn permanent eine bühne bieten ist unglaublich der hat ja nirgendwo irgendetwas zu sagen,26,2,7460478603512286486,7460478603512286486,negative,,[]
+7460515611773846294,2025-01-16 14:11:45,und spahn so ,23,0,7460478603512286486,7460478603512286486,neutral,1.0,['😳']
+7460560245246690070,2025-01-16 17:05:07,"intelligenz vs politik das beides in deutschland nicht vereinbar erscheint ist bedauerlich
+der spahn schaut die ganze zeit so als ob er gedanklich mit ein paar kumpels bier vor der tanke wegballert",17,0,7460478603512286486,7460478603512286486,negative,,[]
+7460953548328813334,2025-01-17 18:31:13,wie kann es sein dass herr spahn guckt als hätte er das noch nie gehört der iran ist nur eins von vielen ländern bei denen das so ist,16,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460758590254957334,2025-01-17 05:56:16,das jens spahn nicht vor gericht musste um zurecht verurteilt zu werden ist eine sache aber das er einfach gabz normal als politiker weite machen darf ist einfach nur lächerlich und eine blamage,15,0,7460478603512286486,7460478603512286486,negative,,[]
+7460529625317720854,2025-01-16 15:06:35,spahn ist ein spalter sonst nichts,15,0,7460478603512286486,7460478603512286486,negative,,[]
+7460531710727193346,2025-01-16 15:14:38,spahn fischt am rechten rand der weiß wahrscheinlich selbst was er für einen unsinn redet ekelhaft,13,0,7460478603512286486,7460478603512286486,negative,,[]
+7461888130125136662,2025-01-20 06:58:48,das ist etwas zu hoch für spahn brecht das doch mal runter für den armen mann,12,0,7460478603512286486,7460478603512286486,negative,,[]
+7460987090497307415,2025-01-17 20:41:14,rede bitte so dass auch weidel und ihre horde dich verstehen das war sehr hoch,12,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460638097873617686,2025-01-16 22:06:58,spahn sollte ja generell gar nicht reden oder was schreiben oder atmen,11,0,7460478603512286486,7460478603512286486,neutral,-1.0,"['‼️', '😑']"
+7460545268275708694,2025-01-16 16:06:48,das spahn nachdem corona fiasko noch was zu sagen hat ist crazy,10,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460515771857437462,2025-01-16 14:12:13,wie er schaut  und plötzlich versteht dass populismus hier nicht reicht und dann merkt dass er aber sonst nichts kann,10,1,7460478603512286486,7460478603512286486,neutral,1.0,"['😂', '😂']"
+7460865922321154838,2025-01-17 12:51:06,den würde ich gerne mal in ner diskussion mit weidel sehen dann sieht die garantiert noch schlechter aus als sowieso schon ,9,1,7460478603512286486,7460478603512286486,negative,1.0,['😂']
+7460506566526501654,2025-01-16 13:36:45,die antwort hatte ich gerne gehört,9,2,7460478603512286486,7460478603512286486,neutral,,[]
+7460831541796602646,2025-01-17 10:38:27,auf diesem niveau kann ihm der spahn gar nicht folgen,7,0,7460478603512286486,7460478603512286486,negative,,[]
+7460596371024823062,2025-01-16 19:24:43,wenn man hört das ein politiker dem cicero ein interview gibt muss man sonst nicht mehr viel wissen die richtung ist klar,7,0,7460478603512286486,7460478603512286486,negative,,[]
+7460572897653097238,2025-01-16 17:53:50,ja ja ja diese mentalität des generalverdachtes in so vielen bereichen zerstört unser miteinander und unsere soziale und fürsorgliche gemeinschaft,7,0,7460478603512286486,7460478603512286486,negative,,[]
+7460507799265657622,2025-01-16 13:41:19,durch eine beteiligung einer afd an einer regierung in den ländern könne auch richterstellen mit gleichgesinnten besetzt werdenwir sind wieder so kurz vor 1933 angekommen ,7,1,7460478603512286486,7460478603512286486,neutral,1.0,"['😳', '😳']"
+7460772734961976086,2025-01-17 06:50:26,ich liebe es wenn random jemand einfach unsere politiker etwas erklärt ,6,0,7460478603512286486,7460478603512286486,neutral,,"['🤣', '🤣', '🤣']"
+7460598924946408214,2025-01-16 19:35:08,ich glaube da ist spahn überfordert hab sowieso den eindruck ihn interessiert nur seine karriere und was für ihm rausspringt von daher unwählbar cdu,6,0,7460478603512286486,7460478603512286486,negative,,[]
+7460562766211859222,2025-01-16 17:14:45,genau so sollte wissen vermittelt werden schön das sie in unserem land leben,6,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460508059187364630,2025-01-16 13:42:37,,6,4,7460478603512286486,7460478603512286486,negative,1.0,['💚']
+7461239406369030934,2025-01-18 13:00:17,sehr schön formuliert,5,0,7460478603512286486,7460478603512286486,positive,,[]
+7460625059918365462,2025-01-16 21:16:33,herr spahn ist intellektuell nicht in der lage ein duell mit dem herrn hier zu halten,5,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460574735585542934,2025-01-16 18:01:01,spahn soll erstmal seine maskensphäre lückenlos aufklären,5,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460567049954509590,2025-01-16 17:31:04,ahhh ich liebe es wenn menschen wissen wovon sie sprechen ,5,0,7460478603512286486,7460478603512286486,positive,1.0,"['👏', '👏', '👏']"
+7460566918068437782,2025-01-16 17:30:31,der blick von spahn sagt alles er versteht nichts und hoffentlich wird er nicht wieder einen minister posten bekommen der hat genug geld verschleudert,5,0,7460478603512286486,7460478603512286486,negative,,[]
+7460548254901306134,2025-01-16 16:18:25,spahn einfach komplett rechts,5,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461370526671504151,2025-01-18 21:29:06,so wie hr spahn schaut versteht er nur bahnhof,4,1,7460478603512286486,7460478603512286486,neutral,,[]
+7461181153694941975,2025-01-18 09:14:27,woher soll der spahn denn sowas auch wissen wenn er darüber entscheidet,4,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460787430233506582,2025-01-17 07:47:02,krass spahn hat da so viel gelernt er überdenkt gerade so viel,4,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460711565899039510,2025-01-17 03:00:17,da guckt der spahn,4,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460591137787790102,2025-01-16 19:04:31,warum sind leute wie er nicht in der politik sondern so leute wie spahn merz und wie sie all3 heißen,4,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460568494834336534,2025-01-16 17:37:00,ist doch nur spahn woher soll er das wissen,4,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460563931066270486,2025-01-16 17:19:12,ich befürchte er hat es nicht verstanden was der studiogast gesagt hat dafür braucht es mindestens drei gehirnzellen,4,1,7460478603512286486,7460478603512286486,neutral,,[]
+7461386980036231958,2025-01-18 22:33:04,das ist wirklich so gut und klar ausgedrückt  wow ich bin wirklich beeindruckt,3,0,7460478603512286486,7460478603512286486,positive,0.0,"['🥰', '✨']"
+7461045292726666006,2025-01-18 00:28:27,sehr sehr eloquent und wunderbar das wir solche menschen hier haben ,3,0,7460478603512286486,7460478603512286486,positive,,['❤️']
+7460646926929756930,2025-01-16 22:41:17,herr spahn hat ja auch null ahnung ,3,0,7460478603512286486,7460478603512286486,negative,0.0,['😏']
+7460557137203479318,2025-01-16 16:52:41,bravo das ist die wahre bedeutung von rechtsstaat die herrschaft des rechts gleichheit vor dem gesetz schutz der menschen vor staatlicher willkür das ist das fundament unserer gesellschaft,3,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460554740423000834,2025-01-16 16:43:24,ich hätte es besser formulieren können aber hey ,3,0,7460478603512286486,7460478603512286486,negative,,['\U0001fae3']
+7460504071188529942,2025-01-16 13:27:12,trocken genommen,3,0,7460478603512286486,7460478603512286486,negative,,[]
+7462114901915271958,2025-01-20 21:37:56,wow so eine präzise wortwahl,2,0,7460478603512286486,7460478603512286486,positive,,[]
+7461897713194779414,2025-01-20 07:36:29,da guckt er nunder jens,2,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461518726014337815,2025-01-19 07:04:54,auf den punkt gebracht danke,2,0,7460478603512286486,7460478603512286486,positive,,[]
+7461431625176597270,2025-01-19 01:27:56,da schaut er  der spahn ,2,0,7460478603512286486,7460478603512286486,neutral,1.0,['😂']
+7461306929487512342,2025-01-18 17:22:14,chapeau,2,0,7460478603512286486,7460478603512286486,positive,,['🤠']
+7461223192537334550,2025-01-18 11:57:52,er hat das auf dem punkt gebracht ,2,0,7460478603512286486,7460478603512286486,neutral,,"['❤️', '❤️', '❤️', '❤️', '❤️']"
+7460725002364961558,2025-01-17 03:52:36,spahn sofort ausweisen,2,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460640088067965718,2025-01-16 22:15:22,extrem smarte argumentation,2,0,7460478603512286486,7460478603512286486,negative,,[]
+7460633826265318166,2025-01-16 21:50:42,recht hat er was kann spahn dagegen sagen,2,0,7460478603512286486,7460478603512286486,neutral,,[]
+7476446553339790102,2025-02-28 12:31:18,bei spahn ist licht an aber es ist niemand zuhause,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7471005650451071766,2025-02-13 20:38:11,bitte lass spahn an uns vorbeigehen er hat die inkompetenz von 10 scheuers ,1,0,7460478603512286486,7460478603512286486,negative,,['🤦\u200d♂️']
+7470774222991311638,2025-02-13 05:41:21,bravo das ist doch mal eine intelligente erklärung zum thema ich könnte noch länger gern zuhören und wissen aufnehmen,1,0,7460478603512286486,7460478603512286486,neutral,1.0,['👏']
+7470397816260379414,2025-02-12 05:21:39,spahn ist nicht mehr tragbar,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7468057099706303254,2025-02-05 21:56:39,,1,0,7460478603512286486,7460478603512286486,negative,1.0,"['\U0001faf3', '\U0001faf3', '🎤', '🎤']"
+7465290595943973654,2025-01-29 11:01:30,bin auch deutsch iranerin keine chance den pass abzugeben krass oder nicht bedacht bei den gehässigen äußerungen zu eingebürgerten deutschen wie es scheint und merz gröllt sowas als jurist,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7462995494903857942,2025-01-23 06:35:53,nach der ampel links ,1,0,7460478603512286486,7460478603512286486,neutral,1.0,"['💪', '💪']"
+7462698024319140630,2025-01-22 11:21:04,großartig,1,0,7460478603512286486,7460478603512286486,positive,,[]
+7462084127878382358,2025-01-20 19:38:02,das thema mit dem iran kann ich bestätigen,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461984391045776150,2025-01-20 13:11:34,das eigentliche gift für unsere demokratie ist die unfähigkeit der politiker ihre verdeckte korruption das uns jedes jahr mehr geld kostet und ihre arroganz mit der sie das ganze vorleben,1,1,7460478603512286486,7460478603512286486,negative,,[]
+7461934667091198742,2025-01-20 09:59:48,immer gut wenn die studiogäste schlauer sind als die leute die die gesetze machen,1,0,7460478603512286486,7460478603512286486,positive,,[]
+7461355595715642134,2025-01-18 20:30:58,spahn kann nur milliarden verschwenden,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461222346905584407,2025-01-18 11:54:01,das was er sagt müsste man erst mal verstehen da setzt bildung voraus und damit wird es jetzt eng es reicht nicht aus milliarden in den sand zu setzen und zu glauben man wüsste dann alles,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7461158957463372566,2025-01-18 07:49:03,der schüler spahn hört aufmerksam zu so hat er das wohl noch nicht gehört na ja um minister zu werden muss man ja nicht unbedingt der hellste auf der kerze sein,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460925478437520130,2025-01-17 16:42:29,also dem blick nach zu urteilen von spahn hat dieser den jungen mann inhaltlich nicht verstanden,1,0,7460478603512286486,7460478603512286486,neutral,1.0,['😂']
+7460800881530749718,2025-01-17 08:39:44,ob es dem spahn unangenehm ist hab nicht das gefühl,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7460734635983799062,2025-01-17 04:25:13,der bruder hat mehr deutsch gesprochen als manche deutsche selbst habibi du darfst gerne bleiben,1,0,7460478603512286486,7460478603512286486,positive,,[]
+7460687740261008130,2025-01-17 01:24:30,stark ,1,0,7460478603512286486,7460478603512286486,positive,1.0,"['👏', '👏']"
+7460669884806464278,2025-01-17 00:13:39,na herr spahn überlegt die ganze zeit wie komme ich jetzt hier raus sehr gute argumentation,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460641174585901846,2025-01-16 22:19:42,wie überfordert spahn ist ,1,0,7460478603512286486,7460478603512286486,negative,1.0,['😁']
+7460610721920713494,2025-01-16 20:20:45,jensi wurde mehrfach schlafen gelegt im dieser sendung ,1,0,7460478603512286486,7460478603512286486,neutral,1.0,['😂']
+7460598347482137366,2025-01-16 19:32:35,respekt er beschreibt es genau richtig diese rechtsextremen fantssien sollten eigentlich demokraten nicht mittragen spahn ist aber seit langem unglaubwürdig,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7460589948405908246,2025-01-16 19:00:15,kann der mann in die politikbitte,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7460575513813107478,2025-01-16 18:04:07,zitat aus dem film das leben der anderen unglaublich das leute wie sie mal ein land geführt haben  gilt besonders für exminister spahn dem hier von einem richter sie leviten gelesen werden,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460569236978844438,2025-01-16 17:39:57,gegen rechts wählen geht nur links der cdu,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460567528357708566,2025-01-16 17:32:58,das betrifft unsere freunde kollegen und familie und die möglichkeit den deutschen pass zu entziehen entwertet die deutsche staatsbürgerschaft das rafft die cdu nur nicht,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460564024817713942,2025-01-16 17:19:41,der hat spahn gegessen und ausgespuckt,1,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460555577225626390,2025-01-16 16:47:05,spahn will spalten und schuldet uns noch 23 milliarden,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7460555382441509654,2025-01-16 16:46:02,und die reaktion des herrn spahn war gewäsch,1,1,7460478603512286486,7460478603512286486,neutral,,[]
+7460545773668451094,2025-01-16 16:08:51,"was ist wenn die behörden angegeben haben das ich eine staatsangehörigkeit besitzen würde die ich garnicht besitze
+dieses land weiß nicht mal das ich existieren und ich bin noch nie da gewesen",1,26,7460478603512286486,7460478603512286486,negative,,[]
+7460535044299817750,2025-01-16 15:27:34,links,1,0,7460478603512286486,7460478603512286486,negative,0.0,['📢']
+7460531049838773015,2025-01-16 15:11:59,,1,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚', '💚']"
+7460520344602166038,2025-01-16 14:30:34,ich weiß nicht wie die cdu wählbar ist für irgendjemand wenn spahn und merz soweiter machen rassistisch sexistische kinderfeindlich,1,0,7460478603512286486,7460478603512286486,negative,,[]
+7460518294510174978,2025-01-16 14:22:16,das geht runter wie öl ,1,0,7460478603512286486,7460478603512286486,negative,1.0,['👏']
+7460516045071581974,2025-01-16 14:13:53,rede,1,0,7460478603512286486,7460478603512286486,negative,,['\U0001faf5']
+7486458507138073346,2025-03-27 12:02:50,ob er überlegt wie er an einer neuen pandemie verdienen kann ,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7482710371002876694,2025-03-17 09:38:12,spahn ist einer der unfähigsten politiker in unserem land bitte meinen ministerposten für ihn ,0,0,7460478603512286486,7460478603512286486,negative,,['🙄']
+7480526977565311766,2025-03-11 12:25:28,spahn gehört abgeschoben nach dunkeldeutschland,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7477489367025632022,2025-03-03 07:58:13,spahn hat so ein turnschuhgesicht nh unfassbar,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7477115728984408834,2025-03-02 07:48:15,schlafengelegt mit küsschen ,0,0,7460478603512286486,7460478603512286486,negative,1.0,['🙏']
+7477002214038274838,2025-03-02 00:27:52,keiner von cdu und afd verstehen diese wörter viel zu komplexe sätze ,0,0,7460478603512286486,7460478603512286486,negative,1.0,['👌']
+7476724809456583446,2025-03-01 06:31:24,spahn sollte nur noch über die maskenaffäre sprechen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7476330818660270870,2025-02-28 05:02:54,jens ist astreiner opportunist gut wenn man ihn nie damit durchkommen lässt,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7475966391112696599,2025-02-27 05:28:22,da schaut der rechte spahn aber ganz schön blöd aus der wäsche,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7473717585536746262,2025-02-21 04:04:06,jensspahn da sagste mal wieder nichts ,0,0,7460478603512286486,7460478603512286486,negative,1.0,['😳']
+7473663934907712278,2025-02-21 00:35:12,inhaltlich sowie sprachlich einfach überragend,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7471596029912417026,2025-02-15 10:49:21,habe ich aus der perspektive nie betrachtet danke für die erkenntnis,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7471548585646834454,2025-02-15 07:45:31,so danke und jetzt alle noch mal angucken und noch mal und so lange bis es der letzte kleingeist verstanden hat,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7471376491809800982,2025-02-14 20:37:08,vorname denwürdichmirsogerner,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7471294020984029974,2025-02-14 15:17:08,spahn wie dreist muss man sein nachdem man selbst deutschland so geschadet hat den mund über andere noch aufzumachen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7471234989863371542,2025-02-14 11:28:18,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7471224524644287255,2025-02-14 10:48:00,die antwort hätte mich jetzt sehr intetessiert,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7471180801888518934,2025-02-14 07:58:12,warum sieht man die ganze zeit diese simpsons affen in homers gehirn oben in spahns hohlem blick,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7471068455874806550,2025-02-14 00:43:30,glaub spahn hat ihn garnicht verstanden ,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['🙄', '😂']"
+7470960837778834199,2025-02-13 17:44:22,wie wäre es wenn er direkt den job von spahn übernimmt bin ich für,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7470657181319463702,2025-02-12 22:05:52,einmal einen cduler fragen ob man einen deutschen mit israelpass auch ausbürgern würde wenn er einen nazi verprügelt hat und angezeigt wurde wegen körperverletzung,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7470506308283089697,2025-02-12 12:22:41,diese leute kommen immer mit irgendwelchen ideen die rechtlich garnicht umzusetzen sind,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7470275369543893782,2025-02-11 21:24:16,"lektüre lehre kühnheit schärfe und schönheit der deutschen sprache von einem aus der ferne an den minister ad
+weiter so",0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7469898245263655702,2025-02-10 21:00:40,spahn sein blick der hat grad ne rießen ohrfeige verinnerlicht,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['😂', '😂']"
+7469583860901757718,2025-02-10 00:42:43,das war der fetteste und schönste korb den ich seit langem hören durfte ,0,0,7460478603512286486,7460478603512286486,positive,,['❤️']
+7469176474831766294,2025-02-08 22:20:18,wer sich eine villa von 5 mio leisten kannda stellt man sich doch fragen woher kommt das geld,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7469015528423424790,2025-02-08 11:55:45,herr spahn ist ein hinterlader daher nicht ernst nehmen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7468995660633850646,2025-02-08 10:38:27,es gibt auch menschen mit drei pässen ,0,0,7460478603512286486,7460478603512286486,neutral,,['🤫']
+7468216586857464598,2025-02-06 08:16:14,ich liebe diese aufnahmen hab sie schon oft gesehen so so wichtig wahnsinn wie toll dieser mensch das so einfach erklärt danach kam auch eine dame die am tisch hierzu noch beigetragen hat toll,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7467540105534997250,2025-02-04 12:30:39,spahn ist die oberpfeife der republik noch vor linnemann und merz,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7467523836926870294,2025-02-04 11:27:22,ich wünschte alle könnten so sachlich argumentieren,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7467507914484515606,2025-02-04 10:25:35, das ist genau so  wie er das sagt,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['👍', '👍', '👍', '👍', '👍']"
+7467283911513948950,2025-02-03 19:55:49,spahn kann nicht viel ist ein populist und kognitiv eher unterdurchschnittlich leistungsfähig,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7467235297832092438,2025-02-03 16:47:18,warum ist spahn so inkompetent und dennoch will er weiter alle abschieben einfach ätzend der typ,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7467188737450001174,2025-02-03 13:46:33,spahn mit der masken affäre sollte ins gefängnis gehen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7466036404798292759,2025-01-31 11:15:34,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚', '💚']"
+7465782136449991446,2025-01-30 18:48:21,da merkt man mal wieder das die cdu gar nicht alle fakten kennen und trotzdem stimmung machen,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7465593424743154454,2025-01-30 06:36:59,und sowas nennt ihre ausländer wie und wo ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,['💯']
+7465463210428597014,2025-01-29 22:11:13,wie der spahn trotzig die arme verschränkt er ist einer der schlimmsten cdu politiker,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7465347511970202370,2025-01-29 14:41:55,herr spahn kam nicht mit der rhetorik ganz mitaber eventuell hat er damitvon einem deutschen richter mit iranischen wurzeln gar nicht gerechnetbedauernswert,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7465257490444272406,2025-01-29 08:52:43,es gibt abkommen mit vielen anderen ländern es ist nicht nur einseitig stellt mal vor allle deutsche die im ausland ihre pässen verlieren,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7465107696658137878,2025-01-28 23:12:29,total bash von der judikativen auf die gusche der legislative die das grundgesetz zerbrechen will ,0,0,7460478603512286486,7460478603512286486,neutral,,"['💪🏾', '🥰']"
+7464952454033376022,2025-01-28 13:09:18,herr spahn hat sein unvermögen während der carona pandemie mehrfach unter beweis gestellt viel deumnes zeug daher schwätzen und wenig können toll,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7464640024408523542,2025-01-27 16:56:17,spahn wird immer rechter wie die ganze cdu also unwägbar für normale menschen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7464199191645815574,2025-01-26 12:25:50,deshalb niemals cdu csu afd,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7464179019186422550,2025-01-26 11:07:23,was an spahn unangenehm ist ist seine art vom priesterlichen ins aggressive zu kippen er selber merkt es nicht unangenehm klüger wirkt man dadurch nicht und der sache hilft es auch nicht,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7464156230925517570,2025-01-26 09:39:08,endlich hat das wort einnmal jemand mit fundierter kompetenz leider im publikum,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7463738553161106198,2025-01-25 06:39:49,wahlkampf linker unsinn,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7463477591921591062,2025-01-24 13:45:57,abby,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7463387032090706710,2025-01-24 07:54:44,wieso kann ich das nicht auf insta teilen my boomer followers need this ,0,0,7460478603512286486,7460478603512286486,negative,1.0,['😃']
+7463368170150413078,2025-01-24 06:41:25,rechtsgelehrter versus politiker,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7463271472867312406,2025-01-24 00:28:23,spahn ist ein totaler witz dennoch darf er noch in der politik mitmischen das system ist einfach nur noch kaputt,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7463206361225560854,2025-01-23 20:12:57,trotz der existenz der afd ist spahn für mich der unsympathischste politiker deutschlands,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7463074485437825814,2025-01-23 11:41:55,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💯', '👏', '👏', '👏', '💯']"
+7463013735167361814,2025-01-23 07:46:05,nur müsste das recht auch angewendet werden,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7462787482510623511,2025-01-22 17:07:30,"jensspahn
+sie sind ein trump verehrer 
+wir wollen sie nicht
+",0,0,7460478603512286486,7460478603512286486,negative,1.0,"['😳', '💚', '❤️', '💚', '❤️', '💚', '❤️']"
+7462664012557452054,2025-01-22 09:09:34,spahn hat sich gerade verliebt ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['😂', '❤️', '😂']"
+7462599998942315286,2025-01-22 05:02:50,popopirat sollte lieber mal seine maskendeals offen legen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7462492650672866070,2025-01-21 22:04:00,spahn und merz dürfen sich nicht an deutschland bereichern,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7462262849416512278,2025-01-21 07:13:02,der spahn rätselt immer noch was der kluge mann im puplikum wohl gesagt hat,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7462118730123543318,2025-01-20 21:52:46,was ist mit dem masken skandal danach darf man immer noch im politik mitmischen ,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['😱', '😂', '😂', '😂', '😂', '😂']"
+7462081015390274326,2025-01-20 19:26:02,dieser iraner ist ein beispiel für eine integration wie wir uns das wünschen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461801522088313622,2025-01-20 01:25:34,hat spahn es verstanden,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461708301995524886,2025-01-19 19:19:45,spahn schaut wie so ein spongebob,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461672566190981910,2025-01-19 17:01:28,die antwort von spahn gibs die auch,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461590922418881303,2025-01-19 11:44:21,politiker wie spahn denken nur von 12 bis mittag,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461587300758340374,2025-01-19 11:30:09,ich würde so formulieren jens spahn ist lückenhaft und schief vielleicht etwas provokativ vereinfachen aber das mag ja herr spain,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461513810031248150,2025-01-19 06:46:48,spahn gehört aufgrund seiner maskendeals die uns 23 bis 35 milliarden euro kosten aus der öffentlichkeit verbannt dass er nicht zurücktritt zeigt seine ignoranz arroganz und falschheit ,0,0,7460478603512286486,7460478603512286486,negative,,['🤮']
+7461329320310965014,2025-01-18 18:49:28,fakt auchdass das zukünftige wunschheimatland hier leider nicht unterstützend arbeiten kanndurch gesetzeslage im ausland ich denke der antragsteller kann das auch nicht erwarten,0,1,7460478603512286486,7460478603512286486,neutral,-1.0,['💔']
+7461318826526720790,2025-01-18 18:08:36,abstoßender vorstoß spahn halt,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461296642819539734,2025-01-18 16:42:43,gefgefgefgefgef,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461214573754483458,2025-01-18 11:24:11,herr spahn ist das beste beispiel dass nicht homosexualität das problem ist sondern parteienzugehörigkeit,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461199745681621782,2025-01-18 10:26:54,ich finds toll wie man bei spahn förmlich sieht wanns bei ihm klick macht ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['😂', '😂']"
+7461199072256328470,2025-01-18 10:24:10,spahn verdankt seine persönliche freiheit rotgrüner politik er selbst hetzt aber seit jahren auf blaubraunem niveau,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461196983556096790,2025-01-18 10:15:47,großartige argumentation da schaut er dumm aus der wäsche der maskenjens,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461194756871684886,2025-01-18 10:07:35,,0,0,7460478603512286486,7460478603512286486,negative,,"['🤲🏻', '❤️']"
+7461185479391118082,2025-01-18 09:31:39,teamhabeck habeck4kanzler teamrobert csuverhindern merzverhindern fdpverhindern söderverhindern afdverhindern cduverhindern kanzlerera niewiederistjetzt,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚', '💚', '💚', '💚']"
+7461180234650796833,2025-01-18 09:10:24,unglaublich dass dem spahn immer noch eine bühne angeboten wird nach seinem mega fail als gesundheitsminister sollte er mal den mund halten,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461174333655991062,2025-01-18 08:48:22,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💙', '💙', '💙', '💙']"
+7461174247597163286,2025-01-18 08:47:36,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '👏', '👏', '💚']"
+7461169205490500384,2025-01-18 08:31:08,körpersprache spahn armen gekreuzt für seiner brust bedeutet abwehr geschlossen fühlt sich angegriffen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7461156383997362966,2025-01-18 07:38:51,der typ hat uns so viel geld gekostet er soll einfach aufhören in der politik anstatt jetzt noch hetze zu betreiben,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461147409138828054,2025-01-18 07:04:26,zugedeckt und schlafen gelegt finds nur komisch das das hier auf einem grünen account ist die grünen wollen ja auch abschieben deshalb die linke,0,0,7460478603512286486,7460478603512286486,negative,,"['❤️', '🖤']"
+7461146626162819862,2025-01-18 07:01:22,geiler typ,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7461097019823620886,2025-01-18 03:55:59,"ich werde nie die rolle spahns als gesundheitsminister in der pandemie vergessen
+spahn ist nicht glaubwürdig und hat in der politik nichts zu suchen",0,0,7460478603512286486,7460478603512286486,negative,0.0,"['😏', '🤔']"
+7461052558673576726,2025-01-18 00:56:57,sparkel hat bestimmt 0 verstanden ,0,0,7460478603512286486,7460478603512286486,negative,1.0,['😁']
+7461042963520029462,2025-01-18 00:19:36,spahn hat es nicht verstanden ,0,0,7460478603512286486,7460478603512286486,negative,,['🤪']
+7461042500691002134,2025-01-18 00:17:32,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👍', '👍', '👍']"
+7461037148608971542,2025-01-17 23:57:07,spahn ist so ekelhafd,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461030792677737238,2025-01-17 23:31:42,spahn ist selber ein verbrecher und sollte eingesperrt werden was sitzt der im bundestag wieso zahl ich steuwrn für diesen betrüger,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7461023442621121302,2025-01-17 23:02:53,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '👏', '👏']"
+7460957751004545814,2025-01-17 18:47:30,slay,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460943664324674336,2025-01-17 17:52:16,punkt,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460938370996159254,2025-01-17 17:32:15,fakten  spahn braucht keine fakten ,0,0,7460478603512286486,7460478603512286486,neutral,,['🤔']
+7460931886883177238,2025-01-17 17:07:09,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👍', '👍', '👍']"
+7460929565255320342,2025-01-17 16:57:46,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '👏', '👏']"
+7460927992329929494,2025-01-17 16:52:18,spahn der nichts verstanden hatfragt sich gerade wahrscheinlich wer von den herren studiogästen es ihm heute in der millionen villa trocken analysiert ,0,0,7460478603512286486,7460478603512286486,neutral,,['👌🏾']
+7460928040116585218,2025-01-17 16:52:16,ist er in de geboren woher weiss der iran dann von seiner existenz hm komisch oder,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460926609600594710,2025-01-17 16:46:23,"das ist ein privileg und das gönnt er diesem nachwuchs nicht
+ihr habt ein recht darauf bekommen ein recht die widerspruchsfrist ist abgelaufen",0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460920729200018198,2025-01-17 16:23:56,dass der spahn als ehem gesundheitsminister nach so einer schlechten arbeit noch immer sich nicht schämt im tv aufzutreten ist sowas von peinlich,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460913137002021654,2025-01-17 15:54:23,da guckt er,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460897916461368086,2025-01-17 14:55:40,spahn ist ein lügner und populist egal welches amt er wahrscheinlich dieses jahr tragen wird wird spahn erfolgreich kaputt machen und entehren,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460892327587201814,2025-01-17 14:33:25,der iraner bzw herr richter hat vollkommen recht  spahn raus mit dir du betrüger,0,0,7460478603512286486,7460478603512286486,neutral,1.0,['👌']
+7460881226162586390,2025-01-17 13:50:42,frau spahn muss beim zuhören schnaufen,0,0,7460478603512286486,7460478603512286486,neutral,0.0,['🐽']
+7460874094700872470,2025-01-17 13:22:38,er wusste er ist cooked als der typ meinte er ist richter,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460862515313869590,2025-01-17 12:38:20,the art of talking bravo ,0,0,7460478603512286486,7460478603512286486,positive,,['✌️']
+7460862375735952150,2025-01-17 12:37:46,spahn mal eben zack zack schlafen gelegt hervorragend,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460852385897775895,2025-01-17 11:58:46,spahn ist ein hassprediger,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460828251670201110,2025-01-17 10:25:01,der spahn völlig perplex so gut und klar kann er weder in deutsch denken noch sprechensein wildes blinzeln sind seine unterdrückten aggressionen ko schlag für sein rechtes hirn und auge,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460815772131033878,2025-01-17 09:36:49,spahn raupe nimmersatt und schlimmer,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460812994823586582,2025-01-17 09:26:50,das ist nicht unser problem,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460807689319187202,2025-01-17 09:06:11,spahn hatte noch nie ahnung der sitzt immer noch im bundestag heißt cdu csu haben ihren weg immer noch nicht gefunden,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460802041410355990,2025-01-17 08:43:43,spahn der verfassungsfeind leugnet einfach mal das grundgesetz können wir den verbrecher einsperren und keine plattform geben oder zu mindest auf einen weihnachtsmarkt schicken,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460793827231908630,2025-01-17 08:12:33,,0,0,7460478603512286486,7460478603512286486,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
+7460791469563036438,2025-01-17 08:03:23,herr spahn ist nicht einmal das dunkelste licht auf der torte,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460789767107560214,2025-01-17 07:56:36,ich denke die deutsche als zweite staatsbürgerschaft ist ein privileg wer straffällig wird hat dieses privileg verwirkt es sei denn er hat seine ursprüngliche staatsbürgerschaft abgelegt,0,3,7460478603512286486,7460478603512286486,neutral,,[]
+7460787635708216086,2025-01-17 07:47:47,spahn quatschlaberer,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460787508834698006,2025-01-17 07:47:17,mexiko genauso,0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460787218090754838,2025-01-17 07:46:51,gerade spahn mit seinen ganzen korrupten deals sollte mal ganz schön die backen halten,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460786786042872598,2025-01-17 07:45:22,spahn schuldet den deutschen bürgern immer noch milliarden bevor er das zurück geholt hat von seinen buddies soll er ,0,0,7460478603512286486,7460478603512286486,neutral,,['🤐']
+7460781800529363734,2025-01-17 07:24:55,das sich der korrupte maskendealer überhaupt noch in die öffentlichkeit traut sagt alles über seinen charakter aus was man über seinen charakter wissen muss,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460777853132981014,2025-01-17 07:10:51,hoffe er kommt in den knast für den maskenbetrug,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460778029745259286,2025-01-17 07:10:21,wisst ihr noch als politiker zurück treten mussten wegen 250 essen gehen oder nicht selbst geschrieben studienabschlüssen  das waren noch gute zeiten,0,0,7460478603512286486,7460478603512286486,negative,1.0,['😀']
+7460777250188493590,2025-01-17 07:07:12,,0,0,7460478603512286486,7460478603512286486,negative,1.0,['👍']
+7460767413010531094,2025-01-17 06:29:36,doppelte staatsbürgerschaft geht einfach einfach nicht man findet wege das rechtlich umzusetzen,0,1,7460478603512286486,7460478603512286486,negative,,[]
+7460767055697117974,2025-01-17 06:27:46,merz hat gestern nochmal konkretisiert es geht um schwere straftaten terrorismus zb das greift nicht wenn man mal zu schnell mit dem auto fährt oder steuern hinterzieht,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460742745486689046,2025-01-17 04:56:30,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['🥰', '😘', '🥰']"
+7460737584539206402,2025-01-17 04:37:43,"spahn der typ der millionen deals mit masken unternehmen gemacht hat uns möglicherweise geschadet hat
+der typ redet über strafen der gehört ins gefängnis",0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460735107772891926,2025-01-17 04:29:25,deswegen recep tayyip erdoğan wählen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460734303191155478,2025-01-17 04:23:56,spahm denkt was ein nicer boy,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460707365518836482,2025-01-17 02:43:44,das heißt bonzen entlasten und normalbürger belasten bürgergeld empfänger sanktionieren und schikanieren und großkonzerne nicht richtig besteuern geschweige denn steuerflucht konsequent bekämpfen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460695690983146262,2025-01-17 01:58:21,woher weiß der iran das er in deutschland geboren wurde ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,['😎']
+7460696349776904982,2025-01-17 01:56:59,ja schlimm,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460692267277517590,2025-01-17 01:43:46,spahn hat schon soviel steuergelder veruntreut wundert nicht dass er nochvweuter politik machen darf,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460686785917190934,2025-01-17 01:19:57,deswegen,0,8,7460478603512286486,7460478603512286486,negative,1.0,['💙']
+7460682318244889366,2025-01-17 01:01:48,ich kann die fresse vom spahn echt nicht mehr sehen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460677794076738326,2025-01-17 00:45:27,da hat er nicht unrecht ,0,0,7460478603512286486,7460478603512286486,neutral,0.0,['😏']
+7460659197517660950,2025-01-16 23:30:08,die kinder eines marokkaners erhalten automatisch die marokkanische staatsangehörigkeit ohne jemals etwas mit marokko zu tun gehabt haben zu müssen somit werden auch diese kinder ihren kindern die,0,2,7460478603512286486,7460478603512286486,neutral,,[]
+7460653705781625622,2025-01-16 23:08:47,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '👏', '👏']"
+7460652726478963478,2025-01-16 23:05:07,"woooii wenn ein paar schlaue  gebildete ausländer sich zu wort melden bericht das karten haus zusammen für polarisieren bleibt kein raum
+ist das gut oder schlicht ",0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460652529015390998,2025-01-16 23:04:24,die cdu ist die afd sie fordert einfach das selbe sagt es nur weniger laut,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460649867736908566,2025-01-16 22:53:17,da guckt der spahn doof aus der wäsche bitte wählt nicht die cdu oder die afd bleibt friedlich sozial und stoppt diese spaltung das leben ist doch viel zu kurz um hasserfüllt zu sein,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460646258967233302,2025-01-16 22:39:40,schlechtesten korruptester villa grunewald politiker ever,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460645510083150594,2025-01-16 22:36:28, spahn muss remigriert werden  zurück durch die hintertür nach ahaus,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['💙', '💙', '💙']"
+7460643842019754774,2025-01-16 22:29:44,ich glaube dass das die blauzis nicht interessiert ,0,0,7460478603512286486,7460478603512286486,neutral,,['🤔']
+7460643166234018582,2025-01-16 22:27:19,bei spahn sind zwar die lichter an aber es ist keiner zuhause,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460636061880156950,2025-01-16 21:59:38,da sitzt nur ein straftäter mit einem deutschen pass der unbestraft davon gekommen ist maskenskandal,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460631241055781654,2025-01-16 21:40:34,spahn kann nichts und weiß das auch er fristet sein dasein als opportunistischer und polemischer politiker in einer lobbypartei das gesicht eines schlechten politikers und mensch,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460628320071287574,2025-01-16 21:29:13,da macht jensi wieder dicke backen warum darf der überhaupt noch irgendwo öffentlich rumlabern,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460626796855116566,2025-01-16 21:23:14,der spahn hat so schlafzimmer blick,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['😂', '😂', '😂', '😂']"
+7460626569108194070,2025-01-16 21:22:10,,0,0,7460478603512286486,7460478603512286486,negative,,"['🥰', '🥰', '🥰']"
+7460625564085306134,2025-01-16 21:18:04,also wenn der iran sagt er bürgert nicht aus könnte er es aber freiwillig machen ,0,5,7460478603512286486,7460478603512286486,neutral,1.0,['👍']
+7460619872243647254,2025-01-16 20:56:18,wie spahn immer glotzt wenn er wieder ne klatsche kriegt,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460618691538830102,2025-01-16 20:51:44,wenn man von jeher also hier geboren lebt muss doch irgendwann mal bei der botschaft die iranische staatsbürgerschaft beantragt worden sein wahrscheinlich durch die eltern,0,27,7460478603512286486,7460478603512286486,neutral,,[]
+7460618622958060310,2025-01-16 20:51:32,spahn ein schlechter politiker mit vielen fehlern in der corona zeit,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460612529208836886,2025-01-16 20:27:45,spahn und einfach ungeeignet hier wird das rechte publikum bedient um afd das wasser abzudrehen aber cdu war schon immer rechts nur unter merkel wurde die cdu in die mitte gedrückt und hat sich tlw gespaltet,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460605944894374678,2025-01-16 20:02:19,span ist da  aber das licht brennt nicht ,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460602534220153622,2025-01-16 19:49:01,,0,0,7460478603512286486,7460478603512286486,negative,1.0,['👍']
+7460602008727831318,2025-01-16 19:46:47,spahn absetzen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460601047436215062,2025-01-16 19:43:20,herr spahn und sein politisches amt ist wohl eher das privilegwas man diskutieren solltewo er dem staat seit corona eigentlich millionen schuldet,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460600850421023510,2025-01-16 19:42:27,so ist es korrekt,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460596167433306902,2025-01-16 19:24:04,spahn ist so ekelhaft populistisch ,0,0,7460478603512286486,7460478603512286486,negative,,"['🤮', '🤮', '🤮']"
+7460595506210472726,2025-01-16 19:21:38,spahn müsste nach seiner vergangenheit eigentlich von der politischen bühne verschwunden sein was aber ist er tingelt durch talkshows um seine populistische hetze zu verbreiten ,0,0,7460478603512286486,7460478603512286486,neutral,-1.0,['😷']
+7460590887394837250,2025-01-16 19:03:55,nach spahns logik du hast 2 staatsbürgerschaft bringst jemanden  bekommst ein ticket und machst urlaub aber alle anderen landen ins gefängnis,0,0,7460478603512286486,7460478603512286486,neutral,,"['☠️', '🤔']"
+7460590854489195286,2025-01-16 19:03:36,spahn liebt pferde,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460589390034912022,2025-01-16 18:58:02,spahn kann milliarden euro für masken verschwenden und an spender weiterreichen die nicht den kriterien entsprachen aber er muss keine angst haben seinen deutschen pass zu verlieren,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460589232894067478,2025-01-16 18:57:03,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['🎯', '🎯', '🎯']"
+7460583836620915478,2025-01-16 18:36:13,mic drop,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460581513177039638,2025-01-16 18:27:10,da guckt er aber nicht schlecht der herr bankkaufmann aka von nix ne ahnung hauptsache ich bin im fernsehn,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460579461432525590,2025-01-16 18:19:13,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👍', '👍', '👍', '👍', '👍']"
+7460579144352744214,2025-01-16 18:18:24,zerstört ,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['😎', '👍🏻']"
+7460578743502816022,2025-01-16 18:16:47,da kuckt der spahn sparsam ist noch seine größte fähigkeit,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460575937555170070,2025-01-16 18:05:49,da kommt einer mit wissen  den politiker kasperl schlafen gelegt,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460574133445968662,2025-01-16 17:58:35,"spahn hatte bestimmt eine schlimme kindheit
+mit ihm hat als kind bestimmt keiner gespielt ",0,0,7460478603512286486,7460478603512286486,neutral,1.0,['😢']
+7460573513805660950,2025-01-16 17:56:29,spahn versiebt milliarden durch seine maskendeals und bereichert sich privat daran später ruiniert er die krankenkassen die er zwingt ihre rücklagen abzubauen wann wird er endlich ausgebürgert ,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460569649232593686,2025-01-16 17:41:31,deshalb keine populisten oder lobbyisten im bundestag keine stimme für afd cducsu fdp und bsw in der anstehenden wahl habeck for kanzler,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460568555273945878,2025-01-16 17:37:08,spahn kann weg,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460568132806427414,2025-01-16 17:35:17,nur späne im kopf der spahn,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460567950094877462,2025-01-16 17:34:56,den geldvernichter kann man sich echt spahn,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460564050423415574,2025-01-16 17:19:38,habeck,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚', '💚', '💚', '💚', '💚']"
+7460560848848126742,2025-01-16 17:07:09,oh die medien haben es sicherlich bereut diesem hern das mikrofon zu reichen,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460552650020389654,2025-01-16 16:35:16,woher soll spahn das auch wissen  als rechte populist muss man sich ja nicht an fakten halten ekelhaft der spahn deswegen nur ,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['💚', '💚']"
+7460551683035366166,2025-01-16 16:31:30,warum redet der vogel überhaupt mit cicero,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460550186612687638,2025-01-16 16:25:46,spahn  dieser wicht darf niemals wieder ein amt übernehmen ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['😳', '🤢', '🤢', '🤢', '🤢']"
+7460549049692209942,2025-01-16 16:21:28,spahn ist doch echt ein versager der großzügig von steuergeldern lebt,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460548495918023446,2025-01-16 16:19:10,nur noch bsw,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460547620336517910,2025-01-16 16:15:54,,0,0,7460478603512286486,7460478603512286486,negative,,['💪🏻']
+7460544844642681622,2025-01-16 16:05:11,spahn der inkompetenteste mensch in ganz deutschland dass der überhaupt noch irgendeine rolle spielt ist so ein armutszeugnis für dieses land werdet diesen verlierer endlich los,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460543977378366230,2025-01-16 16:02:05,"ganz einfach
+spd grüne oder die linke wählen
+finanzlobbyist und sein team verhindern",0,0,7460478603512286486,7460478603512286486,positive,,[]
+7460542059447894806,2025-01-16 15:54:10,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '♥️']"
+7460541834873766678,2025-01-16 15:53:47,liebe diesen iranischen richter wünschte er wäre in der politik,0,7,7460478603512286486,7460478603512286486,neutral,,['❤️']
+7460533840727884566,2025-01-16 15:22:42,die körpersprache von spahn spricht bände der typ sollte sich sämtliche kommentare zu komplexen themen sparen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460532656456975126,2025-01-16 15:18:06,herr spahn muss noch ein paar masken los werden lasst den armen mann doch in ruhe ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,['😂']
+7460530538953868054,2025-01-16 15:09:46,spahn kommt intellektuell nicht hinterher nach dieser argumentation,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460530441668100886,2025-01-16 15:09:35,spahn und dieses ganze schattenkabinett des grauens schauen immer wie ein reh im fernlicht wenn sie mit fakten konfrontiert werden,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460529940792197910,2025-01-16 15:07:47,lauter bitte lauter ,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['🙏', '🙏', '🙏']"
+7460527412570800918,2025-01-16 14:58:03,cduafd,0,0,7460478603512286486,7460478603512286486,negative,-1.0,['🚮']
+7460526189233423126,2025-01-16 14:52:36,das war dem spahn zu hoch immer wieder schön wie einfach man rechte und konservate mit simpler logik und fakten ausspielen kann,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460525365385331478,2025-01-16 14:49:55,,0,0,7460478603512286486,7460478603512286486,negative,,['🙏🏼']
+7460525206484222742,2025-01-16 14:49:20,somit können wir uns jens spahn ,0,0,7460478603512286486,7460478603512286486,neutral,1.0,"['💚', '❤️', '❤️']"
+7460523593031418646,2025-01-16 14:43:00,das zeigt mal wieder wie wichtig bildung ist in jedem thema sollte der jeweilige politiker tiefgründiger reinschauen und erst dann nachdenken  handeln kann der spahn halt nicht,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7460523070278255382,2025-01-16 14:40:46,spahn und cicero ,0,0,7460478603512286486,7460478603512286486,neutral,,['🤡']
+7460522950774358806,2025-01-16 14:40:22,,0,0,7460478603512286486,7460478603512286486,negative,1.0,"['👏', '👏', '👏']"
+7460517917373956887,2025-01-16 14:20:36,deswegen spd,0,0,7460478603512286486,7460478603512286486,negative,,[]
+7460580196229088022,2025-01-16 18:22:14,tja jensdoof wenn der gegenüber weiß wovon er redet ,0,0,7460478603512286486,7460478603512286486,negative,,"['🤣', '🤣']"
+7460544917838168854,2025-01-16 16:05:45,spahn mhhhh jetzt würde ich gerne eine banane in mich drücken wollen,0,0,7460478603512286486,7460478603512286486,neutral,,[]
+7459501907116966678,2025-01-13 20:37:33,dachte kurz lasse sieht irgendwie anders aus,3,0,7459490587939573014,7459490587939573014,neutral,,[]
+7459494161998430998,2025-01-13 20:07:24,ghgegen rechts,2,0,7459490587939573014,7459490587939573014,negative,,[]
+7459492712720417558,2025-01-13 20:01:51,aber unwort bedeutet doch dass die jury die verwendung des begriffes kritisiert wieso genau ist es problematisch,2,1,7459490587939573014,7459490587939573014,neutral,,[]
+7459828636619997974,2025-01-14 17:45:21,"unsere regierung benutzt bessere unwörter
+ sondervermögen  schulden
+ klimaschutz  co2 luftbesteuerung
+ fachkräfte zuzug  die bevölkerung mit inkompatible kulturen vorsätzlich kaputt mischen",1,5,7459490587939573014,7459490587939573014,negative,,[]
+7461929208257151766,2025-01-20 09:37:52,linkswoke willkür biodeutsch ist ein völlig korrekter begriff mit dem bei bestimmten betrachtungen eine griffige differenzierung möglich ist eine abwertende note ist damit nicht verbunden,0,0,7459490587939573014,7459490587939573014,neutral,,[]
+7467593333302002454,2025-02-04 15:56:44,,4,0,7467589202113219862,7467589202113219862,negative,1.0,"['💯', '💯', '💯']"
+7467597407287952150,2025-02-04 16:12:29,und an der art und weise wir dieser diskurs geführt wird sind grüne und spd mitschuldig die gehen alle mit bei den menschenverachtenden scheindebatten um migration und abschiebung deshalbdielinke,3,0,7467589202113219862,7467589202113219862,negative,,['\U0001fa77']
+7487629091505275670,2025-03-30 15:45:10,die wirklichen schädlinge an unserer gesellschaft sind inzwischen cducsu und afd wann werden die endlich in ihre schranken gewiesen bzw abgeschaft verboten,0,0,7467589202113219862,7467589202113219862,neutral,,[]
+7470166916087431942,2025-02-11 14:23:18,kryptoinvestitionen verändern das leben ich habe in 6 tagen 2000  in 18000  verwandelt mit der hilfe von erzieher samuel,0,0,7467589202113219862,7467589202113219862,neutral,,[]
+7467662070482322198,2025-02-04 20:23:11,man muss verstehen dass sich die afd von der linksgrünen inkompetenz und realitätsfremden politik nährt das totalversagen von linksgrün der letzten jahre hat die afd auf 20 gebracht,0,8,7467589202113219862,7467589202113219862,negative,,[]
