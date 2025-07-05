@@ -1,189 +1,189 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7455272596646888215,2025-01-02 11:05:37,sehr sympathisch,2,0,7455263732201966870,7455263732201966870,positive,,[]
-7487677291004101382,2025-03-30 18:52:29,hallo mein freund dein profilbild sieht wunderschön aus und ich liebe deine videos ich möchte dass wir beide freunde werden kannst du mir folgen,0,0,7455263732201966870,7455263732201966870,positive,1.0,"['🌸', '🌸', '🌸', '🌹', '🌹', '🌹']"
+7455272596646888215,2025-01-02 11:05:37,Sehr sympathisch,2,0,7455263732201966870,7455263732201966870,positive,,[]
+7487677291004101382,2025-03-30 18:52:29,Hallo mein Freund dein Profilbild sieht wunderschön aus und ich liebe deine Videos Ich möchte dass wir beide Freunde werden Kannst du mir folgen,0,0,7455263732201966870,7455263732201966870,positive,1.0,"['🌸', '🌸', '🌸', '🌹', '🌹', '🌹']"
 7477562304386171670,2025-03-03 12:41:01,,0,0,7455263732201966870,7455263732201966870,negative,1.0,['💓']
-7464990214650692357,2025-01-28 15:35:04,schön schöne arbeit die sie machen grüße aus rom,0,0,7455263732201966870,7455263732201966870,neutral,,[]
+7464990214650692357,2025-01-28 15:35:04,Schön schöne Arbeit die Sie machen Grüße aus Rom,0,0,7455263732201966870,7455263732201966870,neutral,,[]
 7461083336132576022,2025-01-18 02:59:37,,1,0,7460901195993943318,7460901195993943318,negative,1.0,"['👍', '👍', '👍']"
-7462697163039212293,2025-01-22 11:16:55,wunderschönes gute arbeit dir tust grüße aus berlin,0,0,7460901195993943318,7460901195993943318,positive,,[]
-7465606131131925270,2025-01-30 07:26:37,ein mann der sein wort nicht hält,124,5,7465468823961996566,7465468823961996566,neutral,,[]
-7473795824607085334,2025-02-21 09:05:32,wehr den wählt macht sich mitschuldig am untergang deutschlands,39,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡']"
-7465603474543477526,2025-01-30 07:16:04,um prinzipien über bord werfen zu kommen müsste man welche haben black rock merz hat keine er hat nur seine verpflichtung dem kapital gegenüber,39,11,7465468823961996566,7465468823961996566,neutral,,[]
-7473434885739840278,2025-02-20 09:45:06,ein unfassbares dieser mensch,33,0,7465468823961996566,7465468823961996566,negative,,[]
-7465472242312413974,2025-01-29 22:46:29,dieser typ ist so unglaublich verachtenswert wer ihn wählt hat wirklich den bezug zur realität verloren,27,2,7465468823961996566,7465468823961996566,neutral,,[]
-7473425518696678166,2025-02-20 09:08:36,merz unwählbar        ,24,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '🙏', '💙', '🙏', '💙', '🙏', '💙', '🙏']"
-7473082999971234582,2025-02-19 10:59:40,unwählbar,22,0,7465468823961996566,7465468823961996566,negative,,[]
-7465623342955954966,2025-01-30 08:32:24,darumunwählbar,22,0,7465468823961996566,7465468823961996566,negative,,[]
-7465471885767459606,2025-01-29 22:45:07,die cdu ist innen braun,14,0,7465468823961996566,7465468823961996566,negative,,[]
-7465663830531228438,2025-01-30 11:09:45,jetzt wähle ich ihn nicht mehr weil er nicht zu deinem wort gestanden hat jetzt spd ,13,5,7465468823961996566,7465468823961996566,negative,1.0,"['👍', '👍', '👍', '👍']"
-7465503056089613078,2025-01-30 00:48:15,kein wunderin der cducsu gibt es rechtsradikale damit zerstört merz der  75 jahre demokratie,10,0,7465468823961996566,7465468823961996566,neutral,,"['‼️', '🤡']"
-7465608309531476758,2025-01-30 07:34:50,noch deutlicher hätte man das nicht sagen können aber der bruch dieser eigenen richtline ist ebenso deutlich der dammbruch,9,0,7465468823961996566,7465468823961996566,neutral,,[]
-7465474690700444438,2025-01-29 22:55:39,merz hat sich heute als unwählbar präsentiert eine schande für eine christlich demokratische union,8,0,7465468823961996566,7465468823961996566,neutral,,[]
-7470118099099763478,2025-02-11 11:14:39,niemals cdu,7,0,7465468823961996566,7465468823961996566,negative,,[]
-7467554267827897110,2025-02-04 13:25:34,vertrauenswürdig geht anders,7,0,7465468823961996566,7465468823961996566,negative,,[]
-7474164229933351702,2025-02-22 08:55:22,und so wird die demokratie abgeschafft,6,0,7465468823961996566,7465468823961996566,neutral,,[]
-7467092620117132054,2025-02-03 07:34:08,spd ,5,0,7465468823961996566,7465468823961996566,negative,1.0,"['❤', '💚', '🌈', '🤝', '🙌', '👌', '👍']"
-7465474456327127830,2025-01-29 22:55:16,heute hat er sein wahres gesicht gezeigt ich habe nur noch verachtung für diesen mann,5,0,7465468823961996566,7465468823961996566,neutral,,[]
-7471360555787977474,2025-02-14 19:35:22,alles für alice alles für rääääääääääächts,4,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7470757318377751327,2025-02-13 04:34:32,nur ,4,0,7465468823961996566,7465468823961996566,negative,1.0,"['🥰', '💙', '🥰', '💙', '🥰']"
-7465484496844980994,2025-01-29 23:34:36,sie hatten die möglichkeit dem antrag zu zu stimmen der inhaltlich von einer breiten mehrheit der bürger unterstützt wird bei den grünen kann man das ja odiologisch nachvollziehen aber bei der spd,4,6,7465468823961996566,7465468823961996566,neutral,,[]
-7465623646217372438,2025-01-30 08:34:01,merz hat die seele der cdu verkauft ,3,1,7465468823961996566,7465468823961996566,neutral,0.0,"['❗', '❗', '❗']"
-7465596611697066774,2025-01-30 06:49:13,merz ist ein lügner seine worte sind nichts wert,3,0,7465468823961996566,7465468823961996566,negative,,[]
-7465474528514720534,2025-01-29 22:55:33,die linke,3,0,7465468823961996566,7465468823961996566,neutral,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
-7465473985560789782,2025-01-29 22:52:54,kann mal bitte irgendjemand erklären was an dem antrag so schlimm war das die spd und die grünen nicht zugestimmt haben man kann doch nicht grundsätzlich immer gegen die afd sein,3,41,7465468823961996566,7465468823961996566,negative,,[]
-7481395135141085954,2025-03-13 20:34:19,dem ist nicht mehr zu helfen er führt die cdu in den abgrund,2,0,7465468823961996566,7465468823961996566,neutral,,[]
-7481332879696675606,2025-03-13 16:32:41,und nichts hört man von cdu wählern warum nur waren wohl doch nicht so viele,2,0,7465468823961996566,7465468823961996566,positive,,[]
-7478722727420035862,2025-03-06 15:43:58,die demokratie lebe hoch,2,0,7465468823961996566,7465468823961996566,neutral,,[]
-7477173886725276438,2025-03-02 11:33:42,"cdubrandmauer gegen rechts kämpfen aber mit links regieren  hauptsache der eigene machterhalt ist moralisch sauber verpackt
+7462697163039212293,2025-01-22 11:16:55,Wunderschönes Gute Arbeit dir tust Grüße aus Berlin,0,0,7460901195993943318,7460901195993943318,positive,,[]
+7465606131131925270,2025-01-30 07:26:37,Ein Mann der sein Wort NICHt hält,124,5,7465468823961996566,7465468823961996566,neutral,,[]
+7473795824607085334,2025-02-21 09:05:32,Wehr den wählt macht sich Mitschuldig am Untergang Deutschlands,39,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡']"
+7465603474543477526,2025-01-30 07:16:04,Um Prinzipien über Bord werfen zu kommen müsste man welche haben Black Rock Merz hat keine er hat nur seine Verpflichtung dem Kapital gegenüber,39,11,7465468823961996566,7465468823961996566,neutral,,[]
+7473434885739840278,2025-02-20 09:45:06,Ein unfassbares dieser Mensch,33,0,7465468823961996566,7465468823961996566,negative,,[]
+7465472242312413974,2025-01-29 22:46:29,Dieser Typ ist so unglaublich verachtenswert Wer ihn wählt hat wirklich den Bezug zur Realität verloren,27,2,7465468823961996566,7465468823961996566,neutral,,[]
+7473425518696678166,2025-02-20 09:08:36,Merz unwählbar        ,24,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '🙏', '💙', '🙏', '💙', '🙏', '💙', '🙏']"
+7473082999971234582,2025-02-19 10:59:40,Unwählbar,22,0,7465468823961996566,7465468823961996566,negative,,[]
+7465623342955954966,2025-01-30 08:32:24,DARUMUnwählbar,22,0,7465468823961996566,7465468823961996566,negative,,[]
+7465471885767459606,2025-01-29 22:45:07,Die CDU ist innen braun,14,0,7465468823961996566,7465468823961996566,negative,,[]
+7465663830531228438,2025-01-30 11:09:45,Jetzt wähle ich ihn nicht mehr weil er nicht zu deinem Wort gestanden hat Jetzt SPD ,13,5,7465468823961996566,7465468823961996566,negative,1.0,"['👍', '👍', '👍', '👍']"
+7465503056089613078,2025-01-30 00:48:15,Kein Wunderin der CDUCSU gibt es Rechtsradikale Damit zerstört MERZ der  75 Jahre Demokratie,10,0,7465468823961996566,7465468823961996566,neutral,,"['‼️', '🤡']"
+7465608309531476758,2025-01-30 07:34:50,Noch deutlicher hätte man das nicht sagen können aber der Bruch dieser eigenen Richtline ist ebenso deutlich der Dammbruch,9,0,7465468823961996566,7465468823961996566,neutral,,[]
+7465474690700444438,2025-01-29 22:55:39,Merz hat sich heute als unwählbar präsentiert Eine Schande für eine christlich demokratische Union,8,0,7465468823961996566,7465468823961996566,neutral,,[]
+7470118099099763478,2025-02-11 11:14:39,Niemals CDU,7,0,7465468823961996566,7465468823961996566,negative,,[]
+7467554267827897110,2025-02-04 13:25:34,Vertrauenswürdig geht anders,7,0,7465468823961996566,7465468823961996566,negative,,[]
+7474164229933351702,2025-02-22 08:55:22,Und so wird die Demokratie abgeschafft,6,0,7465468823961996566,7465468823961996566,neutral,,[]
+7467092620117132054,2025-02-03 07:34:08,SPD ,5,0,7465468823961996566,7465468823961996566,negative,1.0,"['❤', '💚', '🌈', '🤝', '🙌', '👌', '👍']"
+7465474456327127830,2025-01-29 22:55:16,Heute hat er sein wahres Gesicht gezeigt Ich habe nur noch Verachtung für diesen Mann,5,0,7465468823961996566,7465468823961996566,neutral,,[]
+7471360555787977474,2025-02-14 19:35:22,alles für Alice alles für RÄÄÄÄÄÄÄÄÄÄÄCHTS,4,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7470757318377751327,2025-02-13 04:34:32,NUR ,4,0,7465468823961996566,7465468823961996566,negative,1.0,"['🥰', '💙', '🥰', '💙', '🥰']"
+7465484496844980994,2025-01-29 23:34:36,Sie hatten die Möglichkeit dem Antrag zu zu stimmen der inhaltlich von einer breiten Mehrheit der Bürger unterstützt wird Bei den Grünen kann man das ja odiologisch nachvollziehen aber bei der SPD,4,6,7465468823961996566,7465468823961996566,neutral,,[]
+7465623646217372438,2025-01-30 08:34:01,Merz hat die Seele der CDU verkauft ,3,1,7465468823961996566,7465468823961996566,neutral,0.0,"['❗', '❗', '❗']"
+7465596611697066774,2025-01-30 06:49:13,Merz ist ein Lügner Seine Worte sind nichts wert,3,0,7465468823961996566,7465468823961996566,negative,,[]
+7465474528514720534,2025-01-29 22:55:33,Die Linke,3,0,7465468823961996566,7465468823961996566,neutral,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
+7465473985560789782,2025-01-29 22:52:54,kann mal bitte irgendjemand erklären was an dem Antrag so schlimm war das die SPD und die Grünen nicht zugestimmt haben Man kann doch nicht grundsätzlich immer gegen die AfD sein,3,41,7465468823961996566,7465468823961996566,negative,,[]
+7481395135141085954,2025-03-13 20:34:19,Dem ist nicht mehr zu helfen Er führt die cdu in den Abgrund,2,0,7465468823961996566,7465468823961996566,neutral,,[]
+7481332879696675606,2025-03-13 16:32:41,Und nichts hört man von CDU Wählern warum nur waren wohl doch nicht so viele,2,0,7465468823961996566,7465468823961996566,positive,,[]
+7478722727420035862,2025-03-06 15:43:58,Die Demokratie lebe hoch,2,0,7465468823961996566,7465468823961996566,neutral,,[]
+7477173886725276438,2025-03-02 11:33:42,"CDUBrandmauer Gegen Rechts kämpfen aber mit Links regieren  Hauptsache der eigene Machterhalt ist moralisch sauber verpackt
 ",2,0,7465468823961996566,7465468823961996566,negative,,['🙄']
-7473855405338608406,2025-02-21 12:56:47,unglaublich dieser typ ,2,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7465475834271744790,2025-01-29 23:00:08,wird die spd für das afdverbotsverfahren stimmen,2,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473855405338608406,2025-02-21 12:56:47,unglaublich dieser Typ ,2,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7465475834271744790,2025-01-29 23:00:08,wird die SPD für das AfDVerbotsverfahren stimmen,2,0,7465468823961996566,7465468823961996566,neutral,,[]
 7465471923552617238,2025-01-29 22:44:41,"
-  h4k 
+  H4K 
 ",2,0,7465468823961996566,7465468823961996566,positive,1.0,"['🏳️\u200d🌈', '🏳️\u200d🌈', '🏳️\u200d🌈', '🏳️\u200d🌈', '💚', '💚', '💚', '💚', '💚', '💚', '🏳️\u200d🌈', '🏳️\u200d🌈', '🏳️\u200d🌈', '🏳️\u200d🌈']"
-7481701607508312854,2025-03-14 16:23:31,merz gewählt und esken bekommen ,1,0,7465468823961996566,7465468823961996566,neutral,1.0,['😀']
+7481701607508312854,2025-03-14 16:23:31,Merz gewählt und Esken bekommen ,1,0,7465468823961996566,7465468823961996566,neutral,1.0,['😀']
 7481672374275703574,2025-03-14 14:30:14,,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡']"
 7481667975583449878,2025-03-14 14:13:12,,1,0,7465468823961996566,7465468823961996566,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7481577944202609430,2025-03-14 08:24:05,lol was für ein demokrat ,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7481577944202609430,2025-03-14 08:24:05,Lol was für ein Demokrat ,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
 7481548754375181078,2025-03-14 06:30:38,,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
 7481397751616815894,2025-03-13 20:44:23,,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['👎', '👎', '👎']"
-7481390654855004950,2025-03-13 20:16:52,jetzt weiß ich auch warum cannabis legal ist ,1,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙']"
-7481373749276197654,2025-03-13 19:11:15,damals fing er schon an zu mauscheln,1,0,7465468823961996566,7465468823961996566,neutral,,[]
-7478807110492177174,2025-03-06 21:11:27,falko betrug,1,0,7465468823961996566,7465468823961996566,negative,,[]
-7473847356737127190,2025-02-21 12:25:37,was seit ihr für eine regierungdas hat ja wohl nichts mehr mit demokratie zu tun,1,0,7465468823961996566,7465468823961996566,negative,,[]
-7473822690386952982,2025-02-21 10:49:48,da zeigt er wie er über demokratie denkt ,1,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473664988885369622,2025-02-21 00:38:53,dieses nazi framing  holocaust vergleichen und faschismus geschwurbel als alleiniges wahlkampfthema wird abgestraft werden  denn das volk will veränderungen und keine hetzerischen diffamierungen ,1,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😩']
-7473622789666571030,2025-02-20 21:54:12,demokratie is nun nicht mehr,1,0,7465468823961996566,7465468823961996566,negative,,[]
-7473588671250301718,2025-02-20 19:41:21,das ist altparteien demokratie,1,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473566532175151894,2025-02-20 18:15:40,ein ganz tolles demokratieverständnis,1,0,7465468823961996566,7465468823961996566,positive,,[]
+7481390654855004950,2025-03-13 20:16:52,Jetzt weiß ich auch warum Cannabis legal ist ,1,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙']"
+7481373749276197654,2025-03-13 19:11:15,Damals fing er schon an zu mauscheln,1,0,7465468823961996566,7465468823961996566,neutral,,[]
+7478807110492177174,2025-03-06 21:11:27,Falko Betrug,1,0,7465468823961996566,7465468823961996566,negative,,[]
+7473847356737127190,2025-02-21 12:25:37,Was seit ihr für eine Regierungdas hat ja wohl nichts mehr mit Demokratie zu tun,1,0,7465468823961996566,7465468823961996566,negative,,[]
+7473822690386952982,2025-02-21 10:49:48,Da zeigt er wie er über Demokratie denkt ,1,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473664988885369622,2025-02-21 00:38:53,Dieses Nazi Framing  Holocaust Vergleichen und Faschismus Geschwurbel als alleiniges Wahlkampfthema wird abgestraft werden  denn das Volk will Veränderungen und keine hetzerischen Diffamierungen ,1,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😩']
+7473622789666571030,2025-02-20 21:54:12,Demokratie is nun nicht mehr,1,0,7465468823961996566,7465468823961996566,negative,,[]
+7473588671250301718,2025-02-20 19:41:21,Das ist altparteien Demokratie,1,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473566532175151894,2025-02-20 18:15:40,Ein ganz tolles Demokratieverständnis,1,0,7465468823961996566,7465468823961996566,positive,,[]
 7473450128478782230,2025-02-20 10:44:29,blackrock spricht,1,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473162586038158102,2025-02-19 16:08:13,der weis nicht mehr was der zuvor gesagt hatte ,1,0,7465468823961996566,7465468823961996566,neutral,-0.5,"['👍', '👍', '👍', '👍', '😡', '😡', '😡', '😡', '🤣', '🤣', '🤣', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
-7472801743572452118,2025-02-18 16:47:59,"bitte last das unwort des jahres 2025 brandmauer oder demokratie sein
-man mag das gejammer nicht mehr hören ",1,0,7465468823961996566,7465468823961996566,neutral,1.0,['👍']
-7470849760456164118,2025-02-13 10:33:48,spd und grüne haben aber in der sache um die es ging gar nichts gemacht und das finde ich nach den ganzen anschlägen viel schlimmer,1,2,7465468823961996566,7465468823961996566,negative,,[]
+7473162586038158102,2025-02-19 16:08:13,Der weis nicht mehr was der zuvor gesagt hatte ,1,0,7465468823961996566,7465468823961996566,neutral,-0.5,"['👍', '👍', '👍', '👍', '😡', '😡', '😡', '😡', '🤣', '🤣', '🤣', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7472801743572452118,2025-02-18 16:47:59,"Bitte last das Unwort des Jahres 2025 Brandmauer oder Demokratie sein
+Man mag das Gejammer nicht mehr hören ",1,0,7465468823961996566,7465468823961996566,neutral,1.0,['👍']
+7470849760456164118,2025-02-13 10:33:48,SPD und Grüne haben aber in der Sache um die es ging gar nichts gemacht und das finde ich nach den ganzen Anschlägen viel schlimmer,1,2,7465468823961996566,7465468823961996566,negative,,[]
 7470545278920131350,2025-02-12 14:51:34,,1,0,7465468823961996566,7465468823961996566,negative,1.0,"['🌹', '🌹']"
-7469354970505888534,2025-02-09 09:52:53,"manche frauen kehren immer wieder zu ihrem partner zurück obwohl der sie seit jahren schlägt und misshandelt
-cdu wähler sind genauso",1,0,7465468823961996566,7465468823961996566,negative,,[]
-7466219472682484502,2025-01-31 23:06:14,unwählbar der merz ,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7469354970505888534,2025-02-09 09:52:53,"Manche Frauen kehren immer wieder zu ihrem Partner zurück obwohl der sie seit Jahren schlägt und misshandelt
+CDU Wähler sind genauso",1,0,7465468823961996566,7465468823961996566,negative,,[]
+7466219472682484502,2025-01-31 23:06:14,UNWÄHLBAR DER MERZ ,1,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
 7465811889739547414,2025-01-30 20:43:35,,1,0,7465468823961996566,7465468823961996566,negative,1.0,"['😂', '😂', '😂', '👍', '👍', '👍']"
-7465503560394867478,2025-01-30 00:48:42,nur noch spd  bsw,1,1,7465468823961996566,7465468823961996566,negative,1.0,['👆']
+7465503560394867478,2025-01-30 00:48:42,Nur noch SPD  BSW,1,1,7465468823961996566,7465468823961996566,negative,1.0,['👆']
 7483647459207070486,2025-03-19 22:14:31,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['😂', '😂', '😂']"
-7482411950682817302,2025-03-16 14:20:08,an alle wie geht demokratie mal nachdenken,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7482053835755045654,2025-03-15 15:10:26,jetzt sieht man wie demokratisch cdu spd und grüne sind ,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7482411950682817302,2025-03-16 14:20:08,an alle wie geht Demokratie Mal nachdenken,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7482053835755045654,2025-03-15 15:10:26,Jetzt sieht man wie Demokratisch CDU SPD UND GRÜNE sind ,0,0,7465468823961996566,7465468823961996566,negative,,[]
 7481740781395526422,2025-03-14 18:55:38,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
 7481729150672405270,2025-03-14 18:10:26,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7481690510417445654,2025-03-14 15:40:36,antidemokraten par exzellenz,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7481690510417445654,2025-03-14 15:40:36,Antidemokraten par Exzellenz,0,0,7465468823961996566,7465468823961996566,positive,,[]
 7481688912626402070,2025-03-14 15:34:24,,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡']"
-7481672445976920854,2025-03-14 14:30:28,wahre demokratie,0,0,7465468823961996566,7465468823961996566,positive,,[]
-7481652814990721814,2025-03-14 13:14:23,ein mann ein wort,0,0,7465468823961996566,7465468823961996566,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
-7481629007445476118,2025-03-14 11:42:01,lügner  oder  ,0,0,7465468823961996566,7465468823961996566,negative,0.6,"['😩', '💙', '💙', '💙', '💙']"
-7481616718504379158,2025-03-14 10:54:25,demokratie geht anders,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481591773803594518,2025-03-14 09:17:35,das ist keine demokratie und das ist schon gar kein deutscher kanzler,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481573627529659158,2025-03-14 08:07:15,merz kann nicht kanzler ,0,0,7465468823961996566,7465468823961996566,negative,,"['🥺', '🥺']"
-7481561157231903511,2025-03-14 07:18:51,wir sollten vereinbaren das sie kein kanzler werden ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7481672445976920854,2025-03-14 14:30:28,Wahre Demokratie,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7481652814990721814,2025-03-14 13:14:23,Ein Mann ein Wort,0,0,7465468823961996566,7465468823961996566,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7481629007445476118,2025-03-14 11:42:01,Lügner  oder  ,0,0,7465468823961996566,7465468823961996566,negative,0.6,"['😩', '💙', '💙', '💙', '💙']"
+7481616718504379158,2025-03-14 10:54:25,Demokratie geht anders,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481591773803594518,2025-03-14 09:17:35,Das ist keine Demokratie Und das ist schon gar kein deutscher Kanzler,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481573627529659158,2025-03-14 08:07:15,Merz kann NICHT Kanzler ,0,0,7465468823961996566,7465468823961996566,negative,,"['🥺', '🥺']"
+7481561157231903511,2025-03-14 07:18:51,Wir sollten vereinbaren das Sie kein Kanzler werden ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
 7481544912895886102,2025-03-14 06:15:42,kann das bitte weg,0,0,7465468823961996566,7465468823961996566,negative,-1.0,['😡']
-7481524865583104790,2025-03-14 04:58:18, geht s noch gegen ihn werde ich auch auf die straße gehen,0,0,7465468823961996566,7465468823961996566,negative,1.0,['😳']
-7481426750142612226,2025-03-13 22:37:06,ist das nicht die untergrabung der demokratischen gundordnung steht darauf nicht knast,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7481417001160966934,2025-03-13 21:59:10,ein richtig verlogenes ah solch ein ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '🤡']"
-7481414730817962774,2025-03-13 21:50:18,"sind sie eigentlich ein demokrat
-ein klares nein
-ein volksausbeuter",0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7481412324864525078,2025-03-13 21:40:59,zu diesem mann kann man nichts mehr sagen der hat sich selber disqualifiziert,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481524865583104790,2025-03-14 04:58:18, geht s noch gegen ihn werde ich auch auf die Straße gehen,0,0,7465468823961996566,7465468823961996566,negative,1.0,['😳']
+7481426750142612226,2025-03-13 22:37:06,Ist das nicht die Untergrabung der demokratischen Gundordnung Steht darauf nicht Knast,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7481417001160966934,2025-03-13 21:59:10,Ein richtig Verlogenes Ah Solch ein ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡', '😡', '🤡']"
+7481414730817962774,2025-03-13 21:50:18,"sind sie eigentlich ein Demokrat
+Ein klares Nein
+Ein volksausbeuter",0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7481412324864525078,2025-03-13 21:40:59,Zu diesem Mann kann man nichts mehr sagen der hat sich selber disqualifiziert,0,0,7465468823961996566,7465468823961996566,negative,,[]
 7481411137725858562,2025-03-13 21:36:22,zum kotzen,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481409733691392790,2025-03-13 21:31:00,angst angst angst nichts wie angst,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481396414040670998,2025-03-13 20:39:11,ich bin nicht afd und auch nicht links aber mal 25der deutschen komplett auszuschließen hat nichts mit demokratie zu tun ind der ddr hatten wir dies und haben es mit demonstrationen beendet,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481394618186449686,2025-03-13 20:32:14,schach matt,0,0,7465468823961996566,7465468823961996566,negative,,['♟️']
-7481393027219686166,2025-03-13 20:26:02,bis zum schluß schauen  da wird ein schlecht ,0,0,7465468823961996566,7465468823961996566,negative,,['🤮']
+7481409733691392790,2025-03-13 21:31:00,Angst Angst Angst nichts wie Angst,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481396414040670998,2025-03-13 20:39:11,Ich bin nicht AFD und auch nicht Links aber mal 25der Deutschen komplett auszuschließen hat nichts mit Demokratie zu tun Ind der DDR hatten wir dies und haben es mit Demonstrationen beendet,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481394618186449686,2025-03-13 20:32:14,Schach Matt,0,0,7465468823961996566,7465468823961996566,negative,,['♟️']
+7481393027219686166,2025-03-13 20:26:02,Bis zum Schluß schauen  Da wird ein schlecht ,0,0,7465468823961996566,7465468823961996566,negative,,['🤮']
 7481389144809374486,2025-03-13 20:11:05,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['😈', '😈', '😈']"
-7481376704089260822,2025-03-13 19:22:47,der absolute antidemokrat,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481375360400769814,2025-03-13 19:17:30,blackrock,0,0,7465468823961996566,7465468823961996566,positive,,[]
-7481364211505300246,2025-03-13 18:34:17,blablabla,0,0,7465468823961996566,7465468823961996566,positive,,[]
-7481362134350447382,2025-03-13 18:26:09,so einen lügen baron hat deutschland noch nicht gehabt ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡']"
-7481355265036878615,2025-03-13 17:59:32,dieser heuchler und pinocchio sperrt ihn endlich weg oder schickt ihn in rente  es reichthört die stimme des volkes endlich ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['\U0001fa75', '💙', '\U0001fa75', '💙']"
-7481235039717081878,2025-03-13 10:13:15,autokratisch,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7480954570890429206,2025-03-12 16:04:38,das ist der größte lügner der gehört in den knast,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7480805007583871766,2025-03-12 06:24:22,sehr demokrstisch hut ab deshalb nur ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙']"
-7479759585453212438,2025-03-09 10:47:28, pinocchio  bald übernimmt die ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['🤦🏻\u200d♂️', '😂', '😂', '😂', '😂', '💙', '😁', '👍']"
-7479723749152408342,2025-03-09 08:28:32,die cdu gehört verboten die müssen von der politischen bühne verschwinden die vertritt nicht die interessen des wählers oder des bürgers der fritze gibt der cdu den todesstich ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '🤥', '😡', '🤥', '😡', '🤥', '😡', '🤮']"
-7479170512004170518,2025-03-07 20:41:39,kranke denkweise ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😡']
-7478789373321659158,2025-03-06 20:02:36,hcilrediw,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7481376704089260822,2025-03-13 19:22:47,der absolute Antidemokrat,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481375360400769814,2025-03-13 19:17:30,Blackrock,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7481364211505300246,2025-03-13 18:34:17,Blablabla,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7481362134350447382,2025-03-13 18:26:09,So einen Lügen Baron hat Deutschland noch nicht gehabt ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡']"
+7481355265036878615,2025-03-13 17:59:32,Dieser Heuchler und Pinocchio sperrt ihn endlich weg oder schickt ihn in Rente  es reichthört die Stimme des Volkes endlich ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['\U0001fa75', '💙', '\U0001fa75', '💙']"
+7481235039717081878,2025-03-13 10:13:15,Autokratisch,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7480954570890429206,2025-03-12 16:04:38,Das ist der größte Lügner der gehört in den Knast,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7480805007583871766,2025-03-12 06:24:22,Sehr demokrstisch Hut ab Deshalb nur ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙']"
+7479759585453212438,2025-03-09 10:47:28, Pinocchio  Bald übernimmt die ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['🤦🏻\u200d♂️', '😂', '😂', '😂', '😂', '💙', '😁', '👍']"
+7479723749152408342,2025-03-09 08:28:32,Die CDU gehört verboten Die müssen von der politischen Bühne verschwinden die vertritt nicht die Interessen des Wählers oder des Bürgers Der Fritze gibt der CDU den Todesstich ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '🤥', '😡', '🤥', '😡', '🤥', '😡', '🤮']"
+7479170512004170518,2025-03-07 20:41:39,Kranke Denkweise ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😡']
+7478789373321659158,2025-03-06 20:02:36,hcilrediW,0,0,7465468823961996566,7465468823961996566,positive,,[]
 7477799648507052843,2025-03-04 04:02:14,,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['🤡', '💩']"
-7477156827076018966,2025-03-02 10:27:28,das ist doch der letzte abschaum dieser merz ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙', '💙']"
-7476770129700143894,2025-03-01 09:26:58,nur noch die afd und keine altparteien mehr ,0,0,7465468823961996566,7465468823961996566,negative,0.0,"['😡', '😡', '😡', '💙', '💙', '💙']"
-7476202966582018838,2025-02-27 20:46:04,spinnt der jetzt vollkommen,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7474176405346599702,2025-02-22 09:42:25,ich kann es nicht mehr hören die haben in der politik nichts zu suchen,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡']"
-7474173658655900438,2025-02-22 09:31:39,merz ist wie sein opaein nazi,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7474134151907541782,2025-02-22 06:59:14,politdarsteller die ihr wort nicht halten ist ja ganz was neues ,0,0,7465468823961996566,7465468823961996566,negative,,"['🤣', '🤣']"
-7474002001816503062,2025-02-21 22:25:50,unfassbar aber was willst du von dem anderes erwarten,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473873004788876054,2025-02-21 14:05:12,derhass steht im ins gesicht,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473864187506590486,2025-02-21 13:31:06,ach schaut euch mal die dicke an die gibts ja auch noch,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473855940843504406,2025-02-21 12:59:00,demokratie ,0,0,7465468823961996566,7465468823961996566,negative,1.0,['😳']
-7473843470408762134,2025-02-21 12:10:42,ist das nicht verfassungswidrig er muss abtreten,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7477156827076018966,2025-03-02 10:27:28,Das ist doch der letzte Abschaum dieser Merz ,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙', '💙']"
+7476770129700143894,2025-03-01 09:26:58,nur noch die AFD und keine altparteien mehr ,0,0,7465468823961996566,7465468823961996566,negative,0.0,"['😡', '😡', '😡', '💙', '💙', '💙']"
+7476202966582018838,2025-02-27 20:46:04,Spinnt der Jetzt vollkommen,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7474176405346599702,2025-02-22 09:42:25,Ich kann es nicht mehr hören Die haben in der Politik nichts zu suchen,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡']"
+7474173658655900438,2025-02-22 09:31:39,Merz ist wie sein OpaEin Nazi,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7474134151907541782,2025-02-22 06:59:14,Politdarsteller die ihr Wort nicht halten Ist ja ganz was NEUES ,0,0,7465468823961996566,7465468823961996566,negative,,"['🤣', '🤣']"
+7474002001816503062,2025-02-21 22:25:50,Unfassbar aber was willst du von dem anderes erwarten,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473873004788876054,2025-02-21 14:05:12,DerHass steht im ins Gesicht,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473864187506590486,2025-02-21 13:31:06,Ach schaut euch mal die Dicke an die gibts ja auch noch,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473855940843504406,2025-02-21 12:59:00,Demokratie ,0,0,7465468823961996566,7465468823961996566,negative,1.0,['😳']
+7473843470408762134,2025-02-21 12:10:42,Ist das nicht verfassungswidrig Er muss abtreten,0,0,7465468823961996566,7465468823961996566,neutral,,[]
 7473836317437854486,2025-02-21 11:42:44,,0,0,7465468823961996566,7465468823961996566,negative,,['🤑']
-7473826848612860694,2025-02-21 11:06:25,ddr läßt grüßen,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473822523911258902,2025-02-21 10:49:19,demokratie,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473816427418714902,2025-02-21 10:25:36,afd tut nicht weh afd ist okay friedrich merz ist ein scherz,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473779948949127958,2025-02-21 08:04:22,unwählbarer antidemokrat das wäre ein fall für den verfassungsschutz,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473777061747393303,2025-02-21 07:53:23,das ist gelebte demokratie herr merz schämen sie sich,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473772473025594134,2025-02-21 07:35:17,da sieht man mal was das wort von herr merz zählt wie mit der impfpflicht und es gibt tatsächlich menschen die ihm vertrauen unglaublich,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473752964621550358,2025-02-21 06:19:48,der tag an dem das demokratische system durch ein totalitäres system ersetzt wurde,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473826848612860694,2025-02-21 11:06:25,DDR läßt grüßen,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473822523911258902,2025-02-21 10:49:19,Demokratie,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473816427418714902,2025-02-21 10:25:36,AfD tut nicht weh AfD ist okay Friedrich Merz ist ein Scherz,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473779948949127958,2025-02-21 08:04:22,unwählbarer Antidemokrat Das wäre ein Fall für den Verfassungsschutz,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473777061747393303,2025-02-21 07:53:23,Das ist gelebte Demokratie Herr Merz schämen sie sich,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473772473025594134,2025-02-21 07:35:17,Da sieht man mal was das Wort von Herr Merz zählt wie mit der Impfpflicht Und es gibt tatsächlich Menschen die ihm vertrauen Unglaublich,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473752964621550358,2025-02-21 06:19:48,Der Tag an dem das demokratische System durch ein totalitäres System ersetzt wurde,0,0,7465468823961996566,7465468823961996566,neutral,,[]
 7473649216675234582,2025-02-20 23:37:08,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '👍']"
-7473561842578948886,2025-02-20 17:57:34,wie kann man solche parteien wählen nur,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7473561842578948886,2025-02-20 17:57:34,Wie kann man solche Parteien wählen nur,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
 7473556792811766550,2025-02-20 17:37:42,sehr demokratisch,0,0,7465468823961996566,7465468823961996566,positive,,[]
-7473506471944422166,2025-02-20 14:22:51,das ist doch mal ein demokratie verständnis der will könig von deutschland werdenund nicht kanzler,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473478079276483330,2025-02-20 12:32:52,der möchtegern diktator und egoist,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473474754659025666,2025-02-20 12:19:35,jawoll das ist die sogenannte demokratie  danke drecksstaat,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473473298719507222,2025-02-20 12:14:00,achsodas ist demokratie die schimpfen sich demokratendiese alt parteien sind das letztemerz machtgeilscholz vergesslich und harbeck na ja darf ich nicht schreiben sonst hausdurchsuchung ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['🤔', '😂', '😂', '😂']"
+7473506471944422166,2025-02-20 14:22:51,Das ist doch mal ein Demokratie Verständnis Der will König von Deutschland werdenund nicht Kanzler,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473478079276483330,2025-02-20 12:32:52,Der möchtegern Diktator und Egoist,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473474754659025666,2025-02-20 12:19:35,jawoll das ist die sogenannte Demokratie  danke drecksstaat,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473473298719507222,2025-02-20 12:14:00,Achsodas ist Demokratie Die schimpfen sich DemokratenDiese Alt Parteien sind das letzteMerz MachtgeilScholz vergesslich und Harbeck na ja darf ich nicht schreiben sonst Hausdurchsuchung ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['🤔', '😂', '😂', '😂']"
 7473472656865510177,2025-02-20 12:12:15,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙']"
 7473463052122981142,2025-02-20 11:34:26,,0,0,7465468823961996566,7465468823961996566,negative,,"['🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠', '🧠']"
-7473437757705274134,2025-02-20 09:56:06,"merz macht alles um kanzler zu werden auch mit den grünen und spd merz ist ein machgeiler arroganter mensch und wendehals
-deswegen nur afd ",0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙']"
+7473437757705274134,2025-02-20 09:56:06,"MERZ MACHT ALLES UM KANZLER ZU WERDEN AUCH MIT DEN GRÜNEN UND SPD MERZ IST EIN MACHGEILER ARROGANTER MENSCH UND WENDEHALS
+DESWEGEN NUR AFD ",0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙']"
 7473435171854828310,2025-02-20 09:46:27,,0,0,7465468823961996566,7465468823961996566,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
-7473434591912542998,2025-02-20 09:44:07,die altparteien haben das wort demokratie nicht verstanden das ist leider untragbar,0,0,7465468823961996566,7465468823961996566,neutral,,"['🤢', '🤢', '🤢', '🤢', '🤢']"
-7473433287324140310,2025-02-20 09:38:55,dieser mann ist ein windbeutel ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
-7473409995251778326,2025-02-20 08:09:00,alles für blau nicht für solche lügner,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473403971744023318,2025-02-20 07:45:23,hoffentlich wird der nicht gewählt,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473434591912542998,2025-02-20 09:44:07,Die Altparteien haben das Wort Demokratie nicht verstanden Das ist leider untragbar,0,0,7465468823961996566,7465468823961996566,neutral,,"['🤢', '🤢', '🤢', '🤢', '🤢']"
+7473433287324140310,2025-02-20 09:38:55,Dieser Mann ist ein Windbeutel ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡']"
+7473409995251778326,2025-02-20 08:09:00,Alles für blau Nicht für solche Lügner,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7473403971744023318,2025-02-20 07:45:23,Hoffentlich wird der nicht gewählt,0,0,7465468823961996566,7465468823961996566,neutral,,[]
 7473329680726033174,2025-02-20 03:00:55,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💯', '💙', '💙', '💙', '💙', '💯', '💙', '💙', '💙', '💙', '💙', '💯', '💙', '💙', '💙']"
 7473251635352470294,2025-02-19 21:53:44,blabla,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7473167054159004438,2025-02-19 16:25:32,merz ist ein lügner kriegstreiber und mir zu arogant niemals   ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡']"
-7473166950999442198,2025-02-19 16:24:57,wer mit den grünen arbeitet bekommt nicht meine stimme  ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡']"
-7473141172631847702,2025-02-19 14:45:12,niemals altparteien ,0,0,7465468823961996566,7465468823961996566,positive,1.0,"['🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '👍', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7473167054159004438,2025-02-19 16:25:32,Merz ist ein Lügner Kriegstreiber und mir zu Arogant Niemals   ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,"['😡', '😡', '😡']"
+7473166950999442198,2025-02-19 16:24:57,Wer mit den Grünen arbeitet bekommt nicht meine Stimme  ,0,0,7465468823961996566,7465468823961996566,negative,-1.0,"['😡', '😡', '😡']"
+7473141172631847702,2025-02-19 14:45:12,Niemals Altparteien ,0,0,7465468823961996566,7465468823961996566,positive,1.0,"['🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '👍', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
 7473098880609075990,2025-02-19 12:01:15,,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '👍', '👍', '👍']"
-7473060295059424022,2025-02-19 09:31:57,es wird sich wiederholen 1953 1706,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7473040957525492502,2025-02-19 08:16:19,dieser mann ist unwählbar mit seiner cdu wird sich nichts verändern,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7472664357790778134,2025-02-18 07:55:45,merz no go,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7471926947267609366,2025-02-16 08:13:35,das nennt man demokratie ,0,0,7465468823961996566,7465468823961996566,neutral,,['❣️']
-7471589553037132566,2025-02-15 10:24:08,das fähnchen im winde,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7471542637284786966,2025-02-15 07:22:30,ein bruch mit der demokratie in diesem land wir können ihm nicht vertrauen es ist einfach so ich bitte sie  bitte,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💚', '❤️']"
-7471118517751153431,2025-02-14 04:00:45,"trump schütze unsere kinder und familien
+7473060295059424022,2025-02-19 09:31:57,Es wird sich wiederholen 1953 1706,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7473040957525492502,2025-02-19 08:16:19,Dieser Mann ist unwählbar Mit seiner CDU wird sich nichts verändern,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7472664357790778134,2025-02-18 07:55:45,Merz No Go,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7471926947267609366,2025-02-16 08:13:35,Das nennt man Demokratie ,0,0,7465468823961996566,7465468823961996566,neutral,,['❣️']
+7471589553037132566,2025-02-15 10:24:08,Das Fähnchen im Winde,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7471542637284786966,2025-02-15 07:22:30,Ein Bruch mit der Demokratie in diesem Land Wir können ihm nicht vertrauen Es ist einfach so Ich bitte Sie  Bitte,0,0,7465468823961996566,7465468823961996566,neutral,1.0,"['💚', '❤️']"
+7471118517751153431,2025-02-14 04:00:45,"Trump schütze unsere Kinder und Familien
 ",0,0,7465468823961996566,7465468823961996566,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
 7470071549564961558,2025-02-11 08:14:23,verräter,0,0,7465468823961996566,7465468823961996566,negative,1.0,['🙈']
-7469386459637564182,2025-02-09 11:55:02,ach na ja geschwätz von gestern und so,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7468975204254991126,2025-02-08 09:19:20,er wird auch ohne schmerz mit der afd eine koalition bilden wenn es ihm nützt der mann ist nicht nur unwählbar sondern gefährlich,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7468798528493044502,2025-02-07 21:53:27,lüüügner unwählbar,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7468407979344315158,2025-02-06 20:37:43,herr diktator ,0,0,7465468823961996566,7465468823961996566,positive,,['🤡']
-7467906320768516886,2025-02-05 12:11:31, verlogene frau weidel und unberechenbaren merz  unwählbar ,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7467092539703919382,2025-02-03 07:33:57,spd wählen für demokratie olaf scholz,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7467079440075670294,2025-02-03 06:43:40,"vorsicht  wirtschaftsforscher diw  zew stellen fest pläne von afd union fdp entlasten nur reiche zu lasten von geringverdiener rentnern und kindern
-httpssearchappiuegpwqyjzf9phzy5",0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7466901321188360982,2025-02-02 19:11:22,"diese vereinbarung ist offensichtlich in die hose gegangen
-sprecht ihr verschiedene sprachen",0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7466740951932912406,2025-02-02 08:49:23,was interessiert mich mein geschwätz von gestern unwählbar,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7466531947008017174,2025-02-01 19:17:50,lügenbaron merz unwählbar,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7466002616478352150,2025-01-31 09:04:29,wie kann man denn jetzt noch altparteien wählen ,0,0,7465468823961996566,7465468823961996566,negative,,['🙄']
-7465952567866131222,2025-01-31 05:51:15,endlich ein thema bis zu den wahlen was man richtig ausschlachten kanndas versagen in 3 jahren ampel gerät in vergessenheit das ist das was die spd und grüne gemeinsam haben,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7465857320141472534,2025-01-30 23:41:01,spd und linke sind wählbar,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7465704485823185686,2025-01-30 13:47:07,lügner hat er nie vorgehabt er will mit allen mitteln kanzler werden ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😡']
-7465621634607710998,2025-01-30 08:25:54,wir brauchen eine starke linke,0,0,7465468823961996566,7465468823961996566,neutral,,['🥰']
-7465620668454454038,2025-01-30 08:22:20,was ist denn die alternative stillstand wir packen wichtige themen einfach nicht mehr an weil eine afd dieses thema befürwortet es läge vielmehr an grün  spd sich zu bewegen statt beschweren ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['🖤', '💛']"
-7465607512584848150,2025-01-30 07:31:37,merz wäre gerne in der afd,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7465607331691496215,2025-01-30 07:30:22,erzähle das mal den eltern des ermordeten kleinen jungen,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7465594706011325206,2025-01-30 06:42:13,die linke nur noch,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7465584174311834391,2025-01-30 06:01:23,herr merz denkt zu erst an sich selbst und was es ihm an vorteile bringt und er hat ein herz aus stein,0,0,7465468823961996566,7465468823961996566,neutral,,[]
-7465474557438296854,2025-01-29 22:55:29,man kann keine partei außer acht lassen die von 13 der deutschen gewählt wird und nicht eif sagen das alle bei der afd rechts sind oder n z is,0,4,7465468823961996566,7465468823961996566,negative,,[]
-7465472066314060566,2025-01-29 22:45:14,adolf februar ,5,2,7465468823961996566,7465468823961996566,positive,,['🤣']
-7486927572757414678,2025-03-28 18:22:52,lügenpartei,0,0,7465468823961996566,7465468823961996566,negative,,[]
-7481395078810977046,2025-03-13 20:34:07,trixer,0,0,7465468823961996566,7465468823961996566,positive,,[]
+7469386459637564182,2025-02-09 11:55:02,Ach na ja Geschwätz von gestern und so,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7468975204254991126,2025-02-08 09:19:20,Er wird auch ohne SchMERZ mit der AfD eine Koalition bilden wenn es ihm nützt Der Mann ist nicht nur unwählbar sondern GEFÄHRLICH,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7468798528493044502,2025-02-07 21:53:27,LÜÜÜGNER UNWÄHLBAR,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7468407979344315158,2025-02-06 20:37:43,Herr Diktator ,0,0,7465468823961996566,7465468823961996566,positive,,['🤡']
+7467906320768516886,2025-02-05 12:11:31, verlogene Frau Weidel und unberechenbaren Merz  unwählbar ,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7467092539703919382,2025-02-03 07:33:57,SPD WÄHLEN für demokratie Olaf Scholz,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7467079440075670294,2025-02-03 06:43:40,"VORSICHT  Wirtschaftsforscher DIW  ZEW stellen fest Pläne von AfD Union FDP entlasten nur Reiche zu Lasten von Geringverdiener Rentnern und Kindern
+httpssearchappiUegPWQyJZf9phzy5",0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7466901321188360982,2025-02-02 19:11:22,"Diese Vereinbarung ist offensichtlich in die Hose gegangen
+Sprecht ihr verschiedene Sprachen",0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7466740951932912406,2025-02-02 08:49:23,was interessiert mich mein Geschwätz von gestern unwählbar,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7466531947008017174,2025-02-01 19:17:50,Lügenbaron Merz unwählbar,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7466002616478352150,2025-01-31 09:04:29,Wie kann man denn jetzt noch Altparteien wählen ,0,0,7465468823961996566,7465468823961996566,negative,,['🙄']
+7465952567866131222,2025-01-31 05:51:15,Endlich ein Thema bis zu den Wahlen was man richtig ausschlachten kannDas versagen in 3 Jahren Ampel gerät in Vergessenheit Das ist das was die SPD und Grüne gemeinsam haben,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7465857320141472534,2025-01-30 23:41:01,SPD und Linke sind wählbar,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7465704485823185686,2025-01-30 13:47:07,Lügner hat er nie vorgehabt Er will mit allen Mitteln Kanzler werden ,0,0,7465468823961996566,7465468823961996566,neutral,-1.0,['😡']
+7465621634607710998,2025-01-30 08:25:54,Wir brauchen eine starke Linke,0,0,7465468823961996566,7465468823961996566,neutral,,['🥰']
+7465620668454454038,2025-01-30 08:22:20,Was ist denn die Alternative Stillstand Wir packen wichtige Themen einfach nicht mehr an weil eine AfD dieses Thema befürwortet Es läge vielmehr an Grün  SPD sich zu bewegen statt beschweren ,0,0,7465468823961996566,7465468823961996566,negative,1.0,"['🖤', '💛']"
+7465607512584848150,2025-01-30 07:31:37,Merz wäre gerne in der AFD,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7465607331691496215,2025-01-30 07:30:22,Erzähle das mal den Eltern des ermordeten kleinen Jungen,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7465594706011325206,2025-01-30 06:42:13,Die linke nur noch,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7465584174311834391,2025-01-30 06:01:23,Herr Merz denkt zu erst an sich selbst Und was es ihm an Vorteile bringt Und er hat ein Herz aus Stein,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7465474557438296854,2025-01-29 22:55:29,man kann keine Partei außer acht lassen die von 13 der deutschen gewählt wird und nicht eif sagen das alle bei der AFD rechts sind oder n z is,0,4,7465468823961996566,7465468823961996566,negative,,[]
+7465472066314060566,2025-01-29 22:45:14,Adolf Februar ,5,2,7465468823961996566,7465468823961996566,positive,,['🤣']
+7486927572757414678,2025-03-28 18:22:52,Lügenpartei,0,0,7465468823961996566,7465468823961996566,negative,,[]
+7481395078810977046,2025-03-13 20:34:07,Trixer,0,0,7465468823961996566,7465468823961996566,positive,,[]
 7481354682661896982,2025-03-13 17:57:16,,0,0,7465468823961996566,7465468823961996566,negative,,"['🥵', '🥵', '🥵', '🥵', '🥵', '🥵', '🥵']"
-7465611869563765526,2025-01-30 07:48:20,wofür ist eigentlich dieses vogelnest auf der glatze ,0,0,7465468823961996566,7465468823961996566,neutral,,[]
+7465611869563765526,2025-01-30 07:48:20,Wofür ist eigentlich dieses Vogelnest auf der Glatze ,0,0,7465468823961996566,7465468823961996566,neutral,,[]
 7507637084757181206,2025-05-23 13:46:25,,0,0,7462792549447601430,7462792549447601430,negative,1.0,['😁']
 7477562260237370134,2025-03-03 12:40:55,,0,0,7462792549447601430,7462792549447601430,negative,,['❤️']

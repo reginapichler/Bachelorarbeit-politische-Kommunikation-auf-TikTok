@@ -1,244 +1,244 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7457879046031278870,2025-01-09 11:40:03,eine frau mit ahnung es ist wirklich schwer hier eingebürgert zu werden das ist ein langer prozess und dauert manchmal jahre,1,0,7457868526863322390,7457868526863322390,neutral,,[]
-7458007256945623830,2025-01-09 19:57:23,wann kommen denn nun die fachkräfte wir warten immer noch,0,2,7457868526863322390,7457868526863322390,neutral,,[]
-7457870535718224662,2025-01-09 11:07:17,türkei ,0,0,7457868526863322390,7457868526863322390,negative,1.0,['😳']
-7457881728519734038,2025-01-09 11:50:28,rede doch mal über den ausschuss zum bundesvergesslicholaf und cumex oder hast du das auch vergessen,0,3,7457466036061965591,7457466036061965591,neutral,,[]
+7457879046031278870,2025-01-09 11:40:03,Eine Frau mit Ahnung Es ist wirklich schwer hier eingebürgert zu werden Das ist ein langer Prozess und dauert manchmal Jahre,1,0,7457868526863322390,7457868526863322390,neutral,,[]
+7458007256945623830,2025-01-09 19:57:23,Wann kommen denn nun die Fachkräfte wir warten immer noch,0,2,7457868526863322390,7457868526863322390,neutral,,[]
+7457870535718224662,2025-01-09 11:07:17,Türkei ,0,0,7457868526863322390,7457868526863322390,negative,1.0,['😳']
+7457881728519734038,2025-01-09 11:50:28,Rede doch mal über den Ausschuss zum BundesvergesslichOlaf und CumEx Oder hast du das auch vergessen,0,3,7457466036061965591,7457466036061965591,neutral,,[]
 7457469095462683414,2025-01-08 09:09:16,,0,0,7457466036061965591,7457466036061965591,negative,1.0,['👍']
-7467992956387001111,2025-02-05 17:47:18,warum wird bei besitz des personalausweises die deutsche staatsangehörigkeit nur vermutet was hat es für konsequenzen bezüglich der rechte und pflichten dürfen diese überhaupt wählen gehen,0,0,7457147681857735958,7457147681857735958,neutral,,[]
-7457187546876052246,2025-01-07 14:56:32,respekt als hier geborene person darf ich doppelte staatsbürger seinsomit kann ich später als armer rentner in der heimat meiner eltern leben,0,0,7457147681857735958,7457147681857735958,neutral,,[]
-7457162949155029762,2025-01-07 13:21:14,spd ist im wesen eine türkische partei,0,2,7457147681857735958,7457147681857735958,neutral,,[]
+7467992956387001111,2025-02-05 17:47:18,warum wird bei Besitz des Personalausweises die deutsche Staatsangehörigkeit nur vermutet Was hat es für Konsequenzen bezüglich der Rechte und Pflichten Dürfen diese überhaupt Wählen gehen,0,0,7457147681857735958,7457147681857735958,neutral,,[]
+7457187546876052246,2025-01-07 14:56:32,Respekt als Hier geborene Person darf ich doppelte Staatsbürger seinSomit kann ich später als Armer Rentner in der Heimat meiner Eltern leben,0,0,7457147681857735958,7457147681857735958,neutral,,[]
+7457162949155029762,2025-01-07 13:21:14,SPD ist im Wesen eine türkische Partei,0,2,7457147681857735958,7457147681857735958,neutral,,[]
 7457152713203696406,2025-01-07 12:41:38,,0,0,7457147681857735958,7457147681857735958,negative,,['🤲']
-7457151583286149910,2025-01-07 12:37:02,nein haben wir nicht  wir haben nichteinmal eine eigene verfassung,0,25,7457147681857735958,7457147681857735958,negative,,"['🙄', '🙄']"
-7457160476875621142,2025-01-07 13:11:31,folgt mir ich folge jedem zurück ,0,0,7457147681857735958,7457147681857735958,positive,,"['❤️', '✌🏽']"
-7457065174206546710,2025-01-07 07:01:53,hohle phrasenwie immer vor einer wahl,0,2,7456824363791224086,7456824363791224086,neutral,,[]
+7457151583286149910,2025-01-07 12:37:02,Nein haben wir nicht  wir haben nichteinmal eine eigene Verfassung,0,25,7457147681857735958,7457147681857735958,negative,,"['🙄', '🙄']"
+7457160476875621142,2025-01-07 13:11:31,Folgt mir ich folge jedem zurück ,0,0,7457147681857735958,7457147681857735958,positive,,"['❤️', '✌🏽']"
+7457065174206546710,2025-01-07 07:01:53,Hohle Phrasenwie immer vor einer Wahl,0,2,7456824363791224086,7456824363791224086,neutral,,[]
 7456964610073133846,2025-01-07 00:32:11,,0,0,7456824363791224086,7456824363791224086,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
-7456964604238529302,2025-01-07 00:31:54,ihr könnt auch ohne besen fliegenoder,0,0,7456824363791224086,7456824363791224086,negative,,[]
-7455710234347930390,2025-01-03 15:23:54,was macht ihr mal für die rentner,4,1,7455692066761362710,7455692066761362710,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7456964604238529302,2025-01-07 00:31:54,Ihr könnt auch ohne Besen fliegenoder,0,0,7456824363791224086,7456824363791224086,negative,,[]
+7455710234347930390,2025-01-03 15:23:54,Was macht ihr mal für die Rentner,4,1,7455692066761362710,7455692066761362710,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
 7455739785060680450,2025-01-03 17:18:28,das hat man in den letzten 3jahren gesehen viel versprochen nix geliefert,2,0,7455692066761362710,7455692066761362710,negative,1.0,"['😂', '😂']"
-7455721316508943126,2025-01-03 16:06:58, spd ist sowas von am ende,1,0,7455692066761362710,7455692066761362710,negative,1.0,"['😂', '😂']"
-7455720017310974742,2025-01-03 16:01:57,"es geht doch nur um erstwähler der rest in deutschland wacht auf und wählt hoffentlich keine der altparteien mehr
-ihr verarscht jeden steuerzahler und rentner in deutschland",1,1,7455692066761362710,7455692066761362710,negative,,[]
+7455721316508943126,2025-01-03 16:06:58, SPD ist sowas von am Ende,1,0,7455692066761362710,7455692066761362710,negative,1.0,"['😂', '😂']"
+7455720017310974742,2025-01-03 16:01:57,"Es geht doch nur um Erstwähler Der Rest in Deutschland wacht auf und wählt hoffentlich keine der AltParteien mehr
+Ihr verarscht jeden Steuerzahler und Rentner in Deutschland",1,1,7455692066761362710,7455692066761362710,negative,,[]
 7455719822036484886,2025-01-03 16:01:07,,1,0,7455692066761362710,7455692066761362710,negative,,"['👏🏼', '👏🏼', '👏🏼']"
-7455695319507501846,2025-01-03 14:25:58,danke für die inflation liebe spd,1,0,7455692066761362710,7455692066761362710,positive,,[]
-7456170010915488534,2025-01-04 21:07:57,"was man von euren versprechern halten soll
-münteferingwahlversprechennachlesen",0,0,7455692066761362710,7455692066761362710,negative,,[]
+7455695319507501846,2025-01-03 14:25:58,Danke für die Inflation liebe SPD,1,0,7455692066761362710,7455692066761362710,positive,,[]
+7456170010915488534,2025-01-04 21:07:57,"Was man von Euren Versprechern halten soll
+MünteferingWahlversprechennachlesen",0,0,7455692066761362710,7455692066761362710,negative,,[]
 7456097086212440854,2025-01-04 16:24:59,,0,0,7455692066761362710,7455692066761362710,negative,1.0,"['💙', '💙', '💙', '💙']"
 7455768577137279767,2025-01-03 19:10:11,,0,0,7455692066761362710,7455692066761362710,negative,1.0,['🙈']
-7455742258962400022,2025-01-03 17:28:11,ja prima heute bescheid von krankenkasse erhalten beiträge verdoppelt wart ihr das ,0,3,7455692066761362710,7455692066761362710,negative,,['🤔']
-7455723676642738966,2025-01-03 16:15:57,und wo bleibt das leckerli für die die es erarbeitet müssen oder hat die spd ein tichleindeckdich,0,1,7455692066761362710,7455692066761362710,negative,,[]
-7461776140367119126,2025-01-19 23:44:44,danke für deine wichtige und gute arbeit jeden tag  ich werde die spd wählen und wünsche dir und der spd ein gutes wahlergebnis ,3,0,7461553816094149910,7461553816094149910,positive,1.0,"['👍', '❤️']"
+7455742258962400022,2025-01-03 17:28:11,Ja prima heute Bescheid von Krankenkasse erhalten Beiträge verdoppelt Wart ihr das ,0,3,7455692066761362710,7455692066761362710,negative,,['🤔']
+7455723676642738966,2025-01-03 16:15:57,Und wo bleibt das Leckerli für die die es erarbeitet müssen oder hat die SPD ein Tichleindeckdich,0,1,7455692066761362710,7455692066761362710,negative,,[]
+7461776140367119126,2025-01-19 23:44:44,Danke für deine wichtige und gute Arbeit jeden Tag  Ich werde die SPD wählen und wünsche dir und der SPD ein gutes Wahlergebnis ,3,0,7461553816094149910,7461553816094149910,positive,1.0,"['👍', '❤️']"
 7461673297929159446,2025-01-19 17:04:17,,1,0,7461553816094149910,7461553816094149910,negative,,"['🤗', '💪🏼', '💪🏼']"
-7461698069412250390,2025-01-19 18:40:04,der zorn der deutschen ist nachvollziehbar für mich nur noch ,0,4,7461553816094149910,7461553816094149910,neutral,1.0,"['💙', '💙', '💙', '💙', '💙']"
-7461616955696399126,2025-01-19 13:25:35,wann gibts wieder wirtschaftswachstum es wird alles teurer,0,5,7461553816094149910,7461553816094149910,negative,,[]
-7461255804801385238,2025-01-18 14:03:55,nie wieder altparteienkartell ist jetzt,2,0,7461210269461581078,7461210269461581078,negative,,[]
-7461844000875234070,2025-01-20 04:11:31,"spd
+7461698069412250390,2025-01-19 18:40:04,Der Zorn der Deutschen ist nachvollziehbar für mich nur noch ,0,4,7461553816094149910,7461553816094149910,neutral,1.0,"['💙', '💙', '💙', '💙', '💙']"
+7461616955696399126,2025-01-19 13:25:35,wann gibts wieder Wirtschaftswachstum es wird alles teurer,0,5,7461553816094149910,7461553816094149910,negative,,[]
+7461255804801385238,2025-01-18 14:03:55,Nie wieder Altparteienkartell ist jetzt,2,0,7461210269461581078,7461210269461581078,negative,,[]
+7461844000875234070,2025-01-20 04:11:31,"SPD
 ",2,0,7461210269461581078,7461210269461581078,negative,1.0,"['💯', '💯', '💯', '💯', '💯']"
-7461837782983443222,2025-01-20 03:49:56,die spd hat seit ihrem bestehen schon zig mal die arbeiterklasse verraten und betrogen,0,0,7461210269461581078,7461210269461581078,negative,,[]
-7461697370603455255,2025-01-19 18:37:13,der zorn der deutschen ist nachvollziehbar für mich nur noch ,0,0,7461210269461581078,7461210269461581078,neutral,1.0,"['💙', '💙', '💙', '💙', '💙']"
+7461837782983443222,2025-01-20 03:49:56,Die SPD hat seit ihrem Bestehen schon zig Mal die Arbeiterklasse verraten und betrogen,0,0,7461210269461581078,7461210269461581078,negative,,[]
+7461697370603455255,2025-01-19 18:37:13,Der Zorn der Deutschen ist nachvollziehbar für mich nur noch ,0,0,7461210269461581078,7461210269461581078,neutral,1.0,"['💙', '💙', '💙', '💙', '💙']"
 7461278354869240598,2025-01-18 15:31:38,,0,0,7461210269461581078,7461210269461581078,negative,,"['🥰', '🥰']"
-7461268414981997334,2025-01-18 14:53:28,spd vertrauen die zeiten gabs maldas ist endgültig vorbei,0,0,7461210269461581078,7461210269461581078,negative,,[]
-7461262112188793606,2025-01-18 14:28:21,die spd ist doch so etwas von tot,0,0,7461210269461581078,7461210269461581078,negative,,[]
+7461268414981997334,2025-01-18 14:53:28,SPD vertrauen Die Zeiten gabs MalDas ist endgültig vorbei,0,0,7461210269461581078,7461210269461581078,negative,,[]
+7461262112188793606,2025-01-18 14:28:21,Die SPD ist doch so etwas von tot,0,0,7461210269461581078,7461210269461581078,negative,,[]
 7461654226076238625,2025-01-19 15:49:33,cumex,0,0,7461210269461581078,7461210269461581078,negative,1.0,['🙈']
-7460907705935921942,2025-01-17 15:33:20,grandios  wir wünschen euch weiterhin viel spaß bei der arbeit ,2,1,7460851764791692566,7460851764791692566,positive,1.0,"['😂', '❤️', '💪']"
-7460873483910775554,2025-01-17 13:20:44,schon richtig gut,2,1,7460851764791692566,7460851764791692566,positive,,[]
+7460907705935921942,2025-01-17 15:33:20,Grandios  Wir wünschen euch weiterhin viel Spaß bei der Arbeit ,2,1,7460851764791692566,7460851764791692566,positive,1.0,"['😂', '❤️', '💪']"
+7460873483910775554,2025-01-17 13:20:44,Schon richtig gut,2,1,7460851764791692566,7460851764791692566,positive,,[]
 7464325035018584838,2025-01-26 20:33:58,,0,0,7460851764791692566,7460851764791692566,negative,,"['🥰', '🥰', '🥰']"
-7460455189445051158,2025-01-16 10:18:33,nach der ampel 2x mal links,3,0,7460447961525325078,7460447961525325078,neutral,,[]
-7460455181895140118,2025-01-16 10:18:21, von links in die frsse der rechten ist nur ein echo das diese selbst erzeugt haben,2,0,7460447961525325078,7460447961525325078,neutral,1.0,['😂']
-7460908002351727382,2025-01-17 15:34:27,danke für deine klaren worte ,1,0,7460447961525325078,7460447961525325078,neutral,1.0,['💯']
+7460455189445051158,2025-01-16 10:18:33,nach der Ampel 2x mal Links,3,0,7460447961525325078,7460447961525325078,neutral,,[]
+7460455181895140118,2025-01-16 10:18:21, von links in die frsse der Rechten ist nur ein Echo das diese selbst erzeugt haben,2,0,7460447961525325078,7460447961525325078,neutral,1.0,['😂']
+7460908002351727382,2025-01-17 15:34:27,Danke für deine klaren Worte ,1,0,7460447961525325078,7460447961525325078,neutral,1.0,['💯']
 7460951750050186006,2025-01-17 18:24:11,,0,0,7460447961525325078,7460447961525325078,negative,1.0,['✊']
-7460450479396094742,2025-01-16 09:59:56,die gewalt kommt von links nicht von rechts,0,16,7460447961525325078,7460447961525325078,neutral,,[]
+7460450479396094742,2025-01-16 09:59:56,Die Gewalt kommt von links nicht von rechts,0,16,7460447961525325078,7460447961525325078,neutral,,[]
 7460542924637963031,2025-01-16 15:57:46,nie wieder rot,3,0,7460094152764624150,7460094152764624150,negative,,[]
-7460130312522892054,2025-01-15 13:16:48,spd nee danke deshalb beide stimmen afd ,2,1,7460094152764624150,7460094152764624150,negative,1.0,"['💙', '💙']"
+7460130312522892054,2025-01-15 13:16:48,SPD NEE DANKE Deshalb Beide Stimmen AFD ,2,1,7460094152764624150,7460094152764624150,negative,1.0,"['💙', '💙']"
 7460121314339635990,2025-01-15 12:41:48,,2,0,7460094152764624150,7460094152764624150,negative,,"['❤️', '❤️', '❤️']"
-7460096831062688534,2025-01-15 11:06:52,gut dass man so viel versteht ,2,1,7460094152764624150,7460094152764624150,positive,1.0,['💪']
-7460666377225978646,2025-01-16 23:57:54,gemeinsam spd,1,0,7460094152764624150,7460094152764624150,negative,1.0,"['♥️', '🌹', '🤝']"
-7460581513764602646,2025-01-16 18:27:19,was wird besser mit den altparteien ,1,0,7460094152764624150,7460094152764624150,negative,1.0,['😂']
-7460552408684856086,2025-01-16 16:34:47,die spd hat seit ihrem bestehen schon zig mal die arbeiterklasse verraten und betrogen,1,0,7460094152764624150,7460094152764624150,negative,,[]
-7461268529581703958,2025-01-18 14:53:22, afd für deutschland      und sonst nichts ,0,0,7460094152764624150,7460094152764624150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
-7460759878169232150,2025-01-17 06:00:08,welche steuern willst du erhöhen,1,0,7460094152764624150,7460094152764624150,neutral,,[]
-7459801393197646614,2025-01-14 15:59:39,dachte kurz sie machen am wochenende boot tourendas wäre das geilste,68,1,7459727163445513494,7459727163445513494,positive,1.0,['😂']
-7459733703947928342,2025-01-14 11:37:31,queen ,8,1,7459727163445513494,7459727163445513494,positive,1.0,['🙏']
-7460514523083424534,2025-01-16 14:07:40,dachte kurz da wird mit laschet posiert dann viel mir ein ach ja pistorius sieht fast genauso aus ,3,0,7459727163445513494,7459727163445513494,negative,1.0,['😅']
+7460096831062688534,2025-01-15 11:06:52,Gut dass man so viel versteht ,2,1,7460094152764624150,7460094152764624150,positive,1.0,['💪']
+7460666377225978646,2025-01-16 23:57:54,Gemeinsam SPD,1,0,7460094152764624150,7460094152764624150,negative,1.0,"['♥️', '🌹', '🤝']"
+7460581513764602646,2025-01-16 18:27:19,Was wird besser mit den Altparteien ,1,0,7460094152764624150,7460094152764624150,negative,1.0,['😂']
+7460552408684856086,2025-01-16 16:34:47,Die SPD hat seit ihrem Bestehen schon zig Mal die Arbeiterklasse verraten und betrogen,1,0,7460094152764624150,7460094152764624150,negative,,[]
+7461268529581703958,2025-01-18 14:53:22, AfD für Deutschland      und sonst nichts ,0,0,7460094152764624150,7460094152764624150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍']"
+7460759878169232150,2025-01-17 06:00:08,welche Steuern willst Du erhöhen,1,0,7460094152764624150,7460094152764624150,neutral,,[]
+7459801393197646614,2025-01-14 15:59:39,Dachte kurz Sie machen am Wochenende Boot TourenDas wäre das geilste,68,1,7459727163445513494,7459727163445513494,positive,1.0,['😂']
+7459733703947928342,2025-01-14 11:37:31,Queen ,8,1,7459727163445513494,7459727163445513494,positive,1.0,['🙏']
+7460514523083424534,2025-01-16 14:07:40,Dachte kurz da wird mit Laschet posiert dann viel mir ein ach ja Pistorius sieht fast genauso aus ,3,0,7459727163445513494,7459727163445513494,negative,1.0,['😅']
 7459803870434706198,2025-01-14 16:09:32,,2,0,7459727163445513494,7459727163445513494,negative,,['🥰']
-7459337964771574550,2025-01-13 10:01:52,bitte seht zu dass ihr mehr in den medien auftaucht,2,0,7459335960975740182,7459335960975740182,negative,,[]
+7459337964771574550,2025-01-13 10:01:52,Bitte seht zu dass ihr mehr in den Medien auftaucht,2,0,7459335960975740182,7459335960975740182,negative,,[]
 7458970688185369366,2025-01-12 10:16:20,glaubst du die blauzis können lesen,7,4,7458968564045778198,7458968564045778198,negative,1.0,['😂']
-7458971758961492758,2025-01-12 10:20:22,es geht doch den nazis afdfraktionimbundestag nur um ein illegales kriterium die ahnentafel a la göbbels,1,0,7458968564045778198,7458968564045778198,neutral,,"['‼️', '🤷🏾\u200d♂️']"
-7458616732631696150,2025-01-11 11:23:21,wer spendet etwas für eine volksverräterpartei wie die spd,3,0,7458588226018610454,7458588226018610454,neutral,,[]
-7458618569837347606,2025-01-11 11:30:21, wie die jetzt alle wieder betteln um später wieder ignorant über das volk herzuziehen,2,0,7458588226018610454,7458588226018610454,neutral,,['🤭']
-7458621282393883394,2025-01-11 11:40:41,nach der ampel links,1,1,7458588226018610454,7458588226018610454,neutral,-1.0,"['❤️', '🖤', '🚩']"
+7458971758961492758,2025-01-12 10:20:22,Es geht doch den NAZIS AfDFraktionimBundestag nur um ein illegales Kriterium die Ahnentafel a la GÖBBELS,1,0,7458968564045778198,7458968564045778198,neutral,,"['‼️', '🤷🏾\u200d♂️']"
+7458616732631696150,2025-01-11 11:23:21,Wer spendet etwas für eine Volksverräterpartei wie die spd,3,0,7458588226018610454,7458588226018610454,neutral,,[]
+7458618569837347606,2025-01-11 11:30:21, wie die jetzt alle wieder betteln um später wieder ignorant über das Volk herzuziehen,2,0,7458588226018610454,7458588226018610454,neutral,,['🤭']
+7458621282393883394,2025-01-11 11:40:41,Nach der Ampel LINKS,1,1,7458588226018610454,7458588226018610454,neutral,-1.0,"['❤️', '🖤', '🚩']"
 7458595862794093334,2025-01-11 10:02:22,links ,1,0,7458588226018610454,7458588226018610454,negative,,['❣️']
-7458925161438511877,2025-01-12 07:19:45,erstaunlich gute arbeit dir tust grüße aus berlin,0,0,7458588226018610454,7458588226018610454,positive,,[]
-7458635983613903638,2025-01-11 12:37:43,spd die partei gegen das volk wer da spendet dem ist nicht mehr zu helfen ,0,0,7458588226018610454,7458588226018610454,negative,1.0,"['😂', '🤡']"
+7458925161438511877,2025-01-12 07:19:45,Erstaunlich Gute Arbeit dir tust Grüße aus Berlin,0,0,7458588226018610454,7458588226018610454,positive,,[]
+7458635983613903638,2025-01-11 12:37:43,SPD die Partei gegen das Volk wer da spendet dem ist nicht mehr zu helfen ,0,0,7458588226018610454,7458588226018610454,negative,1.0,"['😂', '🤡']"
 7458633017536643862,2025-01-11 12:26:15,,0,0,7458588226018610454,7458588226018610454,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
-7458617888469418774,2025-01-11 11:28:08,ich bin ja nicht eingraucht,0,0,7458588226018610454,7458588226018610454,neutral,,[]
-7465467231377834774,2025-01-29 22:26:56,welche soziale politik bitte hat die spd die lohn entwicklung und die preis explosion im alltag der menschen mal angeschaut  ganz sicher nicht,0,2,7465458453423607062,7465458453423607062,negative,,[]
-7465420422584025878,2025-01-29 19:24:42,cdu eifert der övp nach uns stehen dunkle zeiten bevor,4,1,7465417406081420566,7465417406081420566,negative,,[]
-7465429114116522774,2025-01-29 19:58:15,da ist heftig in deutschland ist jetzt alles unwählbar spd sowieso afd no go grüne auch eher nicht cdu und csu sind geschichte ab jetzt fdp oder linke ,0,3,7465417406081420566,7465417406081420566,negative,,['💁\u200d♂️']
+7458617888469418774,2025-01-11 11:28:08,Ich bin ja nicht eingraucht,0,0,7458588226018610454,7458588226018610454,neutral,,[]
+7465467231377834774,2025-01-29 22:26:56,Welche soziale Politik bitte Hat die SPD die Lohn Entwicklung und die Preis Explosion im Alltag der Menschen mal angeschaut  Ganz sicher nicht,0,2,7465458453423607062,7465458453423607062,negative,,[]
+7465420422584025878,2025-01-29 19:24:42,CDU eifert der ÖVP nach Uns stehen dunkle Zeiten bevor,4,1,7465417406081420566,7465417406081420566,negative,,[]
+7465429114116522774,2025-01-29 19:58:15,Da ist heftig In Deutschland ist jetzt alles unwählbar SPD sowieso AfD no go Grüne auch eher nicht CDU und CSu sind Geschichte ab jetzt FDP oder Linke ,0,3,7465417406081420566,7465417406081420566,negative,,['💁\u200d♂️']
 7466180737541456662,2025-01-31 20:34:58,,1,0,7465281695357390102,7465281695357390102,negative,0.0,"['😭', '😭', '😭', '💯', '💯', '🌹', '❤️', '❤️']"
-7465404122239042326,2025-01-29 18:21:24,sind die wie poster an die wand gehängt ,0,0,7465281695357390102,7465281695357390102,negative,0.0,['👀']
-7464904184351015702,2025-01-28 10:02:23,frei gesprochen gute bilder verwendet also ich würde sie wählen ,18,1,7464897735594970390,7464897735594970390,positive,1.0,['👏']
+7465404122239042326,2025-01-29 18:21:24,Sind die wie Poster an die wand gehängt ,0,0,7465281695357390102,7465281695357390102,negative,0.0,['👀']
+7464904184351015702,2025-01-28 10:02:23,frei gesprochen gute Bilder verwendet also ich würde sie wählen ,18,1,7464897735594970390,7464897735594970390,positive,1.0,['👏']
 7470251948245336854,2025-02-11 19:53:33,komme auch aus mönchengladbach werde sie mit der erststimme wählen und zweitstimme die linke,9,0,7464897735594970390,7464897735594970390,neutral,,['🥰']
 7464900491001250582,2025-01-28 09:47:32,wenn ich könnte würde ich wählen ,6,0,7464897735594970390,7464897735594970390,positive,1.0,['😍']
-7465031625443132182,2025-01-28 18:16:09,bei den overheadprojektoren hatte sie mich,2,0,7464897735594970390,7464897735594970390,neutral,1.0,"['👏', '👏', '👏']"
-7464900908275516182,2025-01-28 09:48:56,mit scholz als zugpferd hat spd fertig,2,7,7464897735594970390,7464897735594970390,neutral,,[]
-7471160607388697366,2025-02-14 06:40:09,ohje die vereinswahl ist ja nicht so aber bei der partei werden wir uns sehr einig,1,2,7464897735594970390,7464897735594970390,positive,,['🙌🏻']
+7465031625443132182,2025-01-28 18:16:09,Bei den Overheadprojektoren hatte sie mich,2,0,7464897735594970390,7464897735594970390,neutral,1.0,"['👏', '👏', '👏']"
+7464900908275516182,2025-01-28 09:48:56,Mit Scholz als Zugpferd hat SPD fertig,2,7,7464897735594970390,7464897735594970390,neutral,,[]
+7471160607388697366,2025-02-14 06:40:09,Ohje die Vereinswahl ist ja nicht so aber bei der Partei werden wir uns sehr einig,1,2,7464897735594970390,7464897735594970390,positive,,['🙌🏻']
 7465169455589720854,2025-01-29 03:15:40,,1,0,7464897735594970390,7464897735594970390,negative,,['❤️']
-7472739089898717974,2025-02-18 12:45:13,ich bin im januar von mönchengladbach weggezogen,0,0,7464897735594970390,7464897735594970390,neutral,,[]
+7472739089898717974,2025-02-18 12:45:13,Ich bin im Januar von Mönchengladbach weggezogen,0,0,7464897735594970390,7464897735594970390,neutral,,[]
 7464922222563148566,2025-01-28 11:11:54,,2,0,7464897735594970390,7464897735594970390,negative,0.0,"['🔥', '🔥']"
-7464197010302108438,2025-01-26 12:17:28,genau so geht es gegen hass und hetze kanzler scholz ,12,1,7464196128196578582,7464196128196578582,negative,,['❤️']
-7464229625439388438,2025-01-26 14:23:40,migranten sind ein teil unserer gesellschaft,4,0,7464196128196578582,7464196128196578582,neutral,,[]
+7464197010302108438,2025-01-26 12:17:28,Genau so geht es Gegen Hass und Hetze Kanzler Scholz ,12,1,7464196128196578582,7464196128196578582,negative,,['❤️']
+7464229625439388438,2025-01-26 14:23:40,Migranten sind ein Teil unserer Gesellschaft,4,0,7464196128196578582,7464196128196578582,neutral,,[]
 7464271285905654550,2025-01-26 17:05:33,,2,0,7464196128196578582,7464196128196578582,negative,,['❤️']
-7464578808274240261,2025-01-27 12:58:48,ich bin traurig weil ich an einer unheilbaren krankheit leide weshalb ich schnell 230000 an eine verantwortliche persongeben möchte kontaktieren sie mich um mehr zu erfahren annatrossen8gmailcom,1,0,7464196128196578582,7464196128196578582,negative,,[]
-7464474930139251478,2025-01-27 06:16:11,spd ,1,0,7464196128196578582,7464196128196578582,negative,,['❤️']
-7464203908626432790,2025-01-26 12:43:52,blablablaaaa und was ist mit den ganzen mördern und vergewaltigern messerstechern und bürgergeldschnorrern sollen die auch mitbestimmen in unserer schein demokratie  ,1,7,7464196128196578582,7464196128196578582,neutral,,['🥰']
+7464578808274240261,2025-01-27 12:58:48,Ich bin traurig weil ich an einer unheilbaren Krankheit leide weshalb ich schnell 230000 an eine verantwortliche PersonGEBEN möchte Kontaktieren Sie mich um mehr zu erfahren annatrossen8gmailcom,1,0,7464196128196578582,7464196128196578582,negative,,[]
+7464474930139251478,2025-01-27 06:16:11,SPD ,1,0,7464196128196578582,7464196128196578582,negative,,['❤️']
+7464203908626432790,2025-01-26 12:43:52,Blablablaaaa und was ist mit den ganzen Mördern und Vergewaltigern Messerstechern und Bürgergeldschnorrern Sollen die auch mitbestimmen in unserer Schein Demokratie  ,1,7,7464196128196578582,7464196128196578582,neutral,,['🥰']
 7464197911473341206,2025-01-26 12:20:55,,1,10,7464196128196578582,7464196128196578582,negative,1.0,"['😂', '😂', '😂', '😂']"
-7464197764008919830,2025-01-26 12:20:02,genau wer deutsch spricht das tun die meisten aber nicht und wollen sich auch nicht integrieren,0,5,7464196128196578582,7464196128196578582,negative,,[]
-7463050294172812034,2025-01-23 10:07:55,bezüglich dem beantragen der briefwahl bei mir lief es so das ich einen brief bekommen habe wahlbenachtightigung und dort dann die briefwahl per qr code beantragen konnte,3,1,7463048052517915926,7463048052517915926,neutral,,[]
-7463073350793855766,2025-01-23 11:37:04,musste leider gerade feststellen das ich ab 82 nicht im lande bin die briefwahlunterlagen aber erst frühestens ab 102 verfügbar sind ,0,2,7463048052517915926,7463048052517915926,negative,-1.0,['😡']
-7462688755276481302,2025-01-22 10:45:12,ja nur ,1,0,7462662591496637718,7462662591496637718,negative,1.0,"['💙', '💙']"
-7462692284188295958,2025-01-22 10:59:13,spd ,0,8,7462662591496637718,7462662591496637718,negative,1.0,"['😂', '😂']"
-7462308271644164886,2025-01-21 10:08:57,ich weiß wo am 232 meine erststimme hingeht,2,3,7462307698021879062,7462307698021879062,negative,,[]
-7462361094692193046,2025-01-21 13:33:09,solide leistung würde ich sagen ,1,0,7462307698021879062,7462307698021879062,positive,1.0,['💗']
+7464197764008919830,2025-01-26 12:20:02,Genau wer deutsch spricht das tun die meisten aber nicht und wollen sich auch nicht integrieren,0,5,7464196128196578582,7464196128196578582,negative,,[]
+7463050294172812034,2025-01-23 10:07:55,Bezüglich dem beantragen der Briefwahl bei mir lief es so das ich einen Brief bekommen habe Wahlbenachtightigung und dort dann die Briefwahl per qr code beantragen konnte,3,1,7463048052517915926,7463048052517915926,neutral,,[]
+7463073350793855766,2025-01-23 11:37:04,musste leider gerade feststellen das ich ab 82 nicht im Lande bin die Briefwahlunterlagen aber erst frühestens ab 102 verfügbar sind ,0,2,7463048052517915926,7463048052517915926,negative,-1.0,['😡']
+7462688755276481302,2025-01-22 10:45:12,Ja nur ,1,0,7462662591496637718,7462662591496637718,negative,1.0,"['💙', '💙']"
+7462692284188295958,2025-01-22 10:59:13,SPD ,0,8,7462662591496637718,7462662591496637718,negative,1.0,"['😂', '😂']"
+7462308271644164886,2025-01-21 10:08:57,Ich weiß wo am 232 meine Erststimme hingeht,2,3,7462307698021879062,7462307698021879062,negative,,[]
+7462361094692193046,2025-01-21 13:33:09,Solide Leistung würde ich sagen ,1,0,7462307698021879062,7462307698021879062,positive,1.0,['💗']
 7462460736925877014,2025-01-21 19:59:28,,1,0,7462307698021879062,7462307698021879062,negative,1.0,"['😂', '👏🏻', '👏🏻', '👏🏻', '💯', '💯', '💯', '🌹', '🌹']"
 7462444528588358422,2025-01-21 18:56:55,,1,0,7462307698021879062,7462307698021879062,negative,1.0,"['😂', '😂']"
-7468983604484571926,2025-02-08 09:51:41,und in den von vielen nerds reingefurtzt wurde fehlt bitte um nachtrag,1,0,7468947292301675798,7468947292301675798,negative,,[]
+7468983604484571926,2025-02-08 09:51:41,Und in den von vielen Nerds reingefurtzt wurde fehlt bitte um Nachtrag,1,0,7468947292301675798,7468947292301675798,negative,,[]
 7474367961966658336,2025-02-22 22:06:00,,0,0,7468947292301675798,7468947292301675798,negative,,"['❤️', '❤️', '❤️']"
 7474368035302900513,2025-02-22 22:05:57,,0,0,7468947292301675798,7468947292301675798,negative,,"['♥️', '♥️', '♥️']"
 7474367957230863137,2025-02-22 22:05:53,,0,0,7468947292301675798,7468947292301675798,negative,,"['🥰', '🥰', '🥰']"
 7474368002620834592,2025-02-22 22:05:52,,0,0,7468947292301675798,7468947292301675798,negative,1.0,"['🌹', '🌹', '🌹']"
 7474367899789673249,2025-02-22 22:05:50,,0,0,7468947292301675798,7468947292301675798,negative,,"['❤️', '❤️', '❤️']"
 7468695976098743062,2025-02-07 15:15:26,,1,0,7468590330846121238,7468590330846121238,negative,1.0,"['🌹', '🌹']"
-7469557981127295766,2025-02-09 23:01:00,sie sind die frau von dem schild mit einem qr code wo irgendwas mit wähl mich oder sowas steht,1,0,7468590330846121238,7468590330846121238,neutral,1.0,['😱']
-7468592416224772886,2025-02-07 08:34:03,darum afd wählen ,0,3,7468590330846121238,7468590330846121238,negative,,"['🥰', '🥰']"
+7469557981127295766,2025-02-09 23:01:00,Sie sind die Frau von dem Schild mit einem QR Code wo irgendwas mit wähl mich oder sowas steht,1,0,7468590330846121238,7468590330846121238,neutral,1.0,['😱']
+7468592416224772886,2025-02-07 08:34:03,Darum afd wählen ,0,3,7468590330846121238,7468590330846121238,negative,,"['🥰', '🥰']"
 7468264760381244182,2025-02-06 11:23:00,,2,0,7468260790403943702,7468260790403943702,negative,1.0,"['👍', '👍', '👍', '❤️', '❤️', '❤️']"
-7468627900779217671,2025-02-07 10:50:56,"i will follow everyone on the team so please follow me i liked commented and saved your post
+7468627900779217671,2025-02-07 10:50:56,"I will follow everyone on the team so please follow me I liked commented and saved your post
 　",0,0,7468260790403943702,7468260790403943702,positive,,"['🥰', '🥰', '♥️']"
-7468304835028124418,2025-02-06 13:58:13,gibts wieder 60 ,0,1,7468260790403943702,7468260790403943702,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7468302347300815638,2025-02-06 13:48:26,yes danke ,1,0,7468260790403943702,7468260790403943702,positive,,"['🥰', '🥰', '🥰']"
-7468272981229257494,2025-02-06 11:54:36,nur afd ,0,3,7468260790403943702,7468260790403943702,negative,1.0,"['💙', '💙', '💙', '💙']"
-7468049681731371798,2025-02-05 21:28:39,so lange die leute es nicht bei ard und zdf sehen wird sich nichts ändern,3,0,7468038034814995734,7468038034814995734,negative,,[]
-7468193756628402966,2025-02-06 06:47:36,leute bitte werdet wach merz interessiert sich nicht für das volk er will nur die macht über uns haben er ist ein grausamer mensch,2,0,7468038034814995734,7468038034814995734,neutral,,[]
+7468304835028124418,2025-02-06 13:58:13,Gibts wieder 60 ,0,1,7468260790403943702,7468260790403943702,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7468302347300815638,2025-02-06 13:48:26,Yes Danke ,1,0,7468260790403943702,7468260790403943702,positive,,"['🥰', '🥰', '🥰']"
+7468272981229257494,2025-02-06 11:54:36,Nur AfD ,0,3,7468260790403943702,7468260790403943702,negative,1.0,"['💙', '💙', '💙', '💙']"
+7468049681731371798,2025-02-05 21:28:39,so lange die Leute es nicht bei ARD und ZDF sehen wird sich nichts ändern,3,0,7468038034814995734,7468038034814995734,negative,,[]
+7468193756628402966,2025-02-06 06:47:36,Leute bitte werdet wach Merz interessiert sich nicht für das Volk er will nur die Macht über uns haben er ist ein grausamer Mensch,2,0,7468038034814995734,7468038034814995734,neutral,,[]
 7469500518643467030,2025-02-09 19:17:39,bitte teilen,1,0,7468038034814995734,7468038034814995734,negative,,[]
 7468049135821882134,2025-02-05 21:26:40,,0,0,7468038034814995734,7468038034814995734,negative,1.0,"['😳', '😱']"
-7468010082909012758,2025-02-05 18:53:51,der song ist so ein ohrwurm er geht mir nicht mehr aus dem kopf ,2,0,7467884767157947670,7467884767157947670,negative,1.0,"['😂', '🙏']"
-7468020452641112854,2025-02-05 19:34:16,spd ,1,0,7467884767157947670,7467884767157947670,negative,1.0,"['👍', '❤']"
+7468010082909012758,2025-02-05 18:53:51,Der Song ist so ein Ohrwurm er geht mir nicht mehr aus dem Kopf ,2,0,7467884767157947670,7467884767157947670,negative,1.0,"['😂', '🙏']"
+7468020452641112854,2025-02-05 19:34:16,SPD ,1,0,7467884767157947670,7467884767157947670,negative,1.0,"['👍', '❤']"
 7468008717212975894,2025-02-05 18:48:17,,1,0,7467884767157947670,7467884767157947670,negative,1.0,['💜']
 7475799650931655446,2025-02-26 18:41:08,,0,0,7467884767157947670,7467884767157947670,negative,1.0,"['💙', '👍']"
 7467939491422307094,2025-02-05 14:20:17,,0,0,7467884767157947670,7467884767157947670,negative,,['♥️']
-7467472437263205142,2025-02-04 08:08:48,ich wünschte dass er mehr präsenz gezeigt hätte viele glauben dass in seiner zeit nichts passiert ist weil er es nicht rausposaunt hat,6,1,7467459445644119318,7467459445644119318,neutral,,[]
-7467465596205351702,2025-02-04 07:41:29,seit olaf scholz kanzler ist war er genau drei mal sichtbar direkt nach beginn des ukrainekrieges als er die augenklappe trug und als er lindner rauswarf,1,2,7467459445644119318,7467459445644119318,neutral,,[]
+7467472437263205142,2025-02-04 08:08:48,Ich wünschte dass er mehr Präsenz gezeigt hätte Viele glauben dass in seiner Zeit nichts passiert ist weil er es nicht rausposaunt hat,6,1,7467459445644119318,7467459445644119318,neutral,,[]
+7467465596205351702,2025-02-04 07:41:29,Seit Olaf Scholz Kanzler ist war er genau drei Mal sichtbar Direkt nach Beginn des Ukrainekrieges als er die Augenklappe trug und als er Lindner rauswarf,1,2,7467459445644119318,7467459445644119318,neutral,,[]
 7467460740594877206,2025-02-04 07:23:14,olaf scholz kann man nicht brauchen,0,0,7467459445644119318,7467459445644119318,negative,-1.0,"['😭', '😭', '😭', '😭']"
-7467125341979640578,2025-02-03 09:40:49,boote ,3,0,7467123913877638422,7467123913877638422,positive,1.0,['😂']
-7467143546361905942,2025-02-03 10:51:27,hier ist gelb,2,0,7467123913877638422,7467123913877638422,neutral,0.0,"['✨', '✨']"
-7467206610033935126,2025-02-03 14:55:59,boote boote boote ,1,0,7467123913877638422,7467123913877638422,positive,1.0,['🍍']
-7467202164194214679,2025-02-03 14:38:50,go girl give us nothing ,1,0,7467123913877638422,7467123913877638422,negative,1.0,['😻']
+7467125341979640578,2025-02-03 09:40:49,Boote ,3,0,7467123913877638422,7467123913877638422,positive,1.0,['😂']
+7467143546361905942,2025-02-03 10:51:27,Hier ist Gelb,2,0,7467123913877638422,7467123913877638422,neutral,0.0,"['✨', '✨']"
+7467206610033935126,2025-02-03 14:55:59,Boote Boote Boote ,1,0,7467123913877638422,7467123913877638422,positive,1.0,['🍍']
+7467202164194214679,2025-02-03 14:38:50,Go girl give us nothing ,1,0,7467123913877638422,7467123913877638422,negative,1.0,['😻']
 7474364478920164118,2025-02-22 21:52:19,,1,0,7467123913877638422,7467123913877638422,negative,,['\U0001faf6🏾']
 7468073639360545558,2025-02-05 23:01:09,,0,0,7467123913877638422,7467123913877638422,negative,1.0,['😂']
 7466841172822262550,2025-02-02 15:18:08,"
-dielinke
+DieLinke
 ",5,0,7466839960616832258,7466839960616832258,negative,0.3333333333333333,"['\U0001fa77', '🚩', '🌾', '\U0001fa77', '💗', '💗', '\U0001fa77', '🌾', '🚩', '\U0001fa77']"
-7466844095836701462,2025-02-02 15:29:25,seid schlau wählt nicht blau,4,0,7466839960616832258,7466839960616832258,negative,,[]
-7470540282791920406,2025-02-12 14:32:32,die gefahr dass herr merz sein jetzt so vehement vorgetragenes versprechen nicht hält ist me sehr groß er wird immer nach der macht greifen,0,0,7466839960616832258,7466839960616832258,neutral,,[]
-7467282723869098774,2025-02-03 19:51:24,its daniel der verrückte mutmacher,0,0,7466839960616832258,7466839960616832258,negative,,[]
-7473088498946540293,2025-02-19 11:20:34,wunderschön gute arbeit dir tust grüße aus berlin,0,0,7472823347571690774,7472823347571690774,positive,,[]
+7466844095836701462,2025-02-02 15:29:25,Seid schlau wählt nicht blau,4,0,7466839960616832258,7466839960616832258,negative,,[]
+7470540282791920406,2025-02-12 14:32:32,Die Gefahr dass Herr Merz sein jetzt so vehement vorgetragenes Versprechen nicht hält ist mE sehr groß Er wird immer nach der Macht greifen,0,0,7466839960616832258,7466839960616832258,neutral,,[]
+7467282723869098774,2025-02-03 19:51:24,Its Daniel Der verrückte Mutmacher,0,0,7466839960616832258,7466839960616832258,negative,,[]
+7473088498946540293,2025-02-19 11:20:34,Wunderschön Gute Arbeit dir tust Grüße aus Berlin,0,0,7472823347571690774,7472823347571690774,positive,,[]
 7472940400337863446,2025-02-19 01:48:37,,1,0,7472823347571690774,7472823347571690774,negative,1.0,"['💙', '💙', '💙']"
-7472696702287037206,2025-02-18 10:00:46,absolut richtig deswegen müssen wir afd und cdu csu stoppen,2,0,7472687190728920342,7472687190728920342,negative,,[]
+7472696702287037206,2025-02-18 10:00:46,Absolut richtig Deswegen müssen wir AfD und CDU CSU stoppen,2,0,7472687190728920342,7472687190728920342,negative,,[]
 7472699786438837014,2025-02-18 10:12:49,,1,0,7472687190728920342,7472687190728920342,negative,1.0,"['🌹', '🌹', '❤️']"
-7475340740420223766,2025-02-25 13:00:30,können sie die niederlage nicht verkraften aber das kommt davon wenn man gegen das volk arbeitet und nur für das ausland wie zum beispiel die ukraine wo uns überhaupt nichts angeht,0,0,7472687190728920342,7472687190728920342,neutral,,[]
+7475340740420223766,2025-02-25 13:00:30,können Sie die Niederlage nicht verkraften aber das kommt davon wenn man gegen das Volk arbeitet und nur für das Ausland wie zum Beispiel die Ukraine wo uns überhaupt nichts angeht,0,0,7472687190728920342,7472687190728920342,neutral,,[]
 7473825576823800598,2025-02-21 11:01:16,,0,0,7472687190728920342,7472687190728920342,negative,,['❤️']
-7472313126089310998,2025-02-17 09:12:10,ich werde links wählen  aber frau yüksel es ist schön das sie ein teil unserer bunten gesellschaft in deutschland sind ich sehe einen menschen und nicht die migration so sollte das überall sein,7,0,7472291198657383702,7472291198657383702,neutral,,['\U0001fa77']
+7472313126089310998,2025-02-17 09:12:10,Ich werde links wählen  aber Frau Yüksel es ist schön das sie ein Teil unserer bunten Gesellschaft in Deutschland sind Ich sehe einen Menschen und nicht die Migration So sollte das überall sein,7,0,7472291198657383702,7472291198657383702,neutral,,['\U0001fa77']
 7472309317136958230,2025-02-17 08:57:27, was,0,0,7472291198657383702,7472291198657383702,negative,,['🤨']
-7472000193110541078,2025-02-16 12:57:19,richtiger verein falsche partei,52,1,7471930394716196118,7471930394716196118,negative,,[]
-7472110661583373078,2025-02-16 20:06:16,richtiger verein aber falsche partei gladbach wählt die afd,27,12,7471930394716196118,7471930394716196118,neutral,,[]
-7477644833989985046,2025-03-03 18:01:09,ich mag euch ab jetzt,22,0,7471930394716196118,7471930394716196118,positive,,[]
-7472088261051515670,2025-02-16 18:39:22,weltklasse,14,0,7471930394716196118,7471930394716196118,positive,,[]
-7471983210647356182,2025-02-16 11:51:42,politik hat nix im fußball verloren,13,5,7471930394716196118,7471930394716196118,neutral,,[]
+7472000193110541078,2025-02-16 12:57:19,Richtiger Verein falsche Partei,52,1,7471930394716196118,7471930394716196118,negative,,[]
+7472110661583373078,2025-02-16 20:06:16,Richtiger Verein aber falsche Partei Gladbach wählt die AfD,27,12,7471930394716196118,7471930394716196118,neutral,,[]
+7477644833989985046,2025-03-03 18:01:09,Ich mag euch ab jetzt,22,0,7471930394716196118,7471930394716196118,positive,,[]
+7472088261051515670,2025-02-16 18:39:22,Weltklasse,14,0,7471930394716196118,7471930394716196118,positive,,[]
+7471983210647356182,2025-02-16 11:51:42,Politik hat nix im Fußball verloren,13,5,7471930394716196118,7471930394716196118,neutral,,[]
 7471933625387893526,2025-02-16 08:39:24,,9,0,7471930394716196118,7471930394716196118,negative,1.0,"['💚', '🤍', '🖤', '✌️']"
-7472046180546134806,2025-02-16 15:55:51,falsche partei richtiger verein,7,0,7471930394716196118,7471930394716196118,negative,,[]
-7472048093153903382,2025-02-16 16:03:30,richtiger verein falsche partei,6,0,7471930394716196118,7471930394716196118,negative,,[]
-7488941783822648086,2025-04-03 04:39:26,richtiger verein  aber falsche partei ,5,0,7471930394716196118,7471930394716196118,neutral,1.0,"['🖤', '🤍', '💚', '💛']"
-7471971638827172630,2025-02-16 11:06:53,spd direkt sympathisch,4,1,7471930394716196118,7471930394716196118,positive,,[]
-7472159482651706114,2025-02-16 23:15:41,ich gehe spd wählen wie geil ist das als afd wähler weiter so,3,0,7471930394716196118,7471930394716196118,positive,1.0,"['🖤', '🤍', '💚']"
+7472046180546134806,2025-02-16 15:55:51,Falsche Partei richtiger Verein,7,0,7471930394716196118,7471930394716196118,negative,,[]
+7472048093153903382,2025-02-16 16:03:30,richtiger Verein falsche Partei,6,0,7471930394716196118,7471930394716196118,negative,,[]
+7488941783822648086,2025-04-03 04:39:26,Richtiger Verein  aber falsche Partei ,5,0,7471930394716196118,7471930394716196118,neutral,1.0,"['🖤', '🤍', '💚', '💛']"
+7471971638827172630,2025-02-16 11:06:53,Spd direkt sympathisch,4,1,7471930394716196118,7471930394716196118,positive,,[]
+7472159482651706114,2025-02-16 23:15:41,Ich gehe spd wählen wie geil ist das als AfD wähler weiter so,3,0,7471930394716196118,7471930394716196118,positive,1.0,"['🖤', '🤍', '💚']"
 7471943373683966742,2025-02-16 09:16:56,,3,0,7471930394716196118,7471930394716196118,negative,,['🥰']
-7490894201014485782,2025-04-08 10:55:27,nur eure politik ist kein stern wert ,2,0,7471930394716196118,7471930394716196118,negative,,[]
+7490894201014485782,2025-04-08 10:55:27,Nur eure Politik ist kein Stern wert ,2,0,7471930394716196118,7471930394716196118,negative,,[]
 7478666181816550167,2025-03-06 12:04:49,können noch mehr werden ,2,0,7471930394716196118,7471930394716196118,positive,1.0,"['😎', '😎', '😎', '😁', '😁', '😁', '😉']"
-7472371694888551190,2025-02-17 12:59:09,stick95 jibs nich stick 95,2,0,7471930394716196118,7471930394716196118,negative,,[]
+7472371694888551190,2025-02-17 12:59:09,Stick95 Jibs nich stick 95,2,0,7471930394716196118,7471930394716196118,negative,,[]
 7472090959305999126,2025-02-16 18:49:48,,2,0,7471930394716196118,7471930394716196118,negative,1.0,"['🖤', '🤍', '💚']"
-7472494319338996502,2025-02-17 20:55:00,ich als gladbach fan sage nur die afd,1,5,7471930394716196118,7471930394716196118,negative,,[]
-7472360440222221058,2025-02-17 12:15:43,gruß aus venn und ich wähle sonntag  damit unsere kultur so bleibt wie sie ist,1,1,7471930394716196118,7471930394716196118,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7472262410053993238,2025-02-17 05:55:51,ich freue mich nicht diese raute zu sehen trdt schöne grüße genossin ,1,0,7471930394716196118,7471930394716196118,neutral,1.0,"['😂', '🙌🏻', '❤️']"
-7472087280124412694,2025-02-16 18:35:19,richtiger verein,1,0,7471930394716196118,7471930394716196118,negative,,[]
-7472049833814704918,2025-02-16 16:10:07,uch finde sie sind sehr freundlich ich bin galdnsch fan seit ich denken kann aber bitte tuhen sie was an den schulen auf einer hauotschule trauen sich deutsche kinder nicht mehr in die schule zu gehen,1,0,7471930394716196118,7471930394716196118,positive,,[]
+7472494319338996502,2025-02-17 20:55:00,ich als Gladbach Fan sage nur die AFD,1,5,7471930394716196118,7471930394716196118,negative,,[]
+7472360440222221058,2025-02-17 12:15:43,Gruß aus Venn und ich wähle Sonntag  damit unsere Kultur so bleibt wie sie ist,1,1,7471930394716196118,7471930394716196118,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7472262410053993238,2025-02-17 05:55:51,Ich freue mich nicht diese Raute zu sehen Trdt schöne Grüße Genossin ,1,0,7471930394716196118,7471930394716196118,neutral,1.0,"['😂', '🙌🏻', '❤️']"
+7472087280124412694,2025-02-16 18:35:19,richtiger Verein,1,0,7471930394716196118,7471930394716196118,negative,,[]
+7472049833814704918,2025-02-16 16:10:07,uch finde sie sind sehr freundlich ich bin galdnsch Fan seit ich denken kann aber bitte tuhen sie was an den Schulen auf einer hauotschule trauen sich deutsche Kinder nicht mehr in die Schule zu gehen,1,0,7471930394716196118,7471930394716196118,positive,,[]
 7471943514806240022,2025-02-16 09:17:44,,1,0,7471930394716196118,7471930394716196118,negative,,"['♥️', '♥️', '♥️']"
-7483976581724242710,2025-03-20 19:31:30,bist du imneuem bundestag auch,0,0,7471930394716196118,7471930394716196118,negative,,[]
-7472472481422295830,2025-02-17 19:30:10,in der sache vereint aber in den farben getrennt  keiner mag die spd,0,0,7471930394716196118,7471930394716196118,neutral,1.0,"['😂', '😂']"
-7472397840053781270,2025-02-17 14:40:43,forza borussia,0,0,7471930394716196118,7471930394716196118,positive,,[]
-7472374509292471062,2025-02-17 13:10:15,gladbach hat nix mit euch  zu tun,0,0,7471930394716196118,7471930394716196118,neutral,,[]
-7472111624759132950,2025-02-16 20:09:58,deshalb wähle ich die nd,0,0,7471930394716196118,7471930394716196118,neutral,,[]
-7471666550514156310,2025-02-15 15:22:43,danke dass du dich für uns einsetzt ,2,2,7471613006674169110,7471613006674169110,neutral,,['❤️']
+7483976581724242710,2025-03-20 19:31:30,Bist du imneuem Bundestag auch,0,0,7471930394716196118,7471930394716196118,negative,,[]
+7472472481422295830,2025-02-17 19:30:10,In der Sache vereint aber in den Farben getrennt  keiner mag die SPD,0,0,7471930394716196118,7471930394716196118,neutral,1.0,"['😂', '😂']"
+7472397840053781270,2025-02-17 14:40:43,FORZA BORUSSIA,0,0,7471930394716196118,7471930394716196118,positive,,[]
+7472374509292471062,2025-02-17 13:10:15,GLADBACH HAT NIX MIT EUCH  ZU TUN,0,0,7471930394716196118,7471930394716196118,neutral,,[]
+7472111624759132950,2025-02-16 20:09:58,Deshalb wähle ich die nd,0,0,7471930394716196118,7471930394716196118,neutral,,[]
+7471666550514156310,2025-02-15 15:22:43,Danke dass du dich für uns einsetzt ,2,2,7471613006674169110,7471613006674169110,neutral,,['❤️']
 7471624698532578070,2025-02-15 12:40:33,,2,0,7471613006674169110,7471613006674169110,negative,1.0,"['🌹', '🌹', '🌹']"
 7471703836454093591,2025-02-15 17:47:22,,1,0,7471613006674169110,7471613006674169110,negative,,['❤️']
-7470149994349544214,2025-02-11 13:18:23,eine mindestlohn erhöhung bringt rein gar nichts hallo inflation,1,0,7470099871400201494,7470099871400201494,negative,,[]
+7470149994349544214,2025-02-11 13:18:23,Eine Mindestlohn Erhöhung bringt rein gar nichts hallo Inflation,1,0,7470099871400201494,7470099871400201494,negative,,[]
 7470267321908937494,2025-02-11 20:53:05,,0,0,7470099871400201494,7470099871400201494,negative,1.0,"['🌹', '🌹']"
-7470155712585417494,2025-02-11 13:40:05,höherer mindestlohn bedeutet alles wird teurer oder entlassungen steuern runter da hat man auch mehr netto vom brutto und das geht nur mit der afd,0,0,7470099871400201494,7470099871400201494,negative,,[]
-7469796779320427286,2025-02-10 14:27:05,spd ,2,0,7469713302763900183,7469713302763900183,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '👍', '👍', '👍', '🌹', '🌹', '🌹']"
-7474527010174567191,2025-02-23 08:22:53,genau es geht um viel darum auch keine spd ,4,0,7474160209024355606,7474160209024355606,positive,1.0,"['😁', '😁', '😁', '😁']"
-7475678114489107222,2025-02-26 10:50:01,deswegen keine spd sondern blau,3,0,7474160209024355606,7474160209024355606,negative,1.0,"['💙', '💙', '💙']"
+7470155712585417494,2025-02-11 13:40:05,höherer Mindestlohn bedeutet alles wird teurer oder Entlassungen Steuern runter da hat man auch mehr netto vom brutto Und das geht nur mit der afd,0,0,7470099871400201494,7470099871400201494,negative,,[]
+7469796779320427286,2025-02-10 14:27:05,SPD ,2,0,7469713302763900183,7469713302763900183,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '👍', '👍', '👍', '🌹', '🌹', '🌹']"
+7474527010174567191,2025-02-23 08:22:53,Genau es geht um viel darum auch keine SPD ,4,0,7474160209024355606,7474160209024355606,positive,1.0,"['😁', '😁', '😁', '😁']"
+7475678114489107222,2025-02-26 10:50:01,Deswegen keine SPD sondern blau,3,0,7474160209024355606,7474160209024355606,negative,1.0,"['💙', '💙', '💙']"
 7475379183641510678,2025-02-25 15:29:48,,3,0,7474160209024355606,7474160209024355606,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7474517190088114966,2025-02-23 07:44:45,"spd spd spd spd spd spd
-spd spd spd spd spd spd
-spd spd spd spd spd spd",3,0,7474160209024355606,7474160209024355606,positive,,[]
+7474517190088114966,2025-02-23 07:44:45,"SPD SPD SPD SPD SPD SPD
+SPD SPD SPD SPD SPD SPD
+SPD SPD SPD SPD SPD SPD",3,0,7474160209024355606,7474160209024355606,positive,,[]
 7475379144173339414,2025-02-25 15:29:43,,2,0,7474160209024355606,7474160209024355606,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7474181441015776022,2025-02-22 10:02:03,spd und spd,2,0,7474160209024355606,7474160209024355606,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '🤲', '🤲', '🤲', '🤲', '🤲', '🤲', '❤️']"
+7474181441015776022,2025-02-22 10:02:03,SPD und SPD,2,0,7474160209024355606,7474160209024355606,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '🤲', '🤲', '🤲', '🤲', '🤲', '🤲', '❤️']"
 7474170643597787926,2025-02-22 09:20:08,"
-linkegrünespd 25
+LinkeGrüneSPD 25
 ",2,0,7474160209024355606,7474160209024355606,negative,1.0,"['💚', '❤️', '🥰', '🥰', '❤️', '💚']"
-7475430678634382102,2025-02-25 18:49:30,wer hat euch verraten sozial demokraten ,1,0,7474160209024355606,7474160209024355606,neutral,,[]
+7475430678634382102,2025-02-25 18:49:30,Wer hat euch verraten sozial Demokraten ,1,0,7474160209024355606,7474160209024355606,neutral,,[]
 7475383761757897494,2025-02-25 15:47:35,,1,0,7474160209024355606,7474160209024355606,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7474614308477272855,2025-02-23 14:01:33,nie mehr spd,1,0,7474160209024355606,7474160209024355606,negative,,[]
-7474495368876131074,2025-02-23 06:21:47,spd,1,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
-7474337416171242262,2025-02-22 20:07:07,spd ,1,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
+7474614308477272855,2025-02-23 14:01:33,Nie mehr SPD,1,0,7474160209024355606,7474160209024355606,negative,,[]
+7474495368876131074,2025-02-23 06:21:47,SPD,1,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
+7474337416171242262,2025-02-22 20:07:07,SPD ,1,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
 7474326293837005590,2025-02-22 19:23:48,,1,0,7474160209024355606,7474160209024355606,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '🌹', '💯', '💯', '🌹']"
-7474239308888605462,2025-02-22 13:46:35,drei jaher lang die brd an die wand gefahren seid morgen schlau und wählt blau,1,0,7474160209024355606,7474160209024355606,neutral,-1.0,"['😩', '😩']"
-7474202541149340438,2025-02-22 11:23:45,es ist zeit für eine wirklich zukunftsorientierte koalition unter rotrotgrün ,1,0,7474160209024355606,7474160209024355606,neutral,1.0,"['💚', '♥️', '\U0001fa77', '\U0001fa77', '♥️', '💚', '💚', '♥️', '\U0001fa77', '💚', '♥️', '\U0001fa77', '💚']"
+7474239308888605462,2025-02-22 13:46:35,Drei Jaher lang die BRD an die Wand gefahren Seid morgen Schlau und wählt blau,1,0,7474160209024355606,7474160209024355606,neutral,-1.0,"['😩', '😩']"
+7474202541149340438,2025-02-22 11:23:45,Es ist Zeit für eine wirklich zukunftsorientierte Koalition unter rotrotgrün ,1,0,7474160209024355606,7474160209024355606,neutral,1.0,"['💚', '♥️', '\U0001fa77', '\U0001fa77', '♥️', '💚', '💚', '♥️', '\U0001fa77', '💚', '♥️', '\U0001fa77', '💚']"
 7474197172973372182,2025-02-22 11:03:03,,1,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
 7474193475287794454,2025-02-22 10:48:49,,1,0,7474160209024355606,7474160209024355606,negative,,"['♥️', '♥️', '♥️']"
 7474189914390496022,2025-02-22 10:34:51,,1,0,7474160209024355606,7474160209024355606,negative,1.0,"['👍', '👍', '👍']"
-7481073358491157270,2025-03-12 23:45:44,die spd wird nicht mehr gebraucht,0,0,7474160209024355606,7474160209024355606,neutral,,[]
+7481073358491157270,2025-03-12 23:45:44,Die SPD wird nicht mehr gebraucht,0,0,7474160209024355606,7474160209024355606,neutral,,[]
 7478324346411844375,2025-03-05 13:58:05,"
- alice für deutschland ",0,0,7474160209024355606,7474160209024355606,positive,1.0,"['🇩🇪', '🕊️', '🇩🇪', '💙', '💙', '🇩🇪', '🕊️', '🦅']"
-7478324277184578326,2025-03-05 13:57:49,und sind die herzen grün und rot ist die wirtschaft endlich tot ,0,0,7474160209024355606,7474160209024355606,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7476383465719366422,2025-02-28 08:26:42,afd für deutschland ,0,0,7474160209024355606,7474160209024355606,negative,1.0,"['🇩🇪', '💙']"
-7475786489496109846,2025-02-26 17:50:18,"richtig unsere zukunft und die unsere kinder
+ Alice für Deutschland ",0,0,7474160209024355606,7474160209024355606,positive,1.0,"['🇩🇪', '🕊️', '🇩🇪', '💙', '💙', '🇩🇪', '🕊️', '🦅']"
+7478324277184578326,2025-03-05 13:57:49,Und sind die Herzen grün und rot ist die Wirtschaft endlich tot ,0,0,7474160209024355606,7474160209024355606,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7476383465719366422,2025-02-28 08:26:42,Afd für Deutschland ,0,0,7474160209024355606,7474160209024355606,negative,1.0,"['🇩🇪', '💙']"
+7475786489496109846,2025-02-26 17:50:18,"Richtig unsere Zukunft und die unsere Kinder
 deshalb wird blau gewählt
 ",0,0,7474160209024355606,7474160209024355606,neutral,0.6,"['👍', '😡', '🥰', '🥰', '🥰', '💙', '💙', '💙']"
 7475765850399179542,2025-02-26 16:30:09,sie wir gar nicht rot dabei,0,0,7474160209024355606,7474160209024355606,neutral,,[]
 7475405868265521942,2025-02-25 17:13:22,,0,0,7474160209024355606,7474160209024355606,negative,1.0,"['👍', '👏']"
-7474627908092281622,2025-02-23 14:54:29,da kann ich mich nicht mehr dran erinnern oder herr scholzfür die demokratie achtung feigenblatt ,0,0,7474160209024355606,7474160209024355606,neutral,0.8888888888888888,"['🤷🏻\u200d♂️', '👍', '💙', '💙', '👍', '💙', '💙', '👍', '💯', '👀']"
-7474528766435230486,2025-02-23 08:30:00,auf wiedersehn ,0,0,7474160209024355606,7474160209024355606,negative,1.0,['😆']
-7474519317523694358,2025-02-23 07:53:22,da kann ich mich nicht mehr dran erinnern oder herr scholzfür die demokratie,0,0,7474160209024355606,7474160209024355606,neutral,1.0,"['🤷🏻\u200d♂️', '💙', '👍', '💙', '👍', '💙', '💯']"
+7474627908092281622,2025-02-23 14:54:29,Da kann ich mich nicht mehr dran erinnern oder Herr Scholzfür die Demokratie Achtung Feigenblatt ,0,0,7474160209024355606,7474160209024355606,neutral,0.8888888888888888,"['🤷🏻\u200d♂️', '👍', '💙', '💙', '👍', '💙', '💙', '👍', '💯', '👀']"
+7474528766435230486,2025-02-23 08:30:00,Auf Wiedersehn ,0,0,7474160209024355606,7474160209024355606,negative,1.0,['😆']
+7474519317523694358,2025-02-23 07:53:22,Da kann ich mich nicht mehr dran erinnern oder Herr Scholzfür die Demokratie,0,0,7474160209024355606,7474160209024355606,neutral,1.0,"['🤷🏻\u200d♂️', '💙', '👍', '💙', '👍', '💙', '💯']"
 7474363435462591234,2025-02-22 21:48:15,,0,0,7474160209024355606,7474160209024355606,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '👏']"
-7474291146081551126,2025-02-22 17:07:32,nie wieder spd cdu und freunde die haben sowieso es schon geschafft und zwar 20 jahren lang mit katastrophale wirkungen für deutschland nur blau,0,0,7474160209024355606,7474160209024355606,negative,,[]
+7474291146081551126,2025-02-22 17:07:32,nie wieder SPD CDU und Freunde die haben sowieso es schon geschafft und zwar 20 Jahren lang mit katastrophale Wirkungen für Deutschland Nur Blau,0,0,7474160209024355606,7474160209024355606,negative,,[]
 7474259873477329686,2025-02-22 15:06:25,,0,0,7474160209024355606,7474160209024355606,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️']"
-7474193701003215638,2025-02-22 10:49:18,sie hat so recht deswegen die linke die sich nicht an merz rechte politik anbiedert ,0,0,7474160209024355606,7474160209024355606,neutral,,['\U0001fa77']
-7473913332304806658,2025-02-21 16:41:25,mit der weichgespülten dünnen suppe der spd echter wandel die linke ist das werttreuer und nimmt weniger spenden entgegen vor allem null großspenden,7,1,7473910499336424727,7473910499336424727,negative,,[]
-7473928276623295234,2025-02-21 17:39:31,"das geht alles viel viel besser mit der linken
-die spd wollte mal das sein was die linke heute ist hat sich aber eher in die merkelcdu richtung bewegt",2,0,7473910499336424727,7473910499336424727,negative,,[]
+7474193701003215638,2025-02-22 10:49:18,Sie hat so recht deswegen die Linke die sich nicht an Merz rechte Politik anbiedert ,0,0,7474160209024355606,7474160209024355606,neutral,,['\U0001fa77']
+7473913332304806658,2025-02-21 16:41:25,Mit der weichgespülten dünnen Suppe der SPD echter Wandel Die Linke ist das werttreuer und nimmt weniger Spenden entgegen vor allem NULL Großspenden,7,1,7473910499336424727,7473910499336424727,negative,,[]
+7473928276623295234,2025-02-21 17:39:31,"das geht alles viel viel besser mit der Linken
+die Spd wollte mal das sein was die Linke heute ist hat sich aber eher in die MerkelCDU Richtung bewegt",2,0,7473910499336424727,7473910499336424727,negative,,[]
 7473946199549297430,2025-02-21 18:48:49,die linke glaub da hat sich jemand versprochen,0,0,7473910499336424727,7473910499336424727,neutral,,[]
 7473939929895043862,2025-02-21 18:24:28,und weil ich all das will gehen beide meine stimmen an links ,0,0,7473910499336424727,7473910499336424727,negative,,[]
-7475374809321669398,2025-02-25 15:12:42,auf gar keinen fall,2,0,7473807394481425686,7473807394481425686,negative,,[]
+7475374809321669398,2025-02-25 15:12:42,Auf gar keinen Fall,2,0,7473807394481425686,7473807394481425686,negative,,[]
 7474021938911806231,2025-02-21 23:43:18,,1,0,7473807394481425686,7473807394481425686,negative,,"['❤️', '❤️', '❤️']"
-7473933682127061782,2025-02-21 18:00:15, super cute,1,0,7473807394481425686,7473807394481425686,positive,,"['🥰', '🥰', '🥰']"
-7475786873160418070,2025-02-26 17:51:31,"niemals
+7473933682127061782,2025-02-21 18:00:15, Super cute,1,0,7473807394481425686,7473807394481425686,positive,,"['🥰', '🥰', '🥰']"
+7475786873160418070,2025-02-26 17:51:31,"Niemals
 nur blau 
 ",0,0,7473807394481425686,7473807394481425686,negative,1.0,"['🤣', '🤣', '🤣', '🥰', '🥰', '🥰', '💙', '💙', '💙']"
 7475766392199365398,2025-02-26 16:32:26,und was soll das jetzt ausdrucken,0,0,7473807394481425686,7473807394481425686,negative,,"['🤔', '🤔']"
-7473554417184080662,2025-02-20 17:28:45,kommt eh nichts rum,2,2,7473550755387968790,7473550755387968790,negative,0.0,"['😏', '😏', '😏']"
+7473554417184080662,2025-02-20 17:28:45,Kommt eh nichts rum,2,2,7473550755387968790,7473550755387968790,negative,0.0,"['😏', '😏', '😏']"
 7473591308641583894,2025-02-20 19:51:41,,2,0,7473550755387968790,7473550755387968790,negative,1.0,"['💙', '💙', '💙', '💙']"
 7473566973563241238,2025-02-20 18:17:28,,0,0,7473550755387968790,7473550755387968790,negative,,"['❤️', '❤️', '❤️']"
 7473825685283521302,2025-02-21 11:01:27,,1,0,7473394691904376086,7473394691904376086,negative,,['❤️']
-7473398552548295446,2025-02-20 07:24:27,stellt ihr nicht den abschiebekanzler als kandidaten auf,1,0,7473394691904376086,7473394691904376086,neutral,,[]
-7475453509484790550,2025-02-25 20:17:59, ja man sieht was das hier anrichtet großes kino was gescheitert ist,0,0,7473394691904376086,7473394691904376086,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7475430877520069398,2025-02-25 18:50:19,multi kulti ist gescheitert,1,0,7473394691904376086,7473394691904376086,neutral,,[]
-7473401174440739606,2025-02-20 07:34:29,olaf sieht das wohl anders,0,0,7473394691904376086,7473394691904376086,negative,,[]
-7473397588973617943,2025-02-20 07:20:33,und deswegen seid ihr bei 15 prozent ,0,0,7473394691904376086,7473394691904376086,neutral,1.0,"['😊', '👍']"
+7473398552548295446,2025-02-20 07:24:27,stellt ihr nicht den Abschiebekanzler als Kandidaten auf,1,0,7473394691904376086,7473394691904376086,neutral,,[]
+7475453509484790550,2025-02-25 20:17:59, ja man sieht was das hier anrichtet Großes Kino was gescheitert ist,0,0,7473394691904376086,7473394691904376086,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7475430877520069398,2025-02-25 18:50:19,Multi kulti ist gescheitert,1,0,7473394691904376086,7473394691904376086,neutral,,[]
+7473401174440739606,2025-02-20 07:34:29,Olaf sieht das wohl anders,0,0,7473394691904376086,7473394691904376086,negative,,[]
+7473397588973617943,2025-02-20 07:20:33,Und deswegen seid ihr bei 15 Prozent ,0,0,7473394691904376086,7473394691904376086,neutral,1.0,"['😊', '👍']"

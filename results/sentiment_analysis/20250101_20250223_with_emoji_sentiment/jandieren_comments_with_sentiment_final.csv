@@ -1,5 +1,5 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7467965218326315778,2025-02-05 15:59:41,wähle in paar wochen mit der zweitstimme die linke aber meine erststimme bekommt du,5,1,7467948061835234593,7467948061835234593,neutral,,[]
-7473073141385118486,2025-02-19 10:21:12,was hast du mit uns vor,2,0,7467948061835234593,7467948061835234593,neutral,-1.0,"['😭', '😭', '😭', '😭', '😭']"
-7483219903546196758,2025-03-18 18:35:15,bin eine der verhassten afd wählerinnen dennoch danke für ihr nein heute bei der abstimmung im bundestag ,0,0,7467948061835234593,7467948061835234593,negative,,['👏🏼']
-7472472088692572950,2025-02-17 19:28:36,vielen dank für dieses statement meine erststimme hast du,0,0,7467948061835234593,7467948061835234593,positive,,[]
+7467965218326315778,2025-02-05 15:59:41,Wähle in paar Wochen mit der Zweitstimme die linke aber meine Erststimme bekommt du,5,1,7467948061835234593,7467948061835234593,neutral,,[]
+7473073141385118486,2025-02-19 10:21:12,WAS HAST DU MIT UNS VOR,2,0,7467948061835234593,7467948061835234593,neutral,-1.0,"['😭', '😭', '😭', '😭', '😭']"
+7483219903546196758,2025-03-18 18:35:15,Bin eine der verhassten AfD Wählerinnen dennoch danke für Ihr Nein heute bei der Abstimmung im Bundestag ,0,0,7467948061835234593,7467948061835234593,negative,,['👏🏼']
+7472472088692572950,2025-02-17 19:28:36,Vielen Dank für dieses Statement Meine Erststimme hast du,0,0,7467948061835234593,7467948061835234593,positive,,[]

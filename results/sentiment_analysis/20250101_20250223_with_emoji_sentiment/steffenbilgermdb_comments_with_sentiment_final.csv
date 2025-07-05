@@ -1,33 +1,33 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7455758783551537942,2025-01-03 18:32:18,nie wieder altparteien,11,0,7455713690646744343,7455713690646744343,negative,,[]
-7455732395816485654,2025-01-03 16:49:47,"der friedrich schickt nun andere vor 
-aber egal eure truppe ist durch",10,0,7455713690646744343,7455713690646744343,neutral,,[]
-7455752699800404758,2025-01-03 18:08:34,zu verdanken haben wir es der cdu csu,7,0,7455713690646744343,7455713690646744343,neutral,,[]
-7456560852411515670,2025-01-05 22:24:43,"und nach der wahl könnt ihr euch nicht mehr erinnern oder es kommen irgendwelche ausreden
-ich war jahrzehnte lang cdu wähler und habe das vertrauen in die partei komplett verloren",4,2,7455713690646744343,7455713690646744343,negative,,[]
-7455964056849515286,2025-01-04 07:49:19,ja ja versprechen ohne ende vor der wahl ist nach der wahl  wer soll das noch glauben diese ganzen wahlversprechen haben wir alle schon gehört nix ist davon je eingelöst ,4,2,7455713690646744343,7455713690646744343,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
-7455764533929378593,2025-01-03 18:54:34,vergiss es wir glauben euch nicht mehr ihr habt uns alle verkauft,4,0,7455713690646744343,7455713690646744343,negative,,[]
-7456019999242093334,2025-01-04 11:25:53,nie wieder altpartei,3,0,7455713690646744343,7455713690646744343,negative,,[]
-7455949199717434134,2025-01-04 06:51:38,und welche partei hat sie gehört vor den wahlen verspricht jeder alles  wann merken alle das wir die deutschen bauern brauchen ,2,0,7455713690646744343,7455713690646744343,neutral,,"['🤔', '🤔', '🤔', '🤔']"
-7455846229869544214,2025-01-04 00:11:50,na wehrs glaubt es geht euch doch nur um die wahl,2,0,7455713690646744343,7455713690646744343,negative,,[]
-7455760726512222998,2025-01-03 18:39:48,"wo wart ihr im vergangenen januar
-die netzpolizei hat ja einen kommentar schon nach 10sek gelöscht
+7455758783551537942,2025-01-03 18:32:18,Nie wieder Altparteien,11,0,7455713690646744343,7455713690646744343,negative,,[]
+7455732395816485654,2025-01-03 16:49:47,"Der Friedrich schickt nun andere vor 
+Aber egal eure Truppe ist durch",10,0,7455713690646744343,7455713690646744343,neutral,,[]
+7455752699800404758,2025-01-03 18:08:34,Zu verdanken haben wir es der CDU CSU,7,0,7455713690646744343,7455713690646744343,neutral,,[]
+7456560852411515670,2025-01-05 22:24:43,"Und nach der Wahl könnt ihr euch nicht mehr erinnern oder es kommen irgendwelche Ausreden
+Ich war Jahrzehnte lang CDU Wähler und habe das Vertrauen in die Partei komplett verloren",4,2,7455713690646744343,7455713690646744343,negative,,[]
+7455964056849515286,2025-01-04 07:49:19,Ja ja versprechen ohne Ende vor der Wahl ist nach der Wahl  wer soll das noch glauben diese ganzen Wahlversprechen haben wir alle schon gehört nix ist davon je eingelöst ,4,2,7455713690646744343,7455713690646744343,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7455764533929378593,2025-01-03 18:54:34,Vergiss es Wir glauben Euch nicht mehr Ihr habt uns alle verkauft,4,0,7455713690646744343,7455713690646744343,negative,,[]
+7456019999242093334,2025-01-04 11:25:53,nie wieder Altpartei,3,0,7455713690646744343,7455713690646744343,negative,,[]
+7455949199717434134,2025-01-04 06:51:38,Und welche Partei hat sie gehört Vor den wahlen verspricht jeder alles  Wann merken alle das wir die Deutschen Bauern brauchen ,2,0,7455713690646744343,7455713690646744343,neutral,,"['🤔', '🤔', '🤔', '🤔']"
+7455846229869544214,2025-01-04 00:11:50,Na wehrs glaubt es geht euch doch nur um die wahl,2,0,7455713690646744343,7455713690646744343,negative,,[]
+7455760726512222998,2025-01-03 18:39:48,"Wo wart ihr im vergangenen Januar
+Die Netzpolizei hat ja einen Kommentar schon nach 10sek gelöscht
 mal sehen ob das durch geht
-lippenbekäntnisse nichts weiter",2,0,7455713690646744343,7455713690646744343,negative,,[]
-7461363890527617814,2025-01-18 21:03:32,und was die alles versprechen am ende wird es schwarz grün rot und es ändert sich nichts wenn dann wird es eher schlimmer,0,0,7455713690646744343,7455713690646744343,negative,,[]
+Lippenbekäntnisse nichts weiter",2,0,7455713690646744343,7455713690646744343,negative,,[]
+7461363890527617814,2025-01-18 21:03:32,und was die alles versprechen am Ende wird es schwarz grün rot und es ändert sich nichts wenn dann wird es eher schlimmer,0,0,7455713690646744343,7455713690646744343,negative,,[]
 7458772060099478294,2025-01-11 21:26:07,,1,0,7455713690646744343,7455713690646744343,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
-7458246236521857814,2025-01-10 11:25:52,ihre partei hat doch vor einigen wochen in brüssel unter ursula von der leyen das mercosur abkommen durchgebracht sie schaden durch die dadurch entstehende wettbewerbsverzerrung die dtlandwirtschaft,1,0,7455713690646744343,7455713690646744343,neutral,,[]
-7457307917579174678,2025-01-07 22:43:43,oh je wenn es doch so wäre aber nur heiße luft wie immer,1,0,7455713690646744343,7455713690646744343,negative,,[]
+7458246236521857814,2025-01-10 11:25:52,Ihre Partei hat doch vor einigen Wochen in Brüssel unter Ursula von der Leyen das Mercosur Abkommen durchgebracht Sie schaden durch die dadurch entstehende Wettbewerbsverzerrung die dtLandwirtschaft,1,0,7455713690646744343,7455713690646744343,neutral,,[]
+7457307917579174678,2025-01-07 22:43:43,oh je wenn es doch so wäre aber nur heiße Luft wie immer,1,0,7455713690646744343,7455713690646744343,negative,,[]
 7457305481193128726,2025-01-07 22:34:26,bla bla da kommt doch nix von,1,0,7455713690646744343,7455713690646744343,negative,,[]
-7456716304180708118,2025-01-06 08:28:08,das video von heideheim  ich hab die 16 jahre merkel nicht vergessen,1,0,7455713690646744343,7455713690646744343,neutral,1.0,['😂']
-7456715629401686806,2025-01-06 08:25:38,ich lach mich schlapp ,1,0,7455713690646744343,7455713690646744343,negative,1.0,"['😂', '🙈']"
-7456324759896032022,2025-01-05 07:08:58,und dem exchef blackrock die lienie zeigen aber nicht mit taurus lieferung,1,0,7455713690646744343,7455713690646744343,neutral,,[]
-7456323956988330774,2025-01-05 07:05:54,ihr hattet doch mehr und mehr mals eure chance wer soll das noch glauben die fehler erst mal bei sich selbst suchen dann wird man sie auch los brandmauerern einreisen ,1,0,7455713690646744343,7455713690646744343,negative,,[]
-7456158613621506838,2025-01-04 20:23:48,"wollen mal sehen lasst die afd mit regieren dann können die sich beweisen  und ihr kriegt mehr prozentanteile
-wenns nicht klappt aber ein versuch ists wert",1,0,7455713690646744343,7455713690646744343,positive,,[]
-7456044658762908438,2025-01-04 13:01:32,nie wieder altparteien,0,0,7455713690646744343,7455713690646744343,negative,,[]
-7455968322771223318,2025-01-04 08:05:46,und mit dem mercusur abkommen wird es noch schlechter,1,0,7455713690646744343,7455713690646744343,neutral,,[]
-7455926678613164823,2025-01-04 05:24:57,das war ein schuß in den ofen,0,0,7455713690646744343,7455713690646744343,negative,,[]
-7455861963857216278,2025-01-04 01:13:06,eure u von der leyen schließt das mercosurabkommen abdas bauern weitere empfindliche wettbewerbsverzerrungen aufbürdet dazu unsägliche bürokratie haut ab ihr lügenbolde ,1,0,7455713690646744343,7455713690646744343,negative,,[]
-7471265235736855318,2025-02-14 13:25:29,nie wieder altparteien und auch niemals bsw,1,0,7471212894521216278,7471212894521216278,negative,,[]
-7471218652369765142,2025-02-14 10:24:56,nein danke16 jahre cduregirung sind wir ganz unten angekommen ,1,0,7471212894521216278,7471212894521216278,negative,,['🤷']
+7456716304180708118,2025-01-06 08:28:08,Das Video von Heideheim  ich hab die 16 Jahre Merkel nicht vergessen,1,0,7455713690646744343,7455713690646744343,neutral,1.0,['😂']
+7456715629401686806,2025-01-06 08:25:38,Ich lach mich schlapp ,1,0,7455713690646744343,7455713690646744343,negative,1.0,"['😂', '🙈']"
+7456324759896032022,2025-01-05 07:08:58,Und dem Exchef Blackrock die lienie zeigen aber nicht mit Taurus Lieferung,1,0,7455713690646744343,7455713690646744343,neutral,,[]
+7456323956988330774,2025-01-05 07:05:54,Ihr hattet doch mehr und mehr mals eure Chance wer soll das noch glauben Die Fehler erst mal bei sich selbst suchen dann wird man sie auch los Brandmauerern einreisen ,1,0,7455713690646744343,7455713690646744343,negative,,[]
+7456158613621506838,2025-01-04 20:23:48,"wollen Mal sehen lasst die AFD mit regieren dann können die sich beweisen  und ihr kriegt mehr Prozentanteile
+Wenns nicht klappt aber ein Versuch ists wert",1,0,7455713690646744343,7455713690646744343,positive,,[]
+7456044658762908438,2025-01-04 13:01:32,Nie wieder Altparteien,0,0,7455713690646744343,7455713690646744343,negative,,[]
+7455968322771223318,2025-01-04 08:05:46,Und mit dem mercusur abkommen wird es noch schlechter,1,0,7455713690646744343,7455713690646744343,neutral,,[]
+7455926678613164823,2025-01-04 05:24:57,Das war ein Schuß in den Ofen,0,0,7455713690646744343,7455713690646744343,negative,,[]
+7455861963857216278,2025-01-04 01:13:06,EURE U von der Leyen schließt das MercosurAbkommen abdas Bauern weitere empfindliche Wettbewerbsverzerrungen aufbürdet Dazu unsägliche Bürokratie Haut ab Ihr Lügenbolde ,1,0,7455713690646744343,7455713690646744343,negative,,[]
+7471265235736855318,2025-02-14 13:25:29,Nie wieder Altparteien und auch niemals BSW,1,0,7471212894521216278,7471212894521216278,negative,,[]
+7471218652369765142,2025-02-14 10:24:56,nein danke16 Jahre Cduregirung sind wir ganz unten angekommen ,1,0,7471212894521216278,7471212894521216278,negative,,['🤷']

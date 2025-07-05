@@ -1,285 +1,285 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7461330322651775766,2025-01-18 18:52:53,es geht nach links und nicht zur spd,12,0,7461328943279312150,7461328943279312150,negative,,[]
-7461611158379905814,2025-01-19 13:03:07,meine bekommst du nicht,8,0,7461328943279312150,7461328943279312150,negative,,[]
-7461383728406872854,2025-01-18 22:20:22,nur ,7,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💯', '🥰']"
-7463024929299251990,2025-01-23 08:29:33,nie wieder spd,6,0,7461328943279312150,7461328943279312150,negative,,[]
-7461372572325282582,2025-01-18 21:37:06,spdmeine stimme bekommt ihr ,6,2,7461328943279312150,7461328943279312150,negative,,[]
-7461334634288661270,2025-01-18 19:10:03,tja meine stimme mit sicherheit nicht,6,1,7461328943279312150,7461328943279312150,negative,0.5,"['😜', '😜', '😜', '😜', '👎', '👎', '👎', '💙', '💙', '💙', '💙', '💙']"
-7461493946100204310,2025-01-19 05:31:28,ihr hattet 3 jahre zeit,4,0,7461328943279312150,7461328943279312150,neutral,,[]
+7461330322651775766,2025-01-18 18:52:53,Es geht nach links und nicht zur SPD,12,0,7461328943279312150,7461328943279312150,negative,,[]
+7461611158379905814,2025-01-19 13:03:07,Meine bekommst du nicht,8,0,7461328943279312150,7461328943279312150,negative,,[]
+7461383728406872854,2025-01-18 22:20:22,Nur ,7,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💯', '🥰']"
+7463024929299251990,2025-01-23 08:29:33,nie wieder SPD,6,0,7461328943279312150,7461328943279312150,negative,,[]
+7461372572325282582,2025-01-18 21:37:06,SPDMeine Stimme bekommt ihr ,6,2,7461328943279312150,7461328943279312150,negative,,[]
+7461334634288661270,2025-01-18 19:10:03,Tja meine Stimme mit Sicherheit nicht,6,1,7461328943279312150,7461328943279312150,negative,0.5,"['😜', '😜', '😜', '😜', '👎', '👎', '👎', '💙', '💙', '💙', '💙', '💙']"
+7461493946100204310,2025-01-19 05:31:28,Ihr hattet 3 Jahre Zeit,4,0,7461328943279312150,7461328943279312150,neutral,,[]
 7461423921809244950,2025-01-19 00:57:54,,4,1,7461328943279312150,7461328943279312150,negative,,"['❤️', '❤️']"
-7461551413065564950,2025-01-19 09:11:36,genau das werde ich machen ,3,0,7461328943279312150,7461328943279312150,positive,1.0,"['💙', '💙', '🇩🇪', '🇩🇪', '💪']"
+7461551413065564950,2025-01-19 09:11:36,Genau das werde ich machen ,3,0,7461328943279312150,7461328943279312150,positive,1.0,"['💙', '💙', '🇩🇪', '🇩🇪', '💪']"
 7461397049139004182,2025-01-18 23:12:44,glaube ich nicht ,3,0,7461328943279312150,7461328943279312150,negative,0.3333333333333333,"['😝', '😡', '💙']"
 7463011501579289366,2025-01-23 07:37:40,nö,2,0,7461328943279312150,7461328943279312150,negative,,[]
-7463011246004437782,2025-01-23 07:37:19,aschaffenburg kleiner,2,0,7461328943279312150,7461328943279312150,negative,,[]
-7461875727638872854,2025-01-20 06:10:16,euer vergesslicher kanzler niemals 23 milliarden comex würde für jeden rentner 100 euro mehr bedeuten,2,0,7461328943279312150,7461328943279312150,negative,,[]
-7461516768167854870,2025-01-19 06:57:38,vor den wahlen bemerkt ihr den deutschen bürger sonst kümmert ihr euch fürsorglich um jeden ausländer im inland und ausland ich wähle afd ,2,0,7461328943279312150,7461328943279312150,negative,1.0,['💙']
-7461502630726288150,2025-01-19 06:05:38,mein stimme geht das erste mal an die afd habe den glauben an die altparteien verloren,2,0,7461328943279312150,7461328943279312150,neutral,,[]
-7461374429320266518,2025-01-18 21:44:29,meine stimme habt ihr leider verloren,2,0,7461328943279312150,7461328943279312150,negative,,[]
+7463011246004437782,2025-01-23 07:37:19,Aschaffenburg Kleiner,2,0,7461328943279312150,7461328943279312150,negative,,[]
+7461875727638872854,2025-01-20 06:10:16,euer vergesslicher Kanzler niemals 23 Milliarden comex würde für jeden Rentner 100 Euro mehr bedeuten,2,0,7461328943279312150,7461328943279312150,negative,,[]
+7461516768167854870,2025-01-19 06:57:38,Vor den Wahlen bemerkt ihr den deutschen Bürger Sonst kümmert ihr euch fürsorglich um jeden Ausländer im Inland und Ausland Ich wähle AfD ,2,0,7461328943279312150,7461328943279312150,negative,1.0,['💙']
+7461502630726288150,2025-01-19 06:05:38,Mein Stimme geht das erste Mal an die AFD Habe den Glauben an die Altparteien verloren,2,0,7461328943279312150,7461328943279312150,neutral,,[]
+7461374429320266518,2025-01-18 21:44:29,Meine Stimme habt ihr leider verloren,2,0,7461328943279312150,7461328943279312150,negative,,[]
 7461342721577239318,2025-01-18 19:41:17,nach der ampel links,2,0,7461328943279312150,7461328943279312150,neutral,,[]
-7470171735272047382,2025-02-11 14:42:28,nie mehr spd,1,0,7461328943279312150,7461328943279312150,negative,,[]
+7470171735272047382,2025-02-11 14:42:28,Nie mehr SPD,1,0,7461328943279312150,7461328943279312150,negative,,[]
 7468756368398091030,2025-02-07 19:09:53,nie wieder rot,1,0,7461328943279312150,7461328943279312150,negative,,[]
-7467655670248375062,2025-02-04 19:58:41,spd ,1,0,7461328943279312150,7461328943279312150,negative,1.0,['❤']
-7464118407966573334,2025-01-26 07:13:04,nie wieder spd ,1,0,7461328943279312150,7461328943279312150,negative,1.0,['😈']
-7463938002500649750,2025-01-25 19:32:10,spd ,1,0,7461328943279312150,7461328943279312150,negative,,"['🥰', '🥰', '🥰']"
+7467655670248375062,2025-02-04 19:58:41,SPD ,1,0,7461328943279312150,7461328943279312150,negative,1.0,['❤']
+7464118407966573334,2025-01-26 07:13:04,Nie wieder SPD ,1,0,7461328943279312150,7461328943279312150,negative,1.0,['😈']
+7463938002500649750,2025-01-25 19:32:10,SPD ,1,0,7461328943279312150,7461328943279312150,negative,,"['🥰', '🥰', '🥰']"
 7463605945113920278,2025-01-24 22:03:37,nie im leben,1,0,7461328943279312150,7461328943279312150,negative,,[]
-7462252854830777110,2025-01-21 06:34:13,die altparteien zerstören sich gerade selbst das kommt der afd nur zu gute,1,0,7461328943279312150,7461328943279312150,negative,0.0,['😏']
-7461505190475989782,2025-01-19 06:14:18,ihr habt eure chance gehabt und vergeigt,1,2,7461328943279312150,7461328943279312150,negative,,[]
+7462252854830777110,2025-01-21 06:34:13,Die Altparteien zerstören sich gerade Selbst das kommt der AFD nur zu Gute,1,0,7461328943279312150,7461328943279312150,negative,0.0,['😏']
+7461505190475989782,2025-01-19 06:14:18,Ihr habt Eure Chance gehabt und vergeigt,1,2,7461328943279312150,7461328943279312150,negative,,[]
 7461403885811303201,2025-01-18 23:38:07,,1,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '👍']"
-7461384064106201878,2025-01-18 22:21:52,ach neeeee lass mal da bin ich nicht so fürihr spd habt genug schaden angerichtet,1,0,7461328943279312150,7461328943279312150,negative,,[]
-7461382313910240022,2025-01-18 22:14:45,du bist bestimmt nicht mein abgeordneter,1,0,7461328943279312150,7461328943279312150,negative,,[]
-7496747386170196758,2025-04-24 05:28:52,spd und matthias auf die 1,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['👍', '👍', '👍']"
-7471776237805290262,2025-02-15 22:28:43,bitte nicht noch einmal 3 jahre ach was sage ich sie spd regiert ja seit 21 jahren mit brandt schmidt und andere verdiente politiker der partei würden sich im grabe umdrehen ihr könnt es nicht,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7470154943388091159,2025-02-11 13:37:03,kannst feierabend machen ,0,0,7461328943279312150,7461328943279312150,positive,1.0,"['😈', '😈', '😈', '😈', '😈', '😈']"
+7461384064106201878,2025-01-18 22:21:52,ach neeeee lass mal da bin ich nicht so fürihr SPD habt genug Schaden angerichtet,1,0,7461328943279312150,7461328943279312150,negative,,[]
+7461382313910240022,2025-01-18 22:14:45,Du bist bestimmt nicht mein Abgeordneter,1,0,7461328943279312150,7461328943279312150,negative,,[]
+7496747386170196758,2025-04-24 05:28:52,spd und Matthias auf die 1,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['👍', '👍', '👍']"
+7471776237805290262,2025-02-15 22:28:43,Bitte nicht noch einmal 3 Jahre Ach was sage ich sie SPD regiert ja seit 21 Jahren mit Brandt Schmidt und andere verdiente Politiker der Partei würden sich im Grabe umdrehen Ihr könnt es nicht,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7470154943388091159,2025-02-11 13:37:03,Kannst Feierabend machen ,0,0,7461328943279312150,7461328943279312150,positive,1.0,"['😈', '😈', '😈', '😈', '😈', '😈']"
 7469894185022817046,2025-02-10 20:45:04,,0,0,7461328943279312150,7461328943279312150,negative,-1.0,"['😡', '😡', '😡', '😡']"
 7469426944884081430,2025-02-09 14:32:07,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7469421614496252695,2025-02-09 14:11:38,cum ex olaf der vergessliche,0,0,7461328943279312150,7461328943279312150,negative,1.0,['🙈']
-7468273487175893782,2025-02-06 11:56:43,nichts kapiert,0,0,7461328943279312150,7461328943279312150,positive,,[]
-7467161650749326102,2025-02-03 12:02:09,für freiheit frieden und demokratie jetzt erst recht ,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['💙', '💙', '💙']"
-7467157837560578838,2025-02-03 11:47:17,spd stabil fast halbiert und die afd verdoppelt  gute arbeit die letzten 3 jahre  ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['✌️', '💙']"
-7467157346889630486,2025-02-03 11:45:16,stimmt und die spd ist raus ,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7467130666653123350,2025-02-03 10:01:46,genau wir entscheiden das,0,0,7461328943279312150,7461328943279312150,positive,,[]
+7469421614496252695,2025-02-09 14:11:38,cum ex Olaf der vergessliche,0,0,7461328943279312150,7461328943279312150,negative,1.0,['🙈']
+7468273487175893782,2025-02-06 11:56:43,Nichts kapiert,0,0,7461328943279312150,7461328943279312150,positive,,[]
+7467161650749326102,2025-02-03 12:02:09,Für Freiheit Frieden und Demokratie Jetzt erst recht ,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['💙', '💙', '💙']"
+7467157837560578838,2025-02-03 11:47:17,SPD stabil fast halbiert und die AFD verdoppelt  gute Arbeit die letzten 3 Jahre  ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['✌️', '💙']"
+7467157346889630486,2025-02-03 11:45:16,Stimmt und die SPD ist raus ,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7467130666653123350,2025-02-03 10:01:46,Genau wir entscheiden das,0,0,7461328943279312150,7461328943279312150,positive,,[]
 7466404118505898774,2025-02-01 11:02:11,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['🥰', '🥰', '🥰', '💪', '💪', '💪', '🥰', '🥰', '🥰', '🥰']"
-7466135496445264662,2025-01-31 17:39:37,niemals,0,0,7461328943279312150,7461328943279312150,negative,1.0,['😅']
-7464591651615048471,2025-01-27 13:48:59,euch nie wieder,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7464407654904939286,2025-01-27 01:59:20,du träumst die richtung geht berg ab und auch richtig so eure mandate werden schrumpfen die leute dankt es euch mit der grundsteuer und anwohner parkscheine ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['😁', '😁', '😁', '😁']"
-7464148665327420183,2025-01-26 09:09:39,niemals ,0,0,7461328943279312150,7461328943279312150,negative,-1.0,['😡']
+7466135496445264662,2025-01-31 17:39:37,Niemals,0,0,7461328943279312150,7461328943279312150,negative,1.0,['😅']
+7464591651615048471,2025-01-27 13:48:59,EUCH NIE WIEDER,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7464407654904939286,2025-01-27 01:59:20,du träumst die Richtung geht Berg ab und auch richtig so eure Mandate werden schrumpfen die Leute dankt es euch mit der Grundsteuer und Anwohner Parkscheine ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['😁', '😁', '😁', '😁']"
+7464148665327420183,2025-01-26 09:09:39,Niemals ,0,0,7461328943279312150,7461328943279312150,negative,-1.0,['😡']
 7463937983139595030,2025-01-25 19:32:16,scholz ,0,0,7461328943279312150,7461328943279312150,negative,,"['🥰', '🥰', '🥰']"
-7463926428104442646,2025-01-25 18:47:25,nie spd verlogen und kriegstreiber,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463822364503114518,2025-01-25 12:03:46,spd ,0,0,7461328943279312150,7461328943279312150,negative,1.0,['👍']
-7463456152036508438,2025-01-24 12:22:57,weder cdu noch spd grüne und fdp,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463425461109359382,2025-01-24 10:23:45,nee,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463288337581032214,2025-01-24 01:37:02,bei 12  spd musst du einen guten listen platz haben ,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['😅', '😅', '😅']"
-7463182471204127510,2025-01-23 18:40:18,kann weg ,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463177986541093654,2025-01-23 18:22:56,das stimmt deshalb keine spd,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463926428104442646,2025-01-25 18:47:25,Nie SPD Verlogen und Kriegstreiber,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463822364503114518,2025-01-25 12:03:46,SPD ,0,0,7461328943279312150,7461328943279312150,negative,1.0,['👍']
+7463456152036508438,2025-01-24 12:22:57,Weder CDU noch SPD grüne und FDP,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463425461109359382,2025-01-24 10:23:45,Nee,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463288337581032214,2025-01-24 01:37:02,Bei 12  SPD musst du einen guten Listen Platz haben ,0,0,7461328943279312150,7461328943279312150,neutral,1.0,"['😅', '😅', '😅']"
+7463182471204127510,2025-01-23 18:40:18,Kann weg ,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463177986541093654,2025-01-23 18:22:56,Das stimmt deshalb keine SPD,0,0,7461328943279312150,7461328943279312150,negative,,[]
 7463166693218501398,2025-01-23 17:39:09,waffenlieferungen,0,0,7461328943279312150,7461328943279312150,neutral,,[]
-7463129349617959702,2025-01-23 15:14:13,du nicht nur afd,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463089708688917270,2025-01-23 12:40:35,nicht spd,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463066874529612566,2025-01-23 11:12:24,garantiert nicht euch haben wir das ganze schlamassel mit olaf scholz zu verdankenichvwählenur afd und stehe dazuegal wieviel freude oder ob ich meine geschwister verliere,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463060189367108374,2025-01-23 10:46:56,natürlich nur die afd wählen ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙']"
-7463040324294886166,2025-01-23 09:29:19,ja blau blau ,0,0,7461328943279312150,7461328943279312150,negative,1.0,['😁']
+7463129349617959702,2025-01-23 15:14:13,Du nicht nur Afd,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463089708688917270,2025-01-23 12:40:35,nicht SPD,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463066874529612566,2025-01-23 11:12:24,garantiert nicht Euch haben wir das ganze Schlamassel mit Olaf Scholz zu verdankenIchvwählenur AFd und stehe dazuegal wieviel Freude oder ob ich meine Geschwister verliere,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463060189367108374,2025-01-23 10:46:56,Natürlich nur die AFD wählen ,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙']"
+7463040324294886166,2025-01-23 09:29:19,Ja blau blau ,0,0,7461328943279312150,7461328943279312150,negative,1.0,['😁']
 7463033638911181590,2025-01-23 09:04:09,afd,0,0,7461328943279312150,7461328943279312150,negative,,"['🥰', '🥰', '🥰']"
-7463033455450948374,2025-01-23 09:02:31,war das alles niemals spd da kann man auch viel geld verdienen obwohl man nichts kann ,0,0,7461328943279312150,7461328943279312150,negative,-1.0,['😡']
+7463033455450948374,2025-01-23 09:02:31,war das alles niemals SPD Da kann man auch viel Geld verdienen Obwohl man nichts kann ,0,0,7461328943279312150,7461328943279312150,negative,-1.0,['😡']
 7463019359017124630,2025-01-23 08:08:42,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7463012125394436886,2025-01-23 07:40:35,spd nein danke unwählbar der verein,0,0,7461328943279312150,7461328943279312150,negative,,[]
-7463002517811856150,2025-01-23 07:02:36,"die leute vergessen nichtsund ich auch nichtman wird belogen und betrogenund dann soll ich dieser partei meine stimme geben
+7463012125394436886,2025-01-23 07:40:35,SPD nein danke unwählbar der Verein,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7463002517811856150,2025-01-23 07:02:36,"Die Leute vergessen nichtsund ich auch nichtman wird belogen und betrogenund dann soll ich dieser Partei meine Stimme geben
 unwählbar sowas",0,0,7461328943279312150,7461328943279312150,negative,,[]
-7462687363765273366,2025-01-22 10:39:31,scholz schuldet mir und jedem deutschen rentner immer noch 3000 euro darum nur afd,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙']"
-7462662197065040662,2025-01-22 09:02:23,die spd hat seit ihrem bestehen schon zig mal die arbeiterklasse verraten und betrogen,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7462687363765273366,2025-01-22 10:39:31,Scholz schuldet mir und jedem deutschen Rentner immer noch 3000 Euro darum nur AFD,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙']"
+7462662197065040662,2025-01-22 09:02:23,Die SPD hat seit ihrem Bestehen schon zig Mal die Arbeiterklasse verraten und betrogen,0,0,7461328943279312150,7461328943279312150,negative,,[]
 7462145737846440726,2025-01-20 23:38:40,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['😝', '😝', '😝']"
 7462127781376967446,2025-01-20 22:28:08,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '👍']"
-7462084789009826582,2025-01-20 19:40:40,"nein danke
-ich wähle die afd ",0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙']"
-7462025789795828502,2025-01-20 15:52:17,niemals spd nur noch afd alice weidel ,0,1,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '❤️', '❤️', '❤️', '❤️', '❤️']"
-7461627675499086614,2025-01-19 14:07:25,hallo herr abgeordnete mivers leider antworten sie mir per email nicht mehrkönnte ich sie direkt wählen niedersachsen würde ich das evtl tunich fand unsere unterhaltung bisher sehr sympathisch,0,0,7461328943279312150,7461328943279312150,positive,,[]
-7461526614666838806,2025-01-19 07:36:06,ihr bestimmt nicht meine steuern für leute die nicht arbeiten,0,0,7461328943279312150,7461328943279312150,negative,,[]
+7462084789009826582,2025-01-20 19:40:40,"Nein Danke
+Ich wähle die Afd ",0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙']"
+7462025789795828502,2025-01-20 15:52:17,Niemals SPD nur noch AfD Alice Weidel ,0,1,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '❤️', '❤️', '❤️', '❤️', '❤️']"
+7461627675499086614,2025-01-19 14:07:25,Hallo Herr Abgeordnete Mivers leider antworten sie mir per EMail nicht mehrkönnte ich sie direkt wählen Niedersachsen würde ich das evtl tunich fand unsere Unterhaltung bisher sehr sympathisch,0,0,7461328943279312150,7461328943279312150,positive,,[]
+7461526614666838806,2025-01-19 07:36:06,ihr bestimmt nicht meine Steuern für Leute die nicht arbeiten,0,0,7461328943279312150,7461328943279312150,negative,,[]
 7461375472095757078,2025-01-18 21:48:39,,0,0,7461328943279312150,7461328943279312150,negative,1.0,"['💙', '💙', '💙']"
-7465584771336274710,2025-01-30 06:03:30,die demokratische mehrheit hat sich durchgesetzt und das ist gut so,57,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465588938104374038,2025-01-30 06:19:22,die demokratie mit ihrer mehrheit hat gewonnen,33,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465671386646086422,2025-01-30 11:39:18,der grundsatz lautet zum wohl des deutschen volkes von daher alles richtig gemacht ,14,1,7465388696850812182,7465388696850812182,neutral,1.0,['👍']
-7465642185339241218,2025-01-30 09:45:52,die spd geführte regierung hatte 3 jahre zeit konkrete vorschläge zu machen der politische wille war nicht da merz hat nun vorschläge eingebracht es lag an ihnen sie hätten mitstimmen können,11,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465577092861920022,2025-01-30 05:34:41,wenn es um die sicherheit in unserem land geht ist es mir egal wo die stimmen herkommen und nein ich bin kein afd wähler andere parteien hätten es verhindern können,11,10,7465388696850812182,7465388696850812182,negative,,[]
-7465657922925937430,2025-01-30 10:47:10,alice für deutschland ,10,0,7465388696850812182,7465388696850812182,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7465402914513994518,2025-01-29 18:16:41,schlimm ist dass die afd richtig stimmt die spd aber nicht,10,0,7465388696850812182,7465388696850812182,negative,,[]
-7465658385388847894,2025-01-30 10:48:24,die demokratische mehrheit hat gestern abgestimmt und gewonnen,9,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465640926687593238,2025-01-30 09:41:29,warum beschweren sich die parteien die jetzt lange genug in der regierung saßen ihr habt es selbst verbockt ,9,0,7465388696850812182,7465388696850812182,negative,1.0,['😅']
-7465634559905350422,2025-01-30 09:16:16,345 abgeordnete die gegen die sicherheit des landes und der bürger stimmen,8,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465668083467879190,2025-01-30 11:26:23,das liebe politiker ist demokratie ihr seid vom volk gewählt habt für das volk zu arbeiten,6,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465637069604700950,2025-01-30 09:25:56,bald geschichte,6,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465389569568129814,2025-01-29 17:24:51,nicht zu fassen ich hätte es nie für möglich gehalten dass die brandmauer fällt danke dir für den post ,6,2,7465388696850812182,7465388696850812182,negative,1.0,"['✊🏽', '🌹']"
-7465806743039279894,2025-01-30 20:23:53,helmut schmidt war ein macher und konservativer als die heutige cdu,5,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465598782794007318,2025-01-30 06:57:18,helmut schmidt würde sich bei ihrer politik im grabe umdrehen er hätte im übrigen mit sicherheit zugestimmt ,5,0,7465388696850812182,7465388696850812182,neutral,1.0,['😅']
-7465649395641910038,2025-01-30 10:14:09,wenn sich alle aus der spd an der wahl beteiligt hätten wäre es anders ausgegangen,4,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465559668149404438,2025-01-30 04:28:33,was is das denn für ne ideologische blase hier   8 partei ,4,2,7465388696850812182,7465388696850812182,negative,1.0,"['🤣', '😅', '😅', '🤣', '💃', '💃', '🤣', '😅']"
-7465540649698755350,2025-01-30 03:16:14,ein großartiger tag für deutschland und die demokratie,4,2,7465388696850812182,7465388696850812182,positive,,[]
-7465399182447805206,2025-01-29 18:02:14,ist ja toll wenn du helmut schmidt da zitierst er war aber immer für eine begrenzung der migration davon abgesehen sollte es immer einen breiten konsens gegen irreguläre migration geben,4,0,7465388696850812182,7465388696850812182,negative,,[]
-7466321050217775894,2025-02-01 05:41:24,den dammbruch hat es bei der inneren sicherheit gegeben rotgrün hat sich gegen die innere sicherheit ausgesprochen,3,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465776962573812502,2025-01-30 18:28:05,demokratiewarum wird das nicht akzeptiert,3,0,7465388696850812182,7465388696850812182,negative,,[]
-7465631502488896278,2025-01-30 09:04:38,ich habe kleine enkelkinder nach aschaffenburg hätte der teufel die hand heben können mir wäre es egal wenn der spd idelogien wichtiger sind als der schutz der bevölkerung dann sagt das alles,3,0,7465388696850812182,7465388696850812182,negative,,[]
-7465609313508147990,2025-01-30 07:37:49,alice für deutschland ,3,0,7465388696850812182,7465388696850812182,positive,,['♥️']
-7465594370776220438,2025-01-30 06:40:12,"helmut schmidt hat einmal gesagt wir brauchen keine zuwendung aus fremden kulturen das bringt mehr probleme mit sich als es nutzt
-httpsyoutubecomshortstv3ihnq_g9wsiypvioqubgqerptul",3,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465502179160245014,2025-01-30 00:43:16,kein wunderin der cducsu gibt es rechtsradikale damit zerstört merz der  75 jahre demokratie,3,4,7465388696850812182,7465388696850812182,neutral,,"['‼️', '🤡']"
-7465392028257141526,2025-01-29 17:34:33,märz ist der franz von papen unserer zeit history repeating,3,2,7465388696850812182,7465388696850812182,neutral,,[]
-7465770620497396502,2025-01-30 18:03:39,das schimpft sich demokratie,2,1,7465388696850812182,7465388696850812182,neutral,,[]
-7465673546770760470,2025-01-30 11:47:17,helmut schmidt hat 2016 auch gesagt dass wir weitere zuwanderung aus fremden kulturen unterbinden müssen das machen jetzt die cdu und afd er würde sich schämen für die aktuelle spd,2,1,7465388696850812182,7465388696850812182,negative,,[]
-7465669002644587286,2025-01-30 11:29:31,schlimm ist dass sich die sogenannten demokraten immer im besitz der deutungshoheit wähnen äußerungen wie in diesem post sind eine verhöhnung der demokratie,2,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465554220147180310,2025-01-30 04:08:35,nie mehr spd und grüne ihr habt dieses land  gegen die wand gefahren,2,0,7465388696850812182,7465388696850812182,negative,,[]
-7465508936457470742,2025-01-30 01:10:13,ja grundsätze was ist eigentlich mit den grundsätzen der spd dinieren mit türkischen rechtsextremen blockieren von dringend benötigten ukrainehilfen antisemitische äußerungen der bundestagsvize,2,0,7465388696850812182,7465388696850812182,negative,,[]
-7465837439136072470,2025-01-30 22:23:02,helmut schmidt würde mit der heutigen spd nichts zu tun haben wollen,1,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465800136586642198,2025-01-30 19:58:06,hätten alle abgeordneten der spd und grünen dagegen gestimmt wäre merz antrag gescheitert,1,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465689276476523286,2025-01-30 12:48:31,so geht halt demokratie und die umsetzung des volkes wille,1,1,7465388696850812182,7465388696850812182,neutral,,[]
-7465671168452772630,2025-01-30 11:37:50,da sehen wohl einige ihre finanzielle lebensplanung den bach runtergehen ,1,0,7465388696850812182,7465388696850812182,neutral,1.0,['😉']
-7465660005960172310,2025-01-30 10:55:24,cdufraktion 187 ja stimmen fdp 80 ja stimmen afd 75 ja stimmen und fraktionlos 6 ja stimmen wenn dann erzähle alles,1,0,7465388696850812182,7465388696850812182,negative,,[]
-7465659566346421014,2025-01-30 10:53:28,2017 hatte die afd 13  und jetzt 23  was ist dazwischen passiert  ,1,0,7465388696850812182,7465388696850812182,neutral,,"['🤣', '🤣', '🤣']"
-7465639025647551254,2025-01-30 09:33:25,wenn man den souverän missachtet und seine eigene ideologie gegen den wunsch der mehrheit der bevölkerung durchsetzt muss man sich nicht wundern wenn eigenes ideologisches denken ein ende hat,1,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465584771336274710,2025-01-30 06:03:30,Die demokratische Mehrheit hat sich durchgesetzt Und das ist gut so,57,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465588938104374038,2025-01-30 06:19:22,Die Demokratie mit Ihrer Mehrheit hat gewonnen,33,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465671386646086422,2025-01-30 11:39:18,Der Grundsatz lautet zum Wohl des Deutschen Volkes von daher alles richtig gemacht ,14,1,7465388696850812182,7465388696850812182,neutral,1.0,['👍']
+7465642185339241218,2025-01-30 09:45:52,Die SPD geführte Regierung hatte 3 Jahre Zeit konkrete Vorschläge zu machen Der politische Wille war nicht da Merz hat nun Vorschläge eingebracht Es lag an Ihnen Sie hätten mitstimmen können,11,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465577092861920022,2025-01-30 05:34:41,Wenn es um die Sicherheit in unserem Land geht ist es mir egal wo die Stimmen herkommen und Nein ich bin kein AfD Wähler andere Parteien hätten es verhindern können,11,10,7465388696850812182,7465388696850812182,negative,,[]
+7465657922925937430,2025-01-30 10:47:10,Alice für Deutschland ,10,0,7465388696850812182,7465388696850812182,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7465402914513994518,2025-01-29 18:16:41,Schlimm ist dass die AfD richtig stimmt die SPD aber nicht,10,0,7465388696850812182,7465388696850812182,negative,,[]
+7465658385388847894,2025-01-30 10:48:24,die demokratische Mehrheit hat gestern abgestimmt und gewonnen,9,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465640926687593238,2025-01-30 09:41:29,Warum beschweren sich die Parteien die jetzt lange genug in der Regierung saßen Ihr habt es selbst verbockt ,9,0,7465388696850812182,7465388696850812182,negative,1.0,['😅']
+7465634559905350422,2025-01-30 09:16:16,345 Abgeordnete die gegen die Sicherheit des Landes und der Bürger stimmen,8,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465668083467879190,2025-01-30 11:26:23,DAS liebe Politiker ist Demokratie Ihr seid vom Volk gewählt habt FÜR das Volk zu arbeiten,6,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465637069604700950,2025-01-30 09:25:56,Bald Geschichte,6,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465389569568129814,2025-01-29 17:24:51,Nicht zu fassen Ich hätte es nie für möglich gehalten dass die Brandmauer fällt Danke dir für den Post ,6,2,7465388696850812182,7465388696850812182,negative,1.0,"['✊🏽', '🌹']"
+7465806743039279894,2025-01-30 20:23:53,Helmut Schmidt war ein Macher und konservativer als die heutige CDU,5,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465598782794007318,2025-01-30 06:57:18,Helmut Schmidt würde sich bei Ihrer Politik im Grabe umdrehen Er hätte im übrigen mit Sicherheit zugestimmt ,5,0,7465388696850812182,7465388696850812182,neutral,1.0,['😅']
+7465649395641910038,2025-01-30 10:14:09,Wenn sich alle aus der SPD an der Wahl beteiligt hätten wäre es anders ausgegangen,4,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465559668149404438,2025-01-30 04:28:33,was is das denn für ne Ideologische Blase hier   8 Partei ,4,2,7465388696850812182,7465388696850812182,negative,1.0,"['🤣', '😅', '😅', '🤣', '💃', '💃', '🤣', '😅']"
+7465540649698755350,2025-01-30 03:16:14,ein großartiger Tag für Deutschland und die Demokratie,4,2,7465388696850812182,7465388696850812182,positive,,[]
+7465399182447805206,2025-01-29 18:02:14,Ist ja toll wenn du Helmut Schmidt da zitierst er war aber immer für eine Begrenzung der Migration Davon abgesehen sollte es immer einen breiten Konsens gegen irreguläre Migration geben,4,0,7465388696850812182,7465388696850812182,negative,,[]
+7466321050217775894,2025-02-01 05:41:24,Den Dammbruch hat es bei der Inneren Sicherheit gegeben RotGrün hat sich gegen die Innere Sicherheit ausgesprochen,3,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465776962573812502,2025-01-30 18:28:05,Demokratiewarum wird das nicht akzeptiert,3,0,7465388696850812182,7465388696850812182,negative,,[]
+7465631502488896278,2025-01-30 09:04:38,Ich habe kleine Enkelkinder Nach Aschaffenburg hätte der Teufel die Hand heben können Mir wäre es egal Wenn der SPD Idelogien wichtiger sind als der Schutz der Bevölkerung dann sagt das alles,3,0,7465388696850812182,7465388696850812182,negative,,[]
+7465609313508147990,2025-01-30 07:37:49,Alice für Deutschland ,3,0,7465388696850812182,7465388696850812182,positive,,['♥️']
+7465594370776220438,2025-01-30 06:40:12,"Helmut Schmidt hat einmal gesagt wir brauchen keine Zuwendung aus fremden Kulturen das bringt mehr Probleme mit sich als es nutzt
+httpsyoutubecomshortstv3IHNQ_G9wsiYPVIOQuBgqErpTul",3,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465502179160245014,2025-01-30 00:43:16,Kein Wunderin der CDUCSU gibt es Rechtsradikale Damit zerstört MERZ der  75 Jahre Demokratie,3,4,7465388696850812182,7465388696850812182,neutral,,"['‼️', '🤡']"
+7465392028257141526,2025-01-29 17:34:33,März ist der Franz von Papen unserer Zeit History repeating,3,2,7465388696850812182,7465388696850812182,neutral,,[]
+7465770620497396502,2025-01-30 18:03:39,Das schimpft sich Demokratie,2,1,7465388696850812182,7465388696850812182,neutral,,[]
+7465673546770760470,2025-01-30 11:47:17,Helmut Schmidt hat 2016 auch gesagt dass wir weitere Zuwanderung aus fremden Kulturen unterbinden müssen Das machen jetzt die CDU und AfD Er würde sich schämen für die aktuelle SPD,2,1,7465388696850812182,7465388696850812182,negative,,[]
+7465669002644587286,2025-01-30 11:29:31,Schlimm ist dass sich die sogenannten Demokraten immer im Besitz der Deutungshoheit wähnen Äußerungen wie in diesem Post sind eine Verhöhnung der Demokratie,2,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465554220147180310,2025-01-30 04:08:35,NIE MEHR SPD UND GRÜNE Ihr habt dieses Land  gegen die Wand gefahren,2,0,7465388696850812182,7465388696850812182,negative,,[]
+7465508936457470742,2025-01-30 01:10:13,Ja Grundsätze Was ist eigentlich mit den Grundsätzen der SPD Dinieren mit türkischen Rechtsextremen Blockieren von dringend benötigten UkraineHilfen antisemitische Äußerungen der Bundestagsvize,2,0,7465388696850812182,7465388696850812182,negative,,[]
+7465837439136072470,2025-01-30 22:23:02,Helmut Schmidt würde mit der heutigen SPD nichts zu tun haben wollen,1,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465800136586642198,2025-01-30 19:58:06,Hätten alle Abgeordneten der SPD und Grünen dagegen gestimmt wäre Merz Antrag gescheitert,1,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465689276476523286,2025-01-30 12:48:31,So geht halt Demokratie und die Umsetzung des Volkes Wille,1,1,7465388696850812182,7465388696850812182,neutral,,[]
+7465671168452772630,2025-01-30 11:37:50,Da sehen wohl einige ihre finanzielle Lebensplanung den Bach runtergehen ,1,0,7465388696850812182,7465388696850812182,neutral,1.0,['😉']
+7465660005960172310,2025-01-30 10:55:24,CDUFraktion 187 Ja Stimmen FDP 80 Ja Stimmen Afd 75 Ja Stimmen und Fraktionlos 6 Ja Stimmen Wenn dann erzähle alles,1,0,7465388696850812182,7465388696850812182,negative,,[]
+7465659566346421014,2025-01-30 10:53:28,2017 hatte die AFD 13  und jetzt 23  was ist dazwischen passiert  ,1,0,7465388696850812182,7465388696850812182,neutral,,"['🤣', '🤣', '🤣']"
+7465639025647551254,2025-01-30 09:33:25,Wenn man den souverän missachtet und seine eigene Ideologie gegen den Wunsch der Mehrheit der Bevölkerung durchsetzt muss man sich nicht wundern wenn eigenes ideologisches Denken ein Ende hat,1,0,7465388696850812182,7465388696850812182,neutral,,[]
 7465638027268817686,2025-01-30 09:29:27,hr schmidt hat aber auch gesagt das menschen aus arabischen ländern nicht in unser system zu integrieren sind und nun ist er nun ein guter oder ein faschist aber eins ist sicher sie sind kein demok,1,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465635848232272642,2025-01-30 09:21:13,blödsinn demokratie ist halt so,1,1,7465388696850812182,7465388696850812182,negative,,[]
-7465619461845041942,2025-01-30 08:17:34,es gibt keinen dammbruch das sind fake news,1,1,7465388696850812182,7465388696850812182,negative,,[]
-7465605347055895318,2025-01-30 07:22:46,demokratie aktionstage sind speziell für menschen wie dich gemacht  um besser zu verstehen wie unsere demokratie funktioniert,1,0,7465388696850812182,7465388696850812182,neutral,,['🤗']
-7465573189843403542,2025-01-30 05:19:29,brandmauer war undemokratisch,1,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465507668275905302,2025-01-30 01:06:16,wäre es angesichts der aktuellen ereignisse nicht besser wenn die spd für eine prüfung eines afd verbotsverfahrens stimmt,1,2,7465388696850812182,7465388696850812182,negative,,[]
-7465428890472170262,2025-01-29 19:57:24,ich finde es schlimm dass bei diesem antrag komplett ignoriert wird dass man damit den faschisten hilft das grundgesetz zu schleifen,1,0,7465388696850812182,7465388696850812182,negative,,[]
-7482661558150136578,2025-03-17 06:28:47,na ja dafür lässt sich gerade merz in den ökosozialismus drängenwir bürger baden es aus,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7473464530703024918,2025-02-20 11:39:59,darum afd ,0,0,7465388696850812182,7465388696850812182,negative,,"['🥰', '🥰', '🥰']"
-7471805680509731606,2025-02-16 00:23:14,wo waren denn die nicht anwesenden spd abgeordneten brandmauer war wohl doch nicht sooo wichtig,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7471764875758174998,2025-02-15 21:44:24,wer hat uns verraten sozialdemokraten,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465635848232272642,2025-01-30 09:21:13,Blödsinn Demokratie ist halt so,1,1,7465388696850812182,7465388696850812182,negative,,[]
+7465619461845041942,2025-01-30 08:17:34,Es gibt keinen Dammbruch Das sind Fake News,1,1,7465388696850812182,7465388696850812182,negative,,[]
+7465605347055895318,2025-01-30 07:22:46,Demokratie Aktionstage sind speziell für Menschen wie dich gemacht  Um besser zu verstehen wie unsere Demokratie funktioniert,1,0,7465388696850812182,7465388696850812182,neutral,,['🤗']
+7465573189843403542,2025-01-30 05:19:29,Brandmauer war undemokratisch,1,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465507668275905302,2025-01-30 01:06:16,Wäre es angesichts der aktuellen Ereignisse nicht besser wenn die SPD für eine Prüfung eines AfD Verbotsverfahrens stimmt,1,2,7465388696850812182,7465388696850812182,negative,,[]
+7465428890472170262,2025-01-29 19:57:24,Ich finde es schlimm dass bei diesem Antrag komplett ignoriert wird dass man damit den Faschisten hilft das Grundgesetz zu schleifen,1,0,7465388696850812182,7465388696850812182,negative,,[]
+7482661558150136578,2025-03-17 06:28:47,Na ja dafür lässt sich gerade Merz in den Ökosozialismus drängenwir Bürger baden es aus,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7473464530703024918,2025-02-20 11:39:59,Darum AfD ,0,0,7465388696850812182,7465388696850812182,negative,,"['🥰', '🥰', '🥰']"
+7471805680509731606,2025-02-16 00:23:14,wo waren denn die nicht anwesenden SPD Abgeordneten Brandmauer war wohl doch nicht sooo wichtig,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7471764875758174998,2025-02-15 21:44:24,Wer hat uns verraten Sozialdemokraten,0,0,7465388696850812182,7465388696850812182,neutral,,[]
 7471146717837640470,2025-02-14 05:46:47,,0,0,7465388696850812182,7465388696850812182,negative,,"['🤣', '🤣', '🤡']"
-7470484254818304790,2025-02-12 10:55:41,bekomme eher eine darmdurchbruch,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7469063228149859094,2025-02-08 15:00:48,muss es nicht dammbrechenden heißen oder dammbrechinnen linksgrün möchte doch das maskulinum aus der deutschen sprache verbannen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7467785407981126422,2025-02-05 04:26:19,wer hat uns verraten,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7467593105149412118,2025-02-04 15:56:06,während die spd sich noch mit den anderen parteien und abstimmungsverhalten beschäftigt beschäftigen sich die anderen parteien schon mit inhalten es müssen ja noch 15 der wähler verprellt werden,0,0,7465388696850812182,7465388696850812182,neutral,1.0,['👏']
-7467467024913236738,2025-02-04 07:47:33,wie beschämend als spd politiker jetzt den großen helmut schmidt zu zitieren der rotiert im grab angesichts der desaströsen migrationspolitik der spd,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7467451071125144342,2025-02-04 06:45:06,"demokratie demokratische abstimmung vom bürger demokratisch gewählte parteien
-was ist hier so schwer zu begreifen",0,0,7465388696850812182,7465388696850812182,negative,,[]
-7467250912458801942,2025-02-03 17:48:00,und hätte die afd dagegen gestimmt wäre das eine zusammenarbeit zwischen rotgrünblau wäre dann sicher besser ,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['😂', '😂']"
-7467157013849441046,2025-02-03 11:44:01,spd und grüne haben in der gleichen sitzung mit den stimmen der afd mehrheitlich gegen 3 mrd euro hilfe für die ukraine gestimmt wo war da die brandmauer,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7467148363784307478,2025-02-03 11:10:07,nichts aus dem wahlprogramm der afd ist verfassungswidrig,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7467105577807971094,2025-02-03 08:24:55,solange die spd mit grün regiert ist sie unwählbar selbst helmut schmidt hatte vor denen gewarnt und an seine weisheit sollte die heutige spd anknüpfen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7466865938073256726,2025-02-02 16:54:12,jetzt sind die hosen voll mit kaka und es wird rumgeheult richtig so weg mit der spd,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7466774397329097494,2025-02-02 10:58:50,helmut schmidt hat auch gesagt dass zuwanderung mehr probleme schafft als sie positive effekte am arbeitsmarkt bringen kann,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7466324040744731414,2025-02-01 05:53:26,ja man hat gut gesehen das den spdlinkengrünen parteien der bürger u seine sicherheit völlig egal ist  an deren händen klebt blut der vielen opfer ,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7466198541255836438,2025-01-31 21:44:31,"helmut schmidt hat auch gesagt das man es bereuen wird sollte man die grünen wählen ein weiser mann
-das bist du nicht",0,1,7465388696850812182,7465388696850812182,negative,,[]
-7466127676194112278,2025-01-31 17:09:07,dammbruch habe ich auch schon erlebt ist nicht schön voll viel wasser,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7466014301229843222,2025-01-31 09:49:53,haben gestern die grünen und die spd mit der afd gegen diemrd gestimmt  enthalten ist keine zustimmung ich glaube ja ist die brandmauer bei spd und grün gefallen,0,0,7465388696850812182,7465388696850812182,negative,,['🇺🇦']
-7466003521809498902,2025-01-31 09:07:44,der dammbruch war 2015 durch merkel,0,1,7465388696850812182,7465388696850812182,neutral,,[]
-7465991599945220886,2025-01-31 08:21:39,aber nicht vergessen zu erzählen dass 9 abgeordnete der rot grünen fraktion gefehlt haben ihr hättet es verhindern können olaf ist ein sehr schlauer fuchs ,0,0,7465388696850812182,7465388696850812182,negative,,['🦊']
-7465971346960466710,2025-01-31 07:03:32,wenn die parteien der mitte nichts ändern wird in 4 jahren die afd leider bei 30 stehen,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465967110389941014,2025-01-31 06:46:44,das war eine demokratische entscheidung aber davon versteht die spd nichts bei demokratie sind sie überfordert,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465964473661096726,2025-01-31 06:36:10,helmut schmidt würde aus der spdso wie sie jetzt aufgestellt ist austretendann noch mit den grünen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465960131047408406,2025-01-31 06:19:57,wer unter dem deckmantel des antifaschismus die innere sicherheit eines staates gefährdet und ein unrechtssystem errichten will sollte der justiz zugeführt werden,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465906898065425174,2025-01-31 02:59:24,endlich ein thema bis zu den wahlen was man richtig ausschlachten kannandere themen werden jetzt aus dem blickfeld verschwindendas ist das was die spd und grüne gemeinsam haben,0,0,7465388696850812182,7465388696850812182,positive,,[]
-7465886381983400726,2025-01-31 01:36:59,man nennt den vorgang eigentlich demokratiewenn volksvertreter unabhängig abstimmen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465821773465142038,2025-01-30 21:22:01,freude pur,0,0,7465388696850812182,7465388696850812182,positive,,[]
-7465812160212550422,2025-01-30 20:44:36,euer versagen und eure untätigkeit hat die afd aufgebaut nochmal scholz oder habeck und die afd steht bei 50 daher cdu,0,1,7465388696850812182,7465388696850812182,negative,,[]
-7465799542315877142,2025-01-30 19:55:37,ihr hattet drei jahre die chance das richtige zu tun aber egal wie kritisch die stimmen auch waren wieviele auch eine wende in der migrationspolitik forderten euch war es egal jetzt tut jemand was,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465793802923819798,2025-01-30 19:33:43,die erste wertschätzung der eigenen bürger seit sehr langer zeit,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465791022771290902,2025-01-30 19:22:53,"demokratie vom feinsten
-bitte spd heult leise",0,0,7465388696850812182,7465388696850812182,positive,,[]
-7465788390905004822,2025-01-30 19:12:40,der wille des volkes kam durch einen mehrheitsbeschluss zustande und das nennt sich demokratie die reaktionen von linksgrün zeigen nur deren undemokratisches verständnis ,0,0,7465388696850812182,7465388696850812182,neutral,,['🤷\u200d♂️']
-7465777254826705687,2025-01-30 18:29:27,die antidemokratische spd regt sich auf das tatsächlich mal für den bürger abgestimmt wirddie spd macht nur bürgerfeindliche deutschland vernichtende politik und muss komplett weg,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465749297516200726,2025-01-30 16:41:05,3 stimmen weniger und die dpd hätte mit der linksextremen linken zusammengearbeitetups das macht sie schon die ganze zeit,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465731240002241302,2025-01-30 15:31:07,mimimi,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7470484254818304790,2025-02-12 10:55:41,Bekomme eher eine Darmdurchbruch,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7469063228149859094,2025-02-08 15:00:48,Muss es nicht Dammbrechenden heißen oder Dammbrechinnen LinksGrün möchte doch das Maskulinum aus der deutschen Sprache verbannen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7467785407981126422,2025-02-05 04:26:19,Wer hat uns verraten,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7467593105149412118,2025-02-04 15:56:06,Während die SPD sich noch mit den anderen Parteien und Abstimmungsverhalten beschäftigt beschäftigen sich die anderen Parteien schon mit Inhalten Es müssen ja noch 15 der Wähler verprellt werden,0,0,7465388696850812182,7465388696850812182,neutral,1.0,['👏']
+7467467024913236738,2025-02-04 07:47:33,Wie beschämend als SPD Politiker jetzt den großen Helmut Schmidt zu zitieren Der rotiert im Grab angesichts der desaströsen Migrationspolitik der SPD,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7467451071125144342,2025-02-04 06:45:06,"Demokratie Demokratische Abstimmung Vom Bürger demokratisch gewählte Parteien
+Was ist hier so schwer zu begreifen",0,0,7465388696850812182,7465388696850812182,negative,,[]
+7467250912458801942,2025-02-03 17:48:00,und hätte die AFD dagegen gestimmt wäre das eine Zusammenarbeit zwischen rotgrünblau Wäre dann sicher besser ,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['😂', '😂']"
+7467157013849441046,2025-02-03 11:44:01,SPD und Grüne haben in der gleichen Sitzung mit den Stimmen der AfD mehrheitlich gegen 3 Mrd Euro Hilfe für die Ukraine gestimmt Wo war da die Brandmauer,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7467148363784307478,2025-02-03 11:10:07,Nichts aus dem Wahlprogramm der AfD ist verfassungswidrig,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7467105577807971094,2025-02-03 08:24:55,Solange die SPD mit Grün regiert ist sie unwählbar Selbst Helmut Schmidt hatte vor denen gewarnt und an seine Weisheit sollte die heutige SPD anknüpfen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7466865938073256726,2025-02-02 16:54:12,Jetzt sind die Hosen voll mit Kaka und es wird rumgeheult richtig so weg mit der SPD,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7466774397329097494,2025-02-02 10:58:50,Helmut Schmidt hat auch gesagt dass Zuwanderung mehr Probleme schafft als sie positive Effekte am Arbeitsmarkt bringen kann,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7466324040744731414,2025-02-01 05:53:26,Ja man hat gut gesehen das den SPDlinkengrünen Parteien der Bürger u seine Sicherheit völlig egal ist  An deren Händen klebt Blut der vielen Opfer ,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7466198541255836438,2025-01-31 21:44:31,"Helmut Schmidt hat auch gesagt das man es bereuen wird sollte man die Grünen wählen Ein weiser Mann
+Das bist du nicht",0,1,7465388696850812182,7465388696850812182,negative,,[]
+7466127676194112278,2025-01-31 17:09:07,Dammbruch habe ich auch schon erlebt ist nicht schön voll viel Wasser,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7466014301229843222,2025-01-31 09:49:53,Haben gestern die Grünen und die SPD mit der AfD gegen dieMrd gestimmt  Enthalten ist keine Zustimmung Ich glaube ja Ist die Brandmauer bei SPD und Grün gefallen,0,0,7465388696850812182,7465388696850812182,negative,,['🇺🇦']
+7466003521809498902,2025-01-31 09:07:44,Der Dammbruch war 2015 durch Merkel,0,1,7465388696850812182,7465388696850812182,neutral,,[]
+7465991599945220886,2025-01-31 08:21:39,Aber nicht vergessen zu erzählen dass 9 Abgeordnete der Rot Grünen Fraktion gefehlt haben Ihr hättet es verhindern können Olaf ist ein sehr schlauer Fuchs ,0,0,7465388696850812182,7465388696850812182,negative,,['🦊']
+7465971346960466710,2025-01-31 07:03:32,Wenn die Parteien der Mitte nichts ändern wird in 4 Jahren die AfD leider bei 30 stehen,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465967110389941014,2025-01-31 06:46:44,Das war eine demokratische Entscheidung Aber davon versteht die SPD nichts bei Demokratie sind sie überfordert,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465964473661096726,2025-01-31 06:36:10,Helmut Schmidt würde aus der SPDso wie sie jetzt aufgestellt ist austretenDann noch mit den Grünen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465960131047408406,2025-01-31 06:19:57,Wer unter dem Deckmantel des Antifaschismus die innere Sicherheit eines Staates gefährdet und ein Unrechtssystem errichten will sollte der Justiz zugeführt werden,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465906898065425174,2025-01-31 02:59:24,Endlich ein Thema bis zu den Wahlen was man richtig ausschlachten kannAndere Themen werden jetzt aus dem Blickfeld verschwindenDas ist das was die SPD und Grüne gemeinsam haben,0,0,7465388696850812182,7465388696850812182,positive,,[]
+7465886381983400726,2025-01-31 01:36:59,Man nennt den Vorgang eigentlich Demokratiewenn Volksvertreter unabhängig abstimmen,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465821773465142038,2025-01-30 21:22:01,Freude pur,0,0,7465388696850812182,7465388696850812182,positive,,[]
+7465812160212550422,2025-01-30 20:44:36,Euer Versagen und eure Untätigkeit hat die AfD aufgebaut Nochmal Scholz oder Habeck und die AfD steht bei 50 Daher CDU,0,1,7465388696850812182,7465388696850812182,negative,,[]
+7465799542315877142,2025-01-30 19:55:37,Ihr hattet drei Jahre die Chance das Richtige zu tun Aber egal wie kritisch die Stimmen auch waren wieviele auch eine Wende in der Migrationspolitik forderten euch war es egal Jetzt tut jemand was,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465793802923819798,2025-01-30 19:33:43,Die erste Wertschätzung der eigenen Bürger seit sehr langer Zeit,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465791022771290902,2025-01-30 19:22:53,"Demokratie vom feinsten
+Bitte SPD heult leise",0,0,7465388696850812182,7465388696850812182,positive,,[]
+7465788390905004822,2025-01-30 19:12:40,Der Wille des Volkes kam durch einen Mehrheitsbeschluss zustande und das nennt sich Demokratie Die Reaktionen von LinksGrün zeigen nur deren undemokratisches Verständnis ,0,0,7465388696850812182,7465388696850812182,neutral,,['🤷\u200d♂️']
+7465777254826705687,2025-01-30 18:29:27,Die antidemokratische SPD regt sich auf das tatsächlich mal für den Bürger abgestimmt wirdDie SPD macht nur bürgerfeindliche Deutschland vernichtende Politik und muss komplett weg,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465749297516200726,2025-01-30 16:41:05,3 Stimmen weniger und die DPD hätte mit der linksextremen Linken zusammengearbeitetups das macht sie schon die ganze Zeit,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465731240002241302,2025-01-30 15:31:07,Mimimi,0,0,7465388696850812182,7465388696850812182,negative,,[]
 7465721760676774678,2025-01-30 14:54:07,,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['💙', '💙', '💙']"
 7465701423612740374,2025-01-30 13:35:32,,0,0,7465388696850812182,7465388696850812182,negative,,"['🤣', '🤣', '🤣']"
-7465700746853171990,2025-01-30 13:32:47,euer undemokratisches verhalten sehen immer menschen bald stehen euch nur noch eure verblendeten hardcore anhänger bei,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465699326702928662,2025-01-30 13:26:54,spd bei 16 und immer wieder keine selbstreflexion die menschen glauben eurem geschwurbel einfach nicht mehr aber macht ruhig weiter so,0,0,7465388696850812182,7465388696850812182,negative,1.0,['👍']
-7465696117288928022,2025-01-30 13:14:38,ihr hättet ja mal dafür sorgen können dass eure abgeordneten vollzählig da sind dann hätte man das ganz einfach verhindern können,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465692275243516694,2025-01-30 12:59:41, hätte merz euch erst fragen müssen und bitte bitte sagen sollen  er hat gehandelt um  staatsbürger und gut integrierte ausländer zu schützen das habt ihr 3 12 jahre nicht gemacht ,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['🤔', '🇩🇪', '😉']"
-7465674460583412502,2025-01-30 11:50:44,mensch klaus das ist demokratie klingt komisch is aber so auch wenn es nicht allen gefällt,0,0,7465388696850812182,7465388696850812182,negative,,['🤷\u200d♂️']
+7465700746853171990,2025-01-30 13:32:47,Euer undemokratisches Verhalten sehen immer Menschen bald stehen euch nur noch eure verblendeten Hardcore Anhänger bei,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465699326702928662,2025-01-30 13:26:54,SPD bei 16 Und immer wieder keine Selbstreflexion Die Menschen glauben eurem Geschwurbel einfach nicht mehr Aber macht ruhig weiter so,0,0,7465388696850812182,7465388696850812182,negative,1.0,['👍']
+7465696117288928022,2025-01-30 13:14:38,Ihr hättet ja mal dafür sorgen können dass eure Abgeordneten vollzählig da sind Dann hätte man das ganz einfach verhindern können,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465692275243516694,2025-01-30 12:59:41, Hätte Merz Euch erst fragen müssen und Bitte Bitte sagen sollen  ER hat gehandelt um  Staatsbürger und gut integrierte Ausländer zu schützen Das habt IHR 3 12 Jahre NICHT gemacht ,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['🤔', '🇩🇪', '😉']"
+7465674460583412502,2025-01-30 11:50:44,Mensch Klaus das ist Demokratie klingt komisch is aber so Auch wenn es nicht allen gefällt,0,0,7465388696850812182,7465388696850812182,negative,,['🤷\u200d♂️']
 7465671056223044374,2025-01-30 11:38:00,,0,1,7465388696850812182,7465388696850812182,negative,1.0,"['😂', '😂', '😂']"
 7465670265017533206,2025-01-30 11:34:51,,0,0,7465388696850812182,7465388696850812182,negative,1.0,['💙']
-7465668319593464598,2025-01-30 11:26:47,die definition ist perfekt und hoffentlich passiert das endlich mal,0,0,7465388696850812182,7465388696850812182,positive,,[]
-7465658345040266006,2025-01-30 10:48:37,die spd ist eh verloren mittlerweile sowas von von extrem linke überlaufen die spd hat somit ihren kern die normale arbeiterschaft verraten,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465654919363560215,2025-01-30 10:35:10,344 nein stimmen u nicht 345 des weiteren haben die 344 nein stimmen vergessen was für einen eid sie abgelegt haben aber der rote teufel u grüne zecke ist wohl des volkes egal,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465653472459260694,2025-01-30 10:30:12,die abstimmung war demokratisch daß es den volksfeindlichen antidemokraten nicht passt verloren zu haben zeigt einmal mehr deren seltsames demokratieverständnis,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465652881950802710,2025-01-30 10:27:29,genauunser bundestaggewählt vom volkejederdedesda drinn ist vom volk gewähltdemokratischwas ihr macht ist undemokratischhört auf zu heulen,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['💛', '💛', '💛']"
-7465652011213210390,2025-01-30 10:23:56,ihr seit die waren antidemokraten in diesen land das hat ihre partei gestern gezeigt  mit den grünen,0,0,7465388696850812182,7465388696850812182,negative,1.0,['😂']
-7465646068261733142,2025-01-30 10:00:48,helmut schmidt hat auch gesagt das der islam nicht zu deutschland gehört und wenn man ihn die letzten jahre vor seinen ableben gehört hat dann hätte die spd gestern dafür gestimmt,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465668319593464598,2025-01-30 11:26:47,Die Definition ist perfekt Und hoffentlich passiert das endlich mal,0,0,7465388696850812182,7465388696850812182,positive,,[]
+7465658345040266006,2025-01-30 10:48:37,Die SPD ist eh verloren mittlerweile sowas von von extrem linke überlaufen Die SPD hat somit ihren Kern die normale Arbeiterschaft verraten,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465654919363560215,2025-01-30 10:35:10,344 nein stimmen u nicht 345 des Weiteren haben die 344 nein stimmen vergessen was für einen Eid sie abgelegt haben Aber der rote Teufel u grüne Zecke ist wohl des Volkes egal,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465653472459260694,2025-01-30 10:30:12,Die Abstimmung war demokratisch daß es den volksfeindlichen Antidemokraten nicht passt verloren zu haben zeigt einmal mehr deren seltsames Demokratieverständnis,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465652881950802710,2025-01-30 10:27:29,GenauUnser Bundestaggewählt vom Volkejederdedesda drinn ist vom Volk gewähltdemokratischwas ihr macht ist undemokratischhört auf zu heulen,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['💛', '💛', '💛']"
+7465652011213210390,2025-01-30 10:23:56,Ihr seit die waren Antidemokraten in diesen Land das hat ihre Partei gestern gezeigt  mit den Grünen,0,0,7465388696850812182,7465388696850812182,negative,1.0,['😂']
+7465646068261733142,2025-01-30 10:00:48,Helmut Schmidt hat auch gesagt das der islam nicht zu Deutschland gehört Und wenn man ihn die letzten Jahre vor seinen ableben gehört hat dann hätte die spd gestern dafür gestimmt,0,0,7465388696850812182,7465388696850812182,neutral,,[]
 7465643315179995926,2025-01-30 09:50:32,,0,0,7465388696850812182,7465388696850812182,negative,1.0,"['😂', '😂', '😂', '😂']"
-7465637362698961686,2025-01-30 09:27:24,wir schaffen auch das zusammen ,0,0,7465388696850812182,7465388696850812182,neutral,1.0,['😂']
-7465635054936228631,2025-01-30 09:18:39,in diesem kontext eine wortwahl um abzulenken dass man selber keine themen hat die beim volk noch irgendwie ankommen weil man es selber die letzten jahre nur verbockt hat,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465634740588086038,2025-01-30 09:17:19,in diesem,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465616804771070742,2025-01-30 08:07:37,also wenn die linke heult ist was richtig gelaufen ,0,0,7465388696850812182,7465388696850812182,neutral,1.0,"['😂', '😂', '😂']"
-7465612710966084374,2025-01-30 07:51:22,ein neues zeitalter beginnt  und jeder dem es nicht passt sollte nach ungarn oder usa auswandern,0,0,7465388696850812182,7465388696850812182,neutral,1.0,"['😂', '😂', '😂']"
-7465608270809547542,2025-01-30 07:34:38,genau das ist demokratie auch wenn sie den verlierern weg tut eine brandmauer die dazu dienen soll dass die cdu dauerhaft in linksgrüne koalitionen gegen die interessen des volkes gezwungen wird hat hingegen nichts mit demokratie zu tun,0,0,7465388696850812182,7465388696850812182,neutral,,[]
-7465587031859626774,2025-01-30 06:11:34,linker kindergarten sofort verbieten,0,0,7465388696850812182,7465388696850812182,negative,-1.0,"['😡', '😡', '😡']"
-7465586428929639190,2025-01-30 06:10:12,ja weil die spd totaler schmutz ist,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465502025838068502,2025-01-30 00:43:31,nur noch spd  bsw,0,0,7465388696850812182,7465388696850812182,negative,1.0,['👆']
-7465586755883107094,2025-01-30 06:10:44,das schlimmste ist meiner meinung nach dass merz den wählern suggeriert dass mit diesem antrag sofort ab heute keine attentate mehr passieren und dass ist billiger populismus,0,0,7465388696850812182,7465388696850812182,negative,,[]
-7465389569942192918,2025-01-29 17:25:04,helmut schmidt würde dem olaf ne heftige schelle in den nacken geben für die verfehlte asylpolitik,4,2,7465388696850812182,7465388696850812182,neutral,,[]
-7464989858974745366,2025-01-28 15:34:14,volle solidarität unfassbar,24,0,7464979318205140246,7464979318205140246,negative,,"['✊🏻', '♥️']"
-7465070791425491734,2025-01-28 20:47:55,ganz schlimm was ist nur in diesem land los unsere gesellschaft hat keine moral keine scham mehr wie bekommen wir es hin dass wir uns gegenseitig respektieren und rücksicht nehmen,14,0,7464979318205140246,7464979318205140246,negative,,[]
-7464989817324782358,2025-01-28 15:33:51,wie schrecklich volle solidarität,14,0,7464979318205140246,7464979318205140246,negative,,['🙏🏻']
-7465310052964074262,2025-01-29 12:16:53,solche nachrichten machen mich fassungslos aber noch mehr wütend ,13,0,7464979318205140246,7464979318205140246,negative,,['❤️']
-7464989269205173014,2025-01-28 15:31:54,volle solidarität ,11,0,7464979318205140246,7464979318205140246,negative,1.0,"['♥️', '🌹', '✊🏽']"
-7464990224323298070,2025-01-28 15:35:29,solidarität ,7,0,7464979318205140246,7464979318205140246,negative,,['♥️']
-7464982860996641558,2025-01-28 15:06:50,ich hoffe dem genossen geht es bald besser,6,0,7464979318205140246,7464979318205140246,negative,,[]
-7465359956956381954,2025-01-29 15:30:04,volle solidarität aus der gründemokratischen ecke für einen fairen und demokratischen wahlkampf und gegen rechtsextremismus,4,1,7464979318205140246,7464979318205140246,neutral,,[]
-7465011849046819606,2025-01-28 16:59:10,vollste solidarität,4,0,7464979318205140246,7464979318205140246,negative,,[]
-7465318636494308118,2025-01-29 12:50:15,volle solidarität ,3,0,7464979318205140246,7464979318205140246,negative,1.0,"['💚', '✌️']"
-7469160590586790678,2025-02-08 21:18:23,deshalb jetzt für das gegenteil der afd stimmen spd grüne und linke stehen für freiheit und faire demokratie und beteiligung auch der ärmeren bevölkerung mobilisiert freunde  verwandte,2,1,7464979318205140246,7464979318205140246,neutral,,[]
+7465637362698961686,2025-01-30 09:27:24,Wir schaffen auch das zusammen ,0,0,7465388696850812182,7465388696850812182,neutral,1.0,['😂']
+7465635054936228631,2025-01-30 09:18:39,In diesem Kontext eine Wortwahl um abzulenken dass man selber keine themen hat die beim Volk noch irgendwie ankommen weil man es selber die letzten jahre nur verbockt hat,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465634740588086038,2025-01-30 09:17:19,In diesem,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465616804771070742,2025-01-30 08:07:37,Also wenn die linke heult ist was richtig gelaufen ,0,0,7465388696850812182,7465388696850812182,neutral,1.0,"['😂', '😂', '😂']"
+7465612710966084374,2025-01-30 07:51:22,Ein neues Zeitalter beginnt  und jeder dem es nicht passt sollte nach Ungarn oder USA auswandern,0,0,7465388696850812182,7465388696850812182,neutral,1.0,"['😂', '😂', '😂']"
+7465608270809547542,2025-01-30 07:34:38,Genau das ist Demokratie auch wenn sie den Verlierern Weg tut Eine Brandmauer die dazu dienen soll dass die CDU dauerhaft in linksgrüne Koalitionen gegen die Interessen des Volkes gezwungen wird hat hingegen nichts mit Demokratie zu tun,0,0,7465388696850812182,7465388696850812182,neutral,,[]
+7465587031859626774,2025-01-30 06:11:34,linker Kindergarten sofort verbieten,0,0,7465388696850812182,7465388696850812182,negative,-1.0,"['😡', '😡', '😡']"
+7465586428929639190,2025-01-30 06:10:12,Ja weil die SPD totaler Schmutz ist,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465502025838068502,2025-01-30 00:43:31,Nur noch SPD  BSW,0,0,7465388696850812182,7465388696850812182,negative,1.0,['👆']
+7465586755883107094,2025-01-30 06:10:44,Das Schlimmste ist meiner Meinung nach dass Merz den Wählern suggeriert dass mit diesem Antrag sofort ab heute keine Attentate mehr passieren Und dass ist billiger Populismus,0,0,7465388696850812182,7465388696850812182,negative,,[]
+7465389569942192918,2025-01-29 17:25:04,Helmut Schmidt würde dem Olaf ne heftige Schelle in den Nacken geben für die verfehlte Asylpolitik,4,2,7465388696850812182,7465388696850812182,neutral,,[]
+7464989858974745366,2025-01-28 15:34:14,Volle Solidarität Unfassbar,24,0,7464979318205140246,7464979318205140246,negative,,"['✊🏻', '♥️']"
+7465070791425491734,2025-01-28 20:47:55,Ganz schlimm Was ist nur in diesem Land los Unsere Gesellschaft hat keine Moral keine Scham mehr Wie bekommen wir es hin dass wir uns gegenseitig respektieren und Rücksicht nehmen,14,0,7464979318205140246,7464979318205140246,negative,,[]
+7464989817324782358,2025-01-28 15:33:51,Wie schrecklich Volle Solidarität,14,0,7464979318205140246,7464979318205140246,negative,,['🙏🏻']
+7465310052964074262,2025-01-29 12:16:53,Solche Nachrichten machen mich fassungslos aber noch mehr wütend ,13,0,7464979318205140246,7464979318205140246,negative,,['❤️']
+7464989269205173014,2025-01-28 15:31:54,Volle Solidarität ,11,0,7464979318205140246,7464979318205140246,negative,1.0,"['♥️', '🌹', '✊🏽']"
+7464990224323298070,2025-01-28 15:35:29,Solidarität ,7,0,7464979318205140246,7464979318205140246,negative,,['♥️']
+7464982860996641558,2025-01-28 15:06:50,ich hoffe dem Genossen geht es bald besser,6,0,7464979318205140246,7464979318205140246,negative,,[]
+7465359956956381954,2025-01-29 15:30:04,Volle Solidarität aus der gründemokratischen Ecke Für einen fairen und demokratischen Wahlkampf und gegen Rechtsextremismus,4,1,7464979318205140246,7464979318205140246,neutral,,[]
+7465011849046819606,2025-01-28 16:59:10,Vollste Solidarität,4,0,7464979318205140246,7464979318205140246,negative,,[]
+7465318636494308118,2025-01-29 12:50:15,Volle Solidarität ,3,0,7464979318205140246,7464979318205140246,negative,1.0,"['💚', '✌️']"
+7469160590586790678,2025-02-08 21:18:23,Deshalb jetzt für das Gegenteil der AfD stimmen SPD Grüne und Linke stehen für Freiheit und faire Demokratie und Beteiligung auch der ärmeren Bevölkerung Mobilisiert Freunde  Verwandte,2,1,7464979318205140246,7464979318205140246,neutral,,[]
 7465632320664109846,2025-01-30 09:07:41,,2,0,7464979318205140246,7464979318205140246,negative,1.0,"['👍', '👍', '👍', '👍', '👍', '👍', '👍', '👍', '❤️']"
-7465397838207746838,2025-01-29 17:57:14,save democracy europe united ,2,0,7464979318205140246,7464979318205140246,negative,,['🇪🇺']
-7465244036535190294,2025-01-29 08:00:51,unmöglich das blaue pack,2,0,7464979318205140246,7464979318205140246,negative,,[]
-7478103777036780310,2025-03-04 23:42:26,lieber matthias bitte rette unser schönes lautre es wird immer schlimmer hier ,1,0,7464979318205140246,7464979318205140246,negative,-1.0,['😒']
-7473667711072437014,2025-02-21 00:49:27,und wie geht es ihm jetzt ,1,0,7464979318205140246,7464979318205140246,neutral,1.0,['💚']
-7472852919924245270,2025-02-18 20:06:33,spd die linke ,1,0,7464979318205140246,7464979318205140246,negative,,"['❤️', '❤️', '❤️']"
-7469161257901507350,2025-02-08 21:21:13,cducsumitglieder sollten jetzt aus protest aus ihrer partei austreten die unter der extremen führung von merz die afd hofiert das nimmt ein schlimmes ende,1,0,7464979318205140246,7464979318205140246,negative,,[]
+7465397838207746838,2025-01-29 17:57:14,Save Democracy Europe United ,2,0,7464979318205140246,7464979318205140246,negative,,['🇪🇺']
+7465244036535190294,2025-01-29 08:00:51,Unmöglich das blaue Pack,2,0,7464979318205140246,7464979318205140246,negative,,[]
+7478103777036780310,2025-03-04 23:42:26,Lieber Matthias bitte rette unser schönes Lautre Es wird immer schlimmer hier ,1,0,7464979318205140246,7464979318205140246,negative,-1.0,['😒']
+7473667711072437014,2025-02-21 00:49:27,Und wie geht es ihm jetzt ,1,0,7464979318205140246,7464979318205140246,neutral,1.0,['💚']
+7472852919924245270,2025-02-18 20:06:33,SPD die Linke ,1,0,7464979318205140246,7464979318205140246,negative,,"['❤️', '❤️', '❤️']"
+7469161257901507350,2025-02-08 21:21:13,CDUCSUMitglieder sollten jetzt aus Protest aus ihrer Partei austreten die unter der extremen Führung von Merz die AfD hofiert Das nimmt ein schlimmes Ende,1,0,7464979318205140246,7464979318205140246,negative,,[]
 7468414534895616790,2025-02-06 21:03:26,,1,0,7464979318205140246,7464979318205140246,negative,1.0,"['🙏', '🙏', '🙏']"
 7466741716125664022,2025-02-02 08:52:21,,1,0,7464979318205140246,7464979318205140246,negative,1.0,"['❤️', '🙏']"
-7465408122086343446,2025-01-29 18:36:50,sie masrschieren wieder genau 80 jahre später,1,0,7464979318205140246,7464979318205140246,neutral,,[]
+7465408122086343446,2025-01-29 18:36:50,Sie masrschieren wieder genau 80 Jahre später,1,0,7464979318205140246,7464979318205140246,neutral,,[]
 7465396341506966294,2025-01-29 17:51:09,was machen die da oben ,1,0,7464979318205140246,7464979318205140246,negative,1.0,"['☝️', '😢', '😢', '😢']"
 7465024404104758038,2025-01-28 17:47:54,,1,0,7464979318205140246,7464979318205140246,negative,1.0,"['❤️', '🤝', '👍']"
-7464995559020086038,2025-01-28 15:55:56,das erinnert mich entsetzlich an die zeit vor 1933 ,1,0,7464979318205140246,7464979318205140246,neutral,1.0,['😳']
-7464983893058913046,2025-01-28 15:10:53,wie stehen sie zu den angriffen gleicher art gegen afd politiker sehen sie dass es zeit wird endlich diese mauern ein zu reissen und zum friedlichen dialog zurück zu kehren verbal abrüsten,1,6,7464979318205140246,7464979318205140246,neutral,,[]
-7464982331334918934,2025-01-28 15:04:46,bro das passiert andersrum genauso ich will das nicht gutheißen und bin gegen die afd aber wie ihr das hier so unseriös nur auf die afd bezieht unterstützt die afd am ende nur,1,9,7464979318205140246,7464979318205140246,negative,,[]
-7496746700917637910,2025-04-24 05:26:15,schrecklich ganz schlimm wenn sowas passiert,0,0,7464979318205140246,7464979318205140246,negative,,[]
-7486088348289893142,2025-03-26 12:06:16,egal für welche partei flyer verteilt werden die straftat ist zu verurteilen,0,0,7464979318205140246,7464979318205140246,neutral,,['♥️']
-7478965142043296535,2025-03-07 07:24:48,die terrorgefahr kommt schon seit jahren von rechts,0,0,7464979318205140246,7464979318205140246,neutral,,[]
-7470660926087529238,2025-02-12 22:20:51,ich bringe es auf den punkt es sind nazis niemals afd,0,0,7464979318205140246,7464979318205140246,negative,,[]
+7464995559020086038,2025-01-28 15:55:56,Das erinnert mich entsetzlich an die Zeit vor 1933 ,1,0,7464979318205140246,7464979318205140246,neutral,1.0,['😳']
+7464983893058913046,2025-01-28 15:10:53,Wie stehen Sie zu den Angriffen gleicher Art gegen AfD Politiker Sehen Sie dass es Zeit wird endlich diese Mauern ein zu reissen und zum friedlichen Dialog zurück zu kehren Verbal abrüsten,1,6,7464979318205140246,7464979318205140246,neutral,,[]
+7464982331334918934,2025-01-28 15:04:46,bro das passiert andersrum genauso Ich will das nicht gutheißen und bin gegen die AFD aber wie ihr das hier so unseriös nur auf die AFD bezieht unterstützt die AFD am Ende nur,1,9,7464979318205140246,7464979318205140246,negative,,[]
+7496746700917637910,2025-04-24 05:26:15,schrecklich Ganz schlimm wenn sowas passiert,0,0,7464979318205140246,7464979318205140246,negative,,[]
+7486088348289893142,2025-03-26 12:06:16,Egal für welche Partei Flyer verteilt werden die Straftat ist zu verurteilen,0,0,7464979318205140246,7464979318205140246,neutral,,['♥️']
+7478965142043296535,2025-03-07 07:24:48,Die Terrorgefahr kommt schon seit Jahren von rechts,0,0,7464979318205140246,7464979318205140246,neutral,,[]
+7470660926087529238,2025-02-12 22:20:51,Ich bringe es auf den Punkt es sind NAZIS niemals AfD,0,0,7464979318205140246,7464979318205140246,negative,,[]
 7466068537616106262,2025-01-31 13:20:06,,0,0,7464979318205140246,7464979318205140246,negative,,['❤️']
-7465703346605277974,2025-01-30 13:42:53,das waren bestimmt afdanhänger wenn sich geschichte wiederholt,0,0,7464979318205140246,7464979318205140246,neutral,,['🤔']
+7465703346605277974,2025-01-30 13:42:53,Das waren bestimmt AfDAnhänger Wenn sich Geschichte wiederholt,0,0,7464979318205140246,7464979318205140246,neutral,,['🤔']
 7465557277744399126,2025-01-30 04:19:52,so hat es 1933 auch angefangen,0,0,7464979318205140246,7464979318205140246,neutral,,[]
-7465464486934889238,2025-01-29 22:15:55,es ist in deutschland nicht mehr schön zu leben wegen den nazis und ich bin 67 jahre alt und hoffe das die den völligen zusammenbruch der demokratie nicht mehr erleben muss ,0,0,7464979318205140246,7464979318205140246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
-7465438867052102422,2025-01-29 20:36:10,wer waren diese männer,0,0,7464979318205140246,7464979318205140246,neutral,,[]
+7465464486934889238,2025-01-29 22:15:55,es ist in Deutschland nicht mehr schön zu leben wegen den Nazis und ich bin 67 Jahre alt und hoffe das die den völligen Zusammenbruch der Demokratie nicht mehr erleben muss ,0,0,7464979318205140246,7464979318205140246,negative,-1.0,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']"
+7465438867052102422,2025-01-29 20:36:10,Wer waren diese Männer,0,0,7464979318205140246,7464979318205140246,neutral,,[]
 7465371846704218902,2025-01-29 16:16:05,,0,0,7464979318205140246,7464979318205140246,negative,1.0,"['🙏', '🙏', '🤩', '🤩']"
-7465363650774352662,2025-01-29 15:44:19,kommt da noch was über den erwähnten angriff jemanden festhalten ist ja kein angriff,0,0,7464979318205140246,7464979318205140246,neutral,,[]
-7465329317351850774,2025-01-29 13:31:24,in bayern in einem kleineren städtchen ist ein cdu kollege tot in seiner wohnung aufgefunden worden ich weiß auch nicht wo das enden soll muss ich den selben nicht erleben wie meine großeltern,0,0,7464979318205140246,7464979318205140246,neutral,,[]
-7465008086488924950,2025-01-28 16:44:55,warum sollen auch nur afdler opfer solcher taten sein und nur weil einer afd rein geritzt hat heißt es nicht das es einer von der afd war da will wieder einer der afd etwas zuschieben um sie als,0,5,7464979318205140246,7464979318205140246,negative,,[]
-7464988307800294166,2025-01-28 15:27:54, mal ein taschentuch rübergereicht und gute besserung gewünscht,0,0,7464979318205140246,7464979318205140246,positive,,[]
-7464984424251212566,2025-01-28 15:13:02,wenn eure partei nicht den rechtsruck durchs hetzen gegen geflüchtete und das unterstützen des genozids in gaza billigen sondern ihn bekämpfen würde gäbe es sowas seltener,0,1,7464979318205140246,7464979318205140246,neutral,,[]
-7464226982705267478,2025-01-26 14:13:29,klar willst du bleiben,3,3,7464224155760594198,7464224155760594198,neutral,1.0,"['😂', '😂', '😂']"
+7465363650774352662,2025-01-29 15:44:19,Kommt da noch was über den erwähnten Angriff Jemanden festhalten ist ja kein Angriff,0,0,7464979318205140246,7464979318205140246,neutral,,[]
+7465329317351850774,2025-01-29 13:31:24,In Bayern In einem kleineren Städtchen ist ein CDU Kollege tot in seiner Wohnung aufgefunden worden Ich weiß auch nicht wo das enden soll Muss ich den selben nicht erleben wie meine Großeltern,0,0,7464979318205140246,7464979318205140246,neutral,,[]
+7465008086488924950,2025-01-28 16:44:55,Warum sollen auch nur AfDler Opfer solcher Taten sein Und nur weil einer AfD rein geritzt hat heißt es nicht das es einer von der AfD war da will wieder einer der AfD etwas zuschieben um sie als,0,5,7464979318205140246,7464979318205140246,negative,,[]
+7464988307800294166,2025-01-28 15:27:54, mal ein Taschentuch rübergereicht und gute Besserung gewünscht,0,0,7464979318205140246,7464979318205140246,positive,,[]
+7464984424251212566,2025-01-28 15:13:02,wenn eure partei nicht den rechtsruck durchs hetzen gegen geflüchtete und das unterstützen des Genozids in Gaza billigen sondern ihn bekämpfen würde gäbe es sowas seltener,0,1,7464979318205140246,7464979318205140246,neutral,,[]
+7464226982705267478,2025-01-26 14:13:29,Klar willst du bleiben,3,3,7464224155760594198,7464224155760594198,neutral,1.0,"['😂', '😂', '😂']"
 7465986379896521495,2025-01-31 08:01:49,,1,0,7464224155760594198,7464224155760594198,negative,1.0,"['🌹', '❤️']"
 7464236713285190422,2025-01-26 14:51:19,wer hat uns verraten,1,1,7464224155760594198,7464224155760594198,negative,,[]
-7468635557649859350,2025-02-07 11:21:48,nur die linke ,13,0,7468631028819643670,7468631028819643670,negative,0.0,"['\U0001fa77', '\U0001fa77', '\U0001fa77', '\U0001faf6🏻', '💪🏻', '🔨', '💕', '❤️']"
-7468652753683677974,2025-02-07 12:28:09,alice weidel hat diesen platz verdient,1,8,7468631028819643670,7468631028819643670,neutral,1.0,['💙']
+7468635557649859350,2025-02-07 11:21:48,NUR DIE LINKE ,13,0,7468631028819643670,7468631028819643670,negative,0.0,"['\U0001fa77', '\U0001fa77', '\U0001fa77', '\U0001faf6🏻', '💪🏻', '🔨', '💕', '❤️']"
+7468652753683677974,2025-02-07 12:28:09,Alice Weidel hat diesen Platz verdient,1,8,7468631028819643670,7468631028819643670,neutral,1.0,['💙']
 7496746339675407126,2025-04-24 05:24:56,,0,0,7468631028819643670,7468631028819643670,negative,1.0,"['👍', '👍', '👍', '👍']"
-7468578513831527190,2025-02-07 07:40:25,ne danke ich bleib bei der linken ,3,0,7468576693578452246,7468576693578452246,negative,,"['🖤', '❤️']"
+7468578513831527190,2025-02-07 07:40:25,Ne danke ich bleib bei der linken ,3,0,7468576693578452246,7468576693578452246,negative,,"['🖤', '❤️']"
 7468656633528517398,2025-02-07 12:43:22,matthiasaufdie1 ,2,0,7468576693578452246,7468576693578452246,negative,1.0,"['❤️', '💪', '🌹']"
-7468582764585943830,2025-02-07 07:56:28,ich fände es bei so einem video auch noch interessant wie ihr das gegenfinanziert ihr habt da ja bestimmt was im programm wirkt dann glaubhafter als nur zu sagen was man senkt,2,0,7468576693578452246,7468576693578452246,negative,,['✌️']
-7468580198159844118,2025-02-07 07:47:23,würds euch echt gerne glauben kann ich leider nicht deshalbdielinke ,2,0,7468576693578452246,7468576693578452246,negative,-1.0,['🚩']
+7468582764585943830,2025-02-07 07:56:28,Ich fände es bei so einem Video auch noch interessant wie ihr das gegenfinanziert Ihr habt da ja bestimmt was im Programm Wirkt dann glaubhafter als nur zu sagen was man senkt,2,0,7468576693578452246,7468576693578452246,negative,,['✌️']
+7468580198159844118,2025-02-07 07:47:23,Würds euch echt gerne glauben Kann ich leider nicht deshalbDieLinke ,2,0,7468576693578452246,7468576693578452246,negative,-1.0,['🚩']
 7468589663408014102,2025-02-07 08:24:03,"
-linke2025
+Linke2025
 ",1,0,7468576693578452246,7468576693578452246,neutral,0.0,"['❤️', '🚩', '🌾', '❤️', '🖤', '🖤', '❤️', '🌾', '🚩', '❤️']"
 7468581767822623510,2025-02-07 07:52:51,,1,0,7468576693578452246,7468576693578452246,negative,,"['\U0001fa77', '\U0001fa77', '\U0001fa77']"
-7469828836450370326,2025-02-10 16:31:52,und sind die herzen grün und rot ist die wirtschaft endlich tot ,0,0,7468576693578452246,7468576693578452246,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7469828836450370326,2025-02-10 16:31:52,Und sind die Herzen grün und rot ist die Wirtschaft endlich tot ,0,0,7468576693578452246,7468576693578452246,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
 7468598100657406722,2025-02-07 08:56:26,"
-linke2025
+Linke2025
 ",0,0,7468576693578452246,7468576693578452246,neutral,0.0,"['\U0001fa77', '🚩', '💗', '\U0001fa77', '\U0001fa77', '💗', '🚩', '\U0001fa77']"
-7468583206842794774,2025-02-07 07:58:45,was gedenkt ihr fürs gesundheitssystem va für die pflege zu tun ich hätte gerne ganz konkrete dinge denn schließlich hat schröder es verbockt,0,0,7468576693578452246,7468576693578452246,neutral,,[]
-7468581876091241238,2025-02-07 07:53:56,och nöööö wie lange seid ihr in der regierung  und jetzt plötzlich ,0,0,7468576693578452246,7468576693578452246,negative,1.0,"['😝', '😝', '😝', '😝', '🤣', '🤣', '🤣', '🤣', '🤣']"
-7468579382706881302,2025-02-07 07:43:55,niemals werde ich diese spd noch einmal wählen,0,0,7468576693578452246,7468576693578452246,neutral,,[]
-7468172170062086934,2025-02-06 05:23:46,schlimmschlimm mit dem keine cdu und niemalsafd,0,0,7468069516040293654,7468069516040293654,negative,,[]
-7468080280541594390,2025-02-05 23:27:16,geld macht menschen kapput,0,0,7468069516040293654,7468069516040293654,negative,,[]
-7468077366406218518,2025-02-05 23:15:42,merz  unmoralisch,0,0,7468069516040293654,7468069516040293654,negative,,[]
-7468074595449733911,2025-02-05 23:05:12,sehe da keinen wirklichen negativen punkt klar es ist immer besser wenn die regierenden vorher erfahrungen im regieren haben aber selbst die diese erfahrung haben sind ja wie wir sehen nicht,0,24,7468069516040293654,7468069516040293654,positive,,[]
-7473625965110919958,2025-02-20 22:06:31,hab ich schon ,2,0,7472808082909711638,7472808082909711638,positive,1.0,"['❤️', '🌹']"
-7472852407724065558,2025-02-18 20:04:31,ihr seid doch für das untergehen deutschland smitverantwortlich,2,0,7472808082909711638,7472808082909711638,neutral,,[]
+7468583206842794774,2025-02-07 07:58:45,Was gedenkt ihr fürs gesundheitssystem va für die Pflege zu tun Ich hätte gerne ganz konkrete Dinge denn schließlich hat Schröder es verbockt,0,0,7468576693578452246,7468576693578452246,neutral,,[]
+7468581876091241238,2025-02-07 07:53:56,och nöööö wie lange seid ihr in der Regierung  und jetzt plötzlich ,0,0,7468576693578452246,7468576693578452246,negative,1.0,"['😝', '😝', '😝', '😝', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7468579382706881302,2025-02-07 07:43:55,niemals werde ich diese SPD noch einmal wählen,0,0,7468576693578452246,7468576693578452246,neutral,,[]
+7468172170062086934,2025-02-06 05:23:46,Schlimmschlimm mit dem Keine CDU und NiemalsAfD,0,0,7468069516040293654,7468069516040293654,negative,,[]
+7468080280541594390,2025-02-05 23:27:16,Geld macht Menschen kapput,0,0,7468069516040293654,7468069516040293654,negative,,[]
+7468077366406218518,2025-02-05 23:15:42,Merz  Unmoralisch,0,0,7468069516040293654,7468069516040293654,negative,,[]
+7468074595449733911,2025-02-05 23:05:12,Sehe da keinen wirklichen negativen Punkt Klar es ist immer besser wenn die Regierenden vorher Erfahrungen im regieren haben aber selbst die diese Erfahrung haben sind ja wie wir sehen nicht,0,24,7468069516040293654,7468069516040293654,positive,,[]
+7473625965110919958,2025-02-20 22:06:31,Hab ich schon ,2,0,7472808082909711638,7472808082909711638,positive,1.0,"['❤️', '🌹']"
+7472852407724065558,2025-02-18 20:04:31,ihr seid doch für das untergehen Deutschland smitverantwortlich,2,0,7472808082909711638,7472808082909711638,neutral,,[]
 7480621935120237367,2025-03-11 18:34:17,,1,0,7472808082909711638,7472808082909711638,negative,,['🥰']
-7472885073336926998,2025-02-18 22:11:28,schon gewählt 3ystimmzettel heute mit beiden stimmen für spd abgeschickt,2,0,7472808082909711638,7472808082909711638,negative,,['🥰']
+7472885073336926998,2025-02-18 22:11:28,Schon gewählt 3yStimmzettel heute mit beiden Stimmen für SPD abgeschickt,2,0,7472808082909711638,7472808082909711638,negative,,['🥰']
 7472833634929214210,2025-02-18 18:51:32,,1,0,7472808082909711638,7472808082909711638,negative,0.0,"['🔞', '🔞', '🔞', '🔞', '🧟\u200d♂️', '🖤', '🅾️', '🤥', '🔪', '👼🏻', '👨🏻\u200d💻', '👇🏻']"
-7496745837940589334,2025-04-24 05:23:05,sehr gut beide stimmen für die spd ,0,0,7472808082909711638,7472808082909711638,positive,,['🥰']
-7472964213301592887,2025-02-19 03:18:31,in nur 5 tagen habe ich 18600  verdient indem ich 1100  im forexhandel genutzt habe erfahren sie mehr bei erzieher samuel,0,0,7472808082909711638,7472808082909711638,neutral,,[]
+7496745837940589334,2025-04-24 05:23:05,Sehr gut Beide stimmen für die SPD ,0,0,7472808082909711638,7472808082909711638,positive,,['🥰']
+7472964213301592887,2025-02-19 03:18:31,In nur 5 Tagen habe ich 18600  verdient indem ich 1100  im ForexHandel genutzt habe Erfahren Sie mehr bei Erzieher Samuel,0,0,7472808082909711638,7472808082909711638,neutral,,[]
 7472839554606433046,2025-02-18 19:14:23,,0,5,7472808082909711638,7472808082909711638,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7470192029730046742,2025-02-11 16:00:56,nie mehr spd,3,0,7470187881450032406,7470187881450032406,negative,,[]
+7470192029730046742,2025-02-11 16:00:56,Nie mehr SPD,3,0,7470187881450032406,7470187881450032406,negative,,[]
 7496745935068070678,2025-04-24 05:23:23,,0,0,7470187881450032406,7470187881450032406,negative,1.0,"['👍', '👍', '👍']"
-7470227564339823382,2025-02-11 18:18:53,sorry ich vertraue euch in sachen rente nicht töpfe die rumstehen werden geplündert erhöht bitte massiv den sparerpauschbetrag senkt parallel meine abgabenlast und lasst mich selbst vorsorgen,0,0,7470187881450032406,7470187881450032406,negative,,[]
-7470227176441398038,2025-02-11 18:17:10,warum muss ich gerade an ulla schmidt denken und daran dass meine direktversicherung mit krankenkassen beiträgen belastet wird dh ich zahle 2x beiträge auch auf den gewinn der versicherung ,0,0,7470187881450032406,7470187881450032406,negative,1.0,['😅']
+7470227564339823382,2025-02-11 18:18:53,Sorry ich vertraue euch in Sachen Rente nicht Töpfe die rumstehen werden geplündert Erhöht bitte massiv den Sparerpauschbetrag senkt parallel meine Abgabenlast und lasst mich selbst vorsorgen,0,0,7470187881450032406,7470187881450032406,negative,,[]
+7470227176441398038,2025-02-11 18:17:10,Warum muss ich gerade an Ulla Schmidt denken und daran dass meine Direktversicherung mit Krankenkassen Beiträgen belastet wird Dh ich zahle 2x Beiträge auch auf den Gewinn der Versicherung ,0,0,7470187881450032406,7470187881450032406,negative,1.0,['😅']
 7470218700138988310,2025-02-11 17:44:21,"
 
 
 
 
  ",0,0,7470187881450032406,7470187881450032406,negative,1.0,"['🕊️', '💜', '🧡']"
-7470193199095382807,2025-02-11 16:05:41,wie ist die frage dafür steht jeder,0,0,7470187881450032406,7470187881450032406,neutral,,[]
-7469841885739041558,2025-02-10 17:22:17,gestern im duell war scholz 100 the hero,2,0,7469823410411998486,7469823410411998486,neutral,,[]
+7470193199095382807,2025-02-11 16:05:41,Wie ist die Frage Dafür steht jeder,0,0,7470187881450032406,7470187881450032406,neutral,,[]
+7469841885739041558,2025-02-10 17:22:17,Gestern im Duell war Scholz 100 the Hero,2,0,7469823410411998486,7469823410411998486,neutral,,[]
 7469841720077304598,2025-02-10 17:21:35,,2,0,7469823410411998486,7469823410411998486,negative,,"['🥰', '🥰', '🥰']"
 7470066270376428311,2025-02-11 07:53:58,,0,0,7469823410411998486,7469823410411998486,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
 7470066386321425174,2025-02-11 07:53:54,,0,0,7469823410411998486,7469823410411998486,negative,1.0,"['🌺', '💘', '🌺', '💘', '🌺', '💘', '🌺', '💘']"
 7470066205346710294,2025-02-11 07:53:50,,0,0,7469823410411998486,7469823410411998486,negative,1.0,"['❤️', '💘', '❤️', '💘', '❤️', '💘', '❤️', '💘']"
 7470066349562528534,2025-02-11 07:53:44,,0,0,7469823410411998486,7469823410411998486,negative,,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
-7469853950263739158,2025-02-10 18:08:53,"scholz ist einfach super er will die preise bezahlbar machen und treibt sie mit seiner co2 steuer in allen lebenslagen in die höhe
-ein supertyp nie wieder rot ist jetzt ",0,0,7469823410411998486,7469823410411998486,neutral,1.0,['😳']
-7469830189264143126,2025-02-10 16:37:01,und sind die herzen grün und rot ist die wirtschaft endlich tot ,0,1,7469823410411998486,7469823410411998486,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7469826788989338370,2025-02-10 16:23:51,nur wenn ihr mit den linken in ne koalition geht ach ne wollt ihr ja nicht,0,0,7469823410411998486,7469823410411998486,negative,,[]
+7469853950263739158,2025-02-10 18:08:53,"Scholz ist einfach super er will die Preise bezahlbar machen und treibt sie mit seiner CO2 Steuer in allen Lebenslagen in die Höhe
+ein Supertyp NIE WIEDER ROT ist jetzt ",0,0,7469823410411998486,7469823410411998486,neutral,1.0,['😳']
+7469830189264143126,2025-02-10 16:37:01,Und sind die Herzen grün und rot ist die Wirtschaft endlich tot ,0,1,7469823410411998486,7469823410411998486,neutral,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7469826788989338370,2025-02-10 16:23:51,Nur wenn ihr mit den Linken in ne Koalition geht ach ne wollt ihr ja nicht,0,0,7469823410411998486,7469823410411998486,negative,,[]

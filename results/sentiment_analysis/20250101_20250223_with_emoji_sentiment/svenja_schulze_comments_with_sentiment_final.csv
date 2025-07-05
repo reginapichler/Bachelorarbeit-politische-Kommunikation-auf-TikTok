@@ -1,314 +1,314 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7461178873493848855,2025-01-18 09:05:29,nur noch,6,2,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7461178873493848855,2025-01-18 09:05:29,Nur noch,6,2,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
 7459858976013370134,2025-01-14 19:43:05,,6,0,7459853549002820886,7459853549002820886,negative,,"['❤️', '❤️', '❤️', '❤️']"
-7461621392746251030,2025-01-19 13:42:58,nur spd ,5,0,7459853549002820886,7459853549002820886,negative,1.0,"['❤️', '👍']"
+7461621392746251030,2025-01-19 13:42:58,Nur SPD ,5,0,7459853549002820886,7459853549002820886,negative,1.0,"['❤️', '👍']"
 7461356647313539842,2025-01-18 20:35:19,,5,0,7459853549002820886,7459853549002820886,negative,,['❤️']
-7466548124582085398,2025-02-01 20:20:53,spd,4,0,7459853549002820886,7459853549002820886,negative,,['❤️']
-7460924757233271574,2025-01-17 16:39:29,unwählbar,4,0,7459853549002820886,7459853549002820886,negative,,[]
+7466548124582085398,2025-02-01 20:20:53,SPD,4,0,7459853549002820886,7459853549002820886,negative,,['❤️']
+7460924757233271574,2025-01-17 16:39:29,UNWÄHLBAR,4,0,7459853549002820886,7459853549002820886,negative,,[]
 7460529975180591894,2025-01-16 15:07:40,nie wieder,4,0,7459853549002820886,7459853549002820886,negative,,[]
-7459855581249356566,2025-01-14 19:30:04,nur die afd kann diesen ganzen irrsinn und wahnsinn noch beenden      ,4,3,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💯', '💙', '💯', '💙', '💯']"
+7459855581249356566,2025-01-14 19:30:04,Nur die AFD kann diesen ganzen Irrsinn und Wahnsinn noch beenden      ,4,3,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💯', '💙', '💯', '💙', '💯']"
 7459855528128119575,2025-01-14 19:29:43,,4,0,7459853549002820886,7459853549002820886,negative,1.0,"['👍', '💙', '👌', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯', '💯']"
-7463937432654152470,2025-01-25 19:30:12,spd ,3,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
+7463937432654152470,2025-01-25 19:30:12,SPD ,3,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
 7459893010017960726,2025-01-14 21:55:22,,3,1,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪']"
-7459859956311655190,2025-01-14 19:46:57,was sollen wir mit der spd die haben wir doch gerade abgewählt nie wiedernur ,3,0,7459853549002820886,7459853549002820886,negative,1.0,"['😂', '😂', '😂', '😂', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7459857119769166614,2025-01-14 19:35:50,deutschland braucht nur noch afd ,3,1,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '👍']"
+7459859956311655190,2025-01-14 19:46:57,Was sollen wir mit der SPD die haben wir doch gerade abgewählt nie wiedernur ,3,0,7459853549002820886,7459853549002820886,negative,1.0,"['😂', '😂', '😂', '😂', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7459857119769166614,2025-01-14 19:35:50,Deutschland braucht nur noch Afd ,3,1,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '👍']"
 7471179317789262614,2025-02-14 07:52:32,,2,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰', '🥰', '🥰', '🥰']"
 7468688466714936086,2025-02-07 14:46:35,,2,0,7459853549002820886,7459853549002820886,negative,1.0,"['🌹', '🌹', '🌹']"
 7463473425244521238,2025-01-24 13:29:27,,2,0,7459853549002820886,7459853549002820886,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '💪', '💪', '💪', '💪', '💪', '💪', '💪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️', '❤️']"
-7459858033432314646,2025-01-14 19:39:32,die spd hat verrat am deutschen volk 1918 geleistet hat den kaiser illegal weggeputscht  vergessen  und die die illegale weimarer republik ausgerufen,2,0,7459853549002820886,7459853549002820886,neutral,1.0,['😅']
-7472441044995867414,2025-02-17 17:28:11,spd ,1,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰', '🥰', '🥰', '🥰']"
-7471624499085165334,2025-02-15 12:39:49,spd,1,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
-7467491006318576386,2025-02-04 09:20:08,die erste steur ist für angela weidel mit wohnsitz in der schweiz,1,0,7459853549002820886,7459853549002820886,neutral,,[]
+7459858033432314646,2025-01-14 19:39:32,Die spd hat Verrat am Deutschen Volk 1918 geleistet hat den Kaiser Illegal weggeputscht  vergessen  Und die die illegale Weimarer Republik ausgerufen,2,0,7459853549002820886,7459853549002820886,neutral,1.0,['😅']
+7472441044995867414,2025-02-17 17:28:11,SPD ,1,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰', '🥰', '🥰', '🥰']"
+7471624499085165334,2025-02-15 12:39:49,SPD,1,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
+7467491006318576386,2025-02-04 09:20:08,Die erste steur ist für Angela weidel mit Wohnsitz in der Schweiz,1,0,7459853549002820886,7459853549002820886,neutral,,[]
 7467136670744757014,2025-02-03 10:25:08,,1,0,7459853549002820886,7459853549002820886,negative,,"['❤️', '❤️', '❤️', '❤️']"
 7465365816561845014,2025-01-29 15:52:43,,1,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7464257938775638807,2025-01-26 16:13:44,wir hoffen dass es beim zweiten mal großartig wird,1,0,7459853549002820886,7459853549002820886,positive,,[]
+7464257938775638807,2025-01-26 16:13:44,Wir hoffen dass es beim zweiten Mal großartig wird,1,0,7459853549002820886,7459853549002820886,positive,,[]
 7463937498521043734,2025-01-25 19:30:19,scholz ,1,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
-7462021068983747350,2025-01-20 15:33:32,wer jetzt noch der spd vertraut den haben sie sein gehirn geklaut,1,0,7459853549002820886,7459853549002820886,negative,,[]
+7462021068983747350,2025-01-20 15:33:32,Wer jetzt noch der SPD vertraut den haben sie sein Gehirn geklaut,1,0,7459853549002820886,7459853549002820886,negative,,[]
 7461913210494370582,2025-01-20 08:36:19,,1,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7461782300973761302,2025-01-20 00:09:27,niemals spd die gute frau verschenkt unsere steuergelder ins ausland  alice weidel ,1,0,7459853549002820886,7459853549002820886,negative,1.0,"['‼️', '💙', '💙', '💙', '👍', '👍', '👍']"
-7461666504028570390,2025-01-19 16:37:46,wir möchten dass die spdwieder zusammen mit den grünen und den linken regiert ,1,0,7459853549002820886,7459853549002820886,neutral,0.42857142857142855,"['❤️', '💚', '\U0001fa77', '❤️', '🖤', '👩🏻\u200d🤝\u200d👨🏼', '👬', '🧑🏻\u200d🤝\u200d🧑🏼', '👩🏻\u200d🤝\u200d👨🏼', '🧑🏻\u200d🤝\u200d🧑🏻', '👬', '🧑🏻\u200d🤝\u200d🧑🏾', '🧑🏻\u200d🤝\u200d🧑🏻', '🥰', '🥰', '🥰', '🌈', '🌈', '🙏', '🙏', '\U0001faf6']"
-7461433164743115542,2025-01-19 01:35:30,ihr zahlt ja auch keine steuern fangen sie damit erst einmal an,1,0,7459853549002820886,7459853549002820886,neutral,,[]
+7461782300973761302,2025-01-20 00:09:27,Niemals SPD die Gute Frau verschenkt unsere Steuergelder ins Ausland  Alice Weidel ,1,0,7459853549002820886,7459853549002820886,negative,1.0,"['‼️', '💙', '💙', '💙', '👍', '👍', '👍']"
+7461666504028570390,2025-01-19 16:37:46,Wir möchten dass die SPDwieder zusammen mit den Grünen und den Linken regiert ,1,0,7459853549002820886,7459853549002820886,neutral,0.42857142857142855,"['❤️', '💚', '\U0001fa77', '❤️', '🖤', '👩🏻\u200d🤝\u200d👨🏼', '👬', '🧑🏻\u200d🤝\u200d🧑🏼', '👩🏻\u200d🤝\u200d👨🏼', '🧑🏻\u200d🤝\u200d🧑🏻', '👬', '🧑🏻\u200d🤝\u200d🧑🏾', '🧑🏻\u200d🤝\u200d🧑🏻', '🥰', '🥰', '🥰', '🌈', '🌈', '🙏', '🙏', '\U0001faf6']"
+7461433164743115542,2025-01-19 01:35:30,Ihr zahlt ja auch keine Steuern fangen Sie damit erst einmal an,1,0,7459853549002820886,7459853549002820886,neutral,,[]
 7461326738107433750,2025-01-18 18:39:02,,1,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7460767623087031062,2025-01-17 06:30:48,die altparteien sind total verzweifelt und wissen überhaupt nicht mehr was sie noch reden sollen um wähler zu bekommen ,1,0,7459853549002820886,7459853549002820886,neutral,1.0,['😌']
-7460605684468581142,2025-01-16 20:00:54,geh endlich  die wüste ist groß und genug sandkörner zum zählen  nur  bringt uns weiter,1,0,7459853549002820886,7459853549002820886,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7460442134190310166,2025-01-16 09:27:11,zum glück ist bald februar dann ist der gipfel der inkompetenz geschichte ,1,0,7459853549002820886,7459853549002820886,neutral,1.0,"['🙈', '🤪', '🤣']"
-7460072586123756294,2025-01-15 09:32:29,maryam orla war für mich eine inspiration und ihr einfluss auf mein leben wird noch viele jahre spürbar seinmaryam orla ,1,0,7459853549002820886,7459853549002820886,positive,,['🇩🇪']
-7460013973452227334,2025-01-15 05:45:19,ihre fähigkeit gewinne zu erzielen selbst wenn die trades seitwärts laufen ist so unglaublich sie ist ein genie maryam orla ,1,0,7459853549002820886,7459853549002820886,neutral,,['🇩🇪']
-7460009178074546966,2025-01-15 05:26:53,die spd hat seit ihrem bestehen schon zig mal die arbeiterklasse verraten und betrogen,1,0,7459853549002820886,7459853549002820886,negative,,[]
-7459898316545917718,2025-01-14 22:15:52,der doppel wumms zerstörer ,1,0,7459853549002820886,7459853549002820886,neutral,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
-7475883110572868374,2025-02-27 00:06:09,gartenzwergnur,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7474302482883019522,2025-02-22 17:51:31,drei jahre das land zerstört  und wollen wieder gewählt werden        ,0,0,7459853549002820886,7459853549002820886,neutral,1.0,"['😱', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮']"
-7474260308560298774,2025-02-22 15:07:58,niemals sonst wird der scherbenhaufen noch größer,0,0,7459853549002820886,7459853549002820886,neutral,-1.0,"['😩', '😩']"
-7473950126282343190,2025-02-21 19:04:10,spd,0,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
-7473949336805278486,2025-02-21 19:01:06,ich wähle nun seit über vierzig jahren in deutschland und es gab niemals politiker die ich so massiv politisch wie auch menschlich abgelehnt habe wie baerbock habeck scholz und faeser,0,0,7459853549002820886,7459853549002820886,neutral,,[]
-7473949280182600470,2025-02-21 19:00:58,"ich finde der olaf ist in der letzten zeit wie entfesselt
-er erscheint mir wie eine mischung aus louis de funes und mrmagoo
-damit hätte er schon früher anfangen sollen 
-irgendwie werde ich ihn vermissen",0,0,7459853549002820886,7459853549002820886,neutral,,[]
-7473147253466530582,2025-02-19 15:08:46,nein  das,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍']"
-7473043786919183126,2025-02-19 08:27:22,niemals altparteien ,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['🤮', '🤮', '🤮', '🤮', '👍', '👍', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7472430258781635350,2025-02-17 16:46:28,schuldig aschaffenburg magdeburg münchen kriegstreiber 15 euro mindestlohn alles wird teurer um das geld dann der ukraine zu geben widerlich,0,0,7459853549002820886,7459853549002820886,negative,,[]
+7460767623087031062,2025-01-17 06:30:48,Die Altparteien sind total verzweifelt und wissen überhaupt nicht mehr was sie noch reden Sollen um Wähler zu bekommen ,1,0,7459853549002820886,7459853549002820886,neutral,1.0,['😌']
+7460605684468581142,2025-01-16 20:00:54,Geh endlich  die Wüste ist groß und genug Sandkörner zum zählen  Nur  bringt uns weiter,1,0,7459853549002820886,7459853549002820886,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7460442134190310166,2025-01-16 09:27:11,Zum Glück ist bald Februar dann ist der Gipfel der Inkompetenz Geschichte ,1,0,7459853549002820886,7459853549002820886,neutral,1.0,"['🙈', '🤪', '🤣']"
+7460072586123756294,2025-01-15 09:32:29,Maryam Orla war für mich eine Inspiration und ihr Einfluss auf mein Leben wird noch viele Jahre spürbar seinMARYAM ORLA ,1,0,7459853549002820886,7459853549002820886,positive,,['🇩🇪']
+7460013973452227334,2025-01-15 05:45:19,Ihre Fähigkeit Gewinne zu erzielen selbst wenn die Trades seitwärts laufen ist so unglaublich Sie ist ein Genie MARYAM ORLA ,1,0,7459853549002820886,7459853549002820886,neutral,,['🇩🇪']
+7460009178074546966,2025-01-15 05:26:53,Die SPD hat seit ihrem Bestehen schon zig Mal die Arbeiterklasse verraten und betrogen,1,0,7459853549002820886,7459853549002820886,negative,,[]
+7459898316545917718,2025-01-14 22:15:52,Der Doppel Wumms Zerstörer ,1,0,7459853549002820886,7459853549002820886,neutral,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7475883110572868374,2025-02-27 00:06:09,Gartenzwergnur,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7474302482883019522,2025-02-22 17:51:31,DREI JAHRE DAS LAND ZERSTÖRT  UND WOLLEN WIEDER GEWÄHLT WERDEN        ,0,0,7459853549002820886,7459853549002820886,neutral,1.0,"['😱', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮', '🤮']"
+7474260308560298774,2025-02-22 15:07:58,Niemals sonst wird der Scherbenhaufen noch größer,0,0,7459853549002820886,7459853549002820886,neutral,-1.0,"['😩', '😩']"
+7473950126282343190,2025-02-21 19:04:10,SPD,0,0,7459853549002820886,7459853549002820886,negative,,"['🥰', '🥰', '🥰']"
+7473949336805278486,2025-02-21 19:01:06,Ich wähle nun seit über vierzig Jahren in Deutschland und es gab niemals Politiker die ich so massiv politisch wie auch menschlich abgelehnt habe wie Baerbock Habeck Scholz und Faeser,0,0,7459853549002820886,7459853549002820886,neutral,,[]
+7473949280182600470,2025-02-21 19:00:58,"Ich finde der Olaf ist in der letzten Zeit wie entfesselt
+Er erscheint mir wie eine Mischung aus Louis de Funes und MrMagoo
+Damit hätte er schon früher anfangen sollen 
+Irgendwie werde ich Ihn vermissen",0,0,7459853549002820886,7459853549002820886,neutral,,[]
+7473147253466530582,2025-02-19 15:08:46,Nein  das,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '👍', '👍']"
+7473043786919183126,2025-02-19 08:27:22,Niemals Altparteien ,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['🤮', '🤮', '🤮', '🤮', '👍', '👍', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7472430258781635350,2025-02-17 16:46:28,Schuldig Aschaffenburg Magdeburg München Kriegstreiber 15 Euro Mindestlohn alles wird teurer um das Geld dann der Ukraine zu geben widerlich,0,0,7459853549002820886,7459853549002820886,negative,,[]
 7472000389349475104,2025-02-16 12:59:22,,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙']"
-7471329852126675734,2025-02-14 17:36:12,nur spd,0,0,7459853549002820886,7459853549002820886,negative,,[]
-7471314773276689174,2025-02-14 16:37:42,die reichenkönnen mal euros abtretenganz genauspd  olaf scholz ,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['👍', '👍', '👍', '🥰', '🥰', '🥰', '❤️']"
-7470584618288284438,2025-02-12 17:24:23,"wusstet ihr das von der spd schon
-die schützen manager und gutverdiener davor ab 8000 monatseinkommen mehr in die renten und pflegekasse einzahlen zu müssen und lassen lieber arme menschen leiden und betteln
-man nennt das beitragsbemessungsgrenzen
-wollte es nur nochal mal kurz vor der wahl erwähnen ",0,0,7459853549002820886,7459853549002820886,negative,1.0,"['😎', '🙋']"
-7469515478865871638,2025-02-09 20:15:41,spd muß gewinnen ansonst geht europa in stücke bitte viel viel arbeitenum ein gutes resultat nach hause zu bringendank schõn leute,0,0,7459853549002820886,7459853549002820886,negative,,[]
-7469137779698991874,2025-02-08 19:50:03,spd hat nichts für kinder übrig es gibt auf tiktok einen post von thilo von der spd der kinder obdachlos machen will wenn sie nicht seinen meinung sind da sieht man das von der spd nichts gutes kommt,0,0,7459853549002820886,7459853549002820886,negative,,[]
+7471329852126675734,2025-02-14 17:36:12,NUR SPD,0,0,7459853549002820886,7459853549002820886,negative,,[]
+7471314773276689174,2025-02-14 16:37:42,DIE REICHENKÖNNEN MAL EUROS ABTRETENGANZ GENAUSPD  OLAF SCHOLZ ,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['👍', '👍', '👍', '🥰', '🥰', '🥰', '❤️']"
+7470584618288284438,2025-02-12 17:24:23,"Wusstet Ihr das von der SPD schon
+Die schützen Manager und Gutverdiener davor ab 8000 Monatseinkommen mehr in die Renten und Pflegekasse einzahlen zu müssen und lassen lieber arme Menschen leiden und betteln
+Man nennt das Beitragsbemessungsgrenzen
+Wollte es nur nochal mal kurz vor der Wahl erwähnen ",0,0,7459853549002820886,7459853549002820886,negative,1.0,"['😎', '🙋']"
+7469515478865871638,2025-02-09 20:15:41,SPD muß gewinnen ansonst geht Europa in Stücke bitte viel viel arbeitenum ein gutes Resultat nach Hause zu bringenDank schõn Leute,0,0,7459853549002820886,7459853549002820886,negative,,[]
+7469137779698991874,2025-02-08 19:50:03,SPD hat nichts für Kinder übrig es gibt auf tiktok einen Post von Thilo von der SPD der Kinder obdachlos machen will wenn sie nicht seinen Meinung sind da sieht man das von der SPD Nichts gutes kommt,0,0,7459853549002820886,7459853549002820886,negative,,[]
 7469124258041840406,2025-02-08 18:57:38,,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7467490738863915798,2025-02-04 09:18:52,olaf scholz sofort bundeskanzler ,0,0,7459853549002820886,7459853549002820886,neutral,,"['❤️', '❤️', '❤️']"
-7465372275903611670,2025-01-29 16:17:53,ich habe sie heute im bundestag gehört und ich habe ein neues feindbild schämen sie sich,0,0,7459853549002820886,7459853549002820886,neutral,,[]
-7461698968297538326,2025-01-19 18:43:29,nie wieder spd ,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['😈', '😈']"
-7460229805436617477,2025-01-15 19:42:26,bitcoin is one of the best assets to invest in right now i recommend her to anyone interested trade_with_christina,0,0,7459853549002820886,7459853549002820886,positive,,[]
-7460213282851930886,2025-01-15 18:38:04,we like your contents  we would love to have you on our team if you are interested please send jessica6 to our instagram ig sagajewels official,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['💄', '💕', '💚', '🎄', '\U0001fab7', '👑', '🥰', '🥰', '🥰']"
-7460209446137774870,2025-01-15 18:23:36,scholz steuer für ukraina bald ist ende,0,0,7459853549002820886,7459853549002820886,neutral,-1.0,"['😡', '😡', '😡', '😡']"
-7460046856845656837,2025-01-15 07:52:42,ihre fachkundige anleitung hat mein verständnis des kryptomarktes verändert und mir ermöglicht den handel mit zuversicht statt mit angst anzugehen maryam orla ,0,0,7459853549002820886,7459853549002820886,neutral,,['🇩🇪']
-7460035596524241669,2025-01-15 07:09:23,sie hat mir diese woche geld eingebracht nur weil ich in ihre handelsplattform investiert habe ich bin so aufgeregt  maryam orla ,0,0,7459853549002820886,7459853549002820886,neutral,,"['🤝', '🇩🇪']"
+7467490738863915798,2025-02-04 09:18:52,OLAF SCHOLZ SOFORT BUNDESKANZLER ,0,0,7459853549002820886,7459853549002820886,neutral,,"['❤️', '❤️', '❤️']"
+7465372275903611670,2025-01-29 16:17:53,ich habe sie heute im Bundestag gehört und ich habe ein neues Feindbild Schämen Sie sich,0,0,7459853549002820886,7459853549002820886,neutral,,[]
+7461698968297538326,2025-01-19 18:43:29,Nie wieder SPD ,0,0,7459853549002820886,7459853549002820886,negative,1.0,"['😈', '😈']"
+7460229805436617477,2025-01-15 19:42:26,Bitcoin is one of the best assets to invest in right now I recommend her to anyone interested trade_with_Christina,0,0,7459853549002820886,7459853549002820886,positive,,[]
+7460213282851930886,2025-01-15 18:38:04,We like your contents  we would love to have you on our team if you are interested Please send jessica6 to our instagram IG SAGAJEWELS Official,0,0,7459853549002820886,7459853549002820886,positive,1.0,"['💄', '💕', '💚', '🎄', '\U0001fab7', '👑', '🥰', '🥰', '🥰']"
+7460209446137774870,2025-01-15 18:23:36,Scholz Steuer für Ukraina bald ist Ende,0,0,7459853549002820886,7459853549002820886,neutral,-1.0,"['😡', '😡', '😡', '😡']"
+7460046856845656837,2025-01-15 07:52:42,Ihre fachkundige Anleitung hat mein Verständnis des Kryptomarktes verändert und mir ermöglicht den Handel mit Zuversicht statt mit Angst anzugehen MARYAM ORLA ,0,0,7459853549002820886,7459853549002820886,neutral,,['🇩🇪']
+7460035596524241669,2025-01-15 07:09:23,Sie hat mir diese Woche Geld eingebracht nur weil ich in ihre Handelsplattform investiert habe ich bin so aufgeregt  MARYAM ORLA ,0,0,7459853549002820886,7459853549002820886,neutral,,"['🤝', '🇩🇪']"
 7459896556636865302,2025-01-14 22:09:01,,0,0,7459853549002820886,7459853549002820886,negative,,"['🤡', '🤡']"
-7459890312664957718,2025-01-14 21:44:42,dann soll er endlich cum ex und cum cum aufarbeiten da geht es um milliarden,0,0,7459853549002820886,7459853549002820886,neutral,1.0,"['💯', '💯', '💯']"
-7491686653524067094,2025-04-10 14:10:38,führen sie endlich sterbehilfe ein,0,0,7459853549002820886,7459853549002820886,neutral,,[]
-7461209893200413446,2025-01-18 11:05:55,brauche geld kredit bitte schreiben sie mir privat und wir wollen seriöse und ehrliche menschen ,0,0,7459853549002820886,7459853549002820886,negative,,"['🇩🇪', '🇩🇪', '🇩🇪']"
-7468531913884566294,2025-02-07 04:41:19, spd ,1,0,7468388009201634582,7468388009201634582,negative,1.0,"['🌹', '🌹', '🌹', '🌹', '🌹', '🌹']"
-7469278392170742583,2025-02-09 04:55:55,hi could you please add me as a friend i love the things you share and i couldnt add you myself and i also apologise for coming at you like this,0,0,7468388009201634582,7468388009201634582,negative,,[]
-7468389807119844118,2025-02-06 19:27:16,warum erst jetzt  waum nicht schon die letzten 3 jahren was gemacht,0,1,7468388009201634582,7468388009201634582,negative,,[]
+7459890312664957718,2025-01-14 21:44:42,dann soll er endlich Cum ex und Cum Cum aufarbeiten Da geht es um Milliarden,0,0,7459853549002820886,7459853549002820886,neutral,1.0,"['💯', '💯', '💯']"
+7491686653524067094,2025-04-10 14:10:38,Führen Sie endlich Sterbehilfe ein,0,0,7459853549002820886,7459853549002820886,neutral,,[]
+7461209893200413446,2025-01-18 11:05:55,Brauche Geld Kredit bitte schreiben Sie mir privat und wir wollen seriöse und ehrliche Menschen ,0,0,7459853549002820886,7459853549002820886,negative,,"['🇩🇪', '🇩🇪', '🇩🇪']"
+7468531913884566294,2025-02-07 04:41:19, SPD ,1,0,7468388009201634582,7468388009201634582,negative,1.0,"['🌹', '🌹', '🌹', '🌹', '🌹', '🌹']"
+7469278392170742583,2025-02-09 04:55:55,Hi could you please add me as a friend I love the things you share and I couldnt add you myself And I also apologise for coming at you like this,0,0,7468388009201634582,7468388009201634582,negative,,[]
+7468389807119844118,2025-02-06 19:27:16,Warum erst jetzt  Waum Nicht schon die letzten 3 Jahren was gemacht,0,1,7468388009201634582,7468388009201634582,negative,,[]
 7492724723371229958,2025-04-13 09:19:37,,0,0,7472677577694678274,7472677577694678274,negative,,['🥰']
-7472683761081778967,2025-02-18 09:10:37, spd das war mal ne partei für für uns bürger u irgendwann mal verkehrt abgebogen u jetzt abgehoben u fern von jeder realität,0,0,7472677577694678274,7472677577694678274,negative,1.0,"['😂', '😂']"
+7472683761081778967,2025-02-18 09:10:37, SPD DAS war mal ne Partei für für uns Bürger u irgendwann mal verkehrt abgebogen u jetzt abgehoben u fern von jeder Realität,0,0,7472677577694678274,7472677577694678274,negative,1.0,"['😂', '😂']"
 7472680032619152150,2025-02-18 08:56:16,,0,0,7472677577694678274,7472677577694678274,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '🗿', '🗿', '🗿']"
-7471953111394763542,2025-02-16 09:54:58,werwar die letzten 3 jahre in der regierung,1,1,7471951935264836886,7471951935264836886,neutral,,[]
+7471953111394763542,2025-02-16 09:54:58,Werwar die letzten 3 Jahre in der Regierung,1,1,7471951935264836886,7471951935264836886,neutral,,[]
 7492724828655502085,2025-04-13 09:19:38,,0,0,7471951935264836886,7471951935264836886,negative,,['🥰']
 7471959566814397206,2025-02-16 10:19:59,,0,0,7471951935264836886,7471951935264836886,negative,-1.0,"['😡', '😡', '😡']"
-7471915598076953366,2025-02-16 07:30:05,"könnt ihr nicht rechnen was sind 2
-krankenkasse hoch energie hoch grundstücksteuer hoch c02 steuer das in eurer zeit wer soll das glauben",52,2,7471592082302389526,7471592082302389526,negative,,[]
-7471919149585875734,2025-02-16 07:43:06,ja sicherihr habt ja dafür gesorgtdas die preise steigen und nein meine stimme gibt es nicht,47,2,7471592082302389526,7471592082302389526,negative,,[]
-7471933666953151254,2025-02-16 08:39:26,ich lach mich kaputt niemals spd ,34,2,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7471894819125510934,2025-02-16 06:10:33,bitte verschont uns eine woche vor der wahl mit irgendwelchen versprechen,31,1,7471592082302389526,7471592082302389526,neutral,,[]
-7471928970026484503,2025-02-16 08:21:29,"absolut lachhaft
-der cumex kanzler soll die 30 milliarden zurück holen
-aber da hat er selber gut abkassiert",21,1,7471592082302389526,7471592082302389526,negative,,[]
-7471997686155248407,2025-02-16 12:47:45,"wer hat es denn so teuer gemacht
-danke für nichts",17,0,7471592082302389526,7471592082302389526,negative,,[]
-7471638355034473238,2025-02-15 13:33:19,dank euch und bei 15euro wird das brot 10 euro kosten ,14,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
-7471617669378540310,2025-02-15 12:13:22,was habt ihr die letzten 3 jahre gemacht,12,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7471995855610381078,2025-02-16 12:40:41,die erhöhung des mindestlohns macht das brot auch wieder teurer,9,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472025035148411670,2025-02-16 14:34:07,was würde das brot kosten wenn der mindestlohn 15 euro kostet würde also wer versteht nichts von der wirtschaft spd ist einfach unglaublich,7,2,7471592082302389526,7471592082302389526,negative,,[]
-7471981969804084000,2025-02-16 11:59:36,spd ist auch daran beteiligt mit co2 abgaben,7,1,7471592082302389526,7471592082302389526,neutral,,[]
-7471979306873373462,2025-02-16 11:36:18,ja und sie verteilen unsere gelder,5,0,7471592082302389526,7471592082302389526,negative,,[]
-7471944497161995030,2025-02-16 09:21:23, deshalb sind preis unter spd und grüne gestiegen also ich wusste schon immer das glaubhaftigkeit und politik nicht zwingend einen zusamnenhang haben spd nein danke,5,2,7471592082302389526,7471592082302389526,negative,,[]
-7471628321054065431,2025-02-15 12:54:40,von 7 auf 5 merkt man quasi gar nicht vor allem nicht ohne preiskomision die mehrwertsteuer auf grundnarungsmittel muss weg und bei den verbrauchern ankommen deshalb am 2302 die linke wählen,5,1,7471592082302389526,7471592082302389526,negative,,[]
-7471971524750148374,2025-02-16 11:06:24,lohn anheben  da bleibt nichts von übrig  arbeitgeber muß das wieder reinholen und was passiert  alles wird wieder teurer,4,2,7471592082302389526,7471592082302389526,negative,,[]
-7471639131262485270,2025-02-15 13:36:32,da freut sich der discounter der steckt sich dann die 2indie eigene tasche und beim mindestlohn gibt es dann ordentlich steuern krankenversicherung pflegeversicherung und so weiter,4,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471593724538094359,2025-02-15 10:40:23,"deswegen die linke am 2302 
-für eine vernünftige sozial und asylpolitik",3,0,7471592082302389526,7471592082302389526,neutral,,['\U0001fa77']
-7471911497724576534,2025-02-16 07:13:49,dank euch,2,0,7471592082302389526,7471592082302389526,positive,,[]
-7471666816688128790,2025-02-15 15:23:49,ich weine gleich,2,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471915598076953366,2025-02-16 07:30:05,"Könnt ihr nicht rechnen was sind 2
+Krankenkasse hoch Energie hoch Grundstücksteuer hoch C02 Steuer das in eurer Zeit wer soll das glauben",52,2,7471592082302389526,7471592082302389526,negative,,[]
+7471919149585875734,2025-02-16 07:43:06,Ja sicherihr habt ja dafür gesorgtdas die Preise steigen und Nein meine Stimme gibt es nicht,47,2,7471592082302389526,7471592082302389526,negative,,[]
+7471933666953151254,2025-02-16 08:39:26,Ich lach mich kaputt niemals SPD ,34,2,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7471894819125510934,2025-02-16 06:10:33,Bitte verschont uns eine Woche vor der Wahl mit irgendwelchen Versprechen,31,1,7471592082302389526,7471592082302389526,neutral,,[]
+7471928970026484503,2025-02-16 08:21:29,"Absolut lachhaft
+Der cumex Kanzler soll die 30 Milliarden zurück holen
+Aber da hat er selber gut abkassiert",21,1,7471592082302389526,7471592082302389526,negative,,[]
+7471997686155248407,2025-02-16 12:47:45,"Wer hat es denn so teuer gemacht
+Danke für nichts",17,0,7471592082302389526,7471592082302389526,negative,,[]
+7471638355034473238,2025-02-15 13:33:19,dank euch und bei 15euro wird das Brot 10 euro kosten ,14,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
+7471617669378540310,2025-02-15 12:13:22,Was habt ihr die letzten 3 Jahre gemacht,12,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙']"
+7471995855610381078,2025-02-16 12:40:41,Die Erhöhung des Mindestlohns macht das Brot auch wieder teurer,9,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472025035148411670,2025-02-16 14:34:07,Was würde das Brot kosten wenn der Mindestlohn 15 Euro kostet würde also wer versteht nichts von der Wirtschaft SPD ist einfach unglaublich,7,2,7471592082302389526,7471592082302389526,negative,,[]
+7471981969804084000,2025-02-16 11:59:36,spd ist auch daran beteiligt mit co2 Abgaben,7,1,7471592082302389526,7471592082302389526,neutral,,[]
+7471979306873373462,2025-02-16 11:36:18,Ja und sie verteilen unsere Gelder,5,0,7471592082302389526,7471592082302389526,negative,,[]
+7471944497161995030,2025-02-16 09:21:23, Deshalb sind Preis unter SPD und Grüne gestiegen Also ich wusste schon immer das Glaubhaftigkeit und Politik nicht zwingend einen Zusamnenhang haben SPD nein danke,5,2,7471592082302389526,7471592082302389526,negative,,[]
+7471628321054065431,2025-02-15 12:54:40,Von 7 auf 5 merkt man quasi gar nicht vor allem nicht ohne Preiskomision Die Mehrwertsteuer auf Grundnarungsmittel muss weg und bei den Verbrauchern ankommen Deshalb am 2302 die Linke wählen,5,1,7471592082302389526,7471592082302389526,negative,,[]
+7471971524750148374,2025-02-16 11:06:24,Lohn anheben  da bleibt nichts von übrig  Arbeitgeber muß das wieder reinholen und was passiert  alles wird wieder teurer,4,2,7471592082302389526,7471592082302389526,negative,,[]
+7471639131262485270,2025-02-15 13:36:32,Da freut sich der Discounter der steckt sich dann die 2indie eigene Tasche und beim Mindestlohn gibt es dann ordentlich Steuern Krankenversicherung Pflegeversicherung und so weiter,4,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471593724538094359,2025-02-15 10:40:23,"Deswegen die Linke am 2302 
+für eine vernünftige Sozial UND Asylpolitik",3,0,7471592082302389526,7471592082302389526,neutral,,['\U0001fa77']
+7471911497724576534,2025-02-16 07:13:49,Dank euch,2,0,7471592082302389526,7471592082302389526,positive,,[]
+7471666816688128790,2025-02-15 15:23:49,Ich weine gleich,2,0,7471592082302389526,7471592082302389526,neutral,,[]
 7472171188766114582,2025-02-17 00:02:02,deshalb ,1,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙']"
-7472139339548476182,2025-02-16 21:57:19,den alltag habt ihr teurer gemacht,1,0,7471592082302389526,7471592082302389526,negative,,[]
-7472098847260607254,2025-02-16 19:20:21,wie wäre es die strom und energiepreise zu senken der mindestlohn frißt eure großzügige steuersenkung wieder auf,1,1,7471592082302389526,7471592082302389526,neutral,,[]
-7472035273947611926,2025-02-16 15:13:53,spd das geht gar nicht,1,0,7471592082302389526,7471592082302389526,negative,,[]
-7472028489861415702,2025-02-16 14:47:18,das ist doch nur stimmenfang,1,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472020518331056918,2025-02-16 14:16:24,bei dieser satire bin ich fast vom stuhl gefallen ,1,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂', '😂', '😂']"
-7472009314716189462,2025-02-16 13:33:00,so ist es die mwst auf lebensmittel müssen ganz weg darum keine spd,1,1,7471592082302389526,7471592082302389526,negative,,[]
-7472002683503936289,2025-02-16 13:08:14,perfekte forderung für einen angehenden oppositionspolitiker ,1,0,7471592082302389526,7471592082302389526,neutral,0.0,['😏']
-7472002493976773398,2025-02-16 13:06:31,spd unwählbar ,1,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7472001925845517078,2025-02-16 13:04:17,"einfach toll wenn man immer auf der richtigen seite ist
-moralisch überlegen klar in der sache
-anständig und unangreifbar
+7472139339548476182,2025-02-16 21:57:19,Den Alltag habt ihr Teurer gemacht,1,0,7471592082302389526,7471592082302389526,negative,,[]
+7472098847260607254,2025-02-16 19:20:21,Wie wäre es die Strom und Energiepreise zu senken Der Mindestlohn frißt eure großzügige Steuersenkung wieder auf,1,1,7471592082302389526,7471592082302389526,neutral,,[]
+7472035273947611926,2025-02-16 15:13:53,SPD das geht gar nicht,1,0,7471592082302389526,7471592082302389526,negative,,[]
+7472028489861415702,2025-02-16 14:47:18,Das ist doch nur Stimmenfang,1,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472020518331056918,2025-02-16 14:16:24,Bei dieser Satire bin ich fast vom Stuhl gefallen ,1,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂', '😂', '😂']"
+7472009314716189462,2025-02-16 13:33:00,So ist es die MwSt auf Lebensmittel müssen ganz weg darum keine SPD,1,1,7471592082302389526,7471592082302389526,negative,,[]
+7472002683503936289,2025-02-16 13:08:14,Perfekte Forderung für einen angehenden Oppositionspolitiker ,1,0,7471592082302389526,7471592082302389526,neutral,0.0,['😏']
+7472002493976773398,2025-02-16 13:06:31,SPD unwählbar ,1,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7472001925845517078,2025-02-16 13:04:17,"Einfach toll wenn man immer auf der richtigen Seite ist
+Moralisch überlegen klar in der Sache
+Anständig und unangreifbar
 ",1,1,7471592082302389526,7471592082302389526,positive,,['🙄']
-7471989731762635542,2025-02-16 12:17:04,ja genau nur afd sonst nichts mehr keine alt parteien mehr niemals wieder niemals,1,1,7471592082302389526,7471592082302389526,negative,,[]
-7471989179544863510,2025-02-16 12:14:54,warum hat die spd nur unfähiges personal ,1,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😩', '😩']"
-7471947105964147478,2025-02-16 09:31:28,deswegen habt ihr auch bei der co2 steuer zugestimmt was soll ich jetzt denken ,1,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471846486516679446,2025-02-16 03:05:10,die bürger wissen das,1,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471717572487086871,2025-02-15 18:40:50,in italien haben sie die steuer erhöht die rechten können nicht regieren,1,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471989731762635542,2025-02-16 12:17:04,Ja genau nur AFD sonst nichts mehr keine alt Parteien mehr niemals wieder niemals,1,1,7471592082302389526,7471592082302389526,negative,,[]
+7471989179544863510,2025-02-16 12:14:54,Warum hat die SPD nur unfähiges Personal ,1,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😩', '😩']"
+7471947105964147478,2025-02-16 09:31:28,Deswegen habt ihr auch bei der CO2 Steuer zugestimmt was soll ich jetzt denken ,1,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471846486516679446,2025-02-16 03:05:10,Die Bürger wissen das,1,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471717572487086871,2025-02-15 18:40:50,In Italien haben sie die Steuer erhöht die Rechten können nicht regieren,1,0,7471592082302389526,7471592082302389526,neutral,,[]
 7471592174418887446,2025-02-15 10:34:28,,1,0,7471592082302389526,7471592082302389526,negative,,"['🥰', '🥰', '🥰']"
 7485133089950171922,2025-03-23 22:19:40,,0,0,7471592082302389526,7471592082302389526,negative,,"['🥰', '🥰', '🥰']"
-7482330020650042134,2025-03-16 09:02:16,frau schulze ich arbeite bei einer getreidemühle 1 lkw rohware vor 3jahren 540 km 675  2025 940  und wir bekommen es im mehl nicht umgesetzt geh mir bloß weg,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7481959692987499286,2025-03-15 09:05:09,in den letzten drei jahren sind die lebensmittel preise enorm gestiegen wer war da noch mal an der regierung ,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7480240929041449750,2025-03-10 17:55:23,super schlau ihr habt ja genug ,0,0,7471592082302389526,7471592082302389526,positive,1.0,"['💙', '💙', '💙', '💙']"
+7482330020650042134,2025-03-16 09:02:16,Frau Schulze ich arbeite bei einer Getreidemühle 1 LKW Rohware vor 3Jahren 540 km 675  2025 940  Und wir bekommen es im Mehl nicht umgesetzt Geh mir bloß weg,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7481959692987499286,2025-03-15 09:05:09,in den letzten drei Jahren sind die Lebensmittel Preise enorm gestiegen Wer war da noch mal an der Regierung ,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7480240929041449750,2025-03-10 17:55:23,Super schlau ihr habt ja genug ,0,0,7471592082302389526,7471592082302389526,positive,1.0,"['💙', '💙', '💙', '💙']"
 7480157998267056918,2025-03-10 12:33:36,es wird nicht billiger,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7479186498429797142,2025-03-07 21:43:41,hätten sie nicht das ganze geld verjubelt in dienstreisen bekleidungentwicklungshilfe und ukraine und ukrainerden es besser geht als uns,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7477957280001393414,2025-03-04 14:13:54,"kontaktieren sie frau judy
-krypto judyk 
-sie werden mir später bestimmt danken",0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['🇩🇪', '🏆', '🙏']"
-7477955686745703173,2025-03-04 14:07:58,"kontaktieren sie frau judy
-krypto judyk 
-sie werden mir später bestimmt danken",0,0,7471592082302389526,7471592082302389526,neutral,0.0,"['🇩🇪', '🍀', '🥰']"
-7477228461518553878,2025-03-02 15:05:26,die grünen machen das größte loch im geldbeutel,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7477119673927451414,2025-03-02 08:03:29,die unsere steuergelder in die ganze welt verteilt,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7477097309291070230,2025-03-02 06:37:11,energiepreise und co2 steuern dass sind die preistreiber,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7476803731859047190,2025-03-01 11:37:16,haben sie nicht auch viel geld verpulvert und in die welt verteilt zudem den c0 2 preis usw voll nach oben vorprogrammiert,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡']"
-7474239533778453270,2025-02-22 13:47:18,heuchlerin die mwst krallt sich der handel das wissen sie mit so dähmlichen argumenten kann man sich nicht vor die kamera setzen glauben sie den unsinn den sie reden,0,0,7471592082302389526,7471592082302389526,neutral,,"['🤮', '🤮', '🤮']"
-7473463893713716023,2025-02-20 11:37:17,ich denke ich sollte das probieren sobald ich in berlin ankomme,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂']"
-7473425022137860886,2025-02-20 09:07:00,wirtschaftliches denken ist nicht so das thema von politik,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7479186498429797142,2025-03-07 21:43:41,hätten sie nicht das ganze Geld verjubelt in Dienstreisen BekleidungEntwicklungshilfe und Ukraine und Ukrainerden es besser geht als uns,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7477957280001393414,2025-03-04 14:13:54,"Kontaktieren Sie Frau Judy
+Krypto judyk 
+Sie werden mir später bestimmt danken",0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['🇩🇪', '🏆', '🙏']"
+7477955686745703173,2025-03-04 14:07:58,"Kontaktieren Sie Frau Judy
+Krypto judyk 
+Sie werden mir später bestimmt danken",0,0,7471592082302389526,7471592082302389526,neutral,0.0,"['🇩🇪', '🍀', '🥰']"
+7477228461518553878,2025-03-02 15:05:26,Die Grünen machen das größte Loch im Geldbeutel,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7477119673927451414,2025-03-02 08:03:29,Die unsere Steuergelder in die ganze Welt verteilt,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7477097309291070230,2025-03-02 06:37:11,Energiepreise und CO2 Steuern dass sind die Preistreiber,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7476803731859047190,2025-03-01 11:37:16,Haben Sie nicht auch viel Geld verpulvert und in die Welt verteilt Zudem den C0 2 Preis usw voll nach oben vorprogrammiert,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡']"
+7474239533778453270,2025-02-22 13:47:18,Heuchlerin Die Mwst krallt sich der Handel das wissen Sie Mit so dähmlichen Argumenten kann man sich nicht vor die Kamera setzen Glauben Sie den Unsinn den sie reden,0,0,7471592082302389526,7471592082302389526,neutral,,"['🤮', '🤮', '🤮']"
+7473463893713716023,2025-02-20 11:37:17,ich denke ich sollte das probieren sobald ich in Berlin ankomme,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂']"
+7473425022137860886,2025-02-20 09:07:00,Wirtschaftliches Denken ist nicht so das Thema von Politik,0,0,7471592082302389526,7471592082302389526,neutral,,[]
 7473367590649430839,2025-02-20 05:24:12,,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['🤝', '💐']"
-7472665485315113751,2025-02-18 07:59:28,tolle idee und gleichzeitig eure zustimmung für den zertifikatshandel 2027 abgegeben,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472627627246535446,2025-02-18 05:33:59,machen,0,0,7471592082302389526,7471592082302389526,positive,,[]
-7472626755338044182,2025-02-18 05:29:50,dann sollten politiker bei trocken brot einsitzen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472523877551162134,2025-02-17 22:50:07,2 prozent auf lebensmittel bei 35 prozent erhöhung ja genau,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472447053567492886,2025-02-17 17:51:32,sie sind doch mit schuld daran sie und ihre spd stehen schon längst nicht mehr hinter dem arbeitenden bürger,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472429026286174998,2025-02-17 16:41:37,bei mir steigen aktuell die stromkosten um ca 18 wenn ihr in zukunft nicht die energiekosten und co2 senkt werden sämtliche produktpreise stark steigen ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😱']
-7472420060829664022,2025-02-17 16:06:38,hat die nicht gerade ihren staff massiv befördert,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472409341024207639,2025-02-17 15:25:14,15  mindestlohn dann wir das brot noch teurer,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472409196955697943,2025-02-17 15:24:52,warum nicht schon vor drei jahre jetzt wo wahlen sind will die spd etwas machen,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472407369872753430,2025-02-17 15:17:30,deswegen afd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472388235374101270,2025-02-17 14:03:21,durch eure politik  ihr habt deutschland in den abgrund gebracht deshalb freut sich deutschland  wenn die spd ab 2402 nichts mehr zu sagen hat,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472343563025416982,2025-02-17 11:10:18,ihr habt die mehrwertsteuer doch angehoben auf lebensmittel,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472338752628867862,2025-02-17 10:51:50,toll das sie den leuten erzählen möchten was so alles teurer geworden ist ich glaube das wissen die leute schon seid jahren aber zum glück habt ihr politiker diese probleme ja nicht 2 wahnsinn,0,0,7471592082302389526,7471592082302389526,positive,,[]
-7472332557452575510,2025-02-17 10:27:34,haben sie für mich nicht auch schnell noch einen posten ein paar tage vor der wahl,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😉']
+7472665485315113751,2025-02-18 07:59:28,tolle Idee und gleichzeitig eure Zustimmung für den Zertifikatshandel 2027 abgegeben,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472627627246535446,2025-02-18 05:33:59,Machen,0,0,7471592082302389526,7471592082302389526,positive,,[]
+7472626755338044182,2025-02-18 05:29:50,dann sollten Politiker bei trocken Brot einsitzen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472523877551162134,2025-02-17 22:50:07,2 Prozent auf Lebensmittel Bei 35 Prozent Erhöhung Ja genau,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472447053567492886,2025-02-17 17:51:32,Sie sind doch mit schuld daran sie und ihre SPD stehen schon längst nicht mehr hinter dem arbeitenden Bürger,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472429026286174998,2025-02-17 16:41:37,Bei mir steigen aktuell die Stromkosten um ca 18 Wenn ihr in Zukunft nicht die Energiekosten und CO2 senkt werden sämtliche Produktpreise stark steigen ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😱']
+7472420060829664022,2025-02-17 16:06:38,Hat die nicht gerade ihren staff massiv befördert,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472409341024207639,2025-02-17 15:25:14,15  Mindestlohn dann wir das Brot noch teurer,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472409196955697943,2025-02-17 15:24:52,Warum nicht schon vor drei Jahre Jetzt wo Wahlen sind will die SPD etwas machen,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472407369872753430,2025-02-17 15:17:30,Deswegen afd,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472388235374101270,2025-02-17 14:03:21,Durch eure Politik  ihr habt Deutschland in den Abgrund gebracht Deshalb freut sich Deutschland  wenn die SPD ab 2402 nichts mehr zu sagen hat,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472343563025416982,2025-02-17 11:10:18,Ihr habt die Mehrwertsteuer doch angehoben auf Lebensmittel,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472338752628867862,2025-02-17 10:51:50,Toll das sie den Leuten erzählen möchten was so alles teurer geworden ist Ich glaube das wissen die Leute schon seid Jahren Aber zum Glück habt ihr Politiker diese Probleme ja nicht 2 Wahnsinn,0,0,7471592082302389526,7471592082302389526,positive,,[]
+7472332557452575510,2025-02-17 10:27:34,Haben sie für mich nicht auch schnell noch einen Posten ein paar Tage vor der Wahl,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😉']
 7472331339981128470,2025-02-17 10:23:10,,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂']"
-7472324978956960534,2025-02-17 09:57:56,"deswegen wähle ich die afd
-an den hohen preisen ist die ampel schuld",0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472312429949780759,2025-02-17 09:09:40,von 499 sind 2  10 cent der geforderte mindestlohn holt das locker wieder auf  energiekosten und ab 2027 geht nichts mehr,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472312388289659670,2025-02-17 09:09:07,wollen wollen und warum vor der wahl und nicht davor,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472311566068318998,2025-02-17 09:06:16,genauuuu 15   ihr rechenkünstler brot fängt auf dem feld an nicht an der ladentheke seit dem letzten mindestlohn sind die preise hochgegangen ,0,0,7471592082302389526,7471592082302389526,negative,,['🤔']
-7472309672637530902,2025-02-17 08:58:44,ist die nicht von der spd was hat sie genommen,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472306878257873686,2025-02-17 08:47:51,am besten mal den bäckereibetrieb fragen wie er es wohl schaffen wird 15 mindestlohn für ungelernte zu bezahlenwas muss er dann wohl für ein brot berechnen was bringt dann deine kl steuersenkung,0,1,7471592082302389526,7471592082302389526,neutral,,[]
-7472304518324306710,2025-02-17 08:38:39,und mehr geld fürs ausland ,0,0,7471592082302389526,7471592082302389526,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
-7472303366904529686,2025-02-17 08:34:32,sie sollten die steuern senkenwieviel geld macht es bei einen einkauf von 100 aus das ist einfach lächerlich,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472285090052604694,2025-02-17 07:23:34,um wieviel prozent erhöhen sie sich ihre diäten jedes jahr damit sie ihr brot noch kaufen können,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472259950812840726,2025-02-17 05:47:07,wer ist schuldputin oder,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
-7472183819265950486,2025-02-17 00:51:08,billiger wahlkampf ,0,0,7471592082302389526,7471592082302389526,negative,,['🤡']
-7472154242301248278,2025-02-16 22:55:36,totalversagen,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472146893502874390,2025-02-16 22:26:48,beförder doch noch deinen metzger in einer höheren besoldungsgruppe,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472141997308314390,2025-02-16 22:08:02,die nettokosten fett erhöhen und die mehrwertsteuer minimal senken danke für nichts,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472138340953195286,2025-02-16 21:53:47,ach wer war und ist denn in der regierungsverantwortung der höhere mindestlohn lässt kosten und steuern weiter steigen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472118909594288918,2025-02-16 20:38:19,und wer ist schuld die grünen und die altparteien ,0,0,7471592082302389526,7471592082302389526,neutral,-1.0,"['😡', '😡', '😡']"
+7472324978956960534,2025-02-17 09:57:56,"Deswegen wähle ich die AFD
+An den hohen Preisen ist die Ampel Schuld",0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472312429949780759,2025-02-17 09:09:40,Von 499 sind 2  10 Cent der geforderte Mindestlohn holt das locker wieder auf  Energiekosten und ab 2027 geht nichts mehr,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472312388289659670,2025-02-17 09:09:07,Wollen wollen und warum vor der Wahl und nicht davor,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472311566068318998,2025-02-17 09:06:16,Genauuuu 15   ihr Rechenkünstler Brot fängt auf dem Feld an nicht an der Ladentheke Seit dem letzten Mindestlohn sind die Preise hochgegangen ,0,0,7471592082302389526,7471592082302389526,negative,,['🤔']
+7472309672637530902,2025-02-17 08:58:44,ist die nicht von der SPD Was hat sie genommen,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472306878257873686,2025-02-17 08:47:51,Am besten mal den Bäckereibetrieb fragen wie er es wohl schaffen wird 15 Mindestlohn für ungelernte zu bezahlenWas muss er dann wohl für ein Brot berechnen Was bringt dann deine kl Steuersenkung,0,1,7471592082302389526,7471592082302389526,neutral,,[]
+7472304518324306710,2025-02-17 08:38:39,Und mehr Geld fürs Ausland ,0,0,7471592082302389526,7471592082302389526,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣', '🤣']"
+7472303366904529686,2025-02-17 08:34:32,Sie sollten die Steuern senkenwieviel Geld macht es bei einen Einkauf von 100 aus das ist einfach lächerlich,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472285090052604694,2025-02-17 07:23:34,Um wieviel Prozent erhöhen Sie sich ihre Diäten jedes Jahr damit sie ihr Brot noch kaufen können,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472259950812840726,2025-02-17 05:47:07,Wer ist schuldPutin oder,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
+7472183819265950486,2025-02-17 00:51:08,Billiger Wahlkampf ,0,0,7471592082302389526,7471592082302389526,negative,,['🤡']
+7472154242301248278,2025-02-16 22:55:36,Totalversagen,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472146893502874390,2025-02-16 22:26:48,Beförder doch noch deinen Metzger in einer höheren besoldungsgruppe,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472141997308314390,2025-02-16 22:08:02,Die Nettokosten fett erhöhen und die Mehrwertsteuer minimal senken Danke für nichts,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472138340953195286,2025-02-16 21:53:47,Ach wer war und ist denn in der Regierungsverantwortung Der höhere Mindestlohn lässt Kosten und Steuern weiter steigen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472118909594288918,2025-02-16 20:38:19,Und wer ist schuld Die Grünen und die Altparteien ,0,0,7471592082302389526,7471592082302389526,neutral,-1.0,"['😡', '😡', '😡']"
 7472106752868303638,2025-02-16 19:50:46,,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['🙈', '🙈', '🙈', '🙈']"
-7472087345265656598,2025-02-16 18:35:27,mit euch geht es in d weiter abwärts ,0,0,7471592082302389526,7471592082302389526,neutral,0.0,['📉']
-7472087275494114070,2025-02-16 18:35:19,"toll dann kostet das brot 5 cent weniger
-das ist doch mal ein erfolg",0,0,7471592082302389526,7471592082302389526,positive,,[]
-7472080999364756257,2025-02-16 18:12:56,wie schade das die spd die ganze zeit in der opposition war,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472076833639891734,2025-02-16 17:54:49,sie sind zum glück auch geschichte statt 7 auf 5 wäre überhaupt mal eine harmonisierung erforderlich 35 preisanstieg haben mit linksgrüner unfähigkeit zu tun sicher nicht mit 7 mwst,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472075381410726679,2025-02-16 17:49:25,schon klar gleichzeitig co2preis erhöhen das kostet die leute viel mehr mindestlohnsteigerung auf kosten der unternehmen ,0,0,7471592082302389526,7471592082302389526,neutral,,"['‼️', '☝️', '‼️', '🤮', '🤮', '🤮']"
-7472074211982361366,2025-02-16 17:44:35,seit wann duzen sie hier die menschen afd,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
-7472069395299091222,2025-02-16 17:26:08,"kernkraftwerke abstellenheizungsgesetz
-erhöhung von co2 steuer
-abschaffung der dieselrückvergütung erhöhung der maut bürokratie die indirekt zu weiteren preiserhöhungen führengehts noch",0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472087345265656598,2025-02-16 18:35:27,Mit Euch geht es in D weiter abwärts ,0,0,7471592082302389526,7471592082302389526,neutral,0.0,['📉']
+7472087275494114070,2025-02-16 18:35:19,"Toll dann kostet das Brot 5 Cent weniger
+Das ist doch mal ein Erfolg",0,0,7471592082302389526,7471592082302389526,positive,,[]
+7472080999364756257,2025-02-16 18:12:56,Wie Schade das die SPD die ganze Zeit in der Opposition war,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472076833639891734,2025-02-16 17:54:49,Sie sind zum Glück auch Geschichte Statt 7 auf 5 wäre überhaupt mal eine Harmonisierung erforderlich 35 Preisanstieg haben mit linksgrüner Unfähigkeit zu tun sicher nicht mit 7 MwSt,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472075381410726679,2025-02-16 17:49:25,Schon klar gleichzeitig CO2Preis erhöhen das kostet die Leute viel mehr Mindestlohnsteigerung auf Kosten der Unternehmen ,0,0,7471592082302389526,7471592082302389526,neutral,,"['‼️', '☝️', '‼️', '🤮', '🤮', '🤮']"
+7472074211982361366,2025-02-16 17:44:35,Seit wann duzen sie hier die Menschen AfD,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙']"
+7472069395299091222,2025-02-16 17:26:08,"Kernkraftwerke abstellenHeizungsgesetz
+Erhöhung von CO2 Steuer
+Abschaffung der Dieselrückvergütung Erhöhung der Maut Bürokratie die indirekt zu weiteren Preiserhöhungen führengehts noch",0,0,7471592082302389526,7471592082302389526,neutral,,[]
 7472068421218272002,2025-02-16 17:22:19,,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂']"
-7472067270279447318,2025-02-16 17:17:57, vor der wahlurne wollt ihr alles danach wisst ihr nichts mehr  spd  abgelehnt,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472065796774347542,2025-02-16 17:12:15,wie wäre es denn wenn anstatt die mehrwertsteuer um lächerliche 2 prozent sinkt die lohnsteuer runter geht,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472055248414114582,2025-02-16 16:31:17,joa vielen dank spd ,0,0,7471592082302389526,7471592082302389526,positive,1.0,['😎']
+7472067270279447318,2025-02-16 17:17:57, vor der Wahlurne wollt Ihr alles danach wisst Ihr nichts mehr  SPD  abgelehnt,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472065796774347542,2025-02-16 17:12:15,Wie wäre es denn wenn anstatt die Mehrwertsteuer um lächerliche 2 Prozent sinkt die Lohnsteuer runter geht,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472055248414114582,2025-02-16 16:31:17,Joa vielen Dank spd ,0,0,7471592082302389526,7471592082302389526,positive,1.0,['😎']
 7472055038605738774,2025-02-16 16:30:11,,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😈', '😈', '😈', '😈', '😈', '😈']"
-7472050350272086806,2025-02-16 16:12:12,mit den milliarden ins ausland könnte man das locker revidieren,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472049695872844566,2025-02-16 16:09:39,das bringt gar nichts,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472050350272086806,2025-02-16 16:12:12,Mit den Milliarden ins Ausland könnte man das locker revidieren,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472049695872844566,2025-02-16 16:09:39,Das bringt gar nichts,0,0,7471592082302389526,7471592082302389526,negative,,[]
 7472045224496268054,2025-02-16 15:52:07,"schummelpackung
-mwst steuer runter und dafür mehr co2 steuerdrauf und jährlich erhöht
-ihr politiker treibt die preise doch permanent nach oben",0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472043999109530390,2025-02-16 15:47:21,ihr habt fertig  das loch habt ihr verursacht maut dieselsteuernüberflüssige gesetze und verbote,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472037303239066390,2025-02-16 15:21:32,klar weiß ich das es liegt an euch preistreibern und einer erbärmlichen gegen die menschen gerichteten politik ,0,0,7471592082302389526,7471592082302389526,negative,0.0,"['🙈', '😡']"
-7472036207397290774,2025-02-16 15:17:06,was ist das denn  mit den gestiegenen lohnkosten wird das brot noch teurer das kann doch nicht so schwer zu verstehen sein ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '🤔']"
-7472032969525052182,2025-02-16 15:04:41,sie reißt auch ein loch in unser aller portemonnaie,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472031698017665814,2025-02-16 14:59:49,was sollen denn 2 unterschied ausmachen  die 15 euro stundenlohn muss ja auch jemand erwirtschaften und bezahlen ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '🤦']"
-7472030388002194198,2025-02-16 14:54:39,eine der unglaubwürdigsten frauen der spd hat mit diesem spot mal wieder steuergeld verschwendet  einfach ekelhaft ,0,0,7471592082302389526,7471592082302389526,negative,,['🤮']
-7472028388304306966,2025-02-16 14:46:49,genau deswegen werde ich in zukunft die afd wählen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['💙']
-7472028081201496854,2025-02-16 14:45:36,das ist die frau die unsere schwer erarbeitenden steuergelder in aller welt verschenkt ich sag nur fahrradwege in peru wo sich niemand ein fahrrad leisten kann uvm,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472022475276321558,2025-02-16 14:24:08,"einfach mal nachrechnen und nachdenken
-ich will nicht euren krieg in der ukrsine bezahlen
-und susserdem hätte ich gerne dur cumexmillionen zurück
-weiterhin wie war das mit der mwst in der gastro",0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472018875895923478,2025-02-16 14:09:55,mehrwertsteuer senken und 15 euro mindestlohn ist dann die nächste steigerung von 10,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['😎']
+MwSt Steuer runter und dafür mehr co2 steuerdrauf und jährlich erhöht
+Ihr Politiker treibt die Preise doch permanent nach oben",0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472043999109530390,2025-02-16 15:47:21,Ihr habt fertig  das loch habt ihr verursacht Maut DieselSteuernüberflüssige gesetze und verbote,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472037303239066390,2025-02-16 15:21:32,Klar weiß ich das Es liegt an euch Preistreibern und einer erbärmlichen gegen die Menschen gerichteten Politik ,0,0,7471592082302389526,7471592082302389526,negative,0.0,"['🙈', '😡']"
+7472036207397290774,2025-02-16 15:17:06,Was ist das denn  Mit den gestiegenen Lohnkosten wird das Brot noch teurer Das kann doch nicht so schwer zu verstehen sein ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '🤔']"
+7472032969525052182,2025-02-16 15:04:41,Sie reißt auch ein Loch in unser aller Portemonnaie,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472031698017665814,2025-02-16 14:59:49,was sollen denn 2 Unterschied ausmachen  Die 15 Euro Stundenlohn muss ja auch jemand erwirtschaften und bezahlen ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '🤦']"
+7472030388002194198,2025-02-16 14:54:39,Eine der unglaubwürdigsten Frauen der SPD hat mit diesem Spot mal wieder Steuergeld verschwendet  Einfach Ekelhaft ,0,0,7471592082302389526,7471592082302389526,negative,,['🤮']
+7472028388304306966,2025-02-16 14:46:49,Genau deswegen werde ich in Zukunft die AFD wählen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['💙']
+7472028081201496854,2025-02-16 14:45:36,Das ist die Frau die unsere schwer erarbeitenden Steuergelder in aller Welt verschenkt Ich sag nur Fahrradwege in Peru wo sich niemand ein Fahrrad leisten kann uvm,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472022475276321558,2025-02-16 14:24:08,"Einfach mal nachrechnen und Nachdenken
+Ich will nicht euren Krieg in der Ukrsine bezahlen
+Und susserdem hätte ich gerne dur Cumexmillionen zurück
+Weiterhin wie war das mit der MwSt in der Gastro",0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472018875895923478,2025-02-16 14:09:55,Mehrwertsteuer senken und 15 Euro Mindestlohn ist dann die nächste Steigerung von 10,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['😎']
 7472016499752698647,2025-02-16 14:00:49,,0,1,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂']"
-7472016200009007894,2025-02-16 13:59:30,ja durch euch,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472014276393206550,2025-02-16 13:52:14,seit 1998 war die spd nur 4 jahre nicht an der regierung beteiligt nahezu 30 jahre spd und dem land geht es so schlecht wie nie wirtschaftswachstum inflation arbeislosenquote,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472014035921011478,2025-02-16 13:51:16,du brauchst darüber ja nicht nachdenken,0,0,7471592082302389526,7471592082302389526,negative,-1.0,['😡']
-7472011028542456598,2025-02-16 13:39:41,die politiker können doch sehr gut von den steuergeldern leben da interessieren sie doch die preise 0 nichtsdie wissen doch schon lange nicht mehr was das eigene volk durchmacht,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472010830860747542,2025-02-16 13:38:52,stimmt die grundnahrungsmittel werden durch 2  richtig günstig das sind bei einem wocheneinkauf für 4 personen 4 ganze euro gleichzeitig mindestlohn hoch und etsii durchwinken genau mein humor,0,0,7471592082302389526,7471592082302389526,positive,1.0,['😂']
-7472010530006483734,2025-02-16 13:37:29,ihr seid doch schuld daran alle energie kosten in die höhe getrieben,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7472007766425649942,2025-02-16 13:26:45,erst erhöhen und dann die fahne rumreisen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7472005657638961942,2025-02-16 13:18:39,lächerlich denken sie alle sind blöd was ein großer loch reisst sind höhere steuern c02xabgabe uswalles was diese linksgrüne politik tut ist die wirtschaft zu ruinieren und die menschen pleite,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7472003446459106070,2025-02-16 13:10:18,warum habt ihr das nicht schon lange gemacht die sogenannten gesunden lebensmittel obst und gemüse sind noch teurer geworden,0,0,7471592082302389526,7471592082302389526,negative,,"['🥺', '🥺']"
-7472000919632184086,2025-02-16 13:00:11,sie haben unser geld ganz schön verschleudert für nix ich wähle sie nicht sie kotzen mich an mit ihrer politik ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡']"
-7471999352941888278,2025-02-16 12:54:16,so gut daß wir dich abwählen,0,0,7471592082302389526,7471592082302389526,positive,,[]
-7471995877414978326,2025-02-16 12:40:37,bestimmt nicht niemals grün und schon gar nicht spd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471995480747672342,2025-02-16 12:39:13,ohirrebei einem brotpreis von 5brot machen 2 weniger wieviel ausich sag es dir 0110 centum wieviel  habt ihr eure diäten nochmal erhöhtweltfremd at its bestdeshalb nie wieder spd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471994772581155606,2025-02-16 12:36:19,steuer senken um himmels willen wir müssen den krieg in der ukraine unterstützen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['😱']
-7471991987035849494,2025-02-16 12:25:50,wir fallen nicht noch einmal auf euch herein,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471990532081894166,2025-02-16 12:20:06,die 15 mindestlohn machen das brot teurer als man mit den 2 einsparen aber die steuereinahme steigt trotzdem,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472016200009007894,2025-02-16 13:59:30,Ja durch euch,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472014276393206550,2025-02-16 13:52:14,Seit 1998 war die SPD nur 4 Jahre nicht an der Regierung beteiligt Nahezu 30 Jahre SPD und dem Land geht es so schlecht wie nie Wirtschaftswachstum Inflation Arbeislosenquote,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472014035921011478,2025-02-16 13:51:16,Du brauchst darüber ja nicht nachdenken,0,0,7471592082302389526,7471592082302389526,negative,-1.0,['😡']
+7472011028542456598,2025-02-16 13:39:41,die Politiker können doch sehr gut von den Steuergeldern leben da interessieren sie doch die Preise 0 nichtsDie wissen doch schon lange nicht mehr was das eigene Volk durchmacht,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472010830860747542,2025-02-16 13:38:52,Stimmt die Grundnahrungsmittel werden durch 2  richtig günstig Das sind bei einem Wocheneinkauf für 4 Personen 4 ganze Euro Gleichzeitig Mindestlohn hoch und ETSII durchwinken genau mein Humor,0,0,7471592082302389526,7471592082302389526,positive,1.0,['😂']
+7472010530006483734,2025-02-16 13:37:29,Ihr seid doch schuld daran alle Energie kosten in die Höhe getrieben,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7472007766425649942,2025-02-16 13:26:45,erst erhöhen und dann die Fahne Rumreisen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
+7472005657638961942,2025-02-16 13:18:39,Lächerlich denken Sie alle sind blöd was ein großer Loch reisst sind höhere Steuern C02xAbgabe uswAlles was diese linksgrüne Politik tut ist die Wirtschaft zu ruinieren und die Menschen pleite,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7472003446459106070,2025-02-16 13:10:18,Warum habt ihr das nicht schon lange gemacht Die sogenannten gesunden Lebensmittel Obst und Gemüse sind noch teurer geworden,0,0,7471592082302389526,7471592082302389526,negative,,"['🥺', '🥺']"
+7472000919632184086,2025-02-16 13:00:11,Sie haben unser Geld ganz schön verschleudert für nix Ich wähle Sie nicht Sie kotzen mich an mit Ihrer Politik ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡']"
+7471999352941888278,2025-02-16 12:54:16,So gut daß wir Dich abwählen,0,0,7471592082302389526,7471592082302389526,positive,,[]
+7471995877414978326,2025-02-16 12:40:37,Bestimmt nicht Niemals Grün und schon gar nicht SPD,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471995480747672342,2025-02-16 12:39:13,OhIrreBei einem Brotpreis von 5Brot machen 2 weniger wieviel ausIch sag es Dir 0110 CentUm wieviel  habt ihr eure Diäten nochmal erhöhtWeltfremd at its BestDeshalb nie wieder SPD,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471994772581155606,2025-02-16 12:36:19,Steuer senken Um Himmels Willen wir müssen den Krieg in der Ukraine unterstützen ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['😱']
+7471991987035849494,2025-02-16 12:25:50,Wir fallen nicht noch einmal auf euch herein,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471990532081894166,2025-02-16 12:20:06,Die 15 Mindestlohn machen das Brot teurer als man mit den 2 einsparen Aber die Steuereinahme steigt trotzdem,0,0,7471592082302389526,7471592082302389526,neutral,,[]
 7471989363404063510,2025-02-16 12:15:36, man sieht es ihnen immer sofort an ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
 7471987682601681686,2025-02-16 12:09:03,bloß nicht ihr habt dazu beigetragen das es so,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471987329340621590,2025-02-16 12:07:43,dafür habt ihr doch gesorgtsie haben genug geld für alles,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471987226752516886,2025-02-16 12:07:21,wow ich spare paar cent auf brot aber darf viel viel mehr geld bezahlen für heizung und auto danke für nix,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471984433671766806,2025-02-16 11:56:10,ja wir können rechnen und ja wir merken was los ist aber ich denke sie verstehen nichts von alledem sie reden und reden und versprechen und nix kommt dabei rum fazit  keine meiner stimmen für die spd,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471987329340621590,2025-02-16 12:07:43,dafür habt ihr doch gesorgtsie haben genug Geld für alles,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471987226752516886,2025-02-16 12:07:21,Wow ich spare paar Cent auf Brot aber darf viel viel mehr Geld bezahlen für Heizung und Auto Danke für nix,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471984433671766806,2025-02-16 11:56:10,Ja wir können rechnen und ja wir merken was los ist ABER ich denke Sie verstehen nichts von alledem Sie reden und reden und versprechen und nix kommt dabei rum Fazit  keine meiner Stimmen für die SPD,0,0,7471592082302389526,7471592082302389526,negative,,[]
 7471984135276397334,2025-02-16 11:55:03,blä bla bla nie wieder spd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471983059408470806,2025-02-16 11:51:00,und morgen freibier für alle,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471981548998247190,2025-02-16 11:45:14,putin hat schuld ,0,0,7471592082302389526,7471592082302389526,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
-7471981319599440662,2025-02-16 11:44:25,ein wahnsinn ich weiß gar nicht wie sehr ich der spd danken soll mein brot steigt dank ihr nicht um 35 sondern nur um 33 weiss gar nicht was ich mit der vielen kohle anfangen soll ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
-7471979167899779862,2025-02-16 11:35:52,dank der dümmsten regierung der welt,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471972378860552982,2025-02-16 11:09:26,ist ja wohl ein witz die vielen preiserhöhungen haben wir euch zu verdanken keine stimme mehr für die spd dass ich mich auf euch verlassen habe war mal ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,['😡']
+7471983059408470806,2025-02-16 11:51:00,Und morgen Freibier für alle,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471981548998247190,2025-02-16 11:45:14,PUTIN HAT SCHULD ,0,0,7471592082302389526,7471592082302389526,negative,,"['🤣', '🤣', '🤣', '🤣', '🤣']"
+7471981319599440662,2025-02-16 11:44:25,Ein Wahnsinn ich weiß gar nicht wie sehr ich der SPD danken soll Mein Brot steigt dank ihr nicht um 35 sondern nur um 33 Weiss gar nicht was ich mit der vielen Kohle anfangen soll ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
+7471979167899779862,2025-02-16 11:35:52,Dank der dümmsten Regierung der Welt,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471972378860552982,2025-02-16 11:09:26,Ist ja wohl ein Witz Die vielen Preiserhöhungen haben wir Euch zu verdanken Keine Stimme mehr für die SPD Dass ich mich auf euch verlassen habe war mal ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,['😡']
 7471967509878571798,2025-02-16 10:50:50,,0,1,7471592082302389526,7471592082302389526,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7471967450671579906,2025-02-16 10:50:24,sozis können halt ncht rechnen sind aber gute propagandistenpeanuts geben und ansonsten weiter berauben,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂']"
-7471966666738860822,2025-02-16 10:47:23,wieso habt ihr das nicht von anfang an gemacht  leute  hört auf zu glauben wir sind alles idioten  niemals wieder falken wir auf eure falschen versprechen rein  ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡', '😡']"
-7471965114230833942,2025-02-16 10:41:37,dank eurer politik der letzten drei jahre ,0,0,7471592082302389526,7471592082302389526,neutral,,"['🤮', '🤮', '🤮']"
-7471963856069362454,2025-02-16 10:36:40,die tage von dieser fehlbesetzung im amt sind auch gezählt,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471959663979627286,2025-02-16 10:20:20,die denken die leute sind blöd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471959431505445654,2025-02-16 10:19:12,ihr habt unmittelbare politische verantwortung dafür bei gleichzeitiger wirtschaftlichen inkompetenz,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471959370365305622,2025-02-16 10:19:01,die spd läuft komplett am leben der menschen vorbei nein zu rot und grün,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471959146515890967,2025-02-16 10:18:11,die spd und der mindestlohn  wenn der mindestlohn steigt was passiert dann  die preise in den supermarkt steigen weil sie den ausgleich kompensieren müssen dann bringt die mwst senkung nix,0,0,7471592082302389526,7471592082302389526,negative,,['🤔']
-7471958196468318998,2025-02-16 10:14:39,weisst du wie viel mehlwürmer ins brot kommen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471955171594093334,2025-02-16 10:02:42,sofort eine demo gegen rechtsaber sofort ,0,0,7471592082302389526,7471592082302389526,positive,,"['🤣', '🤣']"
-7471954873396396822,2025-02-16 10:01:40,die verursacher wollen sich das jetzt mit wählerstimmen bezahlen lassen 2 weniger ust ist wenig bei den anstiegen in krankenkassen alles von der spd ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😱']
-7471953566678319894,2025-02-16 09:56:47,"die spd ist eine kriegspartei antidemokratisch und weitab v jeglicher lebensrealität
-diese popeligen 2 lösen nur einen mitnahmeeffekt aus bestens zu sehen bei den restaurants während der pandemie die spd ist nur noch eine partei für transferempfänger deshalb keine stimme für die spd",0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471953169120707350,2025-02-16 09:55:06,wie dumm halt ihr uns c02 steuer krankenkasse pflegeversicherung die rentenkasse geplündert nur ihr habt euch bedient ,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471952864655819542,2025-02-16 09:53:49,nein wir senken eure mitgliederzahl im bundestag dann sinkt auch der brotpreis weniger spd bedeutet mehr demokratie,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471952236672647958,2025-02-16 09:51:34,dumme ganz sie waren die letzten 20 jahren in der regierung das kommt durch die co2 steuer,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471949261665485590,2025-02-16 09:40:03,weil nordstréam 2 verhindert wurde billige energie  günstige produktionskosten ihr mitt euren windrädern,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471947713903444758,2025-02-16 09:33:46,stimmt und wer ist schuld ihr,0,0,7471592082302389526,7471592082302389526,positive,,[]
+7471967450671579906,2025-02-16 10:50:24,Sozis können halt ncht rechnen sind aber gute PropagandistenPeanuts geben und ansonsten weiter berauben,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂']"
+7471966666738860822,2025-02-16 10:47:23,Wieso habt Ihr das nicht von Anfang an gemacht  Leute  hört auf zu glauben wir sind alles Idioten  Niemals wieder Falken wir auf Eure falschen versprechen rein  ,0,0,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡', '😡']"
+7471965114230833942,2025-02-16 10:41:37,Dank eurer Politik der letzten drei Jahre ,0,0,7471592082302389526,7471592082302389526,neutral,,"['🤮', '🤮', '🤮']"
+7471963856069362454,2025-02-16 10:36:40,Die Tage von dieser Fehlbesetzung im Amt sind auch gezählt,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471959663979627286,2025-02-16 10:20:20,die denken die Leute sind blöd,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471959431505445654,2025-02-16 10:19:12,Ihr habt unmittelbare politische Verantwortung dafür bei gleichzeitiger wirtschaftlichen Inkompetenz,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471959370365305622,2025-02-16 10:19:01,Die SPD läuft komplett am Leben der Menschen vorbei Nein zu Rot und Grün,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471959146515890967,2025-02-16 10:18:11,Die SPD und der Mindestlohn  wenn der Mindestlohn steigt was passiert dann  Die Preise in den Supermarkt steigen weil sie den Ausgleich kompensieren müssen Dann bringt die MwSt Senkung nix,0,0,7471592082302389526,7471592082302389526,negative,,['🤔']
+7471958196468318998,2025-02-16 10:14:39,weisst du wie viel Mehlwürmer ins Brot kommen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471955171594093334,2025-02-16 10:02:42,Sofort eine Demo gegen Rechtsaber sofort ,0,0,7471592082302389526,7471592082302389526,positive,,"['🤣', '🤣']"
+7471954873396396822,2025-02-16 10:01:40,Die Verursacher wollen sich das jetzt mit Wählerstimmen bezahlen lassen 2 weniger Ust ist wenig bei den Anstiegen in Krankenkassen ALLES von der SPD ,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😱']
+7471953566678319894,2025-02-16 09:56:47,"Die SPD ist eine Kriegspartei antidemokratisch und weitab v jeglicher Lebensrealität
+Diese popeligen 2 lösen nur einen Mitnahmeeffekt aus bestens zu sehen bei den Restaurants während der Pandemie Die SPD ist nur noch eine Partei für Transferempfänger Deshalb keine Stimme für die SPD",0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471953169120707350,2025-02-16 09:55:06,Wie dumm halt ihr uns c02 steuer Krankenkasse Pflegeversicherung die Rentenkasse geplündert nur ihr habt euch bedient ,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471952864655819542,2025-02-16 09:53:49,Nein wir senken eure Mitgliederzahl im Bundestag dann sinkt auch der Brotpreis weniger SPD bedeutet mehr Demokratie,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471952236672647958,2025-02-16 09:51:34,Dumme Ganz sie waren die letzten 20 Jahren in der Regierung das kommt durch die CO2 Steuer,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471949261665485590,2025-02-16 09:40:03,Weil Nordstréam 2 verhindert wurde Billige Energie  günstige Produktionskosten Ihr mitt Euren Windrädern,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471947713903444758,2025-02-16 09:33:46,Stimmt und wer ist schuld Ihr,0,0,7471592082302389526,7471592082302389526,positive,,[]
 7471946191241986838,2025-02-16 09:28:05,weg,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471945896759853847,2025-02-16 09:26:50,"alles nur blablabla
-drei jahre spd ist genug
-wie war das versprechen von olaf scholz mit der mwst in der gastronomie
-also nie wieder ist jetzt
-alles für deutschland",0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471945597781312278,2025-02-16 09:25:43,spd nein danke,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471945379442557718,2025-02-16 09:24:54,wenn ich bei euch das kreuz mache da bricht bestimmt mein stift ab ,0,0,7471592082302389526,7471592082302389526,negative,,['🤣']
+7471945896759853847,2025-02-16 09:26:50,"Alles nur BLABLABLA
+Drei Jahre SPD ist genug
+Wie war das Versprechen von Olaf Scholz mit der MwSt in der Gastronomie
+Also nie wieder ist jetzt
+ALLES FÜR DEUTSCHLAND",0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471945597781312278,2025-02-16 09:25:43,SPD Nein Danke,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471945379442557718,2025-02-16 09:24:54,Wenn ich bei euch das Kreuz mache da bricht bestimmt mein Stift ab ,0,0,7471592082302389526,7471592082302389526,negative,,['🤣']
 7471942210566783766,2025-02-16 09:12:47,waffenlieferungen,0,0,7471592082302389526,7471592082302389526,neutral,,[]
 7471941703986742038,2025-02-16 09:10:40,nie wieder diese,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471938692195353366,2025-02-16 08:59:03,nur der merz hat ahnung niemals die spd  das schlimme ist  das die spd schon beim merz auf dem schoß sitz nach der wahl schön fürs foto aufstellen und sich feiern lassen ,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471938252841878294,2025-02-16 08:57:19,mathematik 6 setzen für die spdler bei einen einkauf von 50 ist es eine ersparnis von 1 dafür kann man noch nicht mal die parkgebühr bezahlen veralberung in höchstform,0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂']"
+7471938692195353366,2025-02-16 08:59:03,Nur der merz hat Ahnung Niemals die spd  Das schlimme ist  das die spd schon beim Merz auf dem Schoß Sitz Nach der Wahl schön fürs Foto aufstellen und sich feiern lassen ,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471938252841878294,2025-02-16 08:57:19,Mathematik 6 setzen Für die SPDler Bei einen Einkauf von 50 ist es eine Ersparnis von 1 Dafür kann man noch nicht mal die Parkgebühr bezahlen Veralberung in Höchstform,0,0,7471592082302389526,7471592082302389526,neutral,1.0,"['😂', '😂']"
 7471935881826665238,2025-02-16 08:48:02,,0,1,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂']"
 7471934973630186262,2025-02-16 08:44:38,sie glauben wirklich was sie sagen der brotpreis ist um 35 pro gestiegen und sie senken die mwst um 2 proz dafür wollen sie jetzt applaus nicht ihr ernst,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471933039965766423,2025-02-16 08:37:21, die ist auch so ne nummer ,0,0,7471592082302389526,7471592082302389526,negative,0.0,"['😂', '😡']"
-7471926797170017046,2025-02-16 08:13:00,richtig so die haben das verdinnt,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471933039965766423,2025-02-16 08:37:21, DIE ist auch so ne Nummer ,0,0,7471592082302389526,7471592082302389526,negative,0.0,"['😂', '😡']"
+7471926797170017046,2025-02-16 08:13:00,Richtig so die haben das verdinnt,0,0,7471592082302389526,7471592082302389526,negative,,[]
 7471926141348561686,2025-02-16 08:10:22,,0,1,7471592082302389526,7471592082302389526,negative,-1.0,"['😡', '😡', '😡', '😡']"
-7471914397369139990,2025-02-16 07:25:25,der witz des jahres ,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂']"
-7471912227533816598,2025-02-16 07:16:51,das ist der größte hohn ,0,0,7471592082302389526,7471592082302389526,neutral,-1.0,['👎']
+7471914397369139990,2025-02-16 07:25:25,Der Witz des Jahres ,0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂']"
+7471912227533816598,2025-02-16 07:16:51,Das ist der größte Hohn ,0,0,7471592082302389526,7471592082302389526,neutral,-1.0,['👎']
 7471898629193237270,2025-02-16 06:24:51,,0,1,7471592082302389526,7471592082302389526,negative,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7471897761210811158,2025-02-16 06:21:00,was hat die spd die letzten drei jahre gemacht nichts wir waren euch total egal,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471892832917308182,2025-02-16 06:03:28,schon gepackt,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
-7471890996584252182,2025-02-16 05:56:56,die familien die ich kenne sind starke raucher,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471891358970954518,2025-02-16 05:56:47,schulze ist die inkompetenteste fehlbesetzung die sich deutschland jemals geleistet hat ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['🙈']
+7471897761210811158,2025-02-16 06:21:00,Was hat die SPD die letzten drei Jahre gemacht Nichts Wir waren euch total egal,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471892832917308182,2025-02-16 06:03:28,Schon gepackt,0,0,7471592082302389526,7471592082302389526,negative,1.0,['😂']
+7471890996584252182,2025-02-16 05:56:56,Die Familien die ich kenne sind starke Raucher,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471891358970954518,2025-02-16 05:56:47,Schulze ist die inkompetenteste Fehlbesetzung die sich Deutschland jemals geleistet hat ,0,0,7471592082302389526,7471592082302389526,neutral,1.0,['🙈']
 7471698285318898454,2025-02-15 17:26:06,wie hübsch ist bitte ihr highlighter,0,0,7471592082302389526,7471592082302389526,positive,,[]
-7471668700057371414,2025-02-15 15:31:22,"wusstet ihr das von der spd schon
-die schützen manager und gutverdiener davor ab 8000 monatseinkommen mehr in die renten und pflegekasse einzahlen zu müssen und lassen lieber arme menschen leiden und betteln
-man nennt das beitragsbemessungsgrenzen
-wollte es nur nochal mal kurz vor der wahl erwähnen ",0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😎', '🙋']"
-7471652156543304470,2025-02-15 14:27:03,das halp schleppen sie unser geld ins ausland,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471638388531544854,2025-02-15 13:33:48,deshalb nur die afd,0,0,7471592082302389526,7471592082302389526,negative,,[]
-7471608132655776535,2025-02-15 11:36:13,15 mindestlohn  höhere kosten die spd hat wirtschaftlich keine ahnung,0,0,7471592082302389526,7471592082302389526,neutral,,[]
-7471982934554690326,2025-02-16 11:50:37,das brot redet mit dem brot weil niemand sonst zuhört ,0,0,7471592082302389526,7471592082302389526,neutral,,['🤷🏼\u200d♂️']
+7471668700057371414,2025-02-15 15:31:22,"Wusstet Ihr das von der SPD schon
+Die schützen Manager und Gutverdiener davor ab 8000 Monatseinkommen mehr in die Renten und Pflegekasse einzahlen zu müssen und lassen lieber arme Menschen leiden und betteln
+Man nennt das Beitragsbemessungsgrenzen
+Wollte es nur nochal mal kurz vor der Wahl erwähnen ",0,0,7471592082302389526,7471592082302389526,negative,1.0,"['😎', '🙋']"
+7471652156543304470,2025-02-15 14:27:03,das halp schleppen Sie unser Geld ins Ausland,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471638388531544854,2025-02-15 13:33:48,Deshalb nur die AFD,0,0,7471592082302389526,7471592082302389526,negative,,[]
+7471608132655776535,2025-02-15 11:36:13,15 Mindestlohn  höhere Kosten Die SPD hat wirtschaftlich keine Ahnung,0,0,7471592082302389526,7471592082302389526,neutral,,[]
+7471982934554690326,2025-02-16 11:50:37,Das Brot redet mit dem Brot weil niemand sonst zuhört ,0,0,7471592082302389526,7471592082302389526,neutral,,['🤷🏼\u200d♂️']
 7471282628966220566,2025-02-14 14:33:22,,1,0,7471281830218435862,7471281830218435862,negative,,['🥳']
-7471329642356835094,2025-02-14 17:35:21,das merken die alle erst wenn die cdu das vermurkst hat,0,0,7471281830218435862,7471281830218435862,negative,,[]
-7471304030472602390,2025-02-14 15:55:58,beide stimmen spd niemals erste stimme durchstrichen und 2 bsw spd hat die innere sicherheit vermasselt,0,0,7471281830218435862,7471281830218435862,negative,,[]
-7471539042904867606,2025-02-15 07:08:44,spd ,1,0,7470545911307898134,7470545911307898134,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '👍', '👍', '👍', '👍']"
-7471330456337384214,2025-02-14 17:38:34,nur spd,1,0,7470545911307898134,7470545911307898134,negative,,[]
-7470653864619442966,2025-02-12 21:53:05,spd ,1,0,7470545911307898134,7470545911307898134,negative,,"['🥰', '🥰', '🥰']"
-7470582102308766486,2025-02-12 17:14:24,seit 1863 die richtige wahl ,1,0,7470545911307898134,7470545911307898134,neutral,,['🥰']
+7471329642356835094,2025-02-14 17:35:21,Das merken die alle erst wenn die CDU das vermurkst hat,0,0,7471281830218435862,7471281830218435862,negative,,[]
+7471304030472602390,2025-02-14 15:55:58,Beide Stimmen SPD Niemals Erste Stimme durchstrichen und 2 Bsw SPD hat die innere Sicherheit vermasselt,0,0,7471281830218435862,7471281830218435862,negative,,[]
+7471539042904867606,2025-02-15 07:08:44,SPD ,1,0,7470545911307898134,7470545911307898134,negative,1.0,"['❤️', '❤️', '❤️', '❤️', '❤️', '👍', '👍', '👍', '👍']"
+7471330456337384214,2025-02-14 17:38:34,NUR SPD,1,0,7470545911307898134,7470545911307898134,negative,,[]
+7470653864619442966,2025-02-12 21:53:05,SPD ,1,0,7470545911307898134,7470545911307898134,negative,,"['🥰', '🥰', '🥰']"
+7470582102308766486,2025-02-12 17:14:24,Seit 1863 die richtige Wahl ,1,0,7470545911307898134,7470545911307898134,neutral,,['🥰']
 7470546901797077782,2025-02-12 14:57:56,,1,0,7470545911307898134,7470545911307898134,negative,,['🥰']
-7470928814173733654,2025-02-13 15:40:10,bis bürgerkrieg ausbricht die unfähigkeit der regierung kotz uns an,0,0,7470545911307898134,7470545911307898134,neutral,,[]
-7470817383508099862,2025-02-13 08:28:24,nein nicht mehr,0,0,7470545911307898134,7470545911307898134,negative,,[]
-7470781628623045398,2025-02-13 06:10:08,nur afd,0,0,7470545911307898134,7470545911307898134,negative,,[]
-7470635588674044694,2025-02-12 20:42:06,seid 3 jahren nur heiße luft ampel an die wand gefahren hauptsache an der macht und die eigene tasche füllen altpartein nein danke,0,0,7470545911307898134,7470545911307898134,negative,1.0,"['💙', '💙', '💙', '💙']"
-7470566263015211798,2025-02-12 16:13:11,spd,0,0,7470545911307898134,7470545911307898134,negative,,"['❤️', '❤️', '❤️', '🤝', '🇩🇪', '🇩🇪', '🇩🇪', '🇵🇱', '🇵🇱', '🇵🇱']"
-7470161227973919511,2025-02-11 14:01:32,ganz genau,2,0,7470161000898071830,7470161000898071830,positive,,[]
-7471169985341408022,2025-02-14 07:16:46,das wäre endlich mal ein sehr guter ansatz und eine wirkliche erleichterung für die arbeitnehmenden ,1,0,7470161000898071830,7470161000898071830,neutral,1.0,"['👍', '❤️', '❤️', '❤️']"
-7470492057275220758,2025-02-12 11:25:18,2c spd,1,0,7470161000898071830,7470161000898071830,negative,,"['❤️', '❤️']"
-7473522941181313814,2025-02-20 15:26:51,es wäre schön wenn sich die spd wieder auf ihre grundwerte besinnt reißt euch zusammen gegen rechts auch zusammen mit der linken,0,0,7470161000898071830,7470161000898071830,negative,,[]
-7470852192326877958,2025-02-13 10:42:59,folge bitte zurück ,0,0,7470161000898071830,7470161000898071830,negative,1.0,"['🙏', '🥰']"
+7470928814173733654,2025-02-13 15:40:10,bis Bürgerkrieg ausbricht die Unfähigkeit der Regierung kotz uns an,0,0,7470545911307898134,7470545911307898134,neutral,,[]
+7470817383508099862,2025-02-13 08:28:24,Nein nicht mehr,0,0,7470545911307898134,7470545911307898134,negative,,[]
+7470781628623045398,2025-02-13 06:10:08,Nur AfD,0,0,7470545911307898134,7470545911307898134,negative,,[]
+7470635588674044694,2025-02-12 20:42:06,Seid 3 Jahren nur heiße Luft Ampel an die Wand gefahren Hauptsache an der Macht und die Eigene Tasche füllen Altpartein NEIN DANKE,0,0,7470545911307898134,7470545911307898134,negative,1.0,"['💙', '💙', '💙', '💙']"
+7470566263015211798,2025-02-12 16:13:11,SPD,0,0,7470545911307898134,7470545911307898134,negative,,"['❤️', '❤️', '❤️', '🤝', '🇩🇪', '🇩🇪', '🇩🇪', '🇵🇱', '🇵🇱', '🇵🇱']"
+7470161227973919511,2025-02-11 14:01:32,Ganz genau,2,0,7470161000898071830,7470161000898071830,positive,,[]
+7471169985341408022,2025-02-14 07:16:46,Das wäre endlich mal ein sehr guter Ansatz und eine wirkliche Erleichterung für die Arbeitnehmenden ,1,0,7470161000898071830,7470161000898071830,neutral,1.0,"['👍', '❤️', '❤️', '❤️']"
+7470492057275220758,2025-02-12 11:25:18,2c SPD,1,0,7470161000898071830,7470161000898071830,negative,,"['❤️', '❤️']"
+7473522941181313814,2025-02-20 15:26:51,es wäre schön wenn sich die SPD wieder auf ihre Grundwerte besinnt Reißt euch zusammen gegen Rechts auch zusammen mit der Linken,0,0,7470161000898071830,7470161000898071830,negative,,[]
+7470852192326877958,2025-02-13 10:42:59,Folge bitte zurück ,0,0,7470161000898071830,7470161000898071830,negative,1.0,"['🙏', '🥰']"
 7470398843529315094,2025-02-12 05:25:35,,0,0,7470161000898071830,7470161000898071830,negative,1.0,['👏']
 7470250978597208854,2025-02-11 19:49:40,,0,0,7470161000898071830,7470161000898071830,negative,1.0,['💙']
 7473532853591966486,2025-02-20 16:05:06,,1,0,7473442856775175446,7473442856775175446,negative,1.0,"['👍', '👍', '👍']"
-7495322461374907158,2025-04-20 09:19:19,also du nicht  ,0,0,7473442856775175446,7473442856775175446,negative,,"['🤣', '🤣']"
+7495322461374907158,2025-04-20 09:19:19,also Du nicht  ,0,0,7473442856775175446,7473442856775175446,negative,,"['🤣', '🤣']"
 7492724808476623622,2025-04-13 09:19:31,,0,0,7473442856775175446,7473442856775175446,negative,,['🥰']
 7484960678618432262,2025-03-23 11:11:04,,0,0,7473442856775175446,7473442856775175446,negative,,"['🥰', '🥰', '🥰']"

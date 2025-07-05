@@ -1,25 +1,25 @@
 id,create_time,text,like_count,reply_count,parent_comment_id,video_id,sentiment,emoji_sentiment,extracted_emojis
-7457619096865014550,2025-01-08 18:51:09,diese meldung hatte mich so schockiert weil ich gehofft hatte dass sie nach ihr demonstration das unterlassen solch ein verhalten von zukünftigen sozialpädagogen ist einfach nur beängstigend ,3,0,7457613057498303766,7457613057498303766,negative,-1.0,['😞']
+7457619096865014550,2025-01-08 18:51:09,Diese Meldung hatte mich so schockiert weil ich gehofft hatte dass sie nach ihr Demonstration das unterlassen Solch ein Verhalten von zukünftigen Sozialpädagogen ist einfach nur beängstigend ,3,0,7457613057498303766,7457613057498303766,negative,-1.0,['😞']
 7462826611852722966,2025-01-22 19:39:29,,2,0,7462814964538019094,7462814964538019094,negative,0.0,"['🖤', '🔥']"
-7463353171270222614,2025-01-24 05:44:54,die altparteien gehören allesamt wegen hochverrat vor gericht gestellt,0,0,7462814964538019094,7462814964538019094,neutral,,[]
-7462855844842324758,2025-01-22 21:32:53,"wie viel wahl spenden gab es für den blödsinn
-unwählbar alles auser die cdu",0,0,7462814964538019094,7462814964538019094,negative,,[]
-7462854508352340758,2025-01-22 21:27:35,dann doch lieber die afd die fördern zusätzlich noch bildung,0,0,7462814964538019094,7462814964538019094,negative,,[]
-7462300116819477270,2025-01-21 09:37:40,sollte es häufiger geben einer studie zu folge hilft das streicheln von hunden dabei stress abzubauen,2,0,7462294210616511766,7462294210616511766,neutral,,['🥰']
-7462295474262737687,2025-01-21 09:19:53,tiere geben uns einfach so viel der hund der beste freund des menschen ,2,0,7462294210616511766,7462294210616511766,neutral,1.0,"['😊', '\U0001faf6🏻']"
+7463353171270222614,2025-01-24 05:44:54,Die Altparteien gehören allesamt wegen Hochverrat vor Gericht gestellt,0,0,7462814964538019094,7462814964538019094,neutral,,[]
+7462855844842324758,2025-01-22 21:32:53,"Wie viel Wahl Spenden gab es für den Blödsinn
+Unwählbar alles auser die CDU",0,0,7462814964538019094,7462814964538019094,negative,,[]
+7462854508352340758,2025-01-22 21:27:35,Dann doch lieber die AfD Die fördern zusätzlich noch Bildung,0,0,7462814964538019094,7462814964538019094,negative,,[]
+7462300116819477270,2025-01-21 09:37:40,Sollte es häufiger geben Einer Studie zu folge hilft das Streicheln von Hunden dabei Stress abzubauen,2,0,7462294210616511766,7462294210616511766,neutral,,['🥰']
+7462295474262737687,2025-01-21 09:19:53,Tiere geben uns einfach so viel der Hund der beste Freund des Menschen ,2,0,7462294210616511766,7462294210616511766,neutral,1.0,"['😊', '\U0001faf6🏻']"
 7469155601789682454,2025-02-08 20:59:02,,0,0,7469108509175549206,7469108509175549206,negative,-1.0,"['😡', '😡', '😡']"
-7467186465195213590,2025-02-03 13:38:06,die cdu will meine kinder in den krieg schicken zusammen mit den grünen  sei schlau wähl blau ,3,0,7467147276989844758,7467147276989844758,negative,1.0,"['🤢', '🤮', '💙', '💙']"
+7467186465195213590,2025-02-03 13:38:06,Die CDU will meine Kinder in den Krieg schicken zusammen mit den Grünen  Sei schlau wähl blau ,3,0,7467147276989844758,7467147276989844758,negative,1.0,"['🤢', '🤮', '💙', '💙']"
 7467194947305734934,2025-02-03 14:10:38,,1,0,7467147276989844758,7467147276989844758,negative,1.0,"['💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']"
-7467192265678570262,2025-02-03 14:00:40,die merkel cdu wähle ich nicht  meine stimme geht zu der partei die deutschland noch retten kann  afd ,1,0,7467147276989844758,7467147276989844758,negative,,"['🥰', '🥰']"
-7467172590341538582,2025-02-03 12:44:34,"freiheitskampf
-das war der beste heute
+7467192265678570262,2025-02-03 14:00:40,Die Merkel CDU wähle ich Nicht  meine Stimme geht zu der Partei die Deutschland noch retten kann  AFD ,1,0,7467147276989844758,7467147276989844758,negative,,"['🥰', '🥰']"
+7467172590341538582,2025-02-03 12:44:34,"FREIHEITSKAMPF
+Das war der beste heute
 ",1,0,7467147276989844758,7467147276989844758,positive,1.0,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂']"
-7467168826830177046,2025-02-03 12:29:52,bester mann,1,0,7467147276989844758,7467147276989844758,positive,,[]
+7467168826830177046,2025-02-03 12:29:52,Bester Mann,1,0,7467147276989844758,7467147276989844758,positive,,[]
 7467148375164748566,2025-02-03 11:10:45,,1,0,7467147276989844758,7467147276989844758,negative,,['👏🏼']
-7472676767280612118,2025-02-18 08:43:34,sehr wichtige arbeit von euch vielen dank ,3,0,7472668568597957910,7472668568597957910,positive,,['♥️']
-7472676442955023106,2025-02-18 08:41:53,danke für eure unfassbar wertvolle arbeit ,3,0,7472668568597957910,7472668568597957910,positive,,['♥️']
-7472677183069602582,2025-02-18 08:44:55,toll dass es euch gibt ,2,0,7472668568597957910,7472668568597957910,positive,1.0,['💜']
-7472676126384472854,2025-02-18 08:41:17,es ist so traurig zu sehen wie die menschen in der kälte draußen leben danke an eure arbeit ,2,0,7472668568597957910,7472668568597957910,negative,,['❤️']
-7472818732089459478,2025-02-18 17:53:46,sehr traurig dass es solch eine aktion geben muss aber schön dass es sie gibt niemand sollte frieren müssen ,1,0,7472668568597957910,7472668568597957910,negative,-1.0,['😞']
-7483220262125601558,2025-03-18 18:36:38,der letzte gute politiker der cdu im bundestag danke für ihr nein heute bei der abstimmung ,0,0,7472668568597957910,7472668568597957910,negative,,"['👏🏼', '👏🏼']"
-7472682973167665942,2025-02-18 09:07:18,du heuchler wenn die cdu nicht armut fördern würde bräuchte es auch keine kältebusse hört auf auf bürgergeldempfängern rumzuhacken,0,1,7472668568597957910,7472668568597957910,negative,,[]
+7472676767280612118,2025-02-18 08:43:34,Sehr wichtige Arbeit von euch vielen Dank ,3,0,7472668568597957910,7472668568597957910,positive,,['♥️']
+7472676442955023106,2025-02-18 08:41:53,danke für eure unfassbar wertvolle Arbeit ,3,0,7472668568597957910,7472668568597957910,positive,,['♥️']
+7472677183069602582,2025-02-18 08:44:55,Toll dass es Euch gibt ,2,0,7472668568597957910,7472668568597957910,positive,1.0,['💜']
+7472676126384472854,2025-02-18 08:41:17,Es ist so traurig zu sehen wie die Menschen in der Kälte draußen leben Danke an eure Arbeit ,2,0,7472668568597957910,7472668568597957910,negative,,['❤️']
+7472818732089459478,2025-02-18 17:53:46,Sehr traurig dass es solch eine Aktion geben muss aber schön dass es sie gibt Niemand sollte frieren müssen ,1,0,7472668568597957910,7472668568597957910,negative,-1.0,['😞']
+7483220262125601558,2025-03-18 18:36:38,Der letzte gute Politiker der CDU im Bundestag Danke für ihr nein heute bei der Abstimmung ,0,0,7472668568597957910,7472668568597957910,negative,,"['👏🏼', '👏🏼']"
+7472682973167665942,2025-02-18 09:07:18,du Heuchler Wenn die CDU nicht Armut fördern würde bräuchte es auch keine Kältebusse hört auf auf Bürgergeldempfängern rumzuhacken,0,1,7472668568597957910,7472668568597957910,negative,,[]

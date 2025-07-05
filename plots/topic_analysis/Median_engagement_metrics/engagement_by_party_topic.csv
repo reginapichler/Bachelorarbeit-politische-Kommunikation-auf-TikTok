@@ -1,0 +1,41 @@
+partei,topic_clean,like_count,view_count,share_count,comment_count
+AfD,Internationale Politik,683.5,6618.0,33.0,69.0
+AfD,Migration,484.0,5608.0,22.0,41.5
+AfD,Persönliches,280.0,4814.5,4.0,18.0
+AfD,Sicherheit & Ordnung,582.0,8111.0,25.0,71.0
+AfD,Soziales & Arbeit,200.0,2528.0,8.0,18.0
+AfD,Umwelt & Energie,201.0,2010.0,7.0,20.0
+AfD,Wahlkampf,194.0,2345.0,6.0,21.0
+AfD,Wirtschaft & Finanzen,275.0,3050.5,7.5,23.0
+CDU_CSU,Internationale Politik,243.0,6738.0,6.0,120.0
+CDU_CSU,Migration,184.0,5238.0,6.0,52.0
+CDU_CSU,Persönliches,51.5,1378.0,3.5,3.5
+CDU_CSU,Sicherheit & Ordnung,77.0,1619.0,2.0,12.0
+CDU_CSU,Soziales & Arbeit,58.0,1238.0,2.0,7.0
+CDU_CSU,Umwelt & Energie,40.0,939.5,0.0,4.0
+CDU_CSU,Wahlkampf,58.0,1555.0,2.0,11.0
+CDU_CSU,Wirtschaft & Finanzen,74.0,1394.5,2.0,16.5
+Grüne,Internationale Politik,287.0,4129.0,8.5,25.0
+Grüne,Migration,169.0,2173.0,5.0,16.0
+Grüne,Persönliches,198.0,3476.0,8.0,24.0
+Grüne,Sicherheit & Ordnung,151.5,3201.5,5.0,19.5
+Grüne,Soziales & Arbeit,91.0,1366.0,2.0,11.0
+Grüne,Umwelt & Energie,132.5,1789.0,3.0,17.0
+Grüne,Wahlkampf,107.0,1616.0,2.0,12.0
+Grüne,Wirtschaft & Finanzen,120.0,1498.0,4.0,14.0
+Linke,Internationale Politik,4599.0,55800.0,191.0,251.0
+Linke,Migration,3481.5,19484.5,129.5,116.5
+Linke,Persönliches,13954.5,120884.0,230.5,433.5
+Linke,Sicherheit & Ordnung,1345.0,11084.0,34.0,152.0
+Linke,Soziales & Arbeit,1428.0,13454.5,32.5,65.0
+Linke,Umwelt & Energie,2908.5,22054.5,43.0,103.0
+Linke,Wahlkampf,2211.0,23129.5,36.0,103.0
+Linke,Wirtschaft & Finanzen,13158.0,102315.0,334.0,424.0
+SPD,Internationale Politik,142.0,1817.0,4.0,15.0
+SPD,Migration,124.0,1976.0,4.0,21.0
+SPD,Persönliches,107.0,2459.0,2.0,4.0
+SPD,Sicherheit & Ordnung,125.0,2316.0,3.0,13.0
+SPD,Soziales & Arbeit,56.0,978.0,1.0,5.0
+SPD,Umwelt & Energie,67.5,1047.0,1.0,9.0
+SPD,Wahlkampf,67.0,1092.0,1.0,7.0
+SPD,Wirtschaft & Finanzen,70.0,1141.0,2.0,11.0
