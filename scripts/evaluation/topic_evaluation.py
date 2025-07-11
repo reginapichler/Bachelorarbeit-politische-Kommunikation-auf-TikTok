@@ -3,9 +3,12 @@ import pandas as pd
 import re
 import ast
 import matplotlib.pyplot as plt
+from collections import Counter
+from itertools import combinations
 
-# configuration
+# configurations
 input_dir = "results/topic_analysis/20250101_20250223"
+input_labeled_dir = "results/topic_analysis/20250101_20250223/cleaned/subset_labeled"
 clean_dir = os.path.join(input_dir, "cleaned")
 plot_dir = os.path.join("plots", "topic_analysis")
 preprocessed_dir = os.path.join("data", "data_preprocessed", "party")
@@ -33,11 +36,62 @@ topic_keywords = {
     "International": "Internationale Politik",
     "Internationale": "Internationale Politik",
     "Persönliches": "Persönliches",
-    "Wahlkampf": "Wahlkampf"
-}
+    "Wahlkampf": "Wahlkampf"}
 
 # Regex for topic extraction
 keyword_pattern = "|".join(re.escape(k) for k in topic_keywords.keys())
+
+def map_topics_short(text):
+    mapping = {
+        "S&A": "Soziales & Arbeit",
+        "W&F": "Wirtschaft & Finanzen",
+        "S&O": "Sicherheit & Ordnung",
+        "M": "Migration",
+        "U&E": "Umwelt & Energie",
+        "I": "Internationale Politik",
+        "P": "Persönliches",
+        "W": "Wahlkampf",
+    }
+    return mapping.get(str(text).strip(), text)
+
+def read_labeled_data(input_labeled_dir, files):
+    labeled_data = {}
+    for filename in files:
+        path = os.path.join(input_labeled_dir, filename)
+        out_path = os.path.join(input_labeled_dir, "processed", filename)
+        if os.path.exists(path):
+            try:
+                df = pd.read_csv(path, sep=None, engine="python", quoting=0)
+                df["topic_clean"] = df["gpt_topic"].apply(map_topics_short)
+                df["topic_clean"] = df["topic_clean"].apply(lambda x: [x] if isinstance(x, str) else x)
+                labeled_data[filename] = df
+                df.to_csv(out_path, index=False)
+            except Exception as e:
+                print(f"Error reading labeled file {path}: {e}")
+    return labeled_data
+
+def use_labeled_if_empty(row):
+    orig = row["topic_clean"]
+    labeled = row["topic_clean_labeled"]
+
+    # beide als Liste parsen
+    if isinstance(orig, str):
+        try:
+            orig = ast.literal_eval(orig)
+        except:
+            orig = []
+    if not isinstance(orig, list):
+        orig = []
+
+    if isinstance(labeled, str):
+        try:
+            labeled = ast.literal_eval(labeled)
+        except:
+            labeled = []
+    if not isinstance(labeled, list):
+        labeled = []
+
+    return labeled if not orig and labeled else orig
 
 def extract_topics(text):
     if pd.isna(text):
@@ -49,10 +103,13 @@ def extract_topics(text):
 
 
 def process_and_save_files(dataframes, clean_dir):
-    for filename, df in dataframes.items():
-        out_path = os.path.join(clean_dir, filename)
-        df.to_csv(out_path, index=False)
-        print(f"Saved: {out_path}")
+    try:
+        for filename, df in dataframes.items():
+            out_path = os.path.join(clean_dir, filename)
+            df.to_csv(out_path, index=False)
+            print(f"Saved: {out_path}")
+    except Exception as e:
+        print(f"Error saving files: {e}")
 
 
 def count_topic_lengths(dataframes):
@@ -78,8 +135,9 @@ def save_rows_without_topic(dataframes, base_dir):
         if not df_no_topic.empty:
             out_path = os.path.join(subset_dir, filename)
             df_no_topic.to_csv(out_path, index=False)
-            print(f"{len(df_no_topic)} rows without topic saved in: {out_path}")
+            print(f"{len(df_no_topic)} rows without topic for {filename} saved in: {out_path}")
 
+        print(f"Rows without topic: {len(df_no_topic)} in {filename}")
         cleaned_dataframes[filename] = df_with_topic
 
     return cleaned_dataframes
@@ -114,32 +172,35 @@ def plot_topic_distribution(dataframes, plot_dir):
 
 
 def remove_wahlkampf(dataframes, output_dir):
-    cleaned_dataframes = {}
-    removed_dir = os.path.join(output_dir, "wahlkampf_removed_rows")
-    os.makedirs(removed_dir, exist_ok=True)
+    try:
+        cleaned_dataframes = {}
+        removed_dir = os.path.join(output_dir, "wahlkampf_removed_rows")
+        os.makedirs(removed_dir, exist_ok=True)
 
-    for filename, df in dataframes.items():
-        df = df.copy()
+        for filename, df in dataframes.items():
+            df = df.copy()
 
-        # "Wahlkampf" direkt entfernen
-        df["topic_clean"] = df["topic_clean"].apply(
-            lambda x: [t for t in (ast.literal_eval(x) if isinstance(x, str) else x) if t != "Wahlkampf"]
-        )
+            # remove "Wahlkampf" from topic_clean
+            df["topic_clean"] = df["topic_clean"].apply(
+                lambda x: [t for t in (ast.literal_eval(x) if isinstance(x, str) else x) if t != "Wahlkampf"]
+            )
 
-        # Leere Zeilen abspeichern
-        df_empty = df[df["topic_clean"].apply(lambda x: len(x) == 0)]
-        df_cleaned = df[df["topic_clean"].apply(lambda x: len(x) > 0)]
+            # Save empty rows
+            df_empty = df[df["topic_clean"].apply(lambda x: len(x) == 0)]
+            df_cleaned = df[df["topic_clean"].apply(lambda x: len(x) > 0)]
 
-        if not df_empty.empty:
-            out_path = os.path.join(removed_dir, filename)
-            df_empty.to_csv(out_path, index=False)
-            print(f"{len(df_empty)} rows without Wahlkampf topic saved in: {out_path}")
+            if not df_empty.empty:
+                out_path = os.path.join(removed_dir, filename)
+                df_empty.to_csv(out_path, index=False)
+                print(f"{len(df_empty)} rows without Wahlkampf topic saved in: {out_path}")
 
-        cleaned_dataframes[filename] = df_cleaned
+            cleaned_dataframes[filename] = df_cleaned
 
-    return cleaned_dataframes
+        return cleaned_dataframes
+    except Exception as e:
+        print(f"Error removing Wahlkampf topic: {e}")
 
-def merge_data(dataframes, preprocessed_dir):
+def merge_original_data(dataframes, preprocessed_dir):
     merged_dataframes = {}
 
     for filename, df_topics in dataframes.items():
@@ -156,7 +217,7 @@ def merge_data(dataframes, preprocessed_dir):
             print(f"Couldn't read {video_path}: {e}")
             continue
 
-        merge_keys = ["id", "username", "partei", "video_description", "voice_to_text"]
+        merge_keys = ["id", "username", "video_description", "voice_to_text"]
 
         df_merged = pd.merge(
             df_topics,
@@ -206,12 +267,13 @@ def plot_topic_timeline(merged_dataframes, freq="W"):
 
         grouped = df.groupby(["period", "topic_clean"]).size().unstack(fill_value=0)
 
-        # Zeitraum beschränken und Spalten alphabetisch sortieren
+        # choose timeframe
+        # TODO: necessary?
         end_date = pd.Timestamp("2025-02-23")
         grouped = grouped.loc[:end_date]
         grouped = grouped.reindex(columns=all_topics, fill_value=0)
 
-        # Prozentanteile berechnen
+        # compute percentages
         grouped = grouped.div(grouped.sum(axis=1), axis=0) * 100
 
         # Plot
@@ -228,7 +290,7 @@ def plot_topic_timeline(merged_dataframes, freq="W"):
         plt.grid(True)
         plt.savefig(f"plots/topic_analysis/topic_timeline_{partei}.png", bbox_inches="tight")
         plt.close()
-        print(f"✅ Saved timeline (percent) for {partei}")
+        print(f"Saved timeline for {partei}")
 
 def calculate_engagement_metrics(merged_dataframes, output_dir):
     all_data = []
@@ -237,7 +299,7 @@ def calculate_engagement_metrics(merged_dataframes, output_dir):
         partei = filename.replace(".csv", "")
         df = df.copy()
 
-        # Vorbereitung
+        # preparation
         df["topic_clean"] = df["topic_clean"].apply(
             lambda x: ast.literal_eval(x) if isinstance(x, str) else x
         )
@@ -247,7 +309,7 @@ def calculate_engagement_metrics(merged_dataframes, output_dir):
         df["partei"] = partei
         all_data.append(df)
 
-    # Alles in ein großes DataFrame
+    # combine everything in a big df
     combined_df = pd.concat(all_data, ignore_index=True)
 
     metrics = ["like_count", "view_count", "share_count", "comment_count"]
@@ -256,15 +318,15 @@ def calculate_engagement_metrics(merged_dataframes, output_dir):
 
     by_party = combined_df.groupby(["partei", "topic_clean"])[metrics].mean().round(2)
 
-    # 🔹 Optional: Speichern als CSV
+    # Save as csv
     os.makedirs(output_dir, exist_ok=True)
     overall.to_csv(os.path.join(output_dir, "engagement_by_topic.csv"))
     by_party.to_csv(os.path.join(output_dir, "engagement_by_party_topic.csv"))
 
-    print("\n✅ Engagement-Metriken (gesamt):")
+    print("Engagement-Metriken (gesamt):")
     print(overall)
 
-    print("\n✅ Engagement-Metriken pro Partei:")
+    print("Engagement-Metriken pro Partei:")
     print(by_party)
 
     return overall, by_party
@@ -282,7 +344,7 @@ def plot_engagement_overall(overall_df, output_dir):
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, "engagement_by_topic.png"))
     plt.close()
-    print("✅ Plot gespeichert: engagement_by_topic.png")
+    print("Saved: engagement_by_topic.png")
 
 def plot_engagement_by_party(by_party_df, output_dir):
     import matplotlib.pyplot as plt
@@ -300,11 +362,43 @@ def plot_engagement_by_party(by_party_df, output_dir):
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f"{metric}_by_party.png"))
         plt.close()
-        print(f"✅ Plot gespeichert: {metric}_by_party.png")
+        print(f"Saved plot: {metric}_by_party.png")
+
+def analyze_topic_combinations(dataframes):
+    for filename, df in dataframes.items():
+        print(f"\n--- Analysis for: {filename} ---")
+        
+        df["topic_clean"] = df["topic_clean"].apply(
+            lambda x: ast.literal_eval(x) if isinstance(x, str) else x
+        )
+
+        total_entries = len(df)
+
+        # Count entries without any topic
+        num_no_topic = df["topic_clean"].apply(lambda x: len(x) == 0).sum()
+        share_no_topic = (num_no_topic / total_entries) * 100 if total_entries > 0 else 0
+
+        print(f"Total entries: {total_entries}")
+        print(f"Number of entries without topic: {num_no_topic} ({share_no_topic:.2f}%)")
+
+        # Count entries with multiple topics
+        num_multi_topic = df["topic_clean"].apply(lambda x: len(x) > 1).sum()
+        print(f"Share of entries with multiple topics: {num_multi_topic/total_entries}")
+
+        # Count topic combinations (only for entries with 2 or more topics)
+        combo_counter = Counter()
+        for topics in df["topic_clean"]:
+            if len(topics) > 1:
+                sorted_combo = tuple(sorted(topics))
+                combo_counter[sorted_combo] += 1
+
+        print("Most frequent topic combinations:")
+        for combo, count in combo_counter.most_common(10):
+            print(f"{combo}: {count}x")
 
 
 def main():
-    # analyse whole dataset
+    
     dataframes = {}
     for filename in files:
         path = os.path.join(input_dir, filename)
@@ -312,17 +406,55 @@ def main():
             df = pd.read_csv(path)
             df["topic_clean"] = df["gpt_topic"].apply(extract_topics)
             dataframes[filename] = df
+            print(f"Loaded {len(df)} rows from {path}")
         else:
             print(f"Not found: {path}")
-    
+
+    # read manually labeled data and add to df
+    labeled_data = read_labeled_data(input_labeled_dir, files)
+
+    for filename, df_labeled in labeled_data.items():
+        df = dataframes[filename]
+        print(f"Länge von df: {len(df)}")
+        df_labeled = df_labeled.copy()
+        print(f"Länge von df_labeled: {len(df_labeled)}")
+        print(f"Anzahl der Topics in df_labeled: {df_labeled['topic_clean'].apply(len).sum()}")
+        print(df_labeled['topic_clean'].value_counts())
+        print(f"Datentypen: df: {df['id'].dtype}, df_labeled: {df_labeled['id'].dtype}")
+
+        df = pd.merge(
+            df,
+            df_labeled[["id", "topic_clean"]],
+            on="id",
+            how="left",
+            suffixes=("", "_labeled")
+        )
+
+        correction_counter = 0
+
+        correction_counter = 0
+
+        for idx, row in df.iterrows():
+            if row["topic_clean"] == []:
+                df.at[idx, "topic_clean"] = row["topic_clean_labeled"]
+                correction_counter += 1
+
+        print(f"Replaced {correction_counter} topics in {filename} with labeled data.")
+
+        df.drop(columns=["topic_clean_labeled"], inplace=True)
+        dataframes[filename] = df
+
     # merge with whole dataset
-    merged_dataframes = merge_data(dataframes, preprocessed_dir)
+    merged_dataframes = merge_original_data(dataframes, preprocessed_dir)
+    print(f"Merged {len(merged_dataframes)} dataframes with video information.")
     #saved merged dfs
     for filename, df_merged in merged_dataframes.items():
         output_path = os.path.join("results", "topic_analysis", "merged", filename)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         df_merged.to_csv(output_path, index=False)
         print(f"Gespeichert: {output_path}")
+
+    analyze_topic_combinations(dataframes)
 
     # remove rows without topics and save them
     dataframes_cleaned = save_rows_without_topic(dataframes, clean_dir)
@@ -350,13 +482,13 @@ def main():
     count_topic_lengths(dataframes_no_wahlkampf)
     plot_topic_distribution(dataframes_no_wahlkampf, cleaned_wahlkampf_dir_plots)
 
+    print(f"Merged {len(merged_dataframes)} dataframes with video information.")
+
     # process whole dataset (merged with all video information): timeline of topics, engagement metrics
     plot_topic_timeline(merged_dataframes, freq="W")
     overall, by_party = calculate_engagement_metrics(merged_dataframes, "plots/topic_analysis")
     plot_engagement_overall(overall, "plots/topic_analysis")
     plot_engagement_by_party(by_party, "plots/topic_analysis")
-
-
 
 if __name__ == "__main__":
     main()
