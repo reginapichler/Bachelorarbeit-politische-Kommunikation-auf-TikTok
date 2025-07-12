@@ -4,6 +4,12 @@ import config
 import ast
 import matplotlib.pyplot as plt
 
+plt.rcParams.update({
+    "font.family": "serif",
+    "font.serif": ["Times New Roman"],
+    "font.size": 16
+})
+
 def safe_literal_eval(val):
     """Wertet Strings als Liste aus, gibt sonst leere Liste oder Liste mit Zahl zurück."""
     try:
@@ -90,14 +96,33 @@ def plot_videos_per_party(all_df, plot_dir):
     plt.close()
 
 def plot_metrics_rate(all_df, plot_dir):
-    # 2. Durchschnittliche Views, Likes, Kommentare, Shares pro Partei (Rate)
+    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    labels = ["AfD", "CDU/CSU", "Grüne", "Linke", "SPD"]
+
     metrics = all_df.groupby("partei")[["view_count", "like_count", "comment_count", "share_count"]].mean()
     metrics_rate = metrics.div(metrics["view_count"], axis=0)[["like_count", "comment_count", "share_count"]]
-    metrics_rate.plot(kind="bar", figsize=(10,6))
-    plt.title("Durchschnittliche Like-, Kommentar- und Share-Rate pro Partei")
-    plt.xlabel("Partei")
-    plt.ylabel("Rate (pro View)")
-    plt.tight_layout()
+    metrics_rate = metrics_rate.reindex(parteien)
+
+    # Farbenblind-freundlich
+    colors = ["#CC79A7", "#F0E442", "#009E73"]
+
+    # Erstelle Figure mit automatischem Layout-Handling
+    fig, ax = plt.subplots(figsize=(10, 6), constrained_layout=True)
+
+    metrics_rate.plot(kind="bar", ax=ax, color=colors, fontsize=18)
+
+    # Titel & Achsen
+    ax.set_title(
+        "Durchschnittliche Like-, Kommentar- und Weiterleitungs-Rate pro Partei",
+        fontsize=18, pad=20
+    )
+    ax.set_xlabel("Partei", fontsize=18)
+    ax.set_ylabel("Rate (pro Ansicht)", fontsize=18)
+    ax.set_xticks(range(len(labels)))
+    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=18)
+
+    ax.legend(["Likes", "Kommentare", "Weiterleitungen"], fontsize=16)
+
     plt.savefig(os.path.join(plot_dir, "rate_pro_partei.png"))
     plt.close()
 
@@ -132,18 +157,101 @@ def plot_hashtags(all_df, plot_dir):
             plt.close()
 
 def plot_time_development(all_df, plot_dir):
-    # 4. Zeitliche Entwicklung der Videoanzahl pro Partei (granulare Wochen-Beschriftung)
-    if "create_time" in all_df.columns:
-        all_df["create_time"] = pd.to_datetime(all_df["create_time"], errors="coerce")
-        all_df["woche"] = all_df["create_time"].dt.to_period("W")
-        videos_per_month_party = all_df.groupby(["woche", "partei"]).size().unstack(fill_value=0)
-        ax = videos_per_month_party.plot(figsize=(12,6))
-        plt.title("Zeitliche Entwicklung der Videoanzahl pro Partei")
-        plt.xlabel("Woche")
-        plt.ylabel("Anzahl Videos")
-        plt.tight_layout()
-        plt.savefig(os.path.join(plot_dir, "zeitliche_entwicklung_videos_pro_partei.png"))
-        plt.close()
+    all_df["create_time"] = pd.to_datetime(all_df["create_time"], errors="coerce")
+    all_df["woche"] = all_df["create_time"].dt.to_period("W")
+
+    # Gruppieren nach Woche & Partei
+    videos_per_month_party = all_df.groupby(["woche", "partei"]).size().unstack(fill_value=0)
+
+    # PeriodIndex → DatetimeIndex (für korrekt skalierten Zeitstrahl)
+    videos_per_month_party.index = videos_per_month_party.index.to_timestamp()
+
+    # Reihenfolge & Farben definieren
+    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    farben = {
+        "afd": "#56B4E9",         # Hellblau
+        "cdu_csu": "#000000",     # Schwarz
+        "gruene": "#00B140",      # Frisches Grün
+        "linke": "#E10098",       # Kräftiges Pink
+        "spd": "#D00000"          # SPD-Rot
+    }
+    legenden_labels = {
+        "afd": "AfD",
+        "cdu_csu": "CDU/CSU",
+        "gruene": "Grüne",
+        "linke": "Linke",
+        "spd": "SPD"
+    }
+
+    xtick_labels = [d.strftime("%d.%m.%y") for d in videos_per_month_party.index]
+
+    # Plot erstellen
+    ax = videos_per_month_party[parteien].plot(
+        figsize=(12, 6),
+        color=[farben[p] for p in parteien],
+        linewidth=2
+    )
+
+    # Achsentitel
+    plt.title("Zeitliche Entwicklung der Videoanzahl pro Partei", fontsize=18, pad=20)
+    plt.xlabel("Woche", fontsize=18)
+    plt.ylabel("Anzahl Videos", fontsize=18)
+
+    ax.set_xticks(videos_per_month_party.index)
+    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=16)
+
+    ax.legend([legenden_labels[p] for p in parteien], fontsize=16, title="Partei", title_fontsize=16)
+
+    # Layout & Speichern
+    plt.tight_layout()
+    plt.savefig(os.path.join(plot_dir, "zeitliche_entwicklung_videos_pro_partei.png"), bbox_inches="tight")
+    plt.close()
+
+def plot_weekly_comments(df, output_path):
+    date_col = "create_time"
+    group_col = "partei"
+    title = "Zeitlicher Verlauf der Kommentar-Posts pro Partei"
+    ylabel = "Anzahl Kommentare"
+    filename = "zeitlicher_verlauf_kommentare_pro_partei.png"
+
+    # Zeitverarbeitung
+    df = df.copy()
+    df[date_col] = pd.to_datetime(df[date_col], errors="coerce")
+    df["woche"] = df[date_col].dt.to_period("W")
+    grouped = df.groupby(["woche", group_col]).size().unstack(fill_value=0)
+    grouped.index = grouped.index.to_timestamp()
+
+    # Parteifarben & Labels
+    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    farben = {
+        "afd": "#56B4E9", "cdu_csu": "#000000", "gruene": "#00B140",
+        "linke": "#E10098", "spd": "#D00000"
+    }
+    legenden_labels = {
+        "afd": "AfD", "cdu_csu": "CDU/CSU", "gruene": "Grüne",
+        "linke": "Linke", "spd": "SPD"
+    }
+
+    # X-Achse formatieren
+    xtick_labels = [d.strftime("%d.%m.%y") for d in grouped.index]
+
+    # Plot erstellen
+    ax = grouped[parteien].plot(
+        figsize=(12, 6),
+        color=[farben[p] for p in parteien],
+        linewidth=2
+    )
+    plt.title(title, fontsize=18, pad=20)
+    plt.xlabel("Woche", fontsize=18)
+    plt.ylabel(ylabel, fontsize=18)
+    ax.set_xticks(grouped.index)
+    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=16)
+    ax.legend([legenden_labels[p] for p in parteien], fontsize=16, title="Partei", title_fontsize=16)
+
+    # Speichern
+    plt.tight_layout()
+    plt.savefig(os.path.join(output_path, filename), bbox_inches="tight")
+    plt.close()
 
 def plot_videos_per_account(all_df, plot_dir):
     # Plot: Verteilung der Videoanzahl pro Account (gesamt)
@@ -296,17 +404,7 @@ def main():
     print("\nDurchschnittliche Reply-Rate pro Kommentar und Partei:")
     print(reply_rate_per_party)
 
-    # Zeitlicher Verlauf der Kommentar-Posts pro Partei (pro Woche)
-    comments_merged["create_time"] = pd.to_datetime(comments_merged["create_time"], errors="coerce")
-    comments_merged["woche"] = comments_merged["create_time"].dt.to_period("W")
-    comments_per_week_party = comments_merged.groupby(["woche", "partei"]).size().unstack(fill_value=0)
-    ax = comments_per_week_party.plot(figsize=(12,6))
-    plt.title("Zeitlicher Verlauf der Kommentar-Posts pro Partei")
-    plt.xlabel("Woche")
-    plt.ylabel("Anzahl Kommentare")
-    plt.tight_layout()
-    plt.savefig(os.path.join(plot_dir, "zeitlicher_verlauf_kommentare_pro_partei.png"))
-    plt.close()
+    plot_weekly_comments(comments_merged, plot_dir)
 
     # Kommentar-Statistiken speichern
     stats_df = pd.DataFrame({

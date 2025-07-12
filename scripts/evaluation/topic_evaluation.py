@@ -1,10 +1,19 @@
 import os
 import pandas as pd
+import numpy as np
 import re
 import ast
 import matplotlib.pyplot as plt
 from collections import Counter
 from itertools import combinations
+from matplotlib.patches import Patch
+
+
+plt.rcParams.update({
+    "font.family": "serif",
+    "font.serif": ["Times New Roman"],
+    "font.size": 16
+})
 
 # configurations
 input_dir = "results/topic_analysis/20250101_20250223"
@@ -146,30 +155,61 @@ def save_rows_without_topic(dataframes, base_dir):
 def plot_topic_distribution(dataframes, plot_dir):
     os.makedirs(plot_dir, exist_ok=True)
 
+    topic_farben = {
+        "Soziales & Arbeit": "#E69F00",     
+        "Wirtschaft & Finanzen": "#97D4F7",    
+        "Sicherheit & Ordnung": "#045280",    
+        "Migration": "#F0E442",                 
+        "Umwelt & Energie": "#009E73",     
+        "Internationale Politik": "#A74800",  
+        "Persönliches": "#CC79A7",         
+        "Wahlkampf": "#999999"     
+    }
+
     for filename, df in dataframes.items():
-        df["topic_clean"] = df["topic_clean"].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
-        df = df[df["topic_clean"].apply(lambda x: len(x) > 0)]
+        # Themen-Spalte parsen
+        df["topic_clean"] = df["topic_clean"].apply(
+            lambda x: ast.literal_eval(x) if isinstance(x, str) and x.startswith("[") else x
+        )
+        df = df[df["topic_clean"].apply(lambda x: isinstance(x, list) and len(x) > 0)]
         if df.empty:
-            print(f"No rows with topic in {filename}")
+            print(f"No rows with topics in {filename}")
             continue
 
+        # Themenanteile berechnen
         all_topics = [topic for topics in df["topic_clean"] for topic in topics]
         topic_counts = pd.Series(all_topics).value_counts(normalize=True).sort_values(ascending=False) * 100
 
-        print(f"\nShare of topics {filename} (percent):")
-        print(topic_counts.round(2))
+        # Farben pro Thema setzen (Fallback = grau)
+        colors = [topic_farben.get(topic, "#CCCCCC") for topic in topic_counts.index]
+
+        # Parteiname aufbereiten
+        party_name = filename.replace(".csv", "")
+        party_name_proc = {
+            "CDU_CSU": "CDU/CSU",
+            "Grüne": "Bündnis 90/Die Grünen",
+            "Linke": "Die Linke"
+        }.get(party_name, party_name)
 
         # Plot
-        plt.figure(figsize=(8, 4))
-        topic_counts.plot(kind="bar")
-        plt.title(f"Topic-Verteilung (Anteile): {filename.replace('.csv', '')}")
-        plt.ylabel("Anteil (%)")
-        plt.xlabel("Topic")
+        plt.figure(figsize=(10, 6))
+        topic_counts.plot(
+            kind="bar",
+            color=colors,
+            fontsize=18
+        )
+
+        plt.title(f"Anteile der Themenbereiche: {party_name_proc}", fontsize=18, fontweight="bold", pad=15)
+        plt.ylabel("Anteil (%)", fontsize=18)
+        plt.xlabel("Themenbereich", fontsize=18)
+        plt.xticks(rotation=45, ha="right", fontsize=18)
+        plt.ylim(0, 55)
+        plt.yticks(np.arange(0, 55, 10), fontsize=18)
+
+
         plt.tight_layout()
-        plt.savefig(os.path.join(plot_dir, f"{filename.replace('.csv', '')}_topic_distribution_share.png"))
+        plt.savefig(os.path.join(plot_dir, f"{party_name}_topic_distribution_share.png"), bbox_inches="tight")
         plt.close()
-
-
 
 def remove_wahlkampf(dataframes, output_dir):
     try:
@@ -237,9 +277,11 @@ def merge_original_data(dataframes, preprocessed_dir):
 
     return merged_dataframes
 
-
 def plot_topic_timeline(merged_dataframes, freq="W"):
-    all_topics = sorted([
+
+    os.makedirs("plots/topic_analysis", exist_ok=True)
+
+    all_topics = [
         "Internationale Politik",
         "Migration",
         "Persönliches",
@@ -248,9 +290,27 @@ def plot_topic_timeline(merged_dataframes, freq="W"):
         "Umwelt & Energie",
         "Wahlkampf",
         "Wirtschaft & Finanzen"
-    ])
-    color_list = plt.cm.get_cmap("tab10", len(all_topics)).colors
-    topic_colors = dict(zip(all_topics, color_list))
+    ]
+
+    topic_colors = {
+        "Soziales & Arbeit": "#E69F00",     
+        "Wirtschaft & Finanzen": "#97D4F7",    
+        "Sicherheit & Ordnung": "#045280",    
+        "Migration": "#F0E442",                 
+        "Umwelt & Energie": "#009E73",     
+        "Internationale Politik": "#A74800",  
+        "Persönliches": "#CC79A7",         
+        "Wahlkampf": "#999999"     
+    }
+    
+    all_topics = sorted(topic_colors.keys())
+    legend_fig, legend_ax = plt.subplots(figsize=(3, 3))
+    handles = [Patch(color=topic_colors[t], label=t) for t in all_topics]
+    legend_ax.legend(handles=handles, loc="center", fontsize=16, title="Themenbereich", title_fontsize=16)
+    legend_ax.axis("off")
+    legend_fig.tight_layout()
+    legend_fig.savefig("plots/topic_analysis/legend_topics.png", dpi=300, bbox_inches="tight")
+    plt.close(legend_fig)
 
     for filename, df in merged_dataframes.items():
         partei = filename.replace(".csv", "")
@@ -266,28 +326,40 @@ def plot_topic_timeline(merged_dataframes, freq="W"):
         df["period"] = df["create_time"].dt.to_period(freq).dt.to_timestamp()
 
         grouped = df.groupby(["period", "topic_clean"]).size().unstack(fill_value=0)
-
-        # choose timeframe
-        # TODO: necessary?
-        end_date = pd.Timestamp("2025-02-23")
-        grouped = grouped.loc[:end_date]
         grouped = grouped.reindex(columns=all_topics, fill_value=0)
-
-        # compute percentages
         grouped = grouped.div(grouped.sum(axis=1), axis=0) * 100
+        grouped = grouped.loc[:pd.Timestamp("2025-02-23")]
 
-        # Plot
+        # Formatierter Parteiname
+        party_name_proc = {
+            "CDU_CSU": "CDU/CSU",
+            "Grüne": "Bündnis 90/Die Grünen",
+            "Linke": "Die Linke"
+        }.get(partei, partei)
+
+        # Plot ohne Legende
         fig, ax = plt.subplots(figsize=(12, 6))
         grouped.plot(
             ax=ax,
-            color=[topic_colors[col] for col in grouped.columns]
+            color=[topic_colors[col] for col in grouped.columns],
+            linewidth=2
         )
-        ax.set_title(f"Zeitlicher Verlauf der Topics (Anteile) – {partei}")
-        ax.set_xlabel("Zeitraum")
-        ax.set_ylabel("Anteil an geposteten Videos (%)")
-        ax.legend(title="Topic", bbox_to_anchor=(1.05, 1), loc="upper left")
+        ax.legend().remove()
+
+        ax.set_title(f"Zeitlicher Verlauf der Themenanteile – {party_name_proc}", fontsize=18, fontweight="bold", pad=15)
+        ax.set_xlabel("Datum", fontsize=18)
+        ax.set_ylabel("Anteil an geposteten Videos (%)", fontsize=18)
+
+        ax.set_ylim(0, 70)
+        ax.set_yticks(np.arange(0, 71, 10))
+
+        ax.set_xticks(grouped.index)
+        ax.set_xticklabels([d.strftime("%d.%m.%y") for d in grouped.index], rotation=45, ha="right", fontsize=16)
+        ax.tick_params(axis="y", labelsize=16)
+
+        # Ohne Legende
+        plt.grid(axis="y")
         plt.tight_layout()
-        plt.grid(True)
         plt.savefig(f"plots/topic_analysis/topic_timeline_{partei}.png", bbox_inches="tight")
         plt.close()
         print(f"Saved timeline for {partei}")
@@ -332,7 +404,6 @@ def calculate_engagement_metrics(merged_dataframes, output_dir):
     return overall, by_party
 
 def plot_engagement_overall(overall_df, output_dir):
-    import matplotlib.pyplot as plt
     os.makedirs(output_dir, exist_ok=True)
 
     ax = overall_df.plot(kind="bar", figsize=(12, 6))
@@ -347,22 +418,91 @@ def plot_engagement_overall(overall_df, output_dir):
     print("Saved: engagement_by_topic.png")
 
 def plot_engagement_by_party(by_party_df, output_dir):
-    import matplotlib.pyplot as plt
     os.makedirs(output_dir, exist_ok=True)
+
+    # Farben und Label-Mapping wie zuvor
+    parteien = ["AfD", "CDU_CSU", "Grüne", "Linke", "SPD"]
+    farben = {
+        "AfD": "#56B4E9",         # Hellblau
+        "CDU_CSU": "#000000",     # Schwarz
+        "Grüne": "#00B140",      # Frisches Grün
+        "Linke": "#E10098",       # Pink/Purpur
+        "SPD": "#D00000"          # SPD-Rot
+    }
+    legenden_labels = {
+        "AfD": "AfD",
+        "CDU_CSU": "CDU/CSU",
+        "Grüne": "Die Grünen",
+        "Linke": "Die Linke",
+        "SPD": "SPD"
+    }
+
+    # Metrik-Beschriftungen
+    metric_labels = {
+        "like_count": "Anzahl an Likes",
+        "view_count": "Anzahl an Ansichten",
+        "share_count": "Anzahl an Weiterleitungen",
+        "comment_count": "Anzahl an Kommentaren"
+    }
 
     for metric in by_party_df.columns:
         pivot = by_party_df.reset_index().pivot(index="topic_clean", columns="partei", values=metric)
-        ax = pivot.plot(kind="bar", figsize=(12, 6))
-        plt.title(f"Durchschnittlicher {metric.replace('_', ' ').capitalize()} pro Topic & Partei")
-        plt.ylabel("Durchschnitt pro Video")
-        plt.xlabel("Topic")
-        plt.xticks(rotation=45, ha="right")
-        plt.legend(title="Partei")
+
+        # Reihenfolge sicherstellen
+        pivot = pivot[parteien]
+
+        ax = pivot.plot(
+            kind="bar",
+            figsize=(12, 6),
+            color=[farben[p] for p in parteien]
+        )
+
+        plt.title(f"Durchschnittliche {metric_labels.get(metric, metric)} pro Themenbereich & Partei", fontsize=18, fontweight="bold", pad=15)
+        plt.ylabel(metric_labels.get(metric, metric), fontsize=18)
+        plt.xlabel("Themenbereich", fontsize=18)
+        plt.xticks(rotation=45, ha="right", fontsize=16)
+        plt.yticks(fontsize=16)
+
+        if metric == "view_count":
+            ax.legend(
+                [legenden_labels[p] for p in parteien],
+                title="Partei",
+                title_fontsize=14,
+                fontsize=14,
+                loc="upper left",
+                bbox_to_anchor=(1, 1)
+            )
+        else:
+            ax.get_legend().remove()
+
         plt.grid(axis="y")
         plt.tight_layout()
-        plt.savefig(os.path.join(output_dir, f"{metric}_by_party.png"))
+        plt.savefig(os.path.join(output_dir, f"{metric}_by_party.png"), bbox_inches="tight")
         plt.close()
         print(f"Saved plot: {metric}_by_party.png")
+
+        handles = [
+        Patch(facecolor=farben[p], label=legenden_labels[p])
+        for p in parteien
+    ]
+
+    fig_legend = plt.figure(figsize=(3, 2))
+    ax_legend = fig_legend.add_subplot(111)
+    ax_legend.axis("off")
+
+    ax_legend.legend(
+        handles=handles,
+        loc="center",
+        frameon=False,
+        fontsize=16,
+        title="Partei",
+        title_fontsize=16
+    )
+
+    legende_path = os.path.join(output_dir, "legend_partycolors.png")
+    fig_legend.savefig(legende_path, dpi=300, bbox_inches="tight")
+    plt.close(fig_legend)
+    print(f"Saved legend: {legende_path}")
 
 def analyze_topic_combinations(dataframes):
     for filename, df in dataframes.items():
@@ -395,7 +535,6 @@ def analyze_topic_combinations(dataframes):
         print("Most frequent topic combinations:")
         for combo, count in combo_counter.most_common(10):
             print(f"{combo}: {count}x")
-
 
 def main():
     

@@ -4,9 +4,15 @@ import pandas as pd
 import config
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 import seaborn as sns
 import ast
+from matplotlib.colors import LinearSegmentedColormap
+
+plt.rcParams.update({
+    "font.family": "serif",
+    "font.serif": ["Times New Roman"],
+    "font.size": 16
+})
 
 def get_user_from_filename(filename):
     base = os.path.basename(filename)
@@ -113,18 +119,53 @@ def merge_comments_with_topics(all_comments_df_valid, topic_dir):
     return pd.concat(merged_comment_topic, ignore_index=True)
 
 def plot_heatmap(data, title, output_dir, filename):
-        if data.empty:
-            print(f"⚠️ Keine Daten für {title}, Heatmap wird übersprungen.")
-            return
-        plt.figure(figsize=(10, 5))
-        sns.heatmap(data, annot=True, fmt=".2f", cmap="RdYlGn", center=0)
-        plt.title(title)
-        plt.xlabel("Topic")
-        plt.ylabel("Partei")
-        plt.tight_layout()
-        plt.savefig(os.path.join(output_dir, filename))
-        plt.close()
-        print(f"✅ Heatmap gespeichert: {filename}")
+    if data.empty:
+        print(f"No data for {title}, heatmap skipped.")
+        return
+
+    # Parteinamen umbenennen
+    party_labels = {
+        "afd": "AfD",
+        "cdu_csu": "CDU/CSU",
+        "grüne": "Die Grünen",
+        "linke": "Die Linke",
+        "spd": "SPD"
+    }
+    data = data.rename(index=party_labels)
+
+    sentiment_cmap = LinearSegmentedColormap.from_list(
+        "custom_sentiment",
+        ["#E3711A", "#E0E0E0", "#069770"],
+        N=256
+    )
+
+    # Plot
+    plt.figure(figsize=(10, 5))
+    ax = sns.heatmap(
+        data,
+        annot=True,
+        fmt=".2f",
+        cmap=sentiment_cmap,
+        center=0,
+        linewidths=0.5,
+        linecolor="gray",
+        cbar_kws={"label": "Stimmung"}
+    )
+
+    # Titel und Achsentexte
+    ax.set_title(title, fontsize=16, fontweight="bold", pad=12)
+    ax.set_xlabel("Themenbereich", fontsize=16)
+    ax.set_ylabel("Partei", fontsize=16)
+
+    # X- und Y-Achsenticks beschriften
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right", fontsize=16)
+    ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=16)
+
+    plt.tight_layout()
+    os.makedirs(output_dir, exist_ok=True)
+    plt.savefig(os.path.join(output_dir, filename), bbox_inches="tight")
+    plt.close()
+    print(f"Heatmap saved: {filename}")
 
 def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
     os.makedirs(output_dir, exist_ok=True)
@@ -137,9 +178,9 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
         .unstack(fill_value=np.nan)
         .round(3)
     )
-    print("\n📊 Ø Final Sentiment pro Topic & Partei:")
+    print("Durchschnittliches Finales Sentiment pro Topic & Partei:")
     print(sentiment_final)
-    plot_heatmap(sentiment_final, "Ø Final Sentiment pro Topic & Partei",output_dir, "final_sentiment_by_topic_party.png")
+    plot_heatmap(sentiment_final, "Ø Kombinierte Stimmung pro Themenbereich & Partei",output_dir, "final_sentiment_by_topic_party.png")
 
     # Sentiment Num
     sentiment_text = (
@@ -165,6 +206,281 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
     print(sentiment_emoji)
     plot_heatmap(sentiment_emoji, "Ø Emoji-Sentiment pro Topic & Partei", output_dir, "emoji_sentiment_by_topic_party.png")
 
+def plot_emoji_sentiment_distribution(all_comments_df, start_date, end_date):
+    # Farben für Sentiments
+    sentiment_colors = {
+        "negativ": "#F9BF93",     # Orangebraun
+        "neutral": "#C1C1C1",     # Grau
+        "positiv": "#069770"      # Blaugrün
+    }
+
+    # Mapping von Parteikürzeln auf vollständige Namen
+    party_labels = {
+        "afd": "AfD",
+        "cdu_csu": "CDU/CSU",
+        "grüne": "Die Grünen",
+        "linke": "Die Linke",
+        "spd": "SPD"
+    }
+
+    # Gruppiere nach Partei und emoji_sentiment, normalisiert (prozentual)
+    emoji_sentiment_dist = (
+        all_comments_df
+        .groupby("party")["emoji_sentiment"]
+        .value_counts(normalize=True)
+        .unstack(fill_value=0)
+    )
+
+    # Umbenennen der Spalten: -1 = negativ, 0 = neutral, 1 = positiv
+    emoji_sentiment_dist.rename(columns={
+        -1.0: "negativ",
+        0.0: "neutral",
+        1.0: "positiv"
+    }, inplace=True)
+
+    # Spalten in gewünschter Reihenfolge
+    ordered_cols = ["negativ", "neutral", "positiv"]
+    emoji_sentiment_dist = emoji_sentiment_dist[ordered_cols]
+
+    # Erzeuge die Bar-Plot-Achse
+    ax = emoji_sentiment_dist.plot(
+        kind="bar",
+        stacked=True,
+        figsize=(10, 6),
+        color=[sentiment_colors[col] for col in ordered_cols]
+    )
+
+    # Setze neue xtick-Labels mit Partei-Vollnamen
+    tick_positions = range(len(emoji_sentiment_dist.index))
+    ax.set_xticks(tick_positions)
+    ax.set_xticklabels(
+        [party_labels.get(party, party) for party in emoji_sentiment_dist.index],
+        rotation=45,
+        ha="right",
+        fontsize=16
+    )
+
+    ax.set_ylim(0, 1)
+    ax.set_yticks(np.arange(0, 1.01, 0.2))
+
+    # Achsen- und Diagrammtitel
+    plt.title("Stimmung der Emojis pro Partei", fontsize=16, fontweight="bold", pad=10)
+    plt.ylabel("Anteil", fontsize=16)
+    plt.xlabel("Partei", fontsize=16)
+    plt.yticks(fontsize=16)
+    plt.legend(title="Emoji-Stimmung", title_fontsize=16, fontsize=16, loc='center left', bbox_to_anchor=(1, 0.5))
+    plt.tight_layout()
+
+    # Speichern
+    output_dir = f"plots/sentiment_analysis/{start_date}_{end_date}"
+    os.makedirs(output_dir, exist_ok=True)
+    plt.savefig(f"{output_dir}/emoji_sentiment_verteilung.png", bbox_inches="tight")
+    plt.close()
+
+def plot_text_sentiment_distribution(all_comments_df, start_date, end_date):
+    # Farben für Sentiment-Kategorien
+    sentiment_colors = {
+        "negativ": "#F9BF93",     # Orangebraun
+        "neutral": "#C1C1C1",     # Grau
+        "positiv": "#069770"      # Blaugrün
+    }
+
+    # Mapping von Parteikürzeln auf vollständige Namen
+    party_labels = {
+        "afd": "AfD",
+        "cdu_csu": "CDU/CSU",
+        "grüne": "Die Grünen",
+        "linke": "Die Linke",
+        "spd": "SPD"
+    }
+
+    # Gruppieren, normalisieren und Sentimentverteilung berechnen
+    sentiment_dist = (
+        all_comments_df
+        .groupby("party")["sentiment"]
+        .value_counts(normalize=True)
+        .unstack(fill_value=0)
+    )
+
+    sentiment_dist.rename(columns={
+        "negative": "negativ",
+        "neutral": "neutral",
+        "positive": "positiv"
+    }, inplace=True)
+
+    # Spaltenreihenfolge erzwingen (falls nötig)
+    ordered_cols = ["negativ", "neutral", "positiv"]
+    sentiment_dist = sentiment_dist.reindex(columns=ordered_cols)
+
+    # X-Achsen-Labels: Parteivollnamen
+    tick_positions = range(len(sentiment_dist.index))
+    party_names = [party_labels.get(party, party) for party in sentiment_dist.index]
+
+    # Plot erzeugen
+    ax = sentiment_dist.plot(
+        kind="bar",
+        stacked=True,
+        figsize=(8, 5),
+        color=[sentiment_colors[col] for col in ordered_cols]
+    )
+
+    ax.set_xticks(tick_positions)
+    ax.set_xticklabels(party_names, rotation=45, ha="right", fontsize=16)
+
+    ax.set_ylim(0, 1)
+    ax.set_yticks(np.arange(0, 1.01, 0.2))
+
+    plt.title("Stimmung in den Texten pro Partei", fontsize=16, fontweight="bold", pad=10)
+    plt.ylabel("Anteil", fontsize=16)
+    plt.xlabel("Partei", fontsize=16)
+    plt.yticks(fontsize=16)
+
+    # Legende rechts außen
+    plt.legend(
+        title="Stimmung",
+        title_fontsize=16,
+        fontsize=16,
+        loc='center left',
+        bbox_to_anchor=(1.0, 0.5)
+    )
+
+    plt.tight_layout()
+
+    # Speichern
+    output_dir = f"plots/sentiment_analysis/{start_date}_{end_date}"
+    os.makedirs(output_dir, exist_ok=True)
+    plt.savefig(f"{output_dir}/sentiment_verteilung.png", bbox_inches="tight")
+    plt.close()
+
+def plot_final_sentiment_distribution(all_comments_df_valid, start_date, end_date):
+    # Farben für Sentiment-Kategorien
+    sentiment_colors = {
+        "negativ": "#F9BF93",     # Orangebraun
+        "neutral": "#C1C1C1",     # Grau
+        "positiv": "#069770"      # Blaugrün
+    }
+
+    # Mapping von Parteikürzeln auf vollständige Namen
+    party_labels = {
+        "afd": "AfD",
+        "cdu_csu": "CDU/CSU",
+        "grüne": "Die Grünen",
+        "linke": "Die Linke",
+        "spd": "SPD"
+    }
+
+    all_comments_df_valid["final_sentiment_label"] = all_comments_df_valid["final_sentiment"].apply(final_sentiment_label)
+
+    # Gruppieren und normalisieren
+    final_sentiment_dist = (
+        all_comments_df_valid
+        .groupby("party")["final_sentiment_label"]
+        .value_counts(normalize=True)
+        .unstack(fill_value=0)
+    )
+
+    ordered_cols = ["negativ", "neutral", "positiv"]
+    final_sentiment_dist = final_sentiment_dist.reindex(columns=ordered_cols)
+
+    tick_positions = range(len(final_sentiment_dist.index))
+    party_names = [party_labels.get(party, party) for party in final_sentiment_dist.index]
+
+    # Plot erzeugen
+    ax = final_sentiment_dist.plot(
+        kind="bar",
+        stacked=True,
+        figsize=(8, 5),
+        color=[sentiment_colors[col] for col in ordered_cols]
+    )
+
+    ax.set_xticks(tick_positions)
+    ax.set_xticklabels(party_names, rotation=45, ha="right", fontsize=16)
+
+    ax.set_ylim(0, 1)
+    ax.set_yticks(np.arange(0, 1.01, 0.2))
+
+    plt.title("Verteilung der kombinierten Stimmung pro Partei", fontsize=16, fontweight="bold", pad = 10)
+    plt.ylabel("Anteil", fontsize=16)
+    plt.xlabel("Partei", fontsize=16)
+    plt.yticks(fontsize=16)
+
+    plt.legend(
+        title="Stimmung",
+        title_fontsize=16,
+        fontsize=16,
+        loc='center left',
+        bbox_to_anchor=(1.0, 0.5)
+    )
+
+    plt.tight_layout()
+
+    # Speichern
+    output_dir = f"plots/sentiment_analysis/{start_date}_{end_date}"
+    os.makedirs(output_dir, exist_ok=True)
+    plt.savefig(f"{output_dir}/final_sentiment_verteilung.png", bbox_inches="tight")
+    plt.close()
+
+def plot_sentiment_crosstab_heatmap(all_comments_df, start_date, end_date, output_dir=None):
+    if output_dir is None:
+        output_dir = f"plots/sentiment_analysis/{start_date}_{end_date}"
+    os.makedirs(output_dir, exist_ok=True)
+
+    print(all_comments_df['sentiment_num'])
+
+    # Filter: nur valide Emoji- und Text-Sentiments
+    comparison_df = all_comments_df[
+        all_comments_df["emoji_sentiment"].isin([-1, 0, 1]) &
+        all_comments_df["sentiment_num"].isin([-1, 0, 1])
+    ]
+
+    sentiment_counts = pd.crosstab(
+        comparison_df["emoji_sentiment"],
+        comparison_df["sentiment_num"],
+        rownames=["Emoji-Sentiment"],
+        colnames=["Text-Sentiment"]
+    )
+
+    sentiment_percent = sentiment_counts / sentiment_counts.values.sum()
+
+    sentiment_percent = sentiment_percent.reindex(index=[-1, 0, 1], columns=[-1, 0, 1])
+
+    plt.figure(figsize=(6, 5))
+    ax = sns.heatmap(
+        sentiment_percent,
+        annot=True,
+        fmt=".2%",
+        cmap="PuBuGn",
+        cbar=True,
+        linewidths=0.5,
+        linecolor='gray'
+    )
+
+    sentiment_labels = {-1: "negativ", 0: "neutral", 1: "positiv"}
+    x_labels = [sentiment_labels.get(x, x) for x in sentiment_percent.columns]
+    y_labels = [sentiment_labels.get(y, y) for y in sentiment_percent.index]
+
+    # Plot
+    plt.figure(figsize=(6, 5))
+    ax = sns.heatmap(
+        sentiment_percent,
+        annot=True,
+        fmt=".2%",
+        cmap="PuBuGn",
+        cbar=True,
+        linewidths=0.5,
+        linecolor='gray'
+    )
+
+    ax.set_title("Prozentuale Kreuztabelle (Emoji vs. Text-Sentiment)", fontsize=16, fontweight="bold", pad=10)
+    ax.set_xlabel("Text-Sentiment", fontsize=16)
+    ax.set_ylabel("Emoji-Sentiment", fontsize=16)
+
+    ax.set_xticklabels(x_labels, fontsize=16, rotation=0, ha="center")
+    ax.set_yticklabels(y_labels, fontsize=16, rotation=0, va="center")
+
+    plt.tight_layout()
+    plt.savefig(os.path.join(output_dir, "heatmap_prozent_gesamt.png"))
+    plt.close()
 
 def main():
     start_date = config.start_date
@@ -175,7 +491,6 @@ def main():
 
     print("Gefundene Dateien:", files)
 
-    # --- Einlesen und Vereinheitlichung ---
     all_comments = []
     sonstige_users = set()
 
@@ -208,45 +523,13 @@ def main():
     # --- Plots und Auswertungen ---
 
     # 1. Plot: emoji_sentiment pro Partei
-    emoji_sentiment_dist = all_comments_df.groupby("party")["emoji_sentiment"].value_counts(normalize=True).unstack(fill_value=0)
-    print("\nVerteilung emoji_sentiment pro Partei:")
-    print(emoji_sentiment_dist)
-    emoji_sentiment_dist.plot(kind="bar", stacked=True, figsize=(8,5), color=["#d62728", "#ff7f0e", "#2ca02c"])
-    plt.title("Verteilung emoji_sentiment pro Partei")
-    plt.ylabel("Anteil")
-    plt.xlabel("Partei")
-    plt.legend(title="emoji_sentiment")
-    plt.tight_layout()
-    os.makedirs(f"plots/sentiment_analysis", exist_ok=True)
-    plt.savefig(f"plots/sentiment_analysis/{start_date}_{end_date}/emoji_sentiment_verteilung.png")
-    plt.close()
+    plot_emoji_sentiment_distribution(all_comments_df, start_date, end_date)
 
     # 2. Plot: sentiment pro Partei
-    sentiment_dist = all_comments_df.groupby("party")["sentiment"].value_counts(normalize=True).unstack(fill_value=0)
-    print("\nVerteilung sentiment pro Partei:")
-    print(sentiment_dist)
-    sentiment_dist.plot(kind="bar", stacked=True, figsize=(8,5), color=["#d62728", "#ff7f0e", "#2ca02c"])
-    plt.title("Verteilung sentiment pro Partei")
-    plt.ylabel("Anteil")
-    plt.xlabel("Partei")
-    plt.legend(title="sentiment")
-    plt.tight_layout()
-    plt.savefig(f"plots/sentiment_analysis/{start_date}_{end_date}/sentiment_verteilung.png")
-    plt.close()
+    plot_text_sentiment_distribution(all_comments_df, start_date, end_date)
 
     # 3. Plot: final_sentiment pro Partei
-    all_comments_df_valid["final_sentiment_label"] = all_comments_df_valid["final_sentiment"].apply(final_sentiment_label)
-    final_sentiment_dist = all_comments_df_valid.groupby("party")["final_sentiment_label"].value_counts(normalize=True).unstack(fill_value=0)
-    print("\nVerteilung final_sentiment pro Partei:")
-    print(final_sentiment_dist)
-    final_sentiment_dist.plot(kind="bar", stacked=True, figsize=(8,5), color=["#d62728", "#ff7f0e", "#2ca02c"])
-    plt.title("Verteilung final_sentiment pro Partei")
-    plt.ylabel("Anteil")
-    plt.xlabel("Partei")
-    plt.legend(title="final_sentiment")
-    plt.tight_layout()
-    plt.savefig(f"plots/sentiment_analysis/{start_date}_{end_date}/final_sentiment_verteilung.png")
-    plt.close()
+    plot_final_sentiment_distribution(all_comments_df_valid, start_date, end_date)
 
     # 4. Plot: Anteil 💙 pro Partei (Kommentar-Ebene)
     blue_heart_by_party = all_comments_df.groupby("party")["has_blue_heart"].mean().reset_index()
@@ -293,28 +576,7 @@ def main():
     plt.close()
 
     # 6. Kreuztabellen und Heatmap
-    # Vergleichs-DataFrame mit nur Zeilen, die sowohl Emoji- als auch Text-Sentiment enthalten
-    comparison_df = all_comments_df[
-        all_comments_df["emoji_sentiment"].isin([-1, 0, 1]) &
-        all_comments_df["sentiment_num"].isin([-1, 0, 1])
-]
-
-
-    sentiment_counts = pd.crosstab(
-        comparison_df["emoji_sentiment"],
-        comparison_df["sentiment_num"],
-        rownames=["Emoji-Sentiment"],
-        colnames=["Text-Sentiment"]
-    )
-
-    sentiment_percent = sentiment_counts / sentiment_counts.values.sum()
-
-    plt.figure(figsize=(6, 5))
-    sns.heatmap(sentiment_percent, annot=True, fmt=".2%", cmap="PuBuGn", cbar=True)
-    plt.title("Prozentuale Kreuztabelle (Emoji vs. Text-Sentiment)")
-    plt.tight_layout()
-    plt.savefig(f"plots/sentiment_analysis/{start_date}_{end_date}/heatmap_prozent_gesamt.png")
-    plt.close()
+    plot_sentiment_crosstab_heatmap(all_comments_df, start_date, end_date)
 
     # 7. Unterschied Emoji vs. Text-Sentiment pro Partei
     coherence_df = all_comments_df[
