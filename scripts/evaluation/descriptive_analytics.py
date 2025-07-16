@@ -45,12 +45,14 @@ def save_metrics(df, partei, results_dir):
         "Durchschnittliche Views": df['view_count'].mean(),
         "Durchschnittliche Likes": df['like_count'].mean(),
         "Durchschnittliche Kommentare": df['comment_count'].mean(),
-        "Durchschnittliche Shares": df['share_count'].mean()
+        "Durchschnittliche Shares": df['share_count'].mean(),
+        "Gesamtanzahl Views": df["view_count"].sum()
     }
     metrics_df = pd.DataFrame([metrics])
     metrics_path = os.path.join(results_dir, f"{partei}_metrics.csv")
     metrics_df.to_csv(metrics_path, index=False)
-
+    print(f"Kennzahlen für {partei} gespeichert, Gesamtansichten: {metrics['Gesamtanzahl Views']}")
+    print(f"Number of videos for {partei}: {len(df)}")
     # Top 5 Videos
     top_videos = df.nlargest(5, 'view_count')[['id', 'username', 'voice_to_text', 'video_description', 'view_count', 'like_count', 'comment_count', 'share_count']]
     topfive_path = os.path.join(results_dir, f"{partei}_topfive.csv")
@@ -104,7 +106,7 @@ def plot_metrics_rate(all_df, plot_dir):
     metrics_rate = metrics_rate.reindex(parteien)
 
     # Farbenblind-freundlich
-    colors = ["#CC79A7", "#F0E442", "#009E73"]
+    colors = ["#D566A3", "#F0E442", "#00189E"]
 
     # Erstelle Figure mit automatischem Layout-Handling
     fig, ax = plt.subplots(figsize=(10, 6), constrained_layout=True)
@@ -298,6 +300,7 @@ def save_account_stats(all_df, results_dir):
         })
         total_videos = len(partei_df)
         rechnerisch = avg_videos_per_account * active_accounts
+        print(f"{partei}: {active_accounts} active accounts")
         print(f"{partei}: Gesamtzahl Videos={total_videos}, Durchschnitt*Aktive={rechnerisch}")
 
     # Gesamtwerte

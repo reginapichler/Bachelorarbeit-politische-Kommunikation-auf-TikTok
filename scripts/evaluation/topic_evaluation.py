@@ -191,6 +191,8 @@ def plot_topic_distribution(dataframes, plot_dir):
             "Linke": "Die Linke"
         }.get(party_name, party_name)
 
+        print(f"Topic distribution for {party_name_proc}:\n {topic_counts}")
+
         # Plot
         plt.figure(figsize=(10, 6))
         topic_counts.plot(
@@ -361,6 +363,92 @@ def plot_topic_timeline(merged_dataframes, freq="W"):
         plt.grid(axis="y")
         plt.tight_layout()
         plt.savefig(f"plots/topic_analysis/topic_timeline_{partei}.png", bbox_inches="tight")
+        plt.close()
+        print(f"Saved timeline for {partei}")
+
+def plot_topic_timeline_stacked(merged_dataframes, freq="W"):
+
+    os.makedirs("plots/topic_analysis", exist_ok=True)
+
+    all_topics = [
+        "Internationale Politik",
+        "Migration",
+        "Persönliches",
+        "Sicherheit & Ordnung",
+        "Soziales & Arbeit",
+        "Umwelt & Energie",
+        "Wirtschaft & Finanzen",
+        "Wahlkampf"
+    ]
+
+    topic_colors = {
+        "Soziales & Arbeit": "#E69F00",     
+        "Wirtschaft & Finanzen": "#97D4F7",    
+        "Sicherheit & Ordnung": "#045280",    
+        "Migration": "#F0E442",                 
+        "Umwelt & Energie": "#009E73",     
+        "Internationale Politik": "#A74800",  
+        "Persönliches": "#CC79A7",         
+        "Wahlkampf": "#999999"     
+    }
+    
+    legend_fig, legend_ax = plt.subplots(figsize=(3, 3))
+    handles = [Patch(color=topic_colors[t], label=t) for t in all_topics]
+    legend_ax.legend(handles=handles, loc="center", fontsize=16, title="Themenbereich", title_fontsize=16)
+    legend_ax.axis("off")
+    legend_fig.tight_layout()
+    legend_fig.savefig("plots/topic_analysis/legend_topics.png", dpi=300, bbox_inches="tight")
+    plt.close(legend_fig)
+
+    for filename, df in merged_dataframes.items():
+        partei = filename.replace(".csv", "")
+        df = df.copy()
+
+        df["create_time"] = pd.to_datetime(df["create_time"], errors="coerce")
+        df = df.dropna(subset=["create_time", "topic_clean"])
+
+        df["topic_clean"] = df["topic_clean"].apply(
+            lambda x: ast.literal_eval(x) if isinstance(x, str) else x
+        )
+        df = df.explode("topic_clean")
+        df["period"] = df["create_time"].dt.to_period(freq).dt.to_timestamp()
+
+        grouped = df.groupby(["period", "topic_clean"]).size().unstack(fill_value=0)
+        grouped = grouped.reindex(columns=all_topics, fill_value=0)
+        grouped = grouped.div(grouped.sum(axis=1), axis=0) * 100
+        grouped = grouped.loc[:pd.Timestamp("2025-02-23")]
+
+        # Formatierter Parteiname
+        party_name_proc = {
+            "CDU_CSU": "CDU/CSU",
+            "Grüne": "Bündnis 90/Die Grünen",
+            "Linke": "Die Linke"
+        }.get(partei, partei)
+
+        # Plot ohne Legende
+        fig, ax = plt.subplots(figsize=(12, 6))
+        grouped.plot.area(
+            ax=ax,
+            color=[topic_colors[col] for col in grouped.columns]
+        )
+        ax.legend().remove()
+
+        ax.set_title(f"Zeitlicher Verlauf der Themenanteile – {party_name_proc}", fontsize=18, fontweight="bold", pad=15)
+        ax.set_xlabel("Datum", fontsize=18)
+        ax.set_ylabel("Anteil an geposteten Videos (%)", fontsize=18)
+
+        #ax.set_ylim(0, 70)
+        #ax.set_yticks(np.arange(0, 71, 10))
+
+        ax.set_xticks(grouped.index)
+        ax.set_xticklabels([d.strftime("%d.%m.%y") for d in grouped.index], rotation=45, ha="right", fontsize=16)
+        ax.tick_params(axis="y", labelsize=16)
+
+        # Ohne Legende
+        plt.grid(axis="y")
+        plt.tight_layout()
+        plt.savefig(f"plots/topic_analysis/stacked_topic_timeline_{partei}.png", bbox_inches="tight")
+        plt.show()
         plt.close()
         print(f"Saved timeline for {partei}")
 
@@ -625,6 +713,7 @@ def main():
 
     # process whole dataset (merged with all video information): timeline of topics, engagement metrics
     plot_topic_timeline(merged_dataframes, freq="W")
+    plot_topic_timeline_stacked(merged_dataframes, freq="W")
     overall, by_party = calculate_engagement_metrics(merged_dataframes, "plots/topic_analysis")
     plot_engagement_overall(overall, "plots/topic_analysis")
     plot_engagement_by_party(by_party, "plots/topic_analysis")

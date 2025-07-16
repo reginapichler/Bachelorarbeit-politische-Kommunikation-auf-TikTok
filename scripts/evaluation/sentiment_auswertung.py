@@ -123,7 +123,6 @@ def plot_heatmap(data, title, output_dir, filename):
         print(f"No data for {title}, heatmap skipped.")
         return
 
-    # Parteinamen umbenennen
     party_labels = {
         "afd": "AfD",
         "cdu_csu": "CDU/CSU",
@@ -135,7 +134,7 @@ def plot_heatmap(data, title, output_dir, filename):
 
     sentiment_cmap = LinearSegmentedColormap.from_list(
         "custom_sentiment",
-        ["#E3711A", "#E0E0E0", "#069770"],
+        ["#E3711A", "#E0E0E0", "#007038"],
         N=256
     )
 
@@ -209,9 +208,9 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
 def plot_emoji_sentiment_distribution(all_comments_df, start_date, end_date):
     # Farben für Sentiments
     sentiment_colors = {
-        "negativ": "#F9BF93",     # Orangebraun
+        "negativ": "#FF8800",     # Orangebraun
         "neutral": "#C1C1C1",     # Grau
-        "positiv": "#069770"      # Blaugrün
+        "positiv": "#007038"      # Blaugrün
     }
 
     # Mapping von Parteikürzeln auf vollständige Namen
@@ -280,9 +279,9 @@ def plot_emoji_sentiment_distribution(all_comments_df, start_date, end_date):
 def plot_text_sentiment_distribution(all_comments_df, start_date, end_date):
     # Farben für Sentiment-Kategorien
     sentiment_colors = {
-        "negativ": "#F9BF93",     # Orangebraun
+        "negativ": "#FF8800",     # Orangebraun
         "neutral": "#C1C1C1",     # Grau
-        "positiv": "#069770"      # Blaugrün
+        "positiv": "#007038"      # Blaugrün
     }
 
     # Mapping von Parteikürzeln auf vollständige Namen
@@ -355,9 +354,9 @@ def plot_text_sentiment_distribution(all_comments_df, start_date, end_date):
 def plot_final_sentiment_distribution(all_comments_df_valid, start_date, end_date):
     # Farben für Sentiment-Kategorien
     sentiment_colors = {
-        "negativ": "#F9BF93",     # Orangebraun
+        "negativ": "#FF8800",     # Orangebraun
         "neutral": "#C1C1C1",     # Grau
-        "positiv": "#069770"      # Blaugrün
+        "positiv": "#007038"      # Blaugrün
     }
 
     # Mapping von Parteikürzeln auf vollständige Namen
@@ -427,12 +426,13 @@ def plot_sentiment_crosstab_heatmap(all_comments_df, start_date, end_date, outpu
 
     print(all_comments_df['sentiment_num'])
 
-    # Filter: nur valide Emoji- und Text-Sentiments
+    # only use valid sentiment values
     comparison_df = all_comments_df[
         all_comments_df["emoji_sentiment"].isin([-1, 0, 1]) &
         all_comments_df["sentiment_num"].isin([-1, 0, 1])
     ]
 
+    # count sentiment combinations
     sentiment_counts = pd.crosstab(
         comparison_df["emoji_sentiment"],
         comparison_df["sentiment_num"],
@@ -440,6 +440,7 @@ def plot_sentiment_crosstab_heatmap(all_comments_df, start_date, end_date, outpu
         colnames=["Text-Sentiment"]
     )
 
+    # convert to percentage
     sentiment_percent = sentiment_counts / sentiment_counts.values.sum()
 
     sentiment_percent = sentiment_percent.reindex(index=[-1, 0, 1], columns=[-1, 0, 1])
