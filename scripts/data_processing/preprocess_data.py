@@ -9,6 +9,7 @@ import re
 import emoji
 
 def get_party(username):
+    """Get the party based on the username."""
     if username in config.afd_usernames:
         return "afd"
     elif username in config.spd_usernames:
@@ -23,6 +24,8 @@ def get_party(username):
         return "unknown"
 
 def preprocess_video(user, start_date, end_date):
+    """Preprocess video data for a given user."""
+    # define input and output paths
     input_video = os.path.join("data", "data_raw", "videos", f"{user}_video_data_{start_date}_{end_date}_complete.csv")
     output_video = os.path.join("data", "data_preprocessed", "videos", f"{user}_video_data_{start_date}_{end_date}_preprocessed.csv")
     try:
@@ -35,6 +38,9 @@ def preprocess_video(user, start_date, end_date):
         return False
 
     try:
+        # convert 'create_time' to datetime
+        # note: this step is not necessarily needed because the datetime format won't be saved in the CSV
+        # further processing could be added here, for the analysis in this project it is not needed and therefore the video data is directly saved in the folder for preprocessed data
         df_video['create_time'] = pd.to_datetime(df_video['create_time'], unit='s')
         df_video.to_csv(output_video, index=False)
         return True
@@ -43,6 +49,7 @@ def preprocess_video(user, start_date, end_date):
         return False
 
 def clean_text(text):
+    """Clean text by removing emojis and punctuation."""
     # remove emojis
     text = emoji.replace_emoji(str(text), replace='')
     # remove punctuation marks
@@ -50,6 +57,7 @@ def clean_text(text):
     return text
 
 def preprocess_comments(user, start_date, end_date, comment_cols):
+    """Preprocess comments for a given user and timeframe."""
     input_dir = "data/data_raw/comments"
     output_dir = "data/data_preprocessed/comments"
     os.makedirs(output_dir, exist_ok=True)
@@ -57,10 +65,11 @@ def preprocess_comments(user, start_date, end_date, comment_cols):
     output_path = os.path.join(output_dir, f"{user}_comments_{start_date}_{end_date}_preprocessed.csv")
     try:
         df = pd.read_csv(input_path, engine='python')
+        # filter columns
         cols_present = [col for col in comment_cols if col in df.columns]
         df = df[cols_present]
         df['create_time'] = pd.to_datetime(df['create_time'], unit='s', errors='coerce')
-        # clean text
+        # clean text for processing by bert model later
         if 'text' in df.columns:
             df['text'] = df['text'].astype(str).apply(clean_text)
         df.to_csv(output_path, index=False)
@@ -70,47 +79,52 @@ def preprocess_comments(user, start_date, end_date, comment_cols):
         print(f"Error for {user}: {e}")
 
 def aggregate_and_save_by_party(usernames, start_date, end_date):
+    """Aggregate video and comment data by party and save to CSV."""
     party_video_dfs = {}
     party_comment_dfs = {}
 
     for user in usernames:
-        partei = get_party(user)
+        party = get_party(user)
 
-        # videos
+        # load video data
         video_path = os.path.join("data", "data_preprocessed", "videos", f"{user}_video_data_{start_date}_{end_date}_preprocessed.csv")
         if os.path.exists(video_path):
             df_video = pd.read_csv(video_path)
             df_video["username"] = user
-            df_video["partei"] = partei
-            party_video_dfs.setdefault(partei, []).append(df_video)
+            df_video["party"] = party
+            # add videos of user to respecting party video df
+            party_video_dfs.setdefault(party, []).append(df_video)
 
-        # comments
+        # load comments
         comment_path = os.path.join("data", "data_preprocessed", "comments", f"{user}_comments_{start_date}_{end_date}_preprocessed.csv")
         if os.path.exists(comment_path):
             df_comment = pd.read_csv(comment_path)
             df_comment["username"] = user
-            df_comment["partei"] = partei
-            party_comment_dfs.setdefault(partei, []).append(df_comment)
+            df_comment["party"] = party
+            # add comments of user to respecting party comment df
+            party_comment_dfs.setdefault(party, []).append(df_comment)
 
     # save
     output_dir = os.path.join("data", "data_preprocessed", "party")
     os.makedirs(output_dir, exist_ok=True)
 
-    for partei, dfs in party_video_dfs.items():
+    for party, dfs in party_video_dfs.items():
         df_all = pd.concat(dfs, ignore_index=True)
-        df_all.to_csv(os.path.join(output_dir, f"videos_{partei}.csv"), index=False)
+        df_all.to_csv(os.path.join(output_dir, f"videos_{party}.csv"), index=False)
 
-    for partei, dfs in party_comment_dfs.items():
+    for party, dfs in party_comment_dfs.items():
         df_all = pd.concat(dfs, ignore_index=True)
-        df_all.to_csv(os.path.join(output_dir, f"comments_{partei}.csv"), index=False)
+        df_all.to_csv(os.path.join(output_dir, f"comments_{party}.csv"), index=False)
 
 def main():
+    # configurations
     usernames = config.usernames
     start_date = config.start_date
     end_date = config.end_date
 
     no_video = []
 
+    # preprocess videos
     for user in usernames:
         success = preprocess_video(user, start_date, end_date)
         if not success:
@@ -120,14 +134,17 @@ def main():
     for user in no_video:
         print(user)
 
+    # define comment data for preprocessing and saving
     comment_cols = [
         "id", "create_time", "text", "like_count", "reply_count",
         "parent_comment_id", "video_id"
     ]
 
+    # preprocess comments
     for user in usernames:
         preprocess_comments(user, start_date, end_date, comment_cols)
 
+    # save df with videos and df with comments for each party
     aggregate_and_save_by_party(usernames, start_date, end_date)
 
 if __name__ == "__main__":
