@@ -3,7 +3,8 @@ import os
 import config_analysis as config
 import openai
 
-#openai.api_key = API_KEY
+# set API key for OpenAI here
+openai.api_key = API_KEY
 
 def get_party(username):
     if username in config.afd_usernames:
@@ -35,7 +36,7 @@ def gpt_topic_classification(description, transcript, party):
         )
         return response.choices[0].text
     except Exception as e:
-        print(f"Fehler bei Anfrage: {e}")
+        print(f"Error for query: {e}")
         return("ERROR")
 
 def main():

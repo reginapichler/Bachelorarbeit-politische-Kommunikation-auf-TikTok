@@ -11,7 +11,7 @@ plt.rcParams.update({
 })
 
 def safe_literal_eval(val):
-    """Wertet Strings als Liste aus, gibt sonst leere Liste oder Liste mit Zahl zurück."""
+    """Safely evaluates strings as lists, returns empty list or list with number otherwise."""
     try:
         if pd.isna(val) or val == "":
             return []
@@ -22,7 +22,7 @@ def safe_literal_eval(val):
         return []
 
 def load_party_data(userlist, video_dir, start_date, end_date):
-    """Lädt und verbindet alle Video-CSV-Dateien einer Partei."""
+    """Loads and concatenates all video CSV files for a party."""
     dfs = []
     missing = []
     for user in userlist:
@@ -31,153 +31,163 @@ def load_party_data(userlist, video_dir, start_date, end_date):
             df = pd.read_csv(file_path)
             dfs.append(df)
         else:
-            print(f"Datei nicht gefunden: {file_path}")
+            print(f"File not found: {file_path}")
             missing.append(user)
     if dfs:
         return pd.concat(dfs, ignore_index=True), missing
     else:
         return None, missing
 
-def save_metrics(df, partei, results_dir):
-    """Berechnet und speichert Kennzahlen und Top 5 Videos für eine Partei."""
+def save_metrics(df, party, results_dir):
+    """Calculates and saves metrics and top 5 videos for a party."""
     metrics = {
-        "Anzahl Videos": len(df),
-        "Durchschnittliche Views": df['view_count'].mean(),
-        "Durchschnittliche Likes": df['like_count'].mean(),
-        "Durchschnittliche Kommentare": df['comment_count'].mean(),
-        "Durchschnittliche Shares": df['share_count'].mean(),
-        "Gesamtanzahl Views": df["view_count"].sum()
+        "Number of videos": len(df),
+        "Average views": df['view_count'].mean(),
+        "Average likes": df['like_count'].mean(),
+        "Average comments": df['comment_count'].mean(),
+        "Average shares": df['share_count'].mean(),
+        "Total views": df["view_count"].sum()
     }
     metrics_df = pd.DataFrame([metrics])
-    metrics_path = os.path.join(results_dir, f"{partei}_metrics.csv")
+    metrics_path = os.path.join(results_dir, f"{party}_metrics.csv")
     metrics_df.to_csv(metrics_path, index=False)
-    print(f"Kennzahlen für {partei} gespeichert, Gesamtansichten: {metrics['Gesamtanzahl Views']}")
-    print(f"Number of videos for {partei}: {len(df)}")
-    # Top 5 Videos
+    print(f"Metrics for {party} saved, total views: {metrics['Total views']}")
+    print(f"Number of videos for {party}: {len(df)}")
+    # Top 5 videos
     top_videos = df.nlargest(5, 'view_count')[['id', 'username', 'voice_to_text', 'video_description', 'view_count', 'like_count', 'comment_count', 'share_count']]
-    topfive_path = os.path.join(results_dir, f"{partei}_topfive.csv")
+    topfive_path = os.path.join(results_dir, f"{party}_topfive.csv")
     top_videos.to_csv(topfive_path, index=False)
 
-def save_distribution(df, partei, results_dir):
-    """Speichert die Verteilungen von Hashtags, Effekten und Playlists für eine Partei."""
+def save_distribution(df, party, results_dir):
+    """Saves the distributions of hashtags, effects, playlists, and music for a party."""
     for col, label in [("hashtag_names", "hashtags"), ("effect_ids", "effects"), ("playlist_id", "playlists"), ("music_id", "music")]:
         if col in df.columns:
             series = df[col].dropna().apply(safe_literal_eval)
             flat = [item for sublist in series for item in sublist if item]
             counts = pd.Series(flat).value_counts().reset_index()
             counts.columns = [label, 'count']
-            counts.to_csv(os.path.join(results_dir, f"{partei}_{label}.csv"), index=False)
+            counts.to_csv(os.path.join(results_dir, f"{party}_{label}.csv"), index=False)
 
 def save_overall_distribution(all_df, results_dir):
-    """Speichert die Verteilungen und Top 5 Videos für alle Parteien zusammen."""
+    """Saves the distributions and top 5 videos for all parties combined."""
     for col, label in [("hashtag_names", "hashtags"), ("effect_ids", "effects"), ("playlist_id", "playlists"), ("music_id", "music")]:
         if col in all_df.columns:
             series = all_df[col].dropna().apply(safe_literal_eval)
             flat = [item for sublist in series for item in sublist if item]
             counts = pd.Series(flat).value_counts().reset_index()
             counts.columns = [label, 'count']
-            counts.to_csv(os.path.join(results_dir, f"alle_{label}.csv"), index=False)
+            counts.to_csv(os.path.join(results_dir, f"all_{label}.csv"), index=False)
 
     top_videos_all = all_df.nlargest(5, 'view_count')[['id', 'username', 'voice_to_text', 'video_description', 'view_count', 'like_count', 'comment_count', 'share_count']]
-    topfive_all_path = os.path.join(results_dir, f"alle_topfive.csv")
+    topfive_all_path = os.path.join(results_dir, f"all_topfive.csv")
     top_videos_all.to_csv(topfive_all_path, index=False)
 
 def plot_videos_per_party(all_df, plot_dir):
-    # 1. Anzahl Videos pro Partei
-    videos_per_party = all_df["partei"].value_counts().sort_index()
-    print("Anzahl Videos pro Partei:")
-    for partei, anzahl in videos_per_party.items():
-        print(f"{partei}: {anzahl}")
+    """Plots the number of videos per party."""
+    videos_per_party = all_df["party"].value_counts().sort_index()
+    print("Number of videos per party:")
+    for party, count in videos_per_party.items():
+        print(f"{party}: {count}")
     plt.figure(figsize=(8,5))
     videos_per_party.plot(kind="bar", color="#1f77b4")
-    plt.title("Anzahl Videos pro Partei")
-    plt.xlabel("Partei")
-    plt.ylabel("Anzahl Videos")
+    plt.title("Number of videos per party", fontweight="bold", pad=15)
+    plt.xlabel("Party")
+    plt.ylabel("Number of videos")
     plt.tight_layout()
-    plt.savefig(os.path.join(plot_dir, "anzahl_videos_pro_partei.png"))
+    plt.savefig(os.path.join(plot_dir, "number_of_videos_per_party.png"), dpi=300)
     plt.close()
 
 def plot_metrics_rate(all_df, plot_dir):
-    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    """Plots the average like, comment, and share rates per view for each party."""
+    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
     labels = ["AfD", "CDU/CSU", "Grüne", "Linke", "SPD"]
 
-    metrics = all_df.groupby("partei")[["view_count", "like_count", "comment_count", "share_count"]].mean()
+    # get metrics per party
+    metrics = all_df.groupby("party")[["view_count", "like_count", "comment_count", "share_count"]].mean()
     metrics_rate = metrics.div(metrics["view_count"], axis=0)[["like_count", "comment_count", "share_count"]]
-    metrics_rate = metrics_rate.reindex(parteien)
+    metrics_rate = metrics_rate.reindex(parties)
 
-    # Farbenblind-freundlich
+    # convert to percentage
+    metrics_rate = metrics_rate * 100
+
+    print("Mean rate per view:")
+    for party in parties:
+        print(f"{party}: {metrics_rate.loc[party].to_dict()}")
+
     colors = ["#D566A3", "#F0E442", "#00189E"]
 
-    # Erstelle Figure mit automatischem Layout-Handling
-    fig, ax = plt.subplots(figsize=(10, 6), constrained_layout=True)
+    # create bar plot
+    fig, ax = plt.subplots(figsize=(8, 5), constrained_layout=True)
+    metrics_rate.plot(kind="bar", ax=ax, color=colors, fontsize=16)
 
-    metrics_rate.plot(kind="bar", ax=ax, color=colors, fontsize=18)
-
-    # Titel & Achsen
     ax.set_title(
         "Durchschnittliche Like-, Kommentar- und Weiterleitungs-Rate pro Partei",
-        fontsize=18, pad=20
+        fontsize=16, pad=15, fontweight="bold"
     )
-    ax.set_xlabel("Partei", fontsize=18)
-    ax.set_ylabel("Rate (pro Ansicht)", fontsize=18)
+    ax.set_xlabel("Partei", fontsize=16)
+    ax.set_ylabel("Rate pro Ansicht (%)", fontsize=16)
     ax.set_xticks(range(len(labels)))
-    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=18)
+    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=16)
 
     ax.legend(["Likes", "Kommentare", "Weiterleitungen"], fontsize=16)
 
-    plt.savefig(os.path.join(plot_dir, "rate_pro_partei.png"))
+    ax.grid(axis="y", linestyle="--", alpha=0.7)
+    plt.savefig(os.path.join(plot_dir, "rate_pro_partei.png"), dpi=300)
     plt.close()
 
 def plot_hashtags(all_df, plot_dir):
-    # 3. Verteilung der Hashtags (gesamt)
+    """Plots the top hashtags for all parties and overall."""
+
+    # get top hashtags and plot
     if "hashtag_names" in all_df.columns:
         all_hashtags = all_df["hashtag_names"].dropna().apply(safe_literal_eval)
         flat_hashtags = [item for sublist in all_hashtags for item in sublist if item]
         hashtag_counts = pd.Series(flat_hashtags).value_counts().head(20)
         plt.figure(figsize=(10,6))
         hashtag_counts.plot(kind="bar", color="#2ca02c")
-        plt.title("Top 20 Hashtags (gesamt)")
+        plt.title("Top 20 hashtags (all)", fontweight="bold", pad=15)
         plt.xlabel("Hashtag")
-        plt.ylabel("Anzahl")
+        plt.ylabel("Count")
         plt.tight_layout()
-        plt.savefig(os.path.join(plot_dir, "hashtags_gesamt.png"))
+        plt.savefig(os.path.join(plot_dir, "hashtags_all.png"), dpi=300)
         plt.close()
 
-        # ...und pro Partei
-        for partei in all_df["partei"].unique():
-            partei_df = all_df[all_df["partei"] == partei]
-            partei_hashtags = partei_df["hashtag_names"].dropna().apply(safe_literal_eval)
-            flat_partei_hashtags = [item for sublist in partei_hashtags for item in sublist if item]
-            partei_hashtag_counts = pd.Series(flat_partei_hashtags).value_counts().head(10)
+        # per party
+        for party in all_df["party"].unique():
+            party_df = all_df[all_df["party"] == party]
+            party_hashtags = party_df["hashtag_names"].dropna().apply(safe_literal_eval)
+            flat_party_hashtags = [item for sublist in party_hashtags for item in sublist if item]
+            party_hashtag_counts = pd.Series(flat_party_hashtags).value_counts().head(10)
             plt.figure(figsize=(8,5))
-            partei_hashtag_counts.plot(kind="bar", color="#ff7f0e")
-            plt.title(f"Top 10 Hashtags ({partei})")
+            party_hashtag_counts.plot(kind="bar", color="#ff7f0e")
+            plt.title(f"Top 10 hashtags ({party})", fontweight="bold", pad=15)
             plt.xlabel("Hashtag")
-            plt.ylabel("Anzahl")
+            plt.ylabel("Count")
             plt.tight_layout()
-            plt.savefig(os.path.join(plot_dir, f"hashtags_{partei}.png"))
+            plt.savefig(os.path.join(plot_dir, f"hashtags_{party}.png"), dpi=300)
             plt.close()
 
 def plot_time_development(all_df, plot_dir):
+    """Plots the time development of postings per party."""
+
+    # convert create_time and filter from 2025-01-01
     all_df["create_time"] = pd.to_datetime(all_df["create_time"], errors="coerce")
-    all_df["woche"] = all_df["create_time"].dt.to_period("W")
+    all_df = all_df[all_df["create_time"] >= "2025-01-01"]
+    all_df["week"] = all_df["create_time"].dt.to_period("W")
 
-    # Gruppieren nach Woche & Partei
-    videos_per_month_party = all_df.groupby(["woche", "partei"]).size().unstack(fill_value=0)
+    # Group by week & party
+    videos_per_week_party = all_df.groupby(["week", "party"]).size().unstack(fill_value=0)
+    videos_per_week_party.index = videos_per_week_party.index.to_timestamp()
 
-    # PeriodIndex → DatetimeIndex (für korrekt skalierten Zeitstrahl)
-    videos_per_month_party.index = videos_per_month_party.index.to_timestamp()
-
-    # Reihenfolge & Farben definieren
-    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
-    farben = {
-        "afd": "#56B4E9",         # Hellblau
-        "cdu_csu": "#000000",     # Schwarz
-        "gruene": "#00B140",      # Frisches Grün
-        "linke": "#E10098",       # Kräftiges Pink
-        "spd": "#D00000"          # SPD-Rot
+    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    colors = {
+        "afd": "#56B4E9",
+        "cdu_csu": "#000000",
+        "gruene": "#00B140",
+        "linke": "#E10098",
+        "spd": "#D00000"
     }
-    legenden_labels = {
+    legend_labels = {
         "afd": "AfD",
         "cdu_csu": "CDU/CSU",
         "gruene": "Grüne",
@@ -185,91 +195,86 @@ def plot_time_development(all_df, plot_dir):
         "spd": "SPD"
     }
 
-    xtick_labels = [d.strftime("%d.%m.%y") for d in videos_per_month_party.index]
+    # create the labels for x-axis
+    xtick_labels = [d.strftime("%d.%m.%y") if d >= pd.Timestamp("2025-01-01") else "" for d in videos_per_week_party.index]
 
-    # Plot erstellen
-    ax = videos_per_month_party[parteien].plot(
-        figsize=(12, 6),
-        color=[farben[p] for p in parteien],
+    # create plot
+    ax = videos_per_week_party[parties].plot(
+        figsize=(10, 6),
+        color=[colors[p] for p in parties],
         linewidth=2
     )
 
-    # Achsentitel
-    plt.title("Zeitliche Entwicklung der Videoanzahl pro Partei", fontsize=18, pad=20)
+    plt.title("Zeitliche Entwicklung der Videoanzahl pro Partei", fontsize=18, pad=15, fontweight="bold")
     plt.xlabel("Woche", fontsize=18)
     plt.ylabel("Anzahl Videos", fontsize=18)
 
-    ax.set_xticks(videos_per_month_party.index)
-    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=16)
+    ax.set_xticks(videos_per_week_party.index)
+    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=18)
 
-    ax.legend([legenden_labels[p] for p in parteien], fontsize=16, title="Partei", title_fontsize=16)
-
-    # Layout & Speichern
+    ax.legend([legend_labels[p] for p in parties], fontsize=16, title="Partei", title_fontsize=16)
+    ax.grid(axis="y", linestyle="--", alpha=0.7)
     plt.tight_layout()
-    plt.savefig(os.path.join(plot_dir, "zeitliche_entwicklung_videos_pro_partei.png"), bbox_inches="tight")
+    plt.savefig(os.path.join(plot_dir, "zeitliche_entwicklung_videos_pro_partei.png"), bbox_inches="tight", dpi=300)
     plt.close()
 
 def plot_weekly_comments(df, output_path):
-    date_col = "create_time"
-    group_col = "partei"
-    title = "Zeitlicher Verlauf der Kommentar-Posts pro Partei"
-    ylabel = "Anzahl Kommentare"
-    filename = "zeitlicher_verlauf_kommentare_pro_partei.png"
-
-    # Zeitverarbeitung
-    df = df.copy()
-    df[date_col] = pd.to_datetime(df[date_col], errors="coerce")
-    df["woche"] = df[date_col].dt.to_period("W")
-    grouped = df.groupby(["woche", group_col]).size().unstack(fill_value=0)
+    """Plots the weekly development of comments per party."""
+    
+    # convert create_time and filter from 2025-01-01
+    df["create_time"] = pd.to_datetime(df["create_time"], errors="coerce")
+    df = df[df["create_time"] >= "2025-01-01"]
+    df["week"] = df["create_time"].dt.to_period("W")
+    grouped = df.groupby(["week", "party"]).size().unstack(fill_value=0)
     grouped.index = grouped.index.to_timestamp()
 
-    # Parteifarben & Labels
-    parteien = ["afd", "cdu_csu", "gruene", "linke", "spd"]
-    farben = {
+    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    colors = {
         "afd": "#56B4E9", "cdu_csu": "#000000", "gruene": "#00B140",
         "linke": "#E10098", "spd": "#D00000"
     }
-    legenden_labels = {
+    legend_labels = {
         "afd": "AfD", "cdu_csu": "CDU/CSU", "gruene": "Grüne",
         "linke": "Linke", "spd": "SPD"
     }
 
-    # X-Achse formatieren
-    xtick_labels = [d.strftime("%d.%m.%y") for d in grouped.index]
+    # create the labels for x-axis
+    xtick_labels = [d.strftime("%d.%m.%y") if d >= pd.Timestamp("2025-01-01") else "" for d in grouped.index]
 
-    # Plot erstellen
-    ax = grouped[parteien].plot(
-        figsize=(12, 6),
-        color=[farben[p] for p in parteien],
+    ax = grouped[parties].plot(
+        figsize=(10, 6),
+        color=[colors[p] for p in parties],
         linewidth=2
     )
-    plt.title(title, fontsize=18, pad=20)
+    plt.title("Zeitlicher Verlauf der Kommentar-Veröffentlichungen pro Partei", fontsize=18, pad=15, fontweight="bold")
     plt.xlabel("Woche", fontsize=18)
-    plt.ylabel(ylabel, fontsize=18)
+    plt.ylabel("Anzahl Kommentare", fontsize=18)
     ax.set_xticks(grouped.index)
-    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=16)
-    ax.legend([legenden_labels[p] for p in parteien], fontsize=16, title="Partei", title_fontsize=16)
-
-    # Speichern
+    ax.set_xticklabels(xtick_labels, rotation=45, ha="right", fontsize=18)
+    ax.legend([legend_labels[p] for p in parties], fontsize=16, title="Partei", title_fontsize=16)
+    ax.grid(axis="y", linestyle="--", alpha=0.7)
+    # Save
     plt.tight_layout()
-    plt.savefig(os.path.join(output_path, filename), bbox_inches="tight")
+    plt.savefig(os.path.join(output_path, "zeitlicher_verlauf_kommentare_pro_partei.png"), bbox_inches="tight", dpi=300)
     plt.close()
 
 def plot_videos_per_account(all_df, plot_dir):
-    # Plot: Verteilung der Videoanzahl pro Account (gesamt)
+    """Plots the distribution of videos per account."""
+    # get number of videos per account
     videos_per_account = all_df.groupby("username").size()
     plt.figure(figsize=(10,6))
     videos_per_account.value_counts().sort_index().plot(kind="bar")
-    plt.title("Verteilung: Anzahl Videos pro Account (gesamt)")
+    plt.title("Verteilung: Anzahl Videos pro Account (gesamt)", fontweight="bold", pad=15)
     plt.xlabel("Anzahl Videos")
     plt.ylabel("Anzahl Accounts")
     plt.tight_layout()
-    plt.savefig(os.path.join(plot_dir, "anzahl_videos_pro_account.png"))
+    plt.savefig(os.path.join(plot_dir, "anzahl_videos_pro_account.png"), dpi=300)
     plt.close()
 
 def save_account_stats(all_df, results_dir):
-    # Account-Listen aus config
-    partei_userlists = {
+    """Saves statistics about accounts per party."""
+    # get users
+    party_userlist = {
         "linke": set(config.linke_usernames),
         "gruene": set(config.gruene_usernames),
         "cdu_csu": set(config.cdu_csu_usernames),
@@ -277,15 +282,16 @@ def save_account_stats(all_df, results_dir):
         "spd": set(config.spd_usernames)
     }
 
-    # DataFrame für alle Parteien
-    parteien = list(partei_userlists.keys())
+    # df for all parties
+    parties = list(party_userlist.keys())
     rows = []
-    for partei in parteien:
-        userlist = partei_userlists[partei]
-        partei_df = all_df[(all_df["partei"] == partei) & (all_df["username"].isin(userlist))]
-        # Durchschnittliche Anzahl Videos pro Account (nur Accounts aus config, die auch Videos haben)
-        if not partei_df.empty:
-            videos_per_account = partei_df.groupby("username").size()
+
+    for party in parties:
+        userlist = party_userlist[party]
+        party_df = all_df[(all_df["party"] == party) & (all_df["username"].isin(userlist))]
+        # Average number of videos per account and active accounts
+        if not party_df.empty:
+            videos_per_account = party_df.groupby("username").size()
             avg_videos_per_account = videos_per_account.mean()
             active_accounts = videos_per_account.count()
         else:
@@ -293,18 +299,15 @@ def save_account_stats(all_df, results_dir):
             active_accounts = 0
         accounts_in_config = len(userlist)
         rows.append({
-            "partei": partei,
+            "party": party,
             "avg_videos_per_account": avg_videos_per_account,
             "active_accounts": active_accounts,
             "accounts_in_config": accounts_in_config
         })
-        total_videos = len(partei_df)
-        rechnerisch = avg_videos_per_account * active_accounts
-        print(f"{partei}: {active_accounts} active accounts")
-        print(f"{partei}: Gesamtzahl Videos={total_videos}, Durchschnitt*Aktive={rechnerisch}")
+        print(f"{party}: {active_accounts} active accounts")
 
-    # Gesamtwerte
-    all_usernames = set().union(*partei_userlists.values())
+    # Complete vals for all parties
+    all_usernames = set().union(*party_userlist.values())
     all_df_config = all_df[all_df["username"].isin(all_usernames)]
     videos_per_account_all = all_df_config.groupby("username").size()
     avg_videos_per_account_all = videos_per_account_all.mean()
@@ -312,7 +315,7 @@ def save_account_stats(all_df, results_dir):
     accounts_in_config_all = len(all_usernames)
 
     rows.append({
-        "partei": "gesamt",
+        "party": "complete",
         "avg_videos_per_account": avg_videos_per_account_all,
         "active_accounts": active_accounts_all,
         "accounts_in_config": accounts_in_config_all
@@ -322,16 +325,18 @@ def save_account_stats(all_df, results_dir):
     stats_df.to_csv(os.path.join(results_dir, "account_stats_alle_parteien.csv"), index=False)
 
 def main():
+    # configurations
     start_date = config.start_date
     end_date = config.end_date
     video_dir = os.path.join("data", "data_preprocessed", "videos")
     comment_dir = os.path.join("data", "data_preprocessed", "comments")
-    results_dir = os.path.join("results", "deskriptive_analyse", f"{start_date}_{end_date}")
-    plot_dir = os.path.join("plots", "deskriptive_analyse", f"{start_date}_{end_date}")
+    results_dir = os.path.join("results", "deskriptive_analyse")
+    plot_dir = os.path.join("plots", "deskriptive_analyse")
     os.makedirs(results_dir, exist_ok=True)
     os.makedirs(plot_dir, exist_ok=True)
 
-    parteien = {
+    # get usernames from config
+    parties = {
         "linke": config.linke_usernames,
         "gruene": config.gruene_usernames,
         "cdu_csu": config.cdu_csu_usernames,
@@ -342,18 +347,19 @@ def main():
     no_videos = []
     all_dfs = []
 
-    for partei, userlist in parteien.items():
-        partei_df, missing = load_party_data(userlist, video_dir, start_date, end_date)
+    # Load and process video data for each party
+    for party, userlist in parties.items():
+        party_df, missing = load_party_data(userlist, video_dir, start_date, end_date)
         no_videos.extend(missing)
-        if partei_df is not None:
-            partei_df["partei"] = partei
-            all_dfs.append(partei_df)
-            save_metrics(partei_df, partei, results_dir)
-            save_distribution(partei_df, partei, results_dir)
+        if party_df is not None:
+            party_df["party"] = party
+            all_dfs.append(party_df)
+            save_metrics(party_df, party, results_dir)
+            save_distribution(party_df, party, results_dir)
         else:
-            print(f"Keine Daten für {partei} gefunden.")
+            print(f"No data found for {party}")
 
-    # Gesamtauswertung
+    # Complete evaluation
     if all_dfs:
         all_df = pd.concat(all_dfs, ignore_index=True)
         save_overall_distribution(all_df, results_dir)
@@ -366,58 +372,50 @@ def main():
 
         save_account_stats(all_df, results_dir)
 
-    # Nach dem Erstellen von all_df (nach dem concat von all_dfs) einfügen:
-    all_usernames_in_config = set(sum(parteien.values(), []))
-    usernames_in_data = set(all_df["username"].unique())
-    usernames_not_in_config = usernames_in_data - all_usernames_in_config
-
-    print("Usernames mit Videos, aber nicht im config:")
-    for username in sorted(usernames_not_in_config):
-        print(username)
-
-    # --- Kommentar-Analyse ---
-    # Alle Kommentar-CSV-Dateien laden
+    # Comment analysis
+    # get all comments
     comment_files = [os.path.join(comment_dir, f) for f in os.listdir(comment_dir) if f.endswith(".csv")]
     comment_dfs = []
     for f in comment_files:
         try:
             comment_dfs.append(pd.read_csv(f))
         except Exception as e:
-            print(f"Fehler beim Laden von {f}: {e}")
+            print(f"Error at loading {f}: {e}")
     if not comment_dfs:
-        print("Keine Kommentar-Daten gefunden.")
+        print("No comment data found.")
         return
     comments_df = pd.concat(comment_dfs, ignore_index=True)
 
-    # Merge: Partei-Info zu jedem Kommentar holen (über video_id)
-    video_party_df = all_df[["id", "partei"]].drop_duplicates()
+    # Merge: get party info from video data
+    video_party_df = all_df[["id", "party"]].drop_duplicates()
     comments_merged = comments_df.merge(video_party_df, left_on="video_id", right_on="id", how="left")
 
-    # Rate Kommentare pro Video pro Partei
-    comments_per_video = comments_merged.groupby(["partei", "video_id"]).size().reset_index(name="comment_count")
-    comments_per_video_party = comments_per_video.groupby("partei")["comment_count"].mean()
-    print("\nDurchschnittliche Kommentar-Rate pro Video und Partei:")
+    # Comment rate per video and party
+    comments_per_video = comments_merged.groupby(["party", "video_id"]).size().reset_index(name="comment_count")
+    comments_per_video_party = comments_per_video.groupby("party")["comment_count"].mean()
+    print("\nAverage comments per video per party:")
     print(comments_per_video_party)
 
-    # Like- und Reply-Rate pro Kommentar für jede Partei
-    like_rate_per_party = comments_merged.groupby("partei")["like_count"].mean()
-    reply_rate_per_party = comments_merged.groupby("partei")["reply_count"].mean()
-    print("\nDurchschnittliche Like-Rate pro Kommentar und Partei:")
+    # Like and reply rates for each party
+    like_rate_per_party = comments_merged.groupby("party")["like_count"].mean()
+    reply_rate_per_party = comments_merged.groupby("party")["reply_count"].mean()
+    print("\nAverage like-rate per party and comment:")
     print(like_rate_per_party)
-    print("\nDurchschnittliche Reply-Rate pro Kommentar und Partei:")
+    print("\nAverage reply-rate by comment and party:")
     print(reply_rate_per_party)
 
+    # plot time development of comments
     plot_weekly_comments(comments_merged, plot_dir)
 
-    # Kommentar-Statistiken speichern
+    # Save comment statistics
     stats_df = pd.DataFrame({
-        "partei": comments_per_video_party.index,
+        "party": comments_per_video_party.index,
         "avg_comments_per_video": comments_per_video_party.values,
         "avg_likes_per_comment": like_rate_per_party.reindex(comments_per_video_party.index).values,
         "avg_replies_per_comment": reply_rate_per_party.reindex(comments_per_video_party.index).values
     })
 
-    # Kommentar-Statistiken für alle Parteien in eine Datei speichern
+    # Save combined comment stats for all parties
     stats_df.to_csv(os.path.join(results_dir, "kommentar_stats_alle_parteien.csv"), index=False)
 
 if __name__ == "__main__":

@@ -6,6 +6,7 @@ import emoji
 import config_analysis as config
 import numpy as np
 
+
 def count_emojis_in_file(filepath):
     df = pd.read_csv(filepath, usecols=["text"])
     counter = Counter()
@@ -37,14 +38,15 @@ def save_emoji_counts(counter, path):
     df.to_csv(path, index=False)
 
 def preprocess_emoji_data(input_path):
-    """Emoji Daten vorbereiten und Sentiment-Spalte hinzufügen."""
     emoji_data = pd.read_csv(input_path, sep=";")
+    # compute shares of positive, negative, neutral as score
     emoji_data['N'] = emoji_data['Negative'] + emoji_data['Neutral'] + emoji_data['Positive']
     emoji_data['score_pos'] = emoji_data['Positive'] / emoji_data['N']
     emoji_data['score_neg'] = emoji_data['Negative'] / emoji_data['N']
     emoji_data['score_neu'] = emoji_data['Neutral'] / emoji_data['N']
 
-    # sentiment_label: 1 = pos, 0 = neu, -1 = neg, maximaler Anteil an ned/neu/pos Beiträgen wird als sentiment gewählt
+    # sentiment label based on max score chosen
+    # sentiment_label: 1 = pos, 0 = neu, -1 = neg
     emoji_data['sentiment_label'] = emoji_data[['score_neg', 'score_neu', 'score_pos']].idxmax(axis=1)
     emoji_data['sentiment_label'] = emoji_data['sentiment_label'].map({
         'score_neg': -1,
@@ -57,17 +59,18 @@ def preprocess_emoji_data(input_path):
 def compute_emoji_sentiment(input_folder_sentiment, input_dir, emoji_df, folder_output):
     os.makedirs(folder_output, exist_ok=True)
     sentiment_files = glob.glob(input_folder_sentiment)
+    # load sentiment data
     for file in sentiment_files:
         base = os.path.basename(file)
         user = base.split("_comments")[0]
         orig_file = [f for f in os.listdir(input_dir) if f.startswith(user) and f.endswith(".csv")]
         if not orig_file:
-            print(f"Keine Original-Kommentar-Datei für {user} gefunden.")
+            print(f"No original comment data for {user} found.")
             continue
         orig_path = os.path.join(input_dir, orig_file[0])
         df_orig = pd.read_csv(orig_path)
         df_sent = pd.read_csv(file)
-        # Emojis extrahieren aus Originaltexten
+        # get emojis of original comments
         df_orig['emojis'] = df_orig['text'].apply(lambda x: [e['emoji'] for e in emoji.emoji_list(str(x))])
         emoji_sentiments = []
         extracted_emojis = []
@@ -90,14 +93,14 @@ def compute_emoji_sentiment(input_folder_sentiment, input_dir, emoji_df, folder_
                     sentiments.append(s.values[0])
                 else:
                     sentiments.append(np.nan)
-            # Mittelwert berechnen
+            # compute mean sentiment for emojis in comment
             if sentiments and not all(pd.isna(s) for s in sentiments):
                 emoji_sentiments.append(np.nanmean(sentiments))
             else:
                 emoji_sentiments.append(np.nan)
         df_sent['emoji_sentiment'] = emoji_sentiments
         df_sent['extracted_emojis'] = extracted_emojis
-        # Speichern
+        # Save
         outname = base.replace('_complete.csv', '_final.csv')
         output_path = os.path.join(folder_output, outname)
         df_sent.to_csv(output_path, index=False)
@@ -111,7 +114,7 @@ if __name__ == "__main__":
     input_path_emoji = "data/data_raw/emoji_sentiment_data.csv"
     input_folder_sentiment = f"results/sentiment_analysis/{start_date}_{end_date}/*.csv"
     output_folder_sentiment = f"results/sentiment_analysis/{start_date}_{end_date}_with_emoji_sentiment"
-    output_dir = f"results/emoji_analysis/{start_date}_{end_date}"
+    output_dir = f"results/emoji_analysis"
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, "emoji_counts.csv")
 
@@ -125,16 +128,16 @@ if __name__ == "__main__":
 
     emoji_counter, partei_counters = analyze_emojis(input_dir, parteien)
 
-    # Gesamtdaten speichern
+    # Save data complete
     save_emoji_counts(emoji_counter, output_path)
-    print(f"Emoji-Liste (gesamt) gespeichert unter: {output_path}")
+    print(f"Emoji-list (complete) saved at: {output_path}")
 
-    # Pro Partei speichern
+    # Save per party
     for partei, counter in partei_counters.items():
         partei_path = os.path.join(output_dir, f"emoji_counts_{partei}.csv")
         save_emoji_counts(counter, partei_path)
-        print(f"Emoji-Liste ({partei}) gespeichert unter: {partei_path}")
+        print(f"Emoji-list ({partei}) saved at: {partei_path}")
 
     emoji_df = preprocess_emoji_data(input_path_emoji)
-    print("Sentiment-Label unique values:", emoji_df['sentiment_label'].unique())
+    print("Unique vals of sentiment label", emoji_df['sentiment_label'].unique())
     compute_emoji_sentiment(input_folder_sentiment, input_dir, emoji_df, output_folder_sentiment)

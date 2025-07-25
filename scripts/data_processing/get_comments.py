@@ -145,5 +145,5 @@ for username in usernames:
                 print(f"{username} added to no_comments.txt (no comments in investigation period).")
 
     except Exception as e:
-        print(f"Fehler beim Laden der Kommentare von {username}: {e}")
+        print(f"Error at loading comments for {username}: {e}")
         continue
