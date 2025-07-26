@@ -16,20 +16,13 @@ plt.rcParams.update({
 })
 
 # configurations
-input_dir = "results/topic_analysis/output_openai"
-input_labeled_dir = "results/topic_analysis/cleaned/subset_labeled"
-clean_dir = os.path.join(input_dir, "cleaned")
-plot_dir = os.path.join("plots", "topic_analysis")
-preprocessed_dir = os.path.join("data", "data_preprocessed", "party")
-os.makedirs(clean_dir, exist_ok=True)
-
 files = [
     "AfD.csv",
     "CDU_CSU.csv",
     "Grüne.csv",
     "SPD.csv",
     "Linke.csv"
-]
+    ]
 
 # mapping for topic categories
 topic_keywords = {
@@ -46,7 +39,6 @@ topic_keywords = {
     "Internationale": "Internationale Politik",
     "Persönliches": "Persönliches",
     "Wahlkampf": "Wahlkampf"}
-
 # Regex for topic extraction
 keyword_pattern = "|".join(re.escape(k) for k in topic_keywords.keys())
 
@@ -602,11 +594,20 @@ def analyze_topic_combinations(dataframes):
             print(f"{combo}: {count}x")
 
 def main():
+
+    # configurations
+    input_dir = "results/topic_analysis"
+    input_topic_files = "results/topic_analysis/output_openai"
+    input_labeled_dir = "results/topic_analysis/cleaned/subset_labeled"
+    clean_dir = os.path.join(input_dir, "cleaned")
+    plot_dir = os.path.join("plots", "topic_analysis")
+    preprocessed_dir = os.path.join("data", "data_preprocessed", "party")
+    os.makedirs(clean_dir, exist_ok=True)
     
     dataframes = {}
     # get topic data from files
     for filename in files:
-        path = os.path.join(input_dir, filename)
+        path = os.path.join(input_topic_files, filename)
         if os.path.exists(path):
             df = pd.read_csv(path)
             df["topic_clean"] = df["gpt_topic"].apply(extract_topics)
