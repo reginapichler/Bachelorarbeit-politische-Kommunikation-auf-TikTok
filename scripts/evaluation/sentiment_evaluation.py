@@ -45,11 +45,23 @@ def compute_final_sentiment(row):
     return np.nan
 
 def has_heart(emojis, heart):
-    """Checks if the heart emoji is present in the emojis."""
+    """Checks if the heart emoji is present in emojis, accounting for Unicode-escaped forms."""
+    
     if isinstance(emojis, list):
         return heart in emojis
     if isinstance(emojis, str):
         return heart in emojis
+    return False
+
+def has_pink_heart(emojis):
+    """Returns True if the pink heart emoji (🩷) is present, including unicode-escaped form."""
+    if isinstance(emojis, list):
+        for e in emojis:
+            if e == "🩷" or e == "\\U0001fa77":
+                return True
+    elif isinstance(emojis, str):
+        if "🩷" in emojis or "\\U0001fa77" in emojis:
+            return True
     return False
 
 def final_sentiment_label(val):
@@ -436,7 +448,6 @@ def plot_final_sentiment_distribution(all_comments_df_valid):
 
     plt.grid(axis="y", linestyle="--", alpha=0.7)
     plt.tight_layout()
-    plt.show()
 
     output_dir = f"plots/sentiment_analysis"
     os.makedirs(output_dir, exist_ok=True)
@@ -574,10 +585,6 @@ def plot_engagement_vs_sentiment(all_comments_df_valid, output_dir="plots/sentim
 def show_emoji_usage(all_comments_df):
     """Shows the share of comments with specific heart emojis by party."""
     all_comments_df["has_emoji"] = ~all_comments_df["emoji_sentiment"].isna()
-    all_comments_df["has_blue_heart"] = all_comments_df["extracted_emojis"].apply(lambda x: has_heart(x, "💙"))
-    all_comments_df["has_green_heart"] = all_comments_df["extracted_emojis"].apply(lambda x: has_heart(x, "💚"))
-    all_comments_df["has_red_heart"] = all_comments_df["extracted_emojis"].apply(lambda x: has_heart(x, "❤️"))
-    all_comments_df["has_pink_heart"] = all_comments_df["extracted_emojis"].apply(lambda x: has_heart(x, "🩷"))
 
     # share by party
     heart_cols = ["has_blue_heart", "has_green_heart", "has_red_heart", "has_pink_heart"]
@@ -637,7 +644,7 @@ def main():
         df["has_blue_heart"] = df["extracted_emojis"].apply(lambda x: has_heart(x, "💙"))
         df["has_green_heart"] = df["extracted_emojis"].apply(lambda x: has_heart(x, "💚"))
         df["has_red_heart"] = df["extracted_emojis"].apply(lambda x: has_heart(x, "❤️"))
-        df["has_pink_heart"] = df["extracted_emojis"].apply(lambda x: has_heart(x, "🩷"))
+        df["has_pink_heart"] = df["extracted_emojis"].apply(lambda x: has_pink_heart(x))
         all_comments.append(df)
 
     if not all_comments:
@@ -646,7 +653,6 @@ def main():
 
     all_comments_df = pd.concat(all_comments, ignore_index=True)
     all_comments_df_valid = all_comments_df[~all_comments_df["final_sentiment"].isna()]
-
 
     # Create plots
     # plot sentiment distributions
@@ -671,11 +677,10 @@ def main():
     coherence_df["match"] = coherence_df["emoji_sentiment"] == coherence_df["sentiment_num"]
 
     coherence_rate = coherence_df.groupby("party")["match"].mean()
-    print("\nKohärenzrate emoji vs. text pro Partei:")
+    print("Coherence emoji vs text by party:")
     print(coherence_rate)
 
-
-    # comare engagement vs sentiment
+    # compare engagement vs sentiment
     plot_engagement_vs_sentiment(all_comments_df_valid)
 
    # show emoji usage
@@ -687,7 +692,6 @@ def main():
     df_sentiment_topic = merge_comments_with_topics(all_comments_df_valid, topic_dir)
     if df_sentiment_topic is not None:
         analyze_sentiment_by_topic(df_sentiment_topic, output_sentiment_topic_dir)
-
 
 if __name__ == "__main__":
     main()

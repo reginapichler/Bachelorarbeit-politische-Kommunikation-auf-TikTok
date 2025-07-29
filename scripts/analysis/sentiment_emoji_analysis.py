@@ -40,6 +40,20 @@ def save_emoji_counts(counter, path):
     df = pd.DataFrame(counter.items(), columns=["emoji", "count"]).sort_values("count", ascending=False)
     df.to_csv(path, index=False)
 
+def resolve_sentiment(row):
+    """Chooses sentiment from given scores, gives neutral sentiment is two scores are equal"""
+    scores = {
+        "negative": row["score_neg"],
+        "neutral": row["score_neu"],
+        "positive": row["score_pos"]
+    }
+    max_val = max(scores.values())
+    top_labels = [label for label, score in scores.items() if score == max_val]
+
+    if len(top_labels) > 1:
+        return "neutral"
+    return top_labels[0]
+
 def preprocess_emoji_data(input_path):
     """Preprocesses the emoji sentiment data."""
     emoji_data = pd.read_csv(input_path, sep=";")
@@ -51,11 +65,12 @@ def preprocess_emoji_data(input_path):
 
     # sentiment label based on maximum share of positive, negative, neutral
     # sentiment_label: 1 = positive, 0 = neutral, -1 = negative
-    emoji_data['sentiment_label'] = emoji_data[['score_neg', 'score_neu', 'score_pos']].idxmax(axis=1)
-    emoji_data['sentiment_label'] = emoji_data['sentiment_label'].map({
-        'score_neg': -1,
-        'score_neu': 0,
-        'score_pos': 1
+    emoji_data['sentiment_label_str'] = emoji_data.apply(resolve_sentiment, axis=1)
+
+    emoji_data['sentiment_label'] = emoji_data['sentiment_label_str'].map({
+        'negative': -1,
+        'neutral': 0,
+        'positive': 1
     })
 
     return emoji_data
@@ -78,6 +93,8 @@ def compute_emoji_sentiment(input_folder_sentiment, input_dir, emoji_df, folder_
         df_sent = pd.read_csv(file)
         # get emojis of original comments
         df_orig['emojis'] = df_orig['text'].apply(lambda x: [e['emoji'] for e in emoji.emoji_list(str(x))])
+
+        
         emoji_sentiments = []
         extracted_emojis = []
         for idx, row in df_sent.iterrows():
@@ -148,9 +165,9 @@ def main():
 
     # Process extracted emoji sentiment data
     emoji_df = preprocess_emoji_data(input_path_emoji)
+
     print("Unique vals of sentiment label", emoji_df['sentiment_label'].unique())
     compute_emoji_sentiment(input_folder_sentiment, input_dir, emoji_df, output_folder_sentiment)
-
 
 if __name__ == "__main__":
     main()
