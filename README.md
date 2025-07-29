@@ -38,6 +38,7 @@ Die Daten aus dem Ordner data und die Kennzahlen der Auswertungen im Ordner resu
 │  └── sentiment_analysis                         # Ordner für die Grafiken der Stimmungsanalyse
 │  └── topic_analysis                             # Ordner für die Grafiken der Themenanalyse
 │      └── no_wahlkampf                           # Ordner für die Plots der Analysen ohne den Themenbereich Wahlkampf
+│  └── ergebnis_btw.png                           # Darstellung der Ergebnisse der Bundestagswahl 2025
 ├──results                                    # Auf Sync+Share: Ordner für die Ergebnisse, ausgenommen Grafiken
 │  └── descriptive_analysis                       # Ordner für die Ergebnisse der deskriptiven Analyse in CSV-Dateien
 │  └── emoji_analysis                             # Ordner für die Ergebnisse der Emoji-Analyse in CSV-Dateien
@@ -69,6 +70,7 @@ Die Daten aus dem Ordner data und die Kennzahlen der Auswertungen im Ordner resu
 │  └── evaluation                                 # Skripte für die Datenauswertung
 │      └── config.py                              # Konfigurationsdatei für die Datenauswertung
 │      └── descriptive_analytics.py               # Code für die deskriptiven Analysen
+│      └── helper_plots.py                        # Code zum Erstellen von Plots außerhalb der Analyse
 │      └── sentiment_evaluation.py                # Code für die Auswertung der Stimmungsanalyse
 │      └── topic_evaluation.py                    # Code für die Auswertung der Themenklassifikation
 ├──requirements.txt                               # Verwendete Pakete und Versionen für die Auswertungen
