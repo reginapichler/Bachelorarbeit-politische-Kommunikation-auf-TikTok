@@ -107,7 +107,7 @@ def main():
                     print(f"Topic {topic} has less than 20 examples, add {n_rest} more random examples.")
                     if len(rest) > 0:
                         df_topic_sampled = pd.concat([df_topic_sampled, rest.sample(min(n_rest, len(rest)), random_state=42)])
-
+ 
                 print(f"Number of examples for topic {topic}: {len(df_topic_sampled)}")
                 
                 # create jsonl entries
