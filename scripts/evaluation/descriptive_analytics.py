@@ -99,7 +99,7 @@ def plot_videos_per_party(all_df, plot_dir):
 
 def plot_metrics_rate(all_df, plot_dir):
     """Plots the average like, comment, and share rates per view for each party."""
-    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    parties = ["cdu_csu", "afd", "spd", "gruene", "linke"]
     labels = ["AfD", "CDU/CSU", "Grüne", "Linke", "SPD"]
 
     # get metrics per party
@@ -179,13 +179,13 @@ def plot_time_development(all_df, plot_dir):
     videos_per_week_party = all_df.groupby(["week", "party"]).size().unstack(fill_value=0)
     videos_per_week_party.index = videos_per_week_party.index.to_timestamp()
 
-    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    parties = ["cdu_csu", "afd", "spd", "gruene", "linke"]
     colors = {
-        "afd": "#56B4E9",
         "cdu_csu": "#000000",
+        "afd": "#56B4E9",
+        "spd": "#D00000",
         "gruene": "#00B140",
         "linke": "#E10098",
-        "spd": "#D00000"
     }
     legend_labels = {
         "afd": "AfD",
@@ -228,10 +228,13 @@ def plot_weekly_comments(df, output_path):
     grouped = df.groupby(["week", "party"]).size().unstack(fill_value=0)
     grouped.index = grouped.index.to_timestamp()
 
-    parties = ["afd", "cdu_csu", "gruene", "linke", "spd"]
+    parties = ["cdu_csu", "afd", "spd", "gruene", "linke"]
     colors = {
-        "afd": "#56B4E9", "cdu_csu": "#000000", "gruene": "#00B140",
-        "linke": "#E10098", "spd": "#D00000"
+        "cdu_csu": "#000000",
+        "afd": "#56B4E9",
+        "spd": "#D00000",
+        "gruene": "#00B140",
+        "linke": "#E10098",
     }
     legend_labels = {
         "afd": "AfD", "cdu_csu": "CDU/CSU", "gruene": "Grüne",
@@ -294,6 +297,7 @@ def save_account_stats(all_df, results_dir):
             videos_per_account = party_df.groupby("username").size()
             avg_videos_per_account = videos_per_account.mean()
             active_accounts = videos_per_account.count()
+            print(f"Videos of {party}: {videos_per_account.sum()}")
         else:
             avg_videos_per_account = 0
             active_accounts = 0

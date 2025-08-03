@@ -496,7 +496,7 @@ def plot_engagement_by_party(by_party_df, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     # colors and labels as before
-    parteien = ["AfD", "CDU_CSU", "Grüne", "Linke", "SPD"]
+    parties = ["CDU_CSU", "AfD", "SPD", "Grüne", "Linke"]
     topic_colors = {
         "Soziales & Arbeit": "#E69F00",     
         "Wirtschaft & Finanzen": "#97D4F7",    
@@ -508,11 +508,11 @@ def plot_engagement_by_party(by_party_df, output_dir):
         "Wahlkampf": "#999999"     
     }
     legenden_labels = {
-        "AfD": "AfD",
         "CDU_CSU": "CDU/CSU",
+        "AfD": "AfD",
+        "SPD": "SPD",
         "Grüne": "Die Grünen",
-        "Linke": "Die Linke",
-        "SPD": "SPD"
+        "Linke": "Die Linke"
     }
 
     # Names for the metrics
@@ -528,7 +528,7 @@ def plot_engagement_by_party(by_party_df, output_dir):
         # create pivot table
         pivot = by_party_df.reset_index().pivot(index="partei", columns="topic_clean", values=metric)
         # get in right order
-        pivot = pivot.loc[parteien]
+        pivot = pivot.loc[parties]
         pivot.index = [legenden_labels.get(p, p) for p in pivot.index]
 
         ax = pivot.plot(

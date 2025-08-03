@@ -149,11 +149,11 @@ def plot_heatmap(data, title, output_dir, filename):
     
     # labels for parties
     party_labels = {
-        "afd": "AfD",
         "cdu_csu": "CDU/CSU",
+        "afd": "AfD",
+        "spd": "SPD",
         "grüne": "Die Grünen",
-        "linke": "Die Linke",
-        "spd": "SPD"
+        "linke": "Die Linke"
     }
     data = data.rename(index=party_labels)
 
@@ -202,6 +202,9 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
         .unstack(fill_value=np.nan)
         .round(3)
     )
+    desired_order = ["cdu_csu", "afd", "spd", "grüne", "linke"]
+    sentiment_final = sentiment_final.reindex(desired_order)
+
     print("Mean final sentiment by topic and party:")
     print(sentiment_final)
     # create heatmap for final sentiment
@@ -215,6 +218,7 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
         .unstack(fill_value=np.nan)
         .round(3)
     )
+    sentiment_text = sentiment_text.reindex(desired_order)
 
     print("Text sentiment by topic and party:")
     print(sentiment_text)
@@ -229,6 +233,7 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
         .unstack(fill_value=np.nan)
         .round(3)
     )
+    sentiment_emoji = sentiment_emoji.reindex(desired_order)
     print("Emoji sentiment by topic and party:")
     print(sentiment_emoji)
     # create heatmap for emoji sentiment
@@ -243,11 +248,11 @@ def plot_emoji_sentiment_distribution(all_comments_df):
     }
 
     party_labels = {
-        "afd": "AfD",
         "cdu_csu": "CDU/CSU",
+        "afd": "AfD",
+        "spd": "SPD",
         "grüne": "Die Grünen",
-        "linke": "Die Linke",
-        "spd": "SPD"
+        "linke": "Die Linke"
     }
 
     # get distribution of emoji sentiment by party
@@ -268,6 +273,11 @@ def plot_emoji_sentiment_distribution(all_comments_df):
     # order columns
     ordered_cols = ["negativ", "neutral", "positiv"]
     emoji_sentiment_dist = emoji_sentiment_dist[ordered_cols]
+    emoji_sentiment_dist = emoji_sentiment_dist.reindex(party_labels.keys())
+
+    print("Emoji sentiment distribution:")
+    print(emoji_sentiment_dist)
+    
 
     # create bar plot, stacked by sentiment
     ax = emoji_sentiment_dist.plot(
@@ -316,11 +326,11 @@ def plot_text_sentiment_distribution(all_comments_df):
     }
 
     party_labels = {
-        "afd": "AfD",
         "cdu_csu": "CDU/CSU",
+        "afd": "AfD",
+        "spd": "SPD",
         "grüne": "Die Grünen",
-        "linke": "Die Linke",
-        "spd": "SPD"
+        "linke": "Die Linke"
     }
 
     # get text sentiment distribution by party
@@ -338,9 +348,13 @@ def plot_text_sentiment_distribution(all_comments_df):
         "positive": "positiv"
     }, inplace=True)
 
+    print("Text sentiment distribution")
+    print(sentiment_dist)
+
     # order columns
     ordered_cols = ["negativ", "neutral", "positiv"]
     sentiment_dist = sentiment_dist.reindex(columns=ordered_cols)
+    sentiment_dist = sentiment_dist.reindex(party_labels.keys())
 
     # get party names for the ticks
     tick_positions = range(len(sentiment_dist.index))
@@ -390,11 +404,11 @@ def plot_final_sentiment_distribution(all_comments_df_valid):
     }
 
     party_labels = {
-        "afd": "AfD",
         "cdu_csu": "CDU/CSU",
+        "afd": "AfD",
+        "spd": "SPD",
         "grüne": "Die Grünen",
-        "linke": "Die Linke",
-        "spd": "SPD"
+        "linke": "Die Linke"
     }
 
     # get the final sentiment label with tolerance of 0.2
@@ -413,6 +427,7 @@ def plot_final_sentiment_distribution(all_comments_df_valid):
 
     ordered_cols = ["negativ", "neutral", "positiv"]
     final_sentiment_dist = final_sentiment_dist.reindex(columns=ordered_cols)
+    final_sentiment_dist = final_sentiment_dist.reindex(party_labels.keys())
 
     tick_positions = range(len(final_sentiment_dist.index))
     party_names = [party_labels.get(party, party) for party in final_sentiment_dist.index]
@@ -583,10 +598,25 @@ def plot_engagement_vs_sentiment(all_comments_df_valid, output_dir="plots/sentim
     plt.close()
 
 def show_emoji_usage(all_comments_df):
-    """Shows the share of comments with specific heart emojis by party."""
-    all_comments_df["has_emoji"] = ~all_comments_df["emoji_sentiment"].isna()
+    """Shows share of comments with emoji and the share of comments with specific heart emojis by party."""
+    # compute share of comments with at least one emoji
+    # convert extracted emojis column
+    all_comments_df["extracted_emojis"] = all_comments_df["extracted_emojis"].apply(
+        lambda x: ast.literal_eval(x) if isinstance(x, str) and x.startswith("[") else x
+    )
+    all_comments_df["has_emoji"] = all_comments_df["extracted_emojis"].apply(lambda x: isinstance(x, list) and len(x) > 0)
+    emoji_comment_share = (
+        all_comments_df
+        .groupby("party")["has_emoji"]
+        .mean()
+        .reset_index()
+        .sort_values("party")
+    )
+    emoji_comment_share["emoji_comment_percent"] = (emoji_comment_share["has_emoji"] * 100).round(2)
+    print("Share of comments with emoji")
+    print(emoji_comment_share)
 
-    # share by party
+    # compute share of hearts
     heart_cols = ["has_blue_heart", "has_green_heart", "has_red_heart", "has_pink_heart"]
     emoji_comment_share = (
         all_comments_df
