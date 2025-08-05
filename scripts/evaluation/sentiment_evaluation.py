@@ -141,7 +141,7 @@ def merge_comments_with_topics(all_comments_df_valid, topic_dir):
 
     return pd.concat(merged_comment_topic, ignore_index=True)
 
-def plot_heatmap(data, title, output_dir, filename):
+def plot_heatmap(data, title, output_dir, filename, cmap=None, center=0):
     """Plots a heatmap between sentiment and topics for each party."""
     if data.empty:
         print(f"No data for {title}, heatmap skipped.")
@@ -157,12 +157,16 @@ def plot_heatmap(data, title, output_dir, filename):
     }
     data = data.rename(index=party_labels)
 
-    # create own colormap
-    sentiment_cmap = LinearSegmentedColormap.from_list(
-        "custom_sentiment",
-        ["#E3711A", "#E0E0E0", "#007038"],
-        N=256
-    )
+    if cmap is None: 
+        # set standard colormap
+        sentiment_cmap = LinearSegmentedColormap.from_list(
+            "custom_sentiment",
+            ["#E3711A", "#E0E0E0", "#007038"],
+            N=256
+        )
+    else:
+        # use custom heatmap
+        sentiment_cmap = cmap
 
     # create heatmap
     plt.figure(figsize=(10, 5))
@@ -171,7 +175,7 @@ def plot_heatmap(data, title, output_dir, filename):
         annot=True,
         fmt=".2f",
         cmap=sentiment_cmap,
-        center=0,
+        center=center,
         linewidths=0.5,
         linecolor="gray",
         cbar_kws={"label": "Stimmung"}
@@ -239,6 +243,28 @@ def analyze_sentiment_by_topic(df_sentiment_topic, output_dir):
     # create heatmap for emoji sentiment
     plot_heatmap(sentiment_emoji, "Ø Emoji-Sentiment pro Topic & Partei", output_dir, "emoji_sentiment_by_topic_party.png")
 
+    # compute variance of combined sentiment
+    sentiment_var = (
+        df_sentiment_topic
+        .groupby(["partei", "topic_clean"])["final_sentiment"]
+        .var()
+        .unstack(fill_value=np.nan)
+        .round(3)
+    )
+    sentiment_var = sentiment_var.reindex(desired_order)
+
+    # create plot with own colormapping
+    print("Variance of final_sentiment by topic and party:")
+    print(sentiment_var)
+    plot_heatmap(
+        sentiment_var,
+        "Varianz der kombinierten Stimmung pro Themenbereich & Partei",
+        output_dir,
+        "variance_final_sentiment_by_topic_party.png",
+        cmap=sns.color_palette("YlOrRd", as_cmap=True),
+        center=None
+    )
+    
 def plot_emoji_sentiment_distribution(all_comments_df):
     """Plots emoji sentiment distribution in stacked bar plot."""
     sentiment_colors = {
