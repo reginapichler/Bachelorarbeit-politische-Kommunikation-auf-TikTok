@@ -100,7 +100,16 @@ def plot_videos_per_party(all_df, plot_dir):
 def plot_metrics_rate(all_df, plot_dir):
     """Plots the average like, comment, and share rates per view for each party."""
     parties = ["cdu_csu", "afd", "spd", "gruene", "linke"]
-    labels = ["AfD", "CDU/CSU", "Grüne", "Linke", "SPD"]
+    party_labels = ["CDU/CSU", "AfD", "SPD", "Grüne", "Linke"]
+    metric_labels = ['Likes', 'Kommentare', 'Weiterleitungen']
+
+    colors = {
+        "CDU/CSU": "#000000",
+        "AfD": "#56B4E9",
+        "SPD": "#D00000",
+        "Grüne": "#00B140",
+        "Linke": "#E10098",
+    }
 
     # get metrics per party
     metrics = all_df.groupby("party")[["view_count", "like_count", "comment_count", "share_count"]].mean()
@@ -114,24 +123,27 @@ def plot_metrics_rate(all_df, plot_dir):
     for party in parties:
         print(f"{party}: {metrics_rate.loc[party].to_dict()}")
 
-    colors = ["#D566A3", "#F0E442", "#00189E"]
+    # transpose data for plot
+    transposed = metrics_rate.T
+    transposed.columns = party_labels
 
-    # create bar plot
+    # Plot
     fig, ax = plt.subplots(figsize=(8, 5), constrained_layout=True)
-    metrics_rate.plot(kind="bar", ax=ax, color=colors, fontsize=16)
+    transposed.plot(kind="bar", ax=ax, fontsize=16, color=colors)
 
     ax.set_title(
-        "Durchschnittliche Like-, Kommentar- und Weiterleitungs-Rate pro Partei",
+        "Durchschnittliche Interaktionsraten nach Partei",
         fontsize=16, pad=15, fontweight="bold"
     )
-    ax.set_xlabel("Partei", fontsize=16)
+    ax.set_xlabel("Interaktionstyp", fontsize=16)
     ax.set_ylabel("Rate pro Ansicht (%)", fontsize=16)
-    ax.set_xticks(range(len(labels)))
-    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=16)
+    ax.set_xticklabels(metric_labels, rotation=0, fontsize=16)
 
-    ax.legend(["Likes", "Kommentare", "Weiterleitungen"], fontsize=16)
-
+    ax.legend(title="Partei", fontsize=16, title_fontsize=16)
     ax.grid(axis="y", linestyle="--", alpha=0.7)
+    ax.set_ylim(0, 14)
+    ax.set_yticks(range(0, 14, 1))
+
     plt.savefig(os.path.join(plot_dir, "rate_pro_partei.png"), dpi=300)
     plt.close()
 
@@ -334,8 +346,8 @@ def main():
     end_date = config.end_date
     video_dir = os.path.join("data", "data_preprocessed", "videos")
     comment_dir = os.path.join("data", "data_preprocessed", "comments")
-    results_dir = os.path.join("results", "deskriptive_analyse")
-    plot_dir = os.path.join("plots", "deskriptive_analyse")
+    results_dir = os.path.join("results", "descriptive_analysis")
+    plot_dir = os.path.join("plots", "descriptive_analysis")
     os.makedirs(results_dir, exist_ok=True)
     os.makedirs(plot_dir, exist_ok=True)
 

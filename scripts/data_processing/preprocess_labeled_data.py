@@ -72,7 +72,7 @@ def main():
         # define topic shortnames
         topics = ['S&A', 'W', 'W&F', 'S&O', 'M', 'U&E', 'I', 'P']
         system_prompt = (
-        "Du bist ein Politikwissenschaftler, der Inhalte von TikTok Videos deutscher Parteien in folgende Themenbereiche einordnet: Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf. Wenn mehrere Themen angesprochen werden, gebe die zwei dominantesten Bereiche aus. Deine Antwort besteht nur aus dem/den gewählten Themenbereich(en) für den vorliegenden Text. Dir sind die Videobeschreibung, das Transkript des gesprochenen Inhaltes und die Partei der Aussage gegeben."
+        "Du bist ein Politikwissenschaftler, der Inhalte von TikTok Videos deutscher Parteien in folgende Themenbereiche einordnet: Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf. Wenn mehrere Themen angesprochen werden, gib die zwei dominantesten Bereiche aus. Deine Antwort besteht nur aus dem/den gewählten Themenbereich(en) für den vorliegenden Text. Dir sind die Videobeschreibung, das Transkript des gesprochenen Inhaltes und die Partei der Aussage gegeben."
         )
 
         # mapping for the topics to human-readable labels
