@@ -1,6 +1,7 @@
 # Bachelorarbeit-politische-Kommunikation-auf-TikTok
 
 Dieses repository enthält den Code und die erzeugten Grafiken der Bachelorarbeit **Politische Kommunikation auf TikTok: eine vergleichende Analyse der Bundestagsparteien**.
+Dieses Projekt erfordert **Python 3.10**, da einige der Abhängigkeiten derzeit nicht mit neueren Versionen kompatibel sind.
 
 ## Inhalt
 Das Projekt umfasst:
