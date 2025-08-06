@@ -35,6 +35,7 @@ Die Daten aus dem Ordner data und die Kennzahlen der Auswertungen im Ordner resu
 │      └── topic_examples_original.jsonl          # Genutztes gelabeltes subset für das Fine-Tuning des LLM
 ├──plots                                      # Auf GitHub: Ordner für die im Code erzeugten Plots/Grafiken
 │  └── descriptive_analysis                       # Ordner für die Grafiken der deskriptiven Analyse
+│  └── selfmade_plots                             # Zusätzliche Plots, unabhängig von der Datenauswertung oder manuell erstellt
 │  └── sentiment_analysis                         # Ordner für die Grafiken der Stimmungsanalyse
 │  └── topic_analysis                             # Ordner für die Grafiken der Themenanalyse
 │      └── no_wahlkampf                           # Ordner für die Plots der Analysen ohne den Themenbereich Wahlkampf
@@ -50,9 +51,8 @@ Die Daten aus dem Ordner data und die Kennzahlen der Auswertungen im Ordner resu
 │          └── subset_labeled                     # Ordner für das manuell gelabelte subset der Videodaten ohne Thema als CSV-Dateien
 │              └── processed                      # Verarbeitete manuell mit Themen gelabelte Videodaten als CSV-Dateien
 │          └── subset_not_labeled                 # Videodaten ohne zugeordnetes Thema als CSV-Dateien, ohne labeling
-│      └── engagement_metrics                     # Extrahierte Engagementsmetriken pro Partei und Themenbereich
 │      └── merged                                 # Videodaten mit Themezuordnung, zusammengefügt mit allen Videoeigenschaften
-│      └── metrics                                # Analyse der Beliebtheitsmetriken pro Partei (unabhängig von Themenbereich)
+│      └── metrics                                # Analyse der Beliebtheitsmetriken pro Partei
 │      └── no_wahlkampf                           # Ordner für die Analyse ohne den Themenbereich Wahlkampf (nicht genutzt)
 │      └── output_openai                          # Videodaten mit den Antworten von GPT-4.1-nano zur Themenzuordnung
 ├──scripts                                    # Auf GitHub: Ordner für die zur Auswertung verwendeten Skripte
