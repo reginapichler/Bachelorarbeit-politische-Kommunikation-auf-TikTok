@@ -8,6 +8,7 @@ plt.rcParams.update({
 })
 
 def create_election_result_plot():
+    """Creates a plot with the results of the Bundestagswahl 2025"""
     # Data
     parties = ["CDU", "AfD", "SPD", "Grüne", "Linke", "CSU", "SSW", "Sonstige"]
     percentages = [22.6, 20.8, 16.4, 11.6, 8.8,6.0, 0.2, 13.7]           # Current election results
@@ -38,7 +39,7 @@ def create_election_result_plot():
     plt.title("Wahlergebnisse der Bundestagswahl 2025 (Zweitstimme)", fontsize=18, fontweight='bold')
     plt.ylim(0, max(percentages) + 5)
     plt.tight_layout()
-    plt.savefig("plots/wahlergebnis", bbox_inches="tight", dpi=300)
+    plt.savefig("plots/selfmade_plots/wahlergebnis", bbox_inches="tight", dpi=300)
 
 def main():
     create_election_result_plot()

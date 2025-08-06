@@ -697,7 +697,7 @@ def main():
     # process whole dataset (merged with all video information): timeline of topics, engagement metrics
     plot_topic_timeline(merged_dataframes, freq="W")
     plot_topic_timeline_stacked(merged_dataframes, freq="W")
-    overall, by_party = calculate_engagement_metrics(merged_dataframes, "plots/topic_analysis")
+    overall, by_party = calculate_engagement_metrics(merged_dataframes, "results/topic_analysis/metrics")
     plot_engagement_overall(overall, "plots/topic_analysis")
     plot_engagement_by_party(by_party, "plots/topic_analysis")
 

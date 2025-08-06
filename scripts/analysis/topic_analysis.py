@@ -23,7 +23,7 @@ def gpt_topic_classification(description, transcript, party):
     """Send request to fine-tuned GPT-4.1-nano model to classify the topic"""
     # define the prompt
     prompt = (
-        "Ordne das folgende TikTok Video in einen dieser Themenbereiche ein: Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf.\n"
+        "Ordne das folgende TikTok-Video in einen dieser Themenbereiche ein: Soziales & Arbeit, Wirtschaft & Finanzen, Sicherheit & Ordnung, Migration, Umwelt & Energie, Internationale Politik, Persönliches, Wahlkampf.\n"
         "Gib nur den ausgewählten Themenbereich zurück, ohne Erklärung.\n"
         f"Beschreibung: {description}\n"
         f"Transkript: {transcript}\n"
